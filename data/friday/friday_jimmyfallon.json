@@ -1,0 +1,23 @@
+var jimmyfallon = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@AlaalalaSalem well now I'm watching Jimmy Fallon ??", "user": "that1arab", "location": "Florissant, MO", "coord_x": -90.345490, "coord_y": 38.799782, "created_at": "2013\/03\/23", "h_m_s": "4:36:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:36:31" }, "geometry": { "type": "Point", "coordinates": [ -90.345490, 38.799782 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Late Night with Jimmy fallon", "user": "soccerslife9", "location": "", "coord_x": -71.080028, "coord_y": 42.425384, "created_at": "2013\/03\/23", "h_m_s": "4:37:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:37:25" }, "geometry": { "type": "Point", "coordinates": [ -71.080028, 42.425384 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@AlaalalaSalem but Jay Leno and Jimmy Fallon are so funny", "user": "that1arab", "location": "Florissant, MO", "coord_x": -90.345362, "coord_y": 38.799571, "created_at": "2013\/03\/23", "h_m_s": "4:39:47", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:39:47" }, "geometry": { "type": "Point", "coordinates": [ -90.345362, 38.799571 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Shut up jimmy fallon", "user": "Dan_Ehle", "location": "Maplewood, MN", "coord_x": -92.998538, "coord_y": 44.918924, "created_at": "2013\/03\/23", "h_m_s": "4:41:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:41:4" }, "geometry": { "type": "Point", "coordinates": [ -92.998538, 44.918924 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Bingo kid just made Jimmy Fallon!!!!!  Hope all involved end up on the show!!!  Just hiliarious!!!!!!!", "user": "phasegapcatman", "location": "catenary heaven", "coord_x": -84.470695, "coord_y": 39.116425, "created_at": "2013\/03\/23", "h_m_s": "4:43:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:43:36" }, "geometry": { "type": "Point", "coordinates": [ -84.470695, 39.116425 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jimmy Fallon on", "user": "jurcic", "location": "Charlotte,nc", "coord_x": -80.729078, "coord_y": 35.222651, "created_at": "2013\/03\/23", "h_m_s": "4:54:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:54:25" }, "geometry": { "type": "Point", "coordinates": [ -80.729078, 35.222651 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jimmy Fallon is my man . ?? ??", "user": "EmilyKrystal58", "location": "Ohio", "coord_x": -80.796908, "coord_y": 40.971267, "created_at": "2013\/03\/23", "h_m_s": "4:57:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:57:49" }, "geometry": { "type": "Point", "coordinates": [ -80.796908, 40.971267 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "They just did 6 Degrees of Kevin Bacon on Jimmy Fallon. #bestthingever", "user": "hopekriegel", "location": "Montezuma. IA", "coord_x": -92.526379, "coord_y": 41.584382, "created_at": "2013\/03\/23", "h_m_s": "5:0:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:0:28" }, "geometry": { "type": "Point", "coordinates": [ -92.526379, 41.584382 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "History of Rap 4 (Jimmy Fallon &amp; Justin Timberlake) http:\/\/t.co\/L4Iw1mt9Af", "user": "dubstepperDJ", "location": "London, United Kingdom", "coord_x": -0.110486, "coord_y": 51.488234, "created_at": "2013\/03\/23", "h_m_s": "5:35:41", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:35:41" }, "geometry": { "type": "Point", "coordinates": [ -0.110486, 51.488234 ] } }
+
+]
+}

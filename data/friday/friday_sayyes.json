@@ -1,0 +1,139 @@
+var sayyes = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@Tiff_marie92 these girls on say yes to the dress are cray cray one girl trying on wedding dress the other tried on like 500", "user": "aprilcox35", "location": "", "coord_x": -85.670094, "coord_y": 40.527991, "created_at": "2013\/03\/22", "h_m_s": "15:38:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:38:23" }, "geometry": { "type": "Point", "coordinates": [ -85.670094, 40.527991 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress #bridesmaids", "user": "brehill2012", "location": "", "coord_x": -85.373180, "coord_y": 38.706491, "created_at": "2013\/03\/22", "h_m_s": "15:49:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:49:25" }, "geometry": { "type": "Point", "coordinates": [ -85.373180, 38.706491 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes To The Dress marathon is on!! #yayyyyy", "user": "Maddiegascar12", "location": "Cedar Rapids, Iowa", "coord_x": -83.760316, "coord_y": 42.627148, "created_at": "2013\/03\/22", "h_m_s": "18:1:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:1:0" }, "geometry": { "type": "Point", "coordinates": [ -83.760316, 42.627148 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Chelsea_Lee2013 are you watching say yes to the dress too?! Lol", "user": "AllyNicholeA", "location": "Choudrant", "coord_x": -92.643249, "coord_y": 32.985725, "created_at": "2013\/03\/22", "h_m_s": "18:18:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:18:50" }, "geometry": { "type": "Point", "coordinates": [ -92.643249, 32.985725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@AirmanGF say yes to the dress makes me want to do our wedding again lol", "user": "Mrs_M_Gainer", "location": "Mountain Home AFB", "coord_x": -115.844745, "coord_y": 43.062215, "created_at": "2013\/03\/22", "h_m_s": "18:24:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:24:36" }, "geometry": { "type": "Point", "coordinates": [ -115.844745, 43.062215 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just want to watch say yes to the dress all day and not work on my paperrr", "user": "kharls22", "location": "the 918", "coord_x": -95.845116, "coord_y": 36.036444, "created_at": "2013\/03\/22", "h_m_s": "18:26:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:26:33" }, "geometry": { "type": "Point", "coordinates": [ -95.845116, 36.036444 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes to the Dress makes me emotional ????", "user": "taylor_sandlin", "location": "", "coord_x": -97.782932, "coord_y": 30.237794, "created_at": "2013\/03\/22", "h_m_s": "18:32:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:32:39" }, "geometry": { "type": "Point", "coordinates": [ -97.782932, 30.237794 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Mormons on Say Yes To The Dress ??????", "user": "skinner_jessica", "location": "Valley Center, CA", "coord_x": -117.035979, "coord_y": 33.248693, "created_at": "2013\/03\/22", "h_m_s": "18:36:52", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:36:52" }, "geometry": { "type": "Point", "coordinates": [ -117.035979, 33.248693 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Say Yes To The Dress makes me too excited to go wedding dress shopping one day", "user": "HollyBlanford", "location": "", "coord_x": -83.434317, "coord_y": 33.937732, "created_at": "2013\/03\/22", "h_m_s": "18:44:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:44:48" }, "geometry": { "type": "Point", "coordinates": [ -83.434317, 33.937732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I shouldn't watch the show Say Yes to the Dress...", "user": "MlayneH", "location": "Missouri", "coord_x": -94.751475, "coord_y": 39.662604, "created_at": "2013\/03\/22", "h_m_s": "18:48:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:48:49" }, "geometry": { "type": "Point", "coordinates": [ -94.751475, 39.662604 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm obsessed with weddings. An say yes to the dress. But I'm not crazy enough to get married.", "user": "deanuhhbby", "location": "in cinderellas castle", "coord_x": -85.716400, "coord_y": 38.300223, "created_at": "2013\/03\/22", "h_m_s": "18:53:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:53:23" }, "geometry": { "type": "Point", "coordinates": [ -85.716400, 38.300223 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ShellNicholexo lmao tell the girl that on say yes to the dress", "user": "briittaannnny_", "location": "Dublin Ireland", "coord_x": -71.328017, "coord_y": 42.722870, "created_at": "2013\/03\/22", "h_m_s": "18:55:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:55:45" }, "geometry": { "type": "Point", "coordinates": [ -71.328017, 42.722870 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching say yes to the dress and i saw MY dress! #omg #stillloveit", "user": "nycole_larson", "location": "Fergus Falls", "coord_x": -96.066548, "coord_y": 46.276902, "created_at": "2013\/03\/22", "h_m_s": "19:8:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:8:35" }, "geometry": { "type": "Point", "coordinates": [ -96.066548, 46.276902 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Say Yes to The Dress.", "user": "supersofastoner", "location": "Hogwarts", "coord_x": -93.450288, "coord_y": 44.845291, "created_at": "2013\/03\/22", "h_m_s": "19:14:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:14:49" }, "geometry": { "type": "Point", "coordinates": [ -93.450288, 44.845291 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This woman on say yes to the dress just said butterfly!!! Omg! I've never heard of anyone else call it that besides my family! ??????", "user": "courtneykarnes", "location": "", "coord_x": -81.128488, "coord_y": 37.369347, "created_at": "2013\/03\/22", "h_m_s": "19:29:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:29:22" }, "geometry": { "type": "Point", "coordinates": [ -81.128488, 37.369347 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "SAY YES TO THE DRESS @Maary_loan", "user": "_nicolefox", "location": "207", "coord_x": -70.560675, "coord_y": 43.937937, "created_at": "2013\/03\/22", "h_m_s": "19:35:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:35:20" }, "geometry": { "type": "Point", "coordinates": [ -70.560674, 43.937937 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching \"Say Yes To The Dress\" and like I find it annoying that the brides care what other people think about there dress", "user": "LizzyCortezzy41", "location": "", "coord_x": -96.983204, "coord_y": 32.751732, "created_at": "2013\/03\/22", "h_m_s": "19:39:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:39:1" }, "geometry": { "type": "Point", "coordinates": [ -96.983203, 32.751732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could watch Say Yes to the Dress all day! #loveit", "user": "jessica_grace93", "location": "", "coord_x": -84.514696, "coord_y": 35.796628, "created_at": "2013\/03\/22", "h_m_s": "19:42:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:42:48" }, "geometry": { "type": "Point", "coordinates": [ -84.514696, 35.796628 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Aweeeee. Harry Douglas fiancé is going to be on say yes to the dress.", "user": "JayeezyRo", "location": "Atlanta, Ga", "coord_x": -84.481399, "coord_y": 33.798192, "created_at": "2013\/03\/22", "h_m_s": "19:54:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:54:25" }, "geometry": { "type": "Point", "coordinates": [ -84.481399, 33.798192 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The guests of the people on Say Yes to the Dress are so selfish #itsnotyourwedding #getoverit ??", "user": "Utecht8", "location": "On a boat...in MinneSNOWta", "coord_x": -96.763508, "coord_y": 46.837582, "created_at": "2013\/03\/22", "h_m_s": "20:5:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:5:51" }, "geometry": { "type": "Point", "coordinates": [ -96.763508, 46.837582 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes To The Dress makes me even more excited to go prom shopping in Chicago tomorrow with @CRAPPingmypantz @hannahmahr @codie_heinemann", "user": "sysedanielle", "location": "", "coord_x": -89.202918, "coord_y": 43.190401, "created_at": "2013\/03\/22", "h_m_s": "20:8:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:9:5" }, "geometry": { "type": "Point", "coordinates": [ -89.202918, 43.190401 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've spent all day laying in bed watching say yes to the dress. So what if I have no life ...", "user": "HannahChaos", "location": "Oklahoma", "coord_x": -98.314748, "coord_y": 34.958063, "created_at": "2013\/03\/22", "h_m_s": "20:11:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:12:33" }, "geometry": { "type": "Point", "coordinates": [ -98.314748, 34.958063 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jessiewalker44 say yes to the dress is on!!!", "user": "bowlingprodigy", "location": "", "coord_x": -84.304262, "coord_y": 41.523866, "created_at": "2013\/03\/22", "h_m_s": "20:19:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:21:1" }, "geometry": { "type": "Point", "coordinates": [ -84.304262, 41.523866 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching say yes to the dress", "user": "Boho_Chicka", "location": "EastHartford, Connecticut", "coord_x": -72.617739, "coord_y": 41.778539, "created_at": "2013\/03\/22", "h_m_s": "20:48:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:48:2" }, "geometry": { "type": "Point", "coordinates": [ -72.617739, 41.778539 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "tearing up watching say yes to the dress is becoming common for me", "user": "sierrawalterrrs", "location": "", "coord_x": -71.482996, "coord_y": 42.875400, "created_at": "2013\/03\/22", "h_m_s": "21:0:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:0:51" }, "geometry": { "type": "Point", "coordinates": [ -71.482996, 42.875400 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes to the Dress is so fun to watch! All the dresses are gorgeous and everyone is so happy! ???", "user": "XOXO_loveErikaa", "location": "Columbus, OHIO", "coord_x": -83.025631, "coord_y": 40.018648, "created_at": "2013\/03\/22", "h_m_s": "21:16:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:16:39" }, "geometry": { "type": "Point", "coordinates": [ -83.025631, 40.018648 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Some of these dresses these females pick on say yes to the dress are wack as shit!!!", "user": "vansciverju", "location": "Lumberton, New Jersey", "coord_x": -74.792953, "coord_y": 39.976126, "created_at": "2013\/03\/22", "h_m_s": "21:28:52", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:28:53" }, "geometry": { "type": "Point", "coordinates": [ -74.792953, 39.976126 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Actually watching this soccer game, well flipping channels in between this and say yes to the dress. Lol", "user": "sus_mg", "location": "Dallas TX", "coord_x": -96.691347, "coord_y": 32.785812, "created_at": "2013\/03\/22", "h_m_s": "21:38:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:38:48" }, "geometry": { "type": "Point", "coordinates": [ -96.691347, 32.785812 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Bryant_Parker19 watching say yes to the dress. u?", "user": "bella_x_alexis", "location": "B.I.F.C.", "coord_x": -81.508023, "coord_y": 41.403794, "created_at": "2013\/03\/22", "h_m_s": "21:45:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:45:27" }, "geometry": { "type": "Point", "coordinates": [ -81.508023, 41.403794 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress &gt;&gt;&gt;&gt;&gt;", "user": "Lovesmoke81", "location": "Bahamas", "coord_x": -77.083555, "coord_y": 26.545459, "created_at": "2013\/03\/22", "h_m_s": "21:47:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:47:2" }, "geometry": { "type": "Point", "coordinates": [ -77.083555, 26.545459 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You know you watch too many episodes of Say Yes To The Dress when you remember other girls on different episodes tried on the same dress..", "user": "MacyElaine13", "location": "", "coord_x": -82.976541, "coord_y": 41.300119, "created_at": "2013\/03\/22", "h_m_s": "22:13:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:13:3" }, "geometry": { "type": "Point", "coordinates": [ -82.976541, 41.300119 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love watching say yes to the dress it's so cute", "user": "morgantreado", "location": "Seattle, WA", "coord_x": -121.897231, "coord_y": 47.564713, "created_at": "2013\/03\/22", "h_m_s": "22:32:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:32:29" }, "geometry": { "type": "Point", "coordinates": [ -121.897231, 47.564713 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;#addicted", "user": "meganmelton", "location": "Los Angeles ;-)!!!!", "coord_x": -86.861950, "coord_y": 33.911109, "created_at": "2013\/03\/22", "h_m_s": "22:37:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:37:6" }, "geometry": { "type": "Point", "coordinates": [ -86.861950, 33.911109 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Say Yes to the dress and its making me anxious to try on MY dress. 3 1\/2 more weeks. Ahh", "user": "J9513", "location": "", "coord_x": -73.845878, "coord_y": 40.671784, "created_at": "2013\/03\/22", "h_m_s": "22:44:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:44:15" }, "geometry": { "type": "Point", "coordinates": [ -73.845878, 40.671784 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress &gt;&gt;&gt;", "user": "_Chasity_Nicole", "location": "Genoa", "coord_x": -93.920979, "coord_y": 33.377680, "created_at": "2013\/03\/22", "h_m_s": "22:54:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:54:42" }, "geometry": { "type": "Point", "coordinates": [ -93.920979, 33.377680 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I feel like acting like the woman I am and watching Say Yes to the Dress. Lets see how this feels\/goes.", "user": "themellowsmooth", "location": "Clemson, SC", "coord_x": -82.834923, "coord_y": 34.681095, "created_at": "2013\/03\/22", "h_m_s": "23:0:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:0:49" }, "geometry": { "type": "Point", "coordinates": [ -82.834923, 34.681095 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress&gt;&gt;&gt; ????????", "user": "Princess_KatieB", "location": "Upper East Side.", "coord_x": -84.061598, "coord_y": 33.314530, "created_at": "2013\/03\/22", "h_m_s": "23:11:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:11:37" }, "geometry": { "type": "Point", "coordinates": [ -84.061598, 33.314530 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Monte on Say Yes to the Dress&gt;&gt;&gt; #flaming #lovingit", "user": "ShanamanBree", "location": "", "coord_x": -76.068504, "coord_y": 40.318556, "created_at": "2013\/03\/22", "h_m_s": "23:12:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:12:43" }, "geometry": { "type": "Point", "coordinates": [ -76.068504, 40.318556 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching say yes to the dress??", "user": "brooke_marie4", "location": "", "coord_x": -82.098989, "coord_y": 33.523554, "created_at": "2013\/03\/22", "h_m_s": "23:19:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:19:46" }, "geometry": { "type": "Point", "coordinates": [ -82.098989, 33.523554 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just saw Nat Jackson and his wife on Say Yes To The Dress! Ahaha", "user": "AlexiisQuancee", "location": "DMV", "coord_x": -77.429452, "coord_y": 37.540598, "created_at": "2013\/03\/22", "h_m_s": "23:23:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:23:6" }, "geometry": { "type": "Point", "coordinates": [ -77.429452, 37.540598 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching say yes to the dress makes me want to get married tomorrowwww. #prettyprettypretty", "user": "C_DaisyMeRollin", "location": "", "coord_x": -96.798815, "coord_y": 46.891419, "created_at": "2013\/03\/22", "h_m_s": "23:31:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:31:46" }, "geometry": { "type": "Point", "coordinates": [ -96.798815, 46.891419 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes to the Dress &gt;&gt;&gt;???? #TLC", "user": "KatelynE1996", "location": "Logan, WV", "coord_x": -81.997177, "coord_y": 37.694727, "created_at": "2013\/03\/22", "h_m_s": "23:46:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:46:35" }, "geometry": { "type": "Point", "coordinates": [ -81.997177, 37.694727 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Daisy_Vanessa say yes to the dress ?", "user": "Angel_Perdida", "location": "chicago, il", "coord_x": -87.757940, "coord_y": 41.793705, "created_at": "2013\/03\/22", "h_m_s": "23:57:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:57:41" }, "geometry": { "type": "Point", "coordinates": [ -87.757940, 41.793705 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "say yes to the dress fuck yes #UnintentionalRhyme", "user": "haileyduquette", "location": "Massachusetts", "coord_x": -71.091136, "coord_y": 41.926989, "created_at": "2013\/03\/23", "h_m_s": "1:4:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:4:51" }, "geometry": { "type": "Point", "coordinates": [ -71.091136, 41.926989 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ive been watching say yes to the dress for a while now .. can I get married lol", "user": "crystalleslie", "location": "Florida", "coord_x": -81.815269, "coord_y": 30.185809, "created_at": "2013\/03\/23", "h_m_s": "1:16:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:16:57" }, "geometry": { "type": "Point", "coordinates": [ -81.815269, 30.185809 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'Say yes to the dress' is the only thing keeping me sane right now??", "user": "BarrettChelsea", "location": "", "coord_x": -85.735999, "coord_y": 35.966814, "created_at": "2013\/03\/23", "h_m_s": "1:28:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:28:58" }, "geometry": { "type": "Point", "coordinates": [ -85.735999, 35.966814 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Say Yes To The Dress #WhyDoMothersExpectDaughtersToWearTheirDress,Don'tGetIt", "user": "JaimesJanet", "location": "", "coord_x": -84.444058, "coord_y": 39.170711, "created_at": "2013\/03\/23", "h_m_s": "1:29:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:29:44" }, "geometry": { "type": "Point", "coordinates": [ -84.444058, 39.170711 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hate the bitches on say yes to the dress like you're not a fucking designer \nTake a seat", "user": "mikaylakaleta", "location": "Canada", "coord_x": -78.680846, "coord_y": 43.919510, "created_at": "2013\/03\/23", "h_m_s": "1:36:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:36:26" }, "geometry": { "type": "Point", "coordinates": [ -78.680846, 43.919510 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't believe I'm about to watch @jkissg08 on Say Yes to the Dress! #Excited", "user": "MargAnnChappell", "location": "", "coord_x": -79.882044, "coord_y": 36.074142, "created_at": "2013\/03\/23", "h_m_s": "1:36:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:36:26" }, "geometry": { "type": "Point", "coordinates": [ -79.882044, 36.074142 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've been watching Say Yes To The Dress aalll day ??", "user": "taylernoel13", "location": "california", "coord_x": -124.146749, "coord_y": 40.769848, "created_at": "2013\/03\/23", "h_m_s": "1:38:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:38:49" }, "geometry": { "type": "Point", "coordinates": [ -124.146749, 40.769848 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Instead im in bed, watching Say Yes To The Dress and reading cosmo almost ready for bed. All cause i work tomorrow ??", "user": "samalam0101", "location": "Wisconsin", "coord_x": -88.387212, "coord_y": 43.310904, "created_at": "2013\/03\/23", "h_m_s": "1:45:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:45:45" }, "geometry": { "type": "Point", "coordinates": [ -88.387212, 43.310904 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Say Yes to the Dress: Atlanta", "user": "IM_LIKE_ROYALTY", "location": "Mosses, Al", "coord_x": -86.671059, "coord_y": 32.186447, "created_at": "2013\/03\/23", "h_m_s": "1:54:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:54:12" }, "geometry": { "type": "Point", "coordinates": [ -86.671059, 32.186447 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Say Yes to the Dress scares the crap out of me", "user": "mls669", "location": "Newmarket, NH", "coord_x": -70.942400, "coord_y": 43.087553, "created_at": "2013\/03\/23", "h_m_s": "1:54:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:54:26" }, "geometry": { "type": "Point", "coordinates": [ -70.942400, 43.087553 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sitting in the couch with @fashionYOURlife watching \"say yes to the dress\" #fridaynights", "user": "ShaErika45", "location": "Saint Louis, MO", "coord_x": -90.336575, "coord_y": 38.574434, "created_at": "2013\/03\/23", "h_m_s": "2:15:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:15:41" }, "geometry": { "type": "Point", "coordinates": [ -90.336575, 38.574434 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Me Tay and breanna have been watching say yes to the dress and now are looking at wedding dresses", "user": "emmiraescott", "location": "", "coord_x": -94.753282, "coord_y": 36.593100, "created_at": "2013\/03\/23", "h_m_s": "2:49:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:49:59" }, "geometry": { "type": "Point", "coordinates": [ -94.753282, 36.593100 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Put in a movie or watch Say Yes To The Dress? #easy #SYTTD ??", "user": "eschoe13", "location": "Nebraska, United States", "coord_x": -96.676292, "coord_y": 40.861543, "created_at": "2013\/03\/23", "h_m_s": "3:0:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:0:39" }, "geometry": { "type": "Point", "coordinates": [ -96.676292, 40.861543 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"We've already seen this episode! Plug in your computer and lets watch Say Yes to the Dress on Netflix.\" -- single girls Friday night.", "user": "AndreaLou91", "location": "West  Virginia", "coord_x": -80.605578, "coord_y": 28.353415, "created_at": "2013\/03\/23", "h_m_s": "3:7:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:7:20" }, "geometry": { "type": "Point", "coordinates": [ -80.605578, 28.353415 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm really mean to the girls on say yes to the dress", "user": "rachel_sowinski", "location": "", "coord_x": -75.929847, "coord_y": 41.148274, "created_at": "2013\/03\/23", "h_m_s": "3:13:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:13:56" }, "geometry": { "type": "Point", "coordinates": [ -75.929847, 41.148274 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mom and I have literally been watching Say Yes To The Dress and I want it to be 3 years from now so I can get a purdee dress.", "user": "heatherenee", "location": "Beavercreek Ohio", "coord_x": -84.110184, "coord_y": 39.836463, "created_at": "2013\/03\/23", "h_m_s": "3:19:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:19:4" }, "geometry": { "type": "Point", "coordinates": [ -84.110184, 39.836463 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just chillen watching Say Yes To The Dress with mama and the lil sis. #IWantAWeddingNOW", "user": "AubreeWaning", "location": "Arizona", "coord_x": -111.756134, "coord_y": 33.257666, "created_at": "2013\/03\/23", "h_m_s": "3:21:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:21:45" }, "geometry": { "type": "Point", "coordinates": [ -111.756134, 33.257666 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "While watching Say Yes To The Dress w\/ my mom I ask about her dress &amp; she informs me hers got stolen after she wore it. #sosad", "user": "gklindsey", "location": "New Berlin", "coord_x": -88.094440, "coord_y": 43.009610, "created_at": "2013\/03\/23", "h_m_s": "3:22:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:22:8" }, "geometry": { "type": "Point", "coordinates": [ -88.094440, 43.009610 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Girl on say yes to the dress is a falcons cheerleader engaged to a falcons player. K hate you bye.", "user": "alexisklein4", "location": "Starkville", "coord_x": -88.791157, "coord_y": 33.450252, "created_at": "2013\/03\/23", "h_m_s": "3:33:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:33:34" }, "geometry": { "type": "Point", "coordinates": [ -88.791157, 33.450252 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't know why I turn on Say Yes to the Dress before bed like I'm going to get any sleep. #syttd", "user": "chelsclynn", "location": "", "coord_x": -76.829871, "coord_y": 34.730782, "created_at": "2013\/03\/23", "h_m_s": "3:52:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:52:23" }, "geometry": { "type": "Point", "coordinates": [ -76.829871, 34.730782 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say yes to the dress???????", "user": "its_alexa_rose", "location": "Somewhere On A Beach?", "coord_x": -82.019042, "coord_y": 27.003019, "created_at": "2013\/03\/23", "h_m_s": "3:58:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:58:9" }, "geometry": { "type": "Point", "coordinates": [ -82.019042, 27.003019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Say Yes To The Dress &gt;&gt;&gt;&gt;", "user": "NikiDiAntonio", "location": "", "coord_x": -115.121108, "coord_y": 36.025212, "created_at": "2013\/03\/23", "h_m_s": "4:31:37", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:31:37" }, "geometry": { "type": "Point", "coordinates": [ -115.121108, 36.025212 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "say yes to the dress! ;) @MadeykEdlin @misssarahharris @elizabethknopp @ Downtown Portland http:\/\/t.co\/6WJnBV2kns", "user": "AutumnJohnson22", "location": "Portlandia", "coord_x": -122.679840, "coord_y": 45.518813, "created_at": "2013\/03\/23", "h_m_s": "5:5:47", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:5:47" }, "geometry": { "type": "Point", "coordinates": [ -122.679840, 45.518813 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just chilling with my puppy dog &amp; watching some Say Yes to the Dress. Getting some ideas for the… http:\/\/t.co\/IoVtTJATNE", "user": "slonegirl11", "location": "Phoenix, AZ", "coord_x": -110.970744, "coord_y": 32.255346, "created_at": "2013\/03\/23", "h_m_s": "5:22:24", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:22:24" }, "geometry": { "type": "Point", "coordinates": [ -110.970744, 32.255346 ] } }
+
+]
+}

@@ -1,0 +1,293 @@
+var spartacus = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Spartacus is weer los! #powerrr", "user": "NHooghiemster", "location": "oenkerk", "coord_x": 5.902874, "coord_y": 53.248789, "created_at": "2013\/03\/22", "h_m_s": "15:36:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:36:17" }, "geometry": { "type": "Point", "coordinates": [ 5.902874, 53.248789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gaan #Spartacus @f_cancellara, gaan! Held! #E3 #E3H", "user": "MaximePenen", "location": "Antwerpen, Stad der Steden", "coord_x": 4.405186, "coord_y": 51.201572, "created_at": "2013\/03\/22", "h_m_s": "15:38:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:38:32" }, "geometry": { "type": "Point", "coordinates": [ 4.405186, 51.201572 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#VeloRtbf Si #Cancellara gagne, alors il est toujours le #Spartacus du peloton #goFabian &gt; #E3", "user": "DDLBT", "location": "Florenville - Belgium", "coord_x": 5.168809, "coord_y": 49.718261, "created_at": "2013\/03\/22", "h_m_s": "15:39:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:39:0" }, "geometry": { "type": "Point", "coordinates": [ 5.168809, 49.718261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus gaat solo. Knokteberg en de Tiegem nog. Wordt weer n mooi nummertje http:\/\/t.co\/4QPRtoQe7U", "user": "JelmerFerwerda", "location": "Franeker, Nederland", "coord_x": 5.553557, "coord_y": 53.184812, "created_at": "2013\/03\/22", "h_m_s": "15:39:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:40:10" }, "geometry": { "type": "Point", "coordinates": [ 5.553557, 53.184812 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Awesome @f_cancllera smashing it in the #E3 - come on #spartacus", "user": "paullebretonjsy", "location": "Jersey", "coord_x": -2.103027, "coord_y": 49.183934, "created_at": "2013\/03\/22", "h_m_s": "15:40:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:40:35" }, "geometry": { "type": "Point", "coordinates": [ -2.103027, 49.183934 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus III in plaats van Tornado VI #e3h", "user": "ksteurbaut", "location": "Antwerp", "coord_x": 4.497030, "coord_y": 51.249533, "created_at": "2013\/03\/22", "h_m_s": "15:48:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:48:29" }, "geometry": { "type": "Point", "coordinates": [ 4.497030, 51.249533 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus op weg naar Harelbeke! @ Recrean http:\/\/t.co\/inlPF8N6cK", "user": "stefanievc1986", "location": "Zwalm", "coord_x": 3.616864, "coord_y": 50.851410, "created_at": "2013\/03\/22", "h_m_s": "15:50:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:50:33" }, "geometry": { "type": "Point", "coordinates": [ 3.616864, 50.851410 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@spartacus_starz: Anyone who follows Lugo is great warrior! #FollowFriday #FF @Screenguy69 (Barry Duffield)\" Lugo is awesome.", "user": "sharonhenders11", "location": "Maine", "coord_x": -68.772388, "coord_y": 44.811140, "created_at": "2013\/03\/22", "h_m_s": "16:3:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:3:16" }, "geometry": { "type": "Point", "coordinates": [ -68.772388, 44.811140 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#spartacus kills them all !!! @E3Harelbeke  @f_cancellara  #likeaboss", "user": "BartVanLissum", "location": "belgium", "coord_x": 3.753163, "coord_y": 51.103429, "created_at": "2013\/03\/22", "h_m_s": "16:8:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:8:23" }, "geometry": { "type": "Point", "coordinates": [ 3.753163, 51.103429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Du grand #Spartacus! #E3H", "user": "AuroreHope", "location": "There.", "coord_x": 1.523220, "coord_y": 47.906790, "created_at": "2013\/03\/22", "h_m_s": "16:22:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:22:9" }, "geometry": { "type": "Point", "coordinates": [ 1.523220, 47.906790 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "&lt;3 Cancellara! \"King? I just did my job...\" #e3h #spartacus @f_cancellara", "user": "EllaVerschueren", "location": "", "coord_x": 4.790250, "coord_y": 51.398092, "created_at": "2013\/03\/22", "h_m_s": "16:31:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:31:44" }, "geometry": { "type": "Point", "coordinates": [ 4.790250, 51.398092 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "E3 Harelbeke! Spartacus is back!?????????????????????? @f_cancellara #spartacus #gogogo", "user": "mauroz30", "location": "", "coord_x": 18.112402, "coord_y": 40.393844, "created_at": "2013\/03\/22", "h_m_s": "16:34:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:34:0" }, "geometry": { "type": "Point", "coordinates": [ 18.112402, 40.393844 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Our Spartacus is the best our heartfelt congratulation we feel Flandern.", "user": "ScheideggerMari", "location": "", "coord_x": 7.476870, "coord_y": 47.083802, "created_at": "2013\/03\/22", "h_m_s": "16:37:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:37:7" }, "geometry": { "type": "Point", "coordinates": [ 7.476870, 47.083802 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CFantelli ha isn't spartacus a bit http:\/\/t.co\/sTdg26tNrc ? :-)", "user": "Greg_J_Longley", "location": "London, England, UK", "coord_x": -1.442220, "coord_y": 52.949490, "created_at": "2013\/03\/22", "h_m_s": "16:42:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:42:58" }, "geometry": { "type": "Point", "coordinates": [ -1.442220, 52.949490 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Fif2Booskap dans Spartacus aussi", "user": "Tirailleurgosen", "location": "France", "coord_x": 2.398480, "coord_y": 48.925250, "created_at": "2013\/03\/22", "h_m_s": "16:53:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:53:12" }, "geometry": { "type": "Point", "coordinates": [ 2.398480, 48.925250 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Caught up on tv today. 1 HIMYM 2 Grimm 1 Arrow and 1 Spartacus episode.", "user": "rcoleman_92", "location": "Leicester", "coord_x": -1.200732, "coord_y": 52.645657, "created_at": "2013\/03\/22", "h_m_s": "16:57:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:57:44" }, "geometry": { "type": "Point", "coordinates": [ -1.200732, 52.645657 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "SWEEET!!! #spartacus comes on tonight !!!", "user": "Neilio531", "location": "West Coast", "coord_x": -122.316142, "coord_y": 37.548788, "created_at": "2013\/03\/22", "h_m_s": "17:24:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:24:40" }, "geometry": { "type": "Point", "coordinates": [ -122.316142, 37.548788 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@EstherMcVeyMP so well done for meeting CQC, but when are you and Mark Hoban going to meet with #Spartacus.", "user": "kingbill73", "location": "", "coord_x": -0.434452, "coord_y": 53.724460, "created_at": "2013\/03\/22", "h_m_s": "17:55:18", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:55:18" }, "geometry": { "type": "Point", "coordinates": [ -0.434452, 53.724460 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@sphenefan damn right. Did you see Mcvey justifying why they won't meet #Spartacus. She was murdered at the dispatch box by Michael meacher", "user": "kingbill73", "location": "", "coord_x": -0.434452, "coord_y": 53.724460, "created_at": "2013\/03\/22", "h_m_s": "18:8:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:8:28" }, "geometry": { "type": "Point", "coordinates": [ -0.434452, 53.724460 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#spartacus", "user": "Tynta21", "location": "Lusaka, Zambia", "coord_x": 28.342670, "coord_y": -15.375630, "created_at": "2013\/03\/22", "h_m_s": "18:13:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:13:30" }, "geometry": { "type": "Point", "coordinates": [ 28.342670, -15.375630 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre how many episodes of spartacus are there this season?", "user": "LenyoM15", "location": "Milwaukee Wisconsin", "coord_x": -87.907480, "coord_y": 43.052355, "created_at": "2013\/03\/22", "h_m_s": "18:32:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:32:16" }, "geometry": { "type": "Point", "coordinates": [ -87.907480, 43.052355 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I have a date with Spartacus tonight. Nh", "user": "AmardeepMcFly", "location": "Pacific Highway", "coord_x": -122.226838, "coord_y": 47.460390, "created_at": "2013\/03\/22", "h_m_s": "18:49:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:49:9" }, "geometry": { "type": "Point", "coordinates": [ -122.226838, 47.460390 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus is back! Sounded like an epic ride at #E3H !", "user": "WeeZako", "location": "Dromara", "coord_x": -6.021382, "coord_y": 54.342304, "created_at": "2013\/03\/22", "h_m_s": "18:59:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:59:30" }, "geometry": { "type": "Point", "coordinates": [ -6.021382, 54.342304 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Enjoying a glass of wine whilst catching up on this weeks #Spartacus", "user": "SamFoley88x", "location": "Wales", "coord_x": -3.626422, "coord_y": 51.742461, "created_at": "2013\/03\/22", "h_m_s": "19:6:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:6:24" }, "geometry": { "type": "Point", "coordinates": [ -3.626422, 51.742461 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@betpeck never answered my question when I asked her about when they will speak to #Spartacus. I was even polite... To fucking McVie. #tough", "user": "kingbill73", "location": "", "coord_x": -0.434420, "coord_y": 53.724495, "created_at": "2013\/03\/22", "h_m_s": "19:43:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:43:2" }, "geometry": { "type": "Point", "coordinates": [ -0.434420, 53.724495 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ben manitama bacima spartacus falan izlettirmem aga", "user": "EnesEge34", "location": "", "coord_x": 29.076132, "coord_y": 41.059650, "created_at": "2013\/03\/22", "h_m_s": "19:49:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:49:43" }, "geometry": { "type": "Point", "coordinates": [ 29.076132, 41.059650 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Chamitow @JocFdo14 ahí que ponernos de acuerdo, dicen que esta mejor el comic. Pero estaría mejor de spartacus hahaha", "user": "luisferhdzrguez", "location": "Teapa, Tabasco, México", "coord_x": -92.946746, "coord_y": 17.557825, "created_at": "2013\/03\/22", "h_m_s": "19:53:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:53:37" }, "geometry": { "type": "Point", "coordinates": [ -92.946746, 17.557825 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@f_cancellara @rslt congrats Spartacus! Great ride!", "user": "lcantin12", "location": "Dania Beach, Florida", "coord_x": -80.143879, "coord_y": 25.957952, "created_at": "2013\/03\/22", "h_m_s": "19:54:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:54:22" }, "geometry": { "type": "Point", "coordinates": [ -80.143879, 25.957952 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "L'hymne de la Georgie cest genr Spartacus je kif c'tro bo", "user": "cryzapion", "location": "Mode K-mer", "coord_x": 9.753170, "coord_y": 4.085360, "created_at": "2013\/03\/22", "h_m_s": "19:57:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:57:29" }, "geometry": { "type": "Point", "coordinates": [ 9.753170, 4.085360 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@KMsLoveSlave You honor me good sir, as I shall honor you with Roman blood upon fucking snow! #spartacus #glory #bloodbrothers", "user": "newthcmusic", "location": "Hollywood Florida", "coord_x": -80.198839, "coord_y": 26.006149, "created_at": "2013\/03\/22", "h_m_s": "20:14:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:15:26" }, "geometry": { "type": "Point", "coordinates": [ -80.198839, 26.006149 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DiegoTRSociety breaking bad, sons of anarchy, spartacus, weeds", "user": "MarxAbruna", "location": "787 aka Puñeta", "coord_x": -66.067273, "coord_y": 18.347064, "created_at": "2013\/03\/22", "h_m_s": "20:22:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:24:4" }, "geometry": { "type": "Point", "coordinates": [ -66.067273, 18.347064 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@archit_vaze yes absolutely.\nBtw m not sure if you watch Spartacus , if you don't fattafat chalu kar", "user": "omkarnik", "location": "New York, NY", "coord_x": -74.167719, "coord_y": 40.734678, "created_at": "2013\/03\/22", "h_m_s": "20:25:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:26:58" }, "geometry": { "type": "Point", "coordinates": [ -74.167719, 40.734678 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Who's spartacus?  #imspartacus", "user": "fabmol", "location": "Dublin", "coord_x": -6.250151, "coord_y": 53.372765, "created_at": "2013\/03\/22", "h_m_s": "20:37:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:39:3" }, "geometry": { "type": "Point", "coordinates": [ -6.250151, 53.372765 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Todos los de #Spartacus podrían ser actores porno, con esos nombres... Crixus, Gannicus, Agron  y digo, de los cuerpos ni hablamos ????", "user": "CEZnirp", "location": "MEYIIICO. D,F,", "coord_x": -99.205887, "coord_y": 19.427639, "created_at": "2013\/03\/22", "h_m_s": "20:51:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:51:51" }, "geometry": { "type": "Point", "coordinates": [ -99.205887, 19.427639 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ni los cuchillos de CV directo \"Ginsu\" tienen tanto filo como las espadas de #Spartacus  ????????", "user": "CEZnirp", "location": "MEYIIICO. D,F,", "coord_x": -99.205709, "coord_y": 19.427805, "created_at": "2013\/03\/22", "h_m_s": "20:57:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:57:33" }, "geometry": { "type": "Point", "coordinates": [ -99.205709, 19.427805 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw 2x01 - Spartacus Vengeance", "user": "fuckmyhooker", "location": "", "coord_x": 6.597674, "coord_y": 49.272703, "created_at": "2013\/03\/22", "h_m_s": "20:57:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:57:39" }, "geometry": { "type": "Point", "coordinates": [ 6.597674, 49.272703 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love Spartacus, all these big men fighting! #lads", "user": "RowwwVine", "location": "Liskeard", "coord_x": -4.481472, "coord_y": 50.496854, "created_at": "2013\/03\/22", "h_m_s": "21:4:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:4:39" }, "geometry": { "type": "Point", "coordinates": [ -4.481472, 50.496854 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus forever...", "user": "mchtguler94", "location": "", "coord_x": 29.206284, "coord_y": 40.926075, "created_at": "2013\/03\/22", "h_m_s": "21:10:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:10:49" }, "geometry": { "type": "Point", "coordinates": [ 29.206284, 40.926075 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@f_cancellara what a ride today! Spartacus smashes the peloton - you are a legend and a true inspiration Fabian!", "user": "paullebretonjsy", "location": "Jersey", "coord_x": -2.170656, "coord_y": 49.235443, "created_at": "2013\/03\/22", "h_m_s": "21:15:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:15:5" }, "geometry": { "type": "Point", "coordinates": [ -2.170656, 49.235443 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Who has seen all the episodes of spartacus war of the damned??", "user": "iam_onholy", "location": "Bermuda Triangle", "coord_x": 6.558900, "coord_y": 9.599750, "created_at": "2013\/03\/22", "h_m_s": "21:40:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:40:49" }, "geometry": { "type": "Point", "coordinates": [ 6.558900, 9.599750 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm at Academia Spartacus (Porto Feliz, São Paulo) http:\/\/t.co\/JYa2Sz4hjp", "user": "viniciusfugolin", "location": "Sorocaba SP", "coord_x": -47.524687, "coord_y": -23.198375, "created_at": "2013\/03\/22", "h_m_s": "21:51:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:51:34" }, "geometry": { "type": "Point", "coordinates": [ -47.524687, -23.198375 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chillin then #Spartacus @spartacus_starz @Liam_J_McIntyre @DgFeuerriegel @stevendeknight and wine of course", "user": "redhoneylips", "location": "Danville, VA", "coord_x": -79.401934, "coord_y": 36.611935, "created_at": "2013\/03\/22", "h_m_s": "21:52:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:52:46" }, "geometry": { "type": "Point", "coordinates": [ -79.401934, 36.611935 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus!!!! \"@Questionnerr: Spartacus or 24 ? #TheQ\"", "user": "Xander_TS", "location": "In HIS presence...", "coord_x": 3.282270, "coord_y": 6.714960, "created_at": "2013\/03\/22", "h_m_s": "21:55:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:55:1" }, "geometry": { "type": "Point", "coordinates": [ 3.282270, 6.714960 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Mums making me watch Spartacus, not sure what its all about but lots of blood so far and mum keeps giggling..", "user": "kategreeniemee", "location": "Andover", "coord_x": -1.508988, "coord_y": 51.205386, "created_at": "2013\/03\/22", "h_m_s": "22:1:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:1:17" }, "geometry": { "type": "Point", "coordinates": [ -1.508988, 51.205386 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "About to start watching Spartacus. Heard this show is pretty good.", "user": "elmike73", "location": "", "coord_x": -87.500903, "coord_y": 41.680742, "created_at": "2013\/03\/22", "h_m_s": "22:13:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:13:0" }, "geometry": { "type": "Point", "coordinates": [ -87.500903, 41.680742 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Spartacus Tonight :D", "user": "Kevodka1", "location": "Trinidad And Tobago", "coord_x": 0.000000, "coord_y": 0.000000, "created_at": "2013\/03\/22", "h_m_s": "22:26:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:26:0" }, "geometry": { "type": "Point", "coordinates": [ 0.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#spartacus", "user": "brkssu", "location": "samsun", "coord_x": 36.334359, "coord_y": 41.281801, "created_at": "2013\/03\/22", "h_m_s": "22:30:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:30:1" }, "geometry": { "type": "Point", "coordinates": [ 36.334359, 41.281801 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@benhallett_xo we can drink wine and engage in conversation about spartacus!x", "user": "scott4269", "location": "weymouth", "coord_x": -2.463382, "coord_y": 50.612451, "created_at": "2013\/03\/22", "h_m_s": "22:47:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:47:22" }, "geometry": { "type": "Point", "coordinates": [ -2.463382, 50.612451 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Project Spartacus extra. (@ Spartan Health Club - @spartanhealthja) http:\/\/t.co\/8fHvuCt76h", "user": "chrisgordon81", "location": "ÜT: 18.047841,-76.830646", "coord_x": -76.780612, "coord_y": 18.003958, "created_at": "2013\/03\/22", "h_m_s": "22:55:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:55:0" }, "geometry": { "type": "Point", "coordinates": [ -76.780612, 18.003958 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus your a bad ass, Crixus your such a whipped pussy bitch ass Gaul", "user": "jason_a_milner", "location": "York", "coord_x": -1.085250, "coord_y": 53.968670, "created_at": "2013\/03\/22", "h_m_s": "22:58:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:58:38" }, "geometry": { "type": "Point", "coordinates": [ -1.085250, 53.968670 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahora a ver argentina de la mano de lio y después Spartacus, escena folhadora entre la esposa del edil y spartaco hoy", "user": "eduar_morales", "location": "honduras, fco morazan", "coord_x": -87.192450, "coord_y": 14.075330, "created_at": "2013\/03\/22", "h_m_s": "23:15:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:15:35" }, "geometry": { "type": "Point", "coordinates": [ -87.192450, 14.075330 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@FilmHoarder Spartacus with Kirk Douglas x", "user": "DonellaMcNulty", "location": "", "coord_x": -0.361236, "coord_y": 51.741095, "created_at": "2013\/03\/22", "h_m_s": "23:30:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:30:51" }, "geometry": { "type": "Point", "coordinates": [ -0.361236, 51.741095 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "AAAAAHHHHHHHHHHHHH#spartacus #omg #elhorarioestamaloesosi @ Le House http:\/\/t.co\/GkbOMkGaLg", "user": "Camii23", "location": "Viña del Mar, Chile", "coord_x": -71.412125, "coord_y": -32.725377, "created_at": "2013\/03\/22", "h_m_s": "23:46:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:46:39" }, "geometry": { "type": "Point", "coordinates": [ -71.412125, -32.725377 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre King Spartacus", "user": "umutturedii", "location": "Kusadasi", "coord_x": 27.261022, "coord_y": 37.862490, "created_at": "2013\/03\/22", "h_m_s": "23:51:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:51:43" }, "geometry": { "type": "Point", "coordinates": [ 27.261022, 37.862490 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus S3E5...i just went from 6 to midnight", "user": "jason_a_milner", "location": "York", "coord_x": -1.075070, "coord_y": 53.968630, "created_at": "2013\/03\/22", "h_m_s": "23:54:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:54:4" }, "geometry": { "type": "Point", "coordinates": [ -1.075070, 53.968630 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@KillnEmSince86 homework then Spartacus. Nuff said! #jupiterscock", "user": "Gj824", "location": "", "coord_x": -104.683839, "coord_y": 38.896970, "created_at": "2013\/03\/23", "h_m_s": "0:49:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:49:13" }, "geometry": { "type": "Point", "coordinates": [ -104.683839, 38.896970 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre @stevendeknight @DgFeuerriegel I really hope no one I love or love to hate dies tonight. #spartacus", "user": "crystalanne80", "location": "clarksville, tn", "coord_x": -87.402594, "coord_y": 36.574399, "created_at": "2013\/03\/23", "h_m_s": "0:55:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:55:23" }, "geometry": { "type": "Point", "coordinates": [ -87.402594, 36.574399 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Spartacus is about to be #offthehook", "user": "LenyoM15", "location": "Milwaukee Wisconsin", "coord_x": -87.907480, "coord_y": 43.052355, "created_at": "2013\/03\/23", "h_m_s": "0:56:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:56:43" }, "geometry": { "type": "Point", "coordinates": [ -87.907480, 43.052355 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Spartacus!!!!!!", "user": "imsullyman", "location": "Billerica, MA", "coord_x": -71.289301, "coord_y": 42.570533, "created_at": "2013\/03\/23", "h_m_s": "0:59:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:59:50" }, "geometry": { "type": "Point", "coordinates": [ -71.289301, 42.570533 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Time for #spartacus!!!! Woo", "user": "nIcK_hAsTe", "location": "VA Beach, VA", "coord_x": -76.161334, "coord_y": 36.854435, "created_at": "2013\/03\/23", "h_m_s": "1:1:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:1:46" }, "geometry": { "type": "Point", "coordinates": [ -76.161334, 36.854435 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#spartacus: war of the damned", "user": "tubbytee", "location": "inverted gravity land", "coord_x": -74.142025, "coord_y": 40.552488, "created_at": "2013\/03\/23", "h_m_s": "1:3:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:3:54" }, "geometry": { "type": "Point", "coordinates": [ -74.142025, 40.552488 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn, Spartacus is fine ??", "user": "emilie_noell", "location": "Indiana", "coord_x": -85.371384, "coord_y": 41.555892, "created_at": "2013\/03\/23", "h_m_s": "1:22:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:22:22" }, "geometry": { "type": "Point", "coordinates": [ -85.371384, 41.555892 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Comenzó la cuarta temporada de spartacus????", "user": "trinimaturana", "location": "", "coord_x": -70.584491, "coord_y": -33.712877, "created_at": "2013\/03\/23", "h_m_s": "1:25:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:25:16" }, "geometry": { "type": "Point", "coordinates": [ -70.584491, -33.712877 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Followfriday @KMsLoveSlave Spartacus, @sith138 Gannicus,  @TheDarthcow Crixis, @Delachaire Oenomaus, @Wav3l3ngthS Naevia #warrior #champion", "user": "newthcmusic", "location": "Hollywood Florida", "coord_x": -80.209178, "coord_y": 26.009457, "created_at": "2013\/03\/23", "h_m_s": "1:27:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:27:56" }, "geometry": { "type": "Point", "coordinates": [ -80.209178, 26.009457 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus, l'enfant batard de 300, Kill Bill, et le Stade Français. #romanorgyfuckyeah", "user": "gryzzli86", "location": "Metz, France", "coord_x": 6.231881, "coord_y": 49.102868, "created_at": "2013\/03\/23", "h_m_s": "1:28:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:28:59" }, "geometry": { "type": "Point", "coordinates": [ 6.231881, 49.102868 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pucha que es fea Spartacus ??", "user": "constonta", "location": "", "coord_x": -70.617931, "coord_y": -33.458817, "created_at": "2013\/03\/23", "h_m_s": "1:34:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:34:14" }, "geometry": { "type": "Point", "coordinates": [ -70.617931, -33.458817 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus War of the Damned. The end has come for mighty Crixus", "user": "Tdod_V3", "location": "ÜT: 10.6515627,-61.4806319", "coord_x": -61.476763, "coord_y": 10.652548, "created_at": "2013\/03\/23", "h_m_s": "1:55:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:55:56" }, "geometry": { "type": "Point", "coordinates": [ -61.476763, 10.652548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tonight episode of Spartacus made me ??", "user": "Lovely_Dani23", "location": "Chicago", "coord_x": -87.619510, "coord_y": 41.727529, "created_at": "2013\/03\/23", "h_m_s": "1:56:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:56:1" }, "geometry": { "type": "Point", "coordinates": [ -87.619510, 41.727529 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dam next week is going to be amazing #Spartacus", "user": "CiHolla", "location": "Woodside, NY", "coord_x": -73.891739, "coord_y": 40.738536, "created_at": "2013\/03\/23", "h_m_s": "1:56:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:56:30" }, "geometry": { "type": "Point", "coordinates": [ -73.891738, 40.738536 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Spartacus omgosh. Goodbye Cruixus and Argon.  Tiberius is such an ass! #starz", "user": "sexygkim", "location": "Worldwide", "coord_x": -76.985031, "coord_y": 38.827481, "created_at": "2013\/03\/23", "h_m_s": "1:56:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:56:45" }, "geometry": { "type": "Point", "coordinates": [ -76.985031, 38.827481 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@spartacus_starz so long #Agron and #Crixus", "user": "imsullyman", "location": "Billerica, MA", "coord_x": -71.289360, "coord_y": 42.570485, "created_at": "2013\/03\/23", "h_m_s": "1:57:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:57:47" }, "geometry": { "type": "Point", "coordinates": [ -71.289360, 42.570485 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "más de alguno va sentir tristeza hoy en spartacus :(", "user": "eduar_morales", "location": "honduras, fco morazan", "coord_x": -87.192450, "coord_y": 14.075330, "created_at": "2013\/03\/23", "h_m_s": "1:58:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:58:38" }, "geometry": { "type": "Point", "coordinates": [ -87.192450, 14.075330 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#spartacus!!!!", "user": "VaaleGuzman", "location": "", "coord_x": -73.799250, "coord_y": 40.679697, "created_at": "2013\/03\/23", "h_m_s": "1:58:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:58:39" }, "geometry": { "type": "Point", "coordinates": [ -73.799250, 40.679697 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That was a hell of an episode. To the undefeated Gual, Crixus! #Spartacus", "user": "Starkiller86", "location": "Chicago", "coord_x": -87.816676, "coord_y": 41.738269, "created_at": "2013\/03\/23", "h_m_s": "1:59:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:59:54" }, "geometry": { "type": "Point", "coordinates": [ -87.816676, 41.738269 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Kkat26 me too! Shame.  #Spartacus", "user": "sexygkim", "location": "Worldwide", "coord_x": -76.985028, "coord_y": 38.827478, "created_at": "2013\/03\/23", "h_m_s": "2:1:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:1:31" }, "geometry": { "type": "Point", "coordinates": [ -76.985028, 38.827478 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@spartacus_starz ......How could you kill off Crikis. I'm Devastated!!!!", "user": "clane0812", "location": "Buffalo,New York", "coord_x": -78.749666, "coord_y": 42.882956, "created_at": "2013\/03\/23", "h_m_s": "2:3:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:3:2" }, "geometry": { "type": "Point", "coordinates": [ -78.749665, 42.882956 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@spartacus_starz  that was hard to watch. I knew it was coming but holy fuck", "user": "LenyoM15", "location": "Milwaukee Wisconsin", "coord_x": -87.907480, "coord_y": 43.052355, "created_at": "2013\/03\/23", "h_m_s": "2:7:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:7:32" }, "geometry": { "type": "Point", "coordinates": [ -87.907480, 43.052355 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@stevendeknight @donderper you might be monster but bravo best show ever#Spartacus", "user": "sharonhenders11", "location": "Maine", "coord_x": -68.772311, "coord_y": 44.811059, "created_at": "2013\/03\/23", "h_m_s": "2:8:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:8:23" }, "geometry": { "type": "Point", "coordinates": [ -68.772311, 44.811059 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Kkat26 yes! Tiberius needs his a$$ kicked! We underestimated Tiberius! #Spartacus.  I'll die when Gannicus falls :-(", "user": "sexygkim", "location": "Worldwide", "coord_x": -76.985094, "coord_y": 38.827556, "created_at": "2013\/03\/23", "h_m_s": "2:8:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:8:33" }, "geometry": { "type": "Point", "coordinates": [ -76.985094, 38.827556 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Come on thats not even right. #spartacus", "user": "IMakeIt_Rane", "location": "The Brothel", "coord_x": -86.047047, "coord_y": 39.676275, "created_at": "2013\/03\/23", "h_m_s": "2:10:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:10:31" }, "geometry": { "type": "Point", "coordinates": [ -86.047047, 39.676275 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sorry I doubted you season 2. #Spartacus", "user": "KevinLeeFreeman", "location": "Pass the napkin holder please.", "coord_x": -91.174009, "coord_y": 30.397538, "created_at": "2013\/03\/23", "h_m_s": "2:15:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:15:44" }, "geometry": { "type": "Point", "coordinates": [ -91.174009, 30.397538 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre @stevendeknight @DgFeuerriegel I cried more watching #Spartacus tonight than I would if I had poked myself in the eye.", "user": "crystalanne80", "location": "clarksville, tn", "coord_x": -87.426500, "coord_y": 36.567931, "created_at": "2013\/03\/23", "h_m_s": "2:16:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:16:27" }, "geometry": { "type": "Point", "coordinates": [ -87.426500, 36.567931 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@stevendeknight i want more spartacus!", "user": "Neurin", "location": "San Cristóbal, R.D.", "coord_x": -70.032032, "coord_y": 18.423040, "created_at": "2013\/03\/23", "h_m_s": "2:21:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:21:13" }, "geometry": { "type": "Point", "coordinates": [ -70.032032, 18.423040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@stevendeknight a fucking masterpiece! #spartacus", "user": "LenyoM15", "location": "Milwaukee Wisconsin", "coord_x": -87.907480, "coord_y": 43.052355, "created_at": "2013\/03\/23", "h_m_s": "2:21:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:21:28" }, "geometry": { "type": "Point", "coordinates": [ -87.907480, 43.052355 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Crixis! Why goddammit?!Your were my favorite.Spartacus shall avenge the death of Crixis or Jupiter himself will answer to whores with cock!", "user": "JM4V", "location": "CT", "coord_x": -72.515056, "coord_y": 41.471181, "created_at": "2013\/03\/23", "h_m_s": "2:29:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:29:10" }, "geometry": { "type": "Point", "coordinates": [ -72.515056, 41.471181 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@JohnKBrown: Tiberius. Die. You evil little fuck. #Spartacus\" would be nice if he died", "user": "sharonhenders11", "location": "Maine", "coord_x": -68.772265, "coord_y": 44.811134, "created_at": "2013\/03\/23", "h_m_s": "2:32:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:32:19" }, "geometry": { "type": "Point", "coordinates": [ -68.772264, 44.811134 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Not Crixis?! You were my favorite @manubennett...Spartacus will avenge you brother..", "user": "JM4V", "location": "CT", "coord_x": -72.515060, "coord_y": 41.471190, "created_at": "2013\/03\/23", "h_m_s": "2:33:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:33:25" }, "geometry": { "type": "Point", "coordinates": [ -72.515060, 41.471190 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus serisi baslar :)", "user": "_Ommmiii", "location": "", "coord_x": 27.256680, "coord_y": 39.931040, "created_at": "2013\/03\/23", "h_m_s": "2:33:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:33:40" }, "geometry": { "type": "Point", "coordinates": [ 27.256680, 39.931040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@EL_THOMACHO ósea es la segunda del nuevo spartacus!", "user": "trinimaturana", "location": "", "coord_x": -70.583515, "coord_y": -33.714512, "created_at": "2013\/03\/23", "h_m_s": "2:35:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:35:15" }, "geometry": { "type": "Point", "coordinates": [ -70.583515, -33.714512 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Goruntu oldugu gibi spartacus kadrosu hazir :) http:\/\/t.co\/wiir9ZoCzw", "user": "_Ommmiii", "location": "", "coord_x": 27.256680, "coord_y": 39.931040, "created_at": "2013\/03\/23", "h_m_s": "2:37:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:37:14" }, "geometry": { "type": "Point", "coordinates": [ 27.256680, 39.931040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Holy shit What's going with Spartacus it's getting better n crazy", "user": "ShaneTayao", "location": "", "coord_x": -75.450018, "coord_y": 39.876907, "created_at": "2013\/03\/23", "h_m_s": "2:45:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:45:47" }, "geometry": { "type": "Point", "coordinates": [ -75.450018, 39.876907 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "One of best episode of Spartacus War of the Damned", "user": "bigE1209", "location": "Bronx,NY", "coord_x": -73.902422, "coord_y": 40.871592, "created_at": "2013\/03\/23", "h_m_s": "2:47:18", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:47:19" }, "geometry": { "type": "Point", "coordinates": [ -73.902422, 40.871592 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus is popping 2nite!!!??????????????", "user": "gardynyc", "location": "BK, all day!!!", "coord_x": -73.961733, "coord_y": 40.650543, "created_at": "2013\/03\/23", "h_m_s": "2:47:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:47:24" }, "geometry": { "type": "Point", "coordinates": [ -73.961733, 40.650543 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus got me heated!", "user": "BlackScholarONL", "location": "Milwaukee?Nashville?Memphis", "coord_x": -89.833163, "coord_y": 35.184819, "created_at": "2013\/03\/23", "h_m_s": "2:48:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:48:54" }, "geometry": { "type": "Point", "coordinates": [ -89.833163, 35.184819 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Teekay86- you ready to get your mind blown??? #spartacus", "user": "MandySchuerman", "location": "", "coord_x": -80.400693, "coord_y": 25.675076, "created_at": "2013\/03\/23", "h_m_s": "2:55:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:55:11" }, "geometry": { "type": "Point", "coordinates": [ -80.400693, 25.675076 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "RIP Crixus. RIP Agron. @spartacus_starz  #RIPbrothers", "user": "HorvathZach", "location": "dearborn", "coord_x": -83.279586, "coord_y": 42.310556, "created_at": "2013\/03\/23", "h_m_s": "2:55:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:55:37" }, "geometry": { "type": "Point", "coordinates": [ -83.279586, 42.310556 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@_Jodee lmao....don't pay me no mind...I'm watching Spartacus.....lol. they killing the main people off.....lol", "user": "84Dream", "location": "Spaceship, FL", "coord_x": -87.316295, "coord_y": 30.403996, "created_at": "2013\/03\/23", "h_m_s": "2:57:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:57:55" }, "geometry": { "type": "Point", "coordinates": [ -87.316295, 30.403996 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus War of the Damned!!! Oh yeah! I love Fridays!", "user": "j_espinoza2013", "location": "", "coord_x": -95.317426, "coord_y": 30.021982, "created_at": "2013\/03\/23", "h_m_s": "2:59:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:59:26" }, "geometry": { "type": "Point", "coordinates": [ -95.317426, 30.021982 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wahhhh!!! No more Spartacus after next week.", "user": "kitaboo32", "location": "charlotte", "coord_x": -80.751331, "coord_y": 35.181860, "created_at": "2013\/03\/23", "h_m_s": "3:1:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:1:8" }, "geometry": { "type": "Point", "coordinates": [ -80.751331, 35.181860 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I jus gt dun watching spartacus.... That shit jus blew Me.... The brave mfa always gta die", "user": "Bich_MyNam_Kwon", "location": "", "coord_x": -87.747597, "coord_y": 41.897658, "created_at": "2013\/03\/23", "h_m_s": "3:1:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:1:16" }, "geometry": { "type": "Point", "coordinates": [ -87.747597, 41.897658 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@D1_D2_D3 Spartacus getting crazy", "user": "midnightgreen87", "location": "", "coord_x": -74.129820, "coord_y": 40.844983, "created_at": "2013\/03\/23", "h_m_s": "3:3:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:3:51" }, "geometry": { "type": "Point", "coordinates": [ -74.129820, 40.844983 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@spartacus_starz i am SO pissed off!!!!!!!!!!!!!!!!!!!!!", "user": "cdhabolt", "location": "Des Moines, Iowa", "coord_x": -93.564314, "coord_y": 41.633626, "created_at": "2013\/03\/23", "h_m_s": "3:4:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:4:43" }, "geometry": { "type": "Point", "coordinates": [ -93.564314, 41.633626 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So crixus just dies like that... Spartacus and ganicus will get revenge.", "user": "TwillsMcFly", "location": "", "coord_x": -97.157558, "coord_y": 32.814147, "created_at": "2013\/03\/23", "h_m_s": "3:6:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:6:19" }, "geometry": { "type": "Point", "coordinates": [ -97.157558, 32.814147 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I have not yet had my fill of blood.\" - classic Spartacus.", "user": "juanmccartney", "location": "", "coord_x": -77.328603, "coord_y": 25.070354, "created_at": "2013\/03\/23", "h_m_s": "3:7:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:7:22" }, "geometry": { "type": "Point", "coordinates": [ -77.328603, 25.070354 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Spartacus mode", "user": "juank_2591", "location": "MONTERIA", "coord_x": -75.276862, "coord_y": 9.365525, "created_at": "2013\/03\/23", "h_m_s": "3:7:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:7:33" }, "geometry": { "type": "Point", "coordinates": [ -75.276862, 9.365525 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vodka piña + cachimba + nuevo capitulo de spartacus. Buena forma de acabar el dia", "user": "Juaanncaa", "location": "Barcelona", "coord_x": -73.888294, "coord_y": 40.762908, "created_at": "2013\/03\/23", "h_m_s": "3:9:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:9:21" }, "geometry": { "type": "Point", "coordinates": [ -73.888294, 40.762908 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No sé si ver Spartacus o no.\nMe intriga la trama pero todo el tiempo espero que el porno \"despegue\" y n'amás no.\nBien raro...", "user": "MrTriana", "location": "Monterrey, México", "coord_x": -100.190662, "coord_y": 25.741796, "created_at": "2013\/03\/23", "h_m_s": "3:19:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:19:0" }, "geometry": { "type": "Point", "coordinates": [ -100.190662, 25.741796 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Crassus. Is. Not. Playing. #Spartacus", "user": "meanteddybear", "location": "Everywhere I don't wanna be!", "coord_x": -92.015840, "coord_y": 30.214116, "created_at": "2013\/03\/23", "h_m_s": "3:24:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:24:57" }, "geometry": { "type": "Point", "coordinates": [ -92.015840, 30.214116 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Who wanna talk on the phone an watch Spartacus with me :\/ lol", "user": "CrookNextDoor", "location": "Antigua ( The Caribbean)", "coord_x": -59.537095, "coord_y": 13.073292, "created_at": "2013\/03\/23", "h_m_s": "3:32:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:32:21" }, "geometry": { "type": "Point", "coordinates": [ -59.537095, 13.073292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus ??", "user": "CrookNextDoor", "location": "Antigua ( The Caribbean)", "coord_x": -59.537095, "coord_y": 13.073292, "created_at": "2013\/03\/23", "h_m_s": "3:32:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:32:28" }, "geometry": { "type": "Point", "coordinates": [ -59.537095, 13.073292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Another #Spartacus sex scene yes lawd ?????lol", "user": "CrookNextDoor", "location": "Antigua ( The Caribbean)", "coord_x": -61.819961, "coord_y": 17.130879, "created_at": "2013\/03\/23", "h_m_s": "3:37:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:37:25" }, "geometry": { "type": "Point", "coordinates": [ -61.819961, 17.130879 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watched it twice... Best episode this season!! #spartacus Can't wait for Tiberious to die. #completetool", "user": "MandySchuerman", "location": "", "coord_x": -80.437194, "coord_y": 25.674952, "created_at": "2013\/03\/23", "h_m_s": "3:51:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:51:24" }, "geometry": { "type": "Point", "coordinates": [ -80.437194, 25.674952 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Missed spartacus tonight :\/", "user": "ItzMeLessy", "location": "Jamaica", "coord_x": -76.871210, "coord_y": 17.985910, "created_at": "2013\/03\/23", "h_m_s": "3:54:5", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:54:6" }, "geometry": { "type": "Point", "coordinates": [ -76.871210, 17.985910 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "WHY DID HE HAVE TO DIE!? #spartacus", "user": "sabina_handan", "location": "Chicago", "coord_x": -87.736549, "coord_y": 42.022399, "created_at": "2013\/03\/23", "h_m_s": "3:55:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:55:32" }, "geometry": { "type": "Point", "coordinates": [ -87.736549, 42.022399 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "R.I.P. Crixus #spartacus", "user": "Jeremy_Monegro", "location": "pompano beach,Florida", "coord_x": -80.102565, "coord_y": 26.272749, "created_at": "2013\/03\/23", "h_m_s": "3:58:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:58:26" }, "geometry": { "type": "Point", "coordinates": [ -80.102565, 26.272749 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus'de herkes oldu amkkk !!!!!", "user": "GreenMortice", "location": "Bursa", "coord_x": 27.027353, "coord_y": 39.589141, "created_at": "2013\/03\/23", "h_m_s": "3:59:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:59:54" }, "geometry": { "type": "Point", "coordinates": [ 27.027353, 39.589141 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nevermind is rather watch the new Spartacus (x", "user": "a_unicorn_bitch", "location": "", "coord_x": -118.221442, "coord_y": 34.051995, "created_at": "2013\/03\/23", "h_m_s": "4:5:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:5:18" }, "geometry": { "type": "Point", "coordinates": [ -118.221442, 34.051995 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This has been the longest day ever and I still haven't watched spartacus sigh", "user": "gannicass", "location": "gannicus bedchamber", "coord_x": -79.917054, "coord_y": 43.224076, "created_at": "2013\/03\/23", "h_m_s": "4:7:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:7:8" }, "geometry": { "type": "Point", "coordinates": [ -79.917054, 43.224076 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@tommymcnair crying bc my headphones are downstairs and im too lazy to to get them so I can watch spartacus in bed (im a lazy ass)", "user": "gannicass", "location": "gannicus bedchamber", "coord_x": -79.916881, "coord_y": 43.224291, "created_at": "2013\/03\/23", "h_m_s": "4:8:58", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:8:58" }, "geometry": { "type": "Point", "coordinates": [ -79.916881, 43.224291 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If anyone here watches spartacus.... It was crazy tonight.", "user": "greg_the_big", "location": "", "coord_x": -112.335985, "coord_y": 33.427882, "created_at": "2013\/03\/23", "h_m_s": "4:11:21", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:11:21" }, "geometry": { "type": "Point", "coordinates": [ -112.335985, 33.427882 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Be quiet I'm watching SPARTACUS ! :(", "user": "a_unicorn_bitch", "location": "", "coord_x": -118.221388, "coord_y": 34.052156, "created_at": "2013\/03\/23", "h_m_s": "4:17:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:17:46" }, "geometry": { "type": "Point", "coordinates": [ -118.221388, 34.052156 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@cigtosluyomuyuz spartacus mü ? :)", "user": "DAGO_thedrummer", "location": "", "coord_x": 36.332903, "coord_y": 41.269466, "created_at": "2013\/03\/23", "h_m_s": "4:24:9", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:24:9" }, "geometry": { "type": "Point", "coordinates": [ 36.332903, 41.269466 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Spidey_2014 good. Ty. You? I came home and watched Spartacus and tonights episode pissed me off so I got offline lol still pouting", "user": "cdhabolt", "location": "Des Moines, Iowa", "coord_x": -93.564839, "coord_y": 41.633738, "created_at": "2013\/03\/23", "h_m_s": "4:25:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:25:2" }, "geometry": { "type": "Point", "coordinates": [ -93.564839, 41.633738 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ok, nobody bug me for the next hour, time to watch Spartacus", "user": "sharepointbits", "location": "Seattle, WA", "coord_x": -122.249922, "coord_y": 47.802631, "created_at": "2013\/03\/23", "h_m_s": "4:30:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:30:6" }, "geometry": { "type": "Point", "coordinates": [ -122.249922, 47.802631 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre @spartacus_starz NOT HOLDING UP.", "user": "sharonhenders11", "location": "Maine", "coord_x": -68.772245, "coord_y": 44.811116, "created_at": "2013\/03\/23", "h_m_s": "4:37:41", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:37:42" }, "geometry": { "type": "Point", "coordinates": [ -68.772245, 44.811116 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Liam_J_McIntyre @spartacus_starz We are so sad, Sir.. so very sad... and it's only just begun, there will be more tears again very soon.", "user": "xCateVincent", "location": "Ames, Iowa", "coord_x": -93.667958, "coord_y": 42.020548, "created_at": "2013\/03\/23", "h_m_s": "4:38:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:38:18" }, "geometry": { "type": "Point", "coordinates": [ -93.667958, 42.020548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus=Porno.", "user": "FreakingMinds", "location": "Soy Angeles Chicos.", "coord_x": -62.713868, "coord_y": 8.287235, "created_at": "2013\/03\/23", "h_m_s": "4:38:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:38:49" }, "geometry": { "type": "Point", "coordinates": [ -62.713868, 8.287235 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Once Spartacus ends I'ma knockng out ! IM TIRED AF !", "user": "a_unicorn_bitch", "location": "", "coord_x": -118.221420, "coord_y": 34.052103, "created_at": "2013\/03\/23", "h_m_s": "4:40:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:40:59" }, "geometry": { "type": "Point", "coordinates": [ -118.221420, 34.052103 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't like the direction spartacus is going", "user": "wesperkins1", "location": "modesto ca", "coord_x": -121.006621, "coord_y": 37.699880, "created_at": "2013\/03\/23", "h_m_s": "4:57:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:57:36" }, "geometry": { "type": "Point", "coordinates": [ -121.006621, 37.699880 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tough episode of Spartacus to watch tonight. #RIP #Crixus", "user": "Gj824", "location": "", "coord_x": -104.683956, "coord_y": 38.897209, "created_at": "2013\/03\/23", "h_m_s": "4:57:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:57:52" }, "geometry": { "type": "Point", "coordinates": [ -104.683956, 38.897209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "SPARTACUS JUST DOESN'T GET ENOUGH RECOGNITION.", "user": "TheJetLiao", "location": "", "coord_x": -122.326180, "coord_y": 37.527320, "created_at": "2013\/03\/23", "h_m_s": "4:59:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:59:3" }, "geometry": { "type": "Point", "coordinates": [ -122.326180, 37.527320 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DonJGR mis favoritas...\n\nBuffy\nAngel\nLost\nSmallville\nTrue Blood\nSpartacus\nTWD\nGrimm\nOnce upon a time\nAmerican Horror\nBigBangTheory", "user": "61lb3rt0", "location": "Tlalnepantla", "coord_x": -99.213670, "coord_y": 19.537596, "created_at": "2013\/03\/23", "h_m_s": "4:59:42", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:59:52" }, "geometry": { "type": "Point", "coordinates": [ -99.213670, 19.537596 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus en canal 5...?\n\njajajajajajajajaja si claro....!\n\nquiero ver la censura con tanto desnudo y escenas de sexo...\n\nsi weeeee...!", "user": "61lb3rt0", "location": "Tlalnepantla", "coord_x": -99.213612, "coord_y": 19.537620, "created_at": "2013\/03\/23", "h_m_s": "5:6:24", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:6:24" }, "geometry": { "type": "Point", "coordinates": [ -99.213612, 19.537620 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"It is not you heart I'm after this night ....\" #Spartacus she want the d", "user": "RSmithCreations", "location": "ÜT: 10.644864,-61.393545", "coord_x": -61.393545, "coord_y": 10.644864, "created_at": "2013\/03\/23", "h_m_s": "5:6:57", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:6:57" }, "geometry": { "type": "Point", "coordinates": [ -61.393545, 10.644864 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ML61904 just finished watching that new spartacus son. What you about to do?", "user": "aidansdaddy619", "location": "San Diego\/ Madison Wisconsin", "coord_x": -117.116913, "coord_y": 32.759225, "created_at": "2013\/03\/23", "h_m_s": "5:8:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:8:27" }, "geometry": { "type": "Point", "coordinates": [ -117.116913, 32.759225 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Se vienen QUO VADIS, BEN HUR, SPARTACUS y KING OF KINGS, la próxima semana en TCM", "user": "GuenelSthioul", "location": "Santiago, Chile.", "coord_x": -70.663963, "coord_y": -33.453993, "created_at": "2013\/03\/23", "h_m_s": "5:12:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:12:27" }, "geometry": { "type": "Point", "coordinates": [ -70.663963, -33.453993 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Caesar vs. Gannacus, the fight we all want to see!! \n#Spartacus", "user": "ocean_johnson", "location": "", "coord_x": -96.926235, "coord_y": 30.187891, "created_at": "2013\/03\/23", "h_m_s": "5:20:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:20:4" }, "geometry": { "type": "Point", "coordinates": [ -96.926235, 30.187891 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Nikyzee what a visionary,but a 12 year old watching spartacus,hmmm", "user": "valentinedube", "location": "", "coord_x": 28.150781, "coord_y": -26.279466, "created_at": "2013\/03\/23", "h_m_s": "5:21:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:22:0" }, "geometry": { "type": "Point", "coordinates": [ 28.150781, -26.279466 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spartacus time ! #alpuropedoraunch", "user": "Chago_CA4", "location": "Monterrey, Nuevo León, México", "coord_x": -89.638199, "coord_y": 21.035243, "created_at": "2013\/03\/23", "h_m_s": "5:27:12", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:27:12" }, "geometry": { "type": "Point", "coordinates": [ -89.638199, 21.035243 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No F-ing way!! @spartacus_starz \nCrixus AND Agron!? ???? Why Agron!? He became my favorite this season... #Spartacus", "user": "angie_candi", "location": "EPTX", "coord_x": -106.249608, "coord_y": 31.788835, "created_at": "2013\/03\/23", "h_m_s": "5:29:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:29:43" }, "geometry": { "type": "Point", "coordinates": [ -106.249608, 31.788835 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@B0bcatBabe don't nobody wanna hear about that #Spartacus trash!!", "user": "TheChosenOne_SW", "location": "G-Town", "coord_x": -96.942548, "coord_y": 30.186051, "created_at": "2013\/03\/23", "h_m_s": "5:33:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:33:46" }, "geometry": { "type": "Point", "coordinates": [ -96.942548, 30.186051 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ver Spartacus con traducción al español es muy frustrante !!! Grrr!  English pleace!!", "user": "karenrod11", "location": "Mcbo, Venezuela", "coord_x": -71.626412, "coord_y": 10.714595, "created_at": "2013\/03\/23", "h_m_s": "5:34:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:34:43" }, "geometry": { "type": "Point", "coordinates": [ -71.626412, 10.714595 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Did anyone see tonight’s Spartacus?", "user": "Macbehr", "location": "Palm Springs,CA", "coord_x": -116.511629, "coord_y": 33.799291, "created_at": "2013\/03\/23", "h_m_s": "5:34:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:34:49" }, "geometry": { "type": "Point", "coordinates": [ -116.511629, 33.799291 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ver Spartacus con traducción al español es muy frustrante !!! Grrr!  English please!", "user": "karenrod11", "location": "Mcbo, Venezuela", "coord_x": -71.626384, "coord_y": 10.714725, "created_at": "2013\/03\/23", "h_m_s": "5:36:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:36:19" }, "geometry": { "type": "Point", "coordinates": [ -71.626384, 10.714725 ] } }
+
+]
+}

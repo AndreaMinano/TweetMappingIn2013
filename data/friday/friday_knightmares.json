@@ -1,0 +1,23 @@
+var knightmares = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "restaurant impossible is like kitchen nightmares. i love @GordonRamsay01 much better ?", "user": "_littomisserika", "location": "doms heart :)", "coord_x": -106.500070, "coord_y": 35.065463, "created_at": "2013\/03\/22", "h_m_s": "19:33:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:33:23" }, "geometry": { "type": "Point", "coordinates": [ -106.500070, 35.065463 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Gogglebox thing is wank though. They're all actors. Hurry up kitchen nightmares.", "user": "elliscox", "location": "Sheffield", "coord_x": -1.479760, "coord_y": 53.384883, "created_at": "2013\/03\/22", "h_m_s": "22:44:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:44:34" }, "geometry": { "type": "Point", "coordinates": [ -1.479760, 53.384883 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In bed watching one of my favourite program's. Ramsay's Kitchen Nightmares. Love it.", "user": "ChanteleSugden", "location": "Wakefield", "coord_x": -1.538893, "coord_y": 53.678099, "created_at": "2013\/03\/22", "h_m_s": "22:48:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:48:47" }, "geometry": { "type": "Point", "coordinates": [ -1.538893, 53.678099 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kitchen nightmares USA, fucking LOVE the gordon ramsay shows lol", "user": "RatedRRockstar_", "location": "Dundee, Scotland", "coord_x": -2.995971, "coord_y": 56.458091, "created_at": "2013\/03\/22", "h_m_s": "23:11:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:11:11" }, "geometry": { "type": "Point", "coordinates": [ -2.995971, 56.458091 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ok, some of the food in kitchen nightmares USA looked shit, really shit, not hungry now hahahaha", "user": "RatedRRockstar_", "location": "Dundee, Scotland", "coord_x": -2.995969, "coord_y": 56.458092, "created_at": "2013\/03\/22", "h_m_s": "23:49:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:49:45" }, "geometry": { "type": "Point", "coordinates": [ -2.995969, 56.458092 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kitchen Nightmares @GordonRamsay01 love this man!", "user": "franca_lynn", "location": "Holmen, WI", "coord_x": -91.269004, "coord_y": 44.030775, "created_at": "2013\/03\/23", "h_m_s": "0:7:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:7:3" }, "geometry": { "type": "Point", "coordinates": [ -91.269004, 44.030775 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Kitchen Nightmares", "user": "Peso_Life", "location": "W\/My Girlfriend @daylindem ??", "coord_x": -84.169214, "coord_y": 33.757239, "created_at": "2013\/03\/23", "h_m_s": "0:54:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:54:33" }, "geometry": { "type": "Point", "coordinates": [ -84.169214, 33.757239 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This girl on Kitchen nightmares look like my wife @Beautiful_Anger", "user": "AdensMom_", "location": "Aden's Heart", "coord_x": -83.418406, "coord_y": 33.999857, "created_at": "2013\/03\/23", "h_m_s": "0:57:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:57:44" }, "geometry": { "type": "Point", "coordinates": [ -83.418406, 33.999857 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@GordonRamsay01 watching a rerun of kitchen nightmares your so funny watch all your shows love you!", "user": "wildrosexxxo", "location": "montreal,canada", "coord_x": -73.583675, "coord_y": 45.642160, "created_at": "2013\/03\/23", "h_m_s": "3:40:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:40:4" }, "geometry": { "type": "Point", "coordinates": [ -73.583675, 45.642160 ] } }
+
+]
+}

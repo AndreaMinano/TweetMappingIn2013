@@ -1,0 +1,7 @@
+var cooking = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Finna run downstairs see what's cooking then take a shower #LATERMAFUCKERS", "user": "FuckUr_Feelings", "location": "near NC", "coord_x": -80.174036, "coord_y": 35.348089, "created_at": "2013\/03\/22", "h_m_s": "21:37:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:37:11" }, "geometry": { "type": "Point", "coordinates": [ -80.174036, 35.348089 ] } }
+
+]
+}

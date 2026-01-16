@@ -1,0 +1,21 @@
+var piers = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Odemwingie is getting as boring and repetitive as Piers Morgan!  #dogwithabone", "user": "littleweena", "location": "Stourbridge", "coord_x": -2.132659, "coord_y": 52.465524, "created_at": "2013\/03\/22", "h_m_s": "19:25:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:25:30" }, "geometry": { "type": "Point", "coordinates": [ -2.132659, 52.465524 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Adrian Chiles is a shit piers Morgan", "user": "MarkIsTooAnson", "location": "lufc", "coord_x": -1.457561, "coord_y": 53.756522, "created_at": "2013\/03\/22", "h_m_s": "19:32:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:32:33" }, "geometry": { "type": "Point", "coordinates": [ -1.457561, 53.756522 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "On a scale of 0 to Piers Morgan, how much of a wank is Adrian Chiles.", "user": "harrygover", "location": "Erskine", "coord_x": -4.442741, "coord_y": 55.895267, "created_at": "2013\/03\/22", "h_m_s": "19:51:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:51:31" }, "geometry": { "type": "Point", "coordinates": [ -4.442741, 55.895267 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Piers Morgan is kinda cute. Weird?", "user": "sarahwhyte87", "location": "Ireland temporarily", "coord_x": -7.267735, "coord_y": 53.068932, "created_at": "2013\/03\/22", "h_m_s": "20:23:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:25:12" }, "geometry": { "type": "Point", "coordinates": [ -7.267735, 53.068932 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Aaron Ramsey scored for Wales who's next on his hit list!! Big money on a yank or even Piers Morgan!! #amancanonlydream", "user": "Danshahrezaey", "location": "Guildford", "coord_x": -0.594786, "coord_y": 51.255847, "created_at": "2013\/03\/22", "h_m_s": "21:41:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:41:45" }, "geometry": { "type": "Point", "coordinates": [ -0.594786, 51.255847 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@waz_shake @baz_stevens haha when did we take Piers Morgan's opinions as gospel? Can't believe u mocked twilight when ur it's #No1Fan! ??", "user": "ani5ha", "location": "Bolton. UK", "coord_x": -2.412792, "coord_y": 53.572566, "created_at": "2013\/03\/22", "h_m_s": "22:3:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:3:6" }, "geometry": { "type": "Point", "coordinates": [ -2.412792, 53.572566 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "How I would love to just closeline Piers Morgan", "user": "DePadey", "location": "Beaconsfield", "coord_x": -0.652180, "coord_y": 51.616376, "created_at": "2013\/03\/22", "h_m_s": "22:35:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:35:1" }, "geometry": { "type": "Point", "coordinates": [ -0.652180, 51.616376 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@irongreeny180 sorry, didn't think punctuation mattered on twitter, unless you're piers Morgan!", "user": "PaulHazlewood", "location": "", "coord_x": -0.654266, "coord_y": 53.569488, "created_at": "2013\/03\/22", "h_m_s": "23:53:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:53:21" }, "geometry": { "type": "Point", "coordinates": [ -0.654266, 53.569488 ] } }
+
+]
+}

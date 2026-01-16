@@ -1,0 +1,201 @@
+var grimm = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@calebgrimm I feel ya. 2 hours is even an hour too long", "user": "danceinHislight", "location": "", "coord_x": -83.707700, "coord_y": 41.900170, "created_at": "2013\/03\/22", "h_m_s": "16:12:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:12:53" }, "geometry": { "type": "Point", "coordinates": [ -83.707700, 41.900170 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just drove pass where they're filming the new season of #grimm", "user": "falloutgrl00", "location": "Mystic falls, GA", "coord_x": -122.681862, "coord_y": 45.569182, "created_at": "2013\/03\/22", "h_m_s": "16:51:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:51:48" }, "geometry": { "type": "Point", "coordinates": [ -122.681862, 45.569182 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Caught up on tv today. 1 HIMYM 2 Grimm 1 Arrow and 1 Spartacus episode.", "user": "rcoleman_92", "location": "Leicester", "coord_x": -1.200732, "coord_y": 52.645657, "created_at": "2013\/03\/22", "h_m_s": "16:57:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:57:44" }, "geometry": { "type": "Point", "coordinates": [ -1.200732, 52.645657 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nowplaying #grimmtrifftgrimm ~ Grimm trifft Grimm | Der Geschichtensammler ||| Radio TEDDY - In #Kassel #Hessen auf 91.7", "user": "RadioTeddyMusic", "location": "Potsdam, Germany, Europe", "coord_x": 13.116468, "coord_y": 52.387139, "created_at": "2013\/03\/22", "h_m_s": "17:14:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:14:51" }, "geometry": { "type": "Point", "coordinates": [ 13.116468, 52.387139 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw Grimm", "user": "AllankimVI", "location": "nrb", "coord_x": 35.189171, "coord_y": -0.577979, "created_at": "2013\/03\/22", "h_m_s": "17:21:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:21:51" }, "geometry": { "type": "Point", "coordinates": [ 35.189171, -0.577979 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DGRIMM304 hahaha. I'm about to go buy some and be wasted by the time Stephen gets home. He's be so pissed at me.", "user": "briKae100", "location": "", "coord_x": -80.582806, "coord_y": 40.347709, "created_at": "2013\/03\/22", "h_m_s": "17:35:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:35:9" }, "geometry": { "type": "Point", "coordinates": [ -80.582806, 40.347709 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DGRIMM304 you tell him for me. He likes you better than me.", "user": "briKae100", "location": "", "coord_x": -80.582872, "coord_y": 40.347625, "created_at": "2013\/03\/22", "h_m_s": "17:38:52", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:38:52" }, "geometry": { "type": "Point", "coordinates": [ -80.582872, 40.347625 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "E tenho vários episódios de New Girl, TWD, Grimm, Beauty and the Beast e TVD pra assistir", "user": "AnaSimiionato", "location": "Brasil", "coord_x": -50.162773, "coord_y": -25.102473, "created_at": "2013\/03\/22", "h_m_s": "17:47:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:47:43" }, "geometry": { "type": "Point", "coordinates": [ -50.162773, -25.102473 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BitsieTulloch Grimm The best show on tv already have season 1 on dvd awesome cast love you guys", "user": "Ducknation_23", "location": "", "coord_x": -122.711265, "coord_y": 44.396949, "created_at": "2013\/03\/22", "h_m_s": "19:33:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:33:9" }, "geometry": { "type": "Point", "coordinates": [ -122.711265, 44.396949 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@NBCGrimm: There's a killer on the loose they won't see coming. #Grimm http:\/\/t.co\/dCGFCwB9rT\"love this show!", "user": "Ducknation_23", "location": "", "coord_x": -122.711154, "coord_y": 44.397050, "created_at": "2013\/03\/22", "h_m_s": "19:57:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:57:45" }, "geometry": { "type": "Point", "coordinates": [ -122.711154, 44.397050 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimm is gettin it with his third win, final on Rock. #livetweetbustrip", "user": "emsudes", "location": "The Best School on Earth", "coord_x": -83.798572, "coord_y": 34.313032, "created_at": "2013\/03\/22", "h_m_s": "20:38:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:39:36" }, "geometry": { "type": "Point", "coordinates": [ -83.798572, 34.313032 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching The Brothers Grimm", "user": "ThisWeirdOne", "location": "Wales", "coord_x": -3.446924, "coord_y": 51.633919, "created_at": "2013\/03\/22", "h_m_s": "20:42:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:42:12" }, "geometry": { "type": "Point", "coordinates": [ -3.446924, 51.633919 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "L'épisode 11 de la saison 2 de #grimm est vraiment très stressant lol", "user": "mamzelle_etel", "location": "Strasbourg - France", "coord_x": 7.769410, "coord_y": 48.542006, "created_at": "2013\/03\/22", "h_m_s": "20:42:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:42:35" }, "geometry": { "type": "Point", "coordinates": [ 7.769410, 48.542006 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Thank Grimm it's friday! :-)", "user": "ally8210", "location": "Dallas, TX", "coord_x": -96.877783, "coord_y": 32.801727, "created_at": "2013\/03\/22", "h_m_s": "21:2:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:2:22" }, "geometry": { "type": "Point", "coordinates": [ -96.877783, 32.801727 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No point of constantly forgiving a \"friend\" who will never change!  Especially when they've done the most grimmest ish! Can’t trust no one!", "user": "MBthe1theyNV", "location": "", "coord_x": -71.063788, "coord_y": 42.310438, "created_at": "2013\/03\/22", "h_m_s": "21:24:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:24:12" }, "geometry": { "type": "Point", "coordinates": [ -71.063787, 42.310438 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cade essa porra de Grimm????", "user": "rafael_moedim", "location": "", "coord_x": -46.631263, "coord_y": -23.562710, "created_at": "2013\/03\/22", "h_m_s": "21:31:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:31:41" }, "geometry": { "type": "Point", "coordinates": [ -46.631263, -23.562710 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCGrimm I love Grimm....", "user": "cyndilowhoo", "location": "ruther glen va", "coord_x": -77.541448, "coord_y": 38.015807, "created_at": "2013\/03\/22", "h_m_s": "21:56:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:56:24" }, "geometry": { "type": "Point", "coordinates": [ -77.541448, 38.015807 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCGrimm Biting my nails(not literally) for tonights episode!!! #Grimm", "user": "karmapeace73", "location": "", "coord_x": -69.795991, "coord_y": 44.201482, "created_at": "2013\/03\/22", "h_m_s": "21:58:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:58:32" }, "geometry": { "type": "Point", "coordinates": [ -69.795991, 44.201482 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@kristinacamil26 ansabe? Haha! Wala pa tol. Mamaya pa meron Grimm tapos Monday pa yung Once Upon A Time. :)", "user": "alissassila", "location": "Quezon City", "coord_x": 121.063546, "coord_y": 14.616261, "created_at": "2013\/03\/22", "h_m_s": "21:59:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:59:14" }, "geometry": { "type": "Point", "coordinates": [ 121.063546, 14.616261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@grimmers nick, hi(:", "user": "MT_DIRECTIONER", "location": "Stalking One Direction(;", "coord_x": -79.051493, "coord_y": 43.886022, "created_at": "2013\/03\/22", "h_m_s": "22:3:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:3:3" }, "geometry": { "type": "Point", "coordinates": [ -79.051493, 43.886022 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love #Grimm, but they should kick Bitsie Tulloch out of the series. She's a horrible actress.", "user": "davidus1963", "location": "Almere - Netherlands", "coord_x": 5.197533, "coord_y": 52.366006, "created_at": "2013\/03\/22", "h_m_s": "22:14:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:14:38" }, "geometry": { "type": "Point", "coordinates": [ 5.197533, 52.366006 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CommonSenseSoc Go with #grimm, exciting show with ghouls and goblins!", "user": "markyeg", "location": "Edmonton, Alberta, Canada", "coord_x": -113.479677, "coord_y": 53.552512, "created_at": "2013\/03\/22", "h_m_s": "22:43:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:43:44" }, "geometry": { "type": "Point", "coordinates": [ -113.479677, 53.552512 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hope there will be a third season of #Grimm, but please...without Bitsy Tulloch.", "user": "davidus1963", "location": "Almere - Netherlands", "coord_x": 5.198568, "coord_y": 52.366212, "created_at": "2013\/03\/22", "h_m_s": "23:2:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:2:55" }, "geometry": { "type": "Point", "coordinates": [ 5.198568, 52.366212 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hope there will be a third season of #Grimm, but please...without Bitsie Tulloch.", "user": "davidus1963", "location": "Almere - Netherlands", "coord_x": 5.198681, "coord_y": 52.366150, "created_at": "2013\/03\/22", "h_m_s": "23:3:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:3:35" }, "geometry": { "type": "Point", "coordinates": [ 5.198681, 52.366150 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@grimmitt soooo yeahhhhh haha", "user": "logancordes", "location": "Purdue", "coord_x": -86.917741, "coord_y": 40.431852, "created_at": "2013\/03\/22", "h_m_s": "23:22:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:22:53" }, "geometry": { "type": "Point", "coordinates": [ -86.917741, 40.431852 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@grimmitt riiiight?", "user": "logancordes", "location": "Purdue", "coord_x": -86.917699, "coord_y": 40.431948, "created_at": "2013\/03\/22", "h_m_s": "23:31:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:31:26" }, "geometry": { "type": "Point", "coordinates": [ -86.917699, 40.431948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@grimmitt #worldofhurt #damnnn", "user": "logancordes", "location": "Purdue", "coord_x": -86.917733, "coord_y": 40.431925, "created_at": "2013\/03\/22", "h_m_s": "23:33:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:33:13" }, "geometry": { "type": "Point", "coordinates": [ -86.917733, 40.431925 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@grimmitt one word: gnarly", "user": "logancordes", "location": "Purdue", "coord_x": -86.917748, "coord_y": 40.431915, "created_at": "2013\/03\/22", "h_m_s": "23:38:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:38:0" }, "geometry": { "type": "Point", "coordinates": [ -86.917748, 40.431915 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'What can such a beast as this know about the matter?' So he shot his arrow at the fox. \n\n(Moon+ Reader v1.9.3, Grimm)", "user": "yanirbortz", "location": "Santiago de Chile", "coord_x": -70.661354, "coord_y": -33.444422, "created_at": "2013\/03\/23", "h_m_s": "0:11:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:11:56" }, "geometry": { "type": "Point", "coordinates": [ -70.661354, -33.444422 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Things I learn reading Brothers Grimm: disobey your parents and a witch devil will turn you into a block of wood and burn you for warmth", "user": "elspangler", "location": "Charlotte, NC", "coord_x": -80.849058, "coord_y": 35.223767, "created_at": "2013\/03\/23", "h_m_s": "0:20:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:20:25" }, "geometry": { "type": "Point", "coordinates": [ -80.849058, 35.223767 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Rosamairena1 Ambas tres :P. Pero ahora, específicamente, n°2. Toy leyendo cuentos de los Grimm. Es lo único q me permite el útero hoy.", "user": "yanirbortz", "location": "Santiago de Chile", "coord_x": -70.661308, "coord_y": -33.444410, "created_at": "2013\/03\/23", "h_m_s": "0:28:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:28:48" }, "geometry": { "type": "Point", "coordinates": [ -70.661308, -33.444410 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCGrimm : thank Grimm it's Friday :-)", "user": "VelasquezBetsy", "location": "Seguin, Texas", "coord_x": -97.876598, "coord_y": 29.501966, "created_at": "2013\/03\/23", "h_m_s": "0:42:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:42:59" }, "geometry": { "type": "Point", "coordinates": [ -97.876598, 29.501966 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ... I've been waiting all week..", "user": "HendleyW", "location": "New York City", "coord_x": -73.847727, "coord_y": 40.905925, "created_at": "2013\/03\/23", "h_m_s": "0:50:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:50:37" }, "geometry": { "type": "Point", "coordinates": [ -73.847727, 40.905925 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ...Dagger of Doom!!!..", "user": "HendleyW", "location": "New York City", "coord_x": -73.847688, "coord_y": 40.905893, "created_at": "2013\/03\/23", "h_m_s": "0:58:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:58:0" }, "geometry": { "type": "Point", "coordinates": [ -73.847688, 40.905893 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MadMadGrimm You probably thought I was stealing since I just walked out with that makeup haha! I got permission to exchange it I promise!;)", "user": "em_dogggg", "location": "Da Hood - North Side", "coord_x": -91.913889, "coord_y": 42.663334, "created_at": "2013\/03\/23", "h_m_s": "1:1:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:1:13" }, "geometry": { "type": "Point", "coordinates": [ -91.913889, 42.663334 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Grimm :)", "user": "gottaflyywithme", "location": "wherever books take me.", "coord_x": -75.081160, "coord_y": 39.871136, "created_at": "2013\/03\/23", "h_m_s": "1:1:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:1:46" }, "geometry": { "type": "Point", "coordinates": [ -75.081160, 39.871136 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What is this tv show called Grimm on TV #GRIMM", "user": "LeeZeigler00", "location": "Nashville, TN", "coord_x": -86.804766, "coord_y": 36.156875, "created_at": "2013\/03\/23", "h_m_s": "1:2:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:2:17" }, "geometry": { "type": "Point", "coordinates": [ -86.804766, 36.156875 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimm!! New episode. #grimm", "user": "hvymetalzombie0", "location": "Leavenworth, Kansas", "coord_x": -94.952769, "coord_y": 39.308285, "created_at": "2013\/03\/23", "h_m_s": "1:2:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:2:44" }, "geometry": { "type": "Point", "coordinates": [ -94.952769, 39.308285 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MadMadGrimm I know I'm a badass bitch :)", "user": "em_dogggg", "location": "Da Hood - North Side", "coord_x": -91.913226, "coord_y": 42.691456, "created_at": "2013\/03\/23", "h_m_s": "1:5:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:5:25" }, "geometry": { "type": "Point", "coordinates": [ -91.913226, 42.691456 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimm.... WHoaaaaa #NBC", "user": "ONYXbeautie", "location": "Chicago, IL", "coord_x": -87.802938, "coord_y": 41.881513, "created_at": "2013\/03\/23", "h_m_s": "1:6:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:6:59" }, "geometry": { "type": "Point", "coordinates": [ -87.802938, 41.881513 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ...mr. Sandman bring me a dream..lol", "user": "HendleyW", "location": "New York City", "coord_x": -73.847577, "coord_y": 40.905951, "created_at": "2013\/03\/23", "h_m_s": "1:7:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:7:10" }, "geometry": { "type": "Point", "coordinates": [ -73.847577, 40.905951 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#ThankGrimmItsFriday! Can't wait! Monroe my #blutbad baby! Need my #GrimmFix ?????", "user": "lovingangeliz", "location": "Seattle area?", "coord_x": -122.948683, "coord_y": 47.039579, "created_at": "2013\/03\/23", "h_m_s": "1:11:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:11:43" }, "geometry": { "type": "Point", "coordinates": [ -122.948683, 47.039579 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimming it up tonight @NBCGrimm #grimm", "user": "jamie_dirienzo", "location": "Cranston , RI", "coord_x": -71.479314, "coord_y": 41.775298, "created_at": "2013\/03\/23", "h_m_s": "1:11:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:11:58" }, "geometry": { "type": "Point", "coordinates": [ -71.479314, 41.775298 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Art. Vonlunteering. Pilgrimmage. @ Wychwood Barns http:\/\/t.co\/LTPGBykQx1", "user": "lilyjmills", "location": "G(r)eektown, Toronto, Canada", "coord_x": -79.424758, "coord_y": 43.679667, "created_at": "2013\/03\/23", "h_m_s": "1:13:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:13:11" }, "geometry": { "type": "Point", "coordinates": [ -79.424758, 43.679667 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Time to call the Bookicide Team #Grimm", "user": "JakobSynn", "location": "Vancouver", "coord_x": -122.964040, "coord_y": 49.210965, "created_at": "2013\/03\/23", "h_m_s": "1:13:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:13:48" }, "geometry": { "type": "Point", "coordinates": [ -122.964040, 49.210965 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Grimm", "user": "JulianNunn", "location": "Where I Belong", "coord_x": -76.264765, "coord_y": 36.851735, "created_at": "2013\/03\/23", "h_m_s": "1:14:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:14:30" }, "geometry": { "type": "Point", "coordinates": [ -76.264765, 36.851735 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCGrimm  Great start to the show...#Grimm", "user": "karmapeace73", "location": "", "coord_x": -69.796041, "coord_y": 44.201376, "created_at": "2013\/03\/23", "h_m_s": "1:17:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:17:49" }, "geometry": { "type": "Point", "coordinates": [ -69.796041, 44.201376 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ...is  this just a dream?", "user": "HendleyW", "location": "New York City", "coord_x": -73.847712, "coord_y": 40.905939, "created_at": "2013\/03\/23", "h_m_s": "1:22:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:22:44" }, "geometry": { "type": "Point", "coordinates": [ -73.847712, 40.905939 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@thechasegrimm @amctaggart25 DONT U HATE IT WHEN YOURE TRYING 2 DRIVE &amp; YOURE PULLING OUT YOUR HAIR CAUSE THE KIDS ARE MAKING A F***ING MESS", "user": "em_dogggg", "location": "Da Hood - North Side", "coord_x": -91.874494, "coord_y": 42.780456, "created_at": "2013\/03\/23", "h_m_s": "1:24:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:24:29" }, "geometry": { "type": "Point", "coordinates": [ -91.874494, 42.780456 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love watching Grimm??", "user": "G5_Lissa", "location": "Virginia", "coord_x": -76.893080, "coord_y": 36.695470, "created_at": "2013\/03\/23", "h_m_s": "1:26:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:26:4" }, "geometry": { "type": "Point", "coordinates": [ -76.893080, 36.695470 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@thechasegrimm @amctaggart25 *old grandma* oh yeah THATS WHAT IM TALKING ABOUT", "user": "em_dogggg", "location": "Da Hood - North Side", "coord_x": -91.874473, "coord_y": 42.780476, "created_at": "2013\/03\/23", "h_m_s": "1:28:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:28:41" }, "geometry": { "type": "Point", "coordinates": [ -91.874473, 42.780476 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #Grimm", "user": "trhighmaint", "location": "Royal Oak\/Dearborn, Michigan", "coord_x": -83.270840, "coord_y": 42.285700, "created_at": "2013\/03\/23", "h_m_s": "1:31:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:31:16" }, "geometry": { "type": "Point", "coordinates": [ -83.270840, 42.285700 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Jinamaroo is pretty fly for white guy #Grimm", "user": "JakobSynn", "location": "Vancouver", "coord_x": -122.964045, "coord_y": 49.210897, "created_at": "2013\/03\/23", "h_m_s": "1:33:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:33:56" }, "geometry": { "type": "Point", "coordinates": [ -122.964045, 49.210897 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Jinnamaru is pretty fly for a white guy #Grimm", "user": "JakobSynn", "location": "Vancouver", "coord_x": -122.964108, "coord_y": 49.210882, "created_at": "2013\/03\/23", "h_m_s": "1:35:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:35:13" }, "geometry": { "type": "Point", "coordinates": [ -122.964108, 49.210882 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I forgot how much I love the show Grimm.", "user": "Bethany_Sims", "location": "Westlake", "coord_x": -81.887873, "coord_y": 41.449878, "created_at": "2013\/03\/23", "h_m_s": "1:36:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:36:27" }, "geometry": { "type": "Point", "coordinates": [ -81.887873, 41.449878 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Jinnamaru Xunte is pretty fly for a white guy #Grimm", "user": "JakobSynn", "location": "Vancouver", "coord_x": -122.964025, "coord_y": 49.210899, "created_at": "2013\/03\/23", "h_m_s": "1:36:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:36:28" }, "geometry": { "type": "Point", "coordinates": [ -122.964025, 49.210899 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Jinnamaru Xunte must be a fan of R. Kelly cause he believes he can fly #Grimm", "user": "JakobSynn", "location": "Vancouver", "coord_x": -122.964095, "coord_y": 49.210993, "created_at": "2013\/03\/23", "h_m_s": "1:38:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:38:50" }, "geometry": { "type": "Point", "coordinates": [ -122.964095, 49.210993 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ...that's what u get for stopping and talking shit...lol", "user": "HendleyW", "location": "New York City", "coord_x": -73.847584, "coord_y": 40.905998, "created_at": "2013\/03\/23", "h_m_s": "1:39:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:39:19" }, "geometry": { "type": "Point", "coordinates": [ -73.847584, 40.905998 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching Grimm with my mommy and sissy in law.", "user": "SoyLolaaa", "location": "South Carolina", "coord_x": -92.148264, "coord_y": 37.824829, "created_at": "2013\/03\/23", "h_m_s": "1:39:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:39:43" }, "geometry": { "type": "Point", "coordinates": [ -92.148264, 37.824829 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm ... so that was no surprise nick.", "user": "lildillydumplin", "location": "orlando", "coord_x": -80.809437, "coord_y": 28.462634, "created_at": "2013\/03\/23", "h_m_s": "1:40:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:40:50" }, "geometry": { "type": "Point", "coordinates": [ -80.809437, 28.462634 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#grimm. What a day when the lucky guy just gets carjacked.", "user": "lildillydumplin", "location": "orlando", "coord_x": -80.809463, "coord_y": 28.462635, "created_at": "2013\/03\/23", "h_m_s": "1:42:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:42:25" }, "geometry": { "type": "Point", "coordinates": [ -80.809463, 28.462635 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "De volta a #Grimm, 13º episódio da 2ª temporada, lá vamos nós!", "user": "prfernandes", "location": "Escada, Pernambuco - Brasil", "coord_x": -34.895468, "coord_y": -8.056329, "created_at": "2013\/03\/23", "h_m_s": "1:43:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:43:43" }, "geometry": { "type": "Point", "coordinates": [ -34.895468, -8.056329 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@Mrs_KStrick: Watching #Grimm @BRONXBAMBINO” i be stuck in da booth love so I've been slacking on my movies what's that about", "user": "BRONXBAMBINO", "location": "BX HARLEM 330,336", "coord_x": -73.912589, "coord_y": 40.828423, "created_at": "2013\/03\/23", "h_m_s": "1:52:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:52:3" }, "geometry": { "type": "Point", "coordinates": [ -73.912589, 40.828423 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@mperegrym @jenny_wade @nbcgrimm .. Will do!  Love #Grimm!!", "user": "RBFG_Genie", "location": "Atlanta, GA", "coord_x": -84.343602, "coord_y": 33.925655, "created_at": "2013\/03\/23", "h_m_s": "1:52:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:52:59" }, "geometry": { "type": "Point", "coordinates": [ -84.343602, 33.925655 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Grimm....Nick and his new Spidey sense!", "user": "LockettDown", "location": "New York City", "coord_x": -73.816295, "coord_y": 40.711897, "created_at": "2013\/03\/23", "h_m_s": "1:59:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:59:3" }, "geometry": { "type": "Point", "coordinates": [ -73.816295, 40.711897 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "GRIMM I don't know how you do it but the show gets better and better every week ugh I just love this show so much", "user": "IamD_V", "location": "", "coord_x": -96.686623, "coord_y": 32.813589, "created_at": "2013\/03\/23", "h_m_s": "2:2:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:2:38" }, "geometry": { "type": "Point", "coordinates": [ -96.686623, 32.813589 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Mega-Nick :-) what a satisfying episode #Grimm : little bit of baseball, perfect :-)", "user": "VelasquezBetsy", "location": "Seguin, Texas", "coord_x": -97.876598, "coord_y": 29.501966, "created_at": "2013\/03\/23", "h_m_s": "2:2:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:2:41" }, "geometry": { "type": "Point", "coordinates": [ -97.876598, 29.501966 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My stomach is turning and my eyes are watering from that #Grimm episode. BUT IT WAS SO GOOD. @NBCGrimm", "user": "chelsjoy", "location": "Baton Rouge, LA", "coord_x": -91.017640, "coord_y": 30.427567, "created_at": "2013\/03\/23", "h_m_s": "2:3:5", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:3:7" }, "geometry": { "type": "Point", "coordinates": [ -91.017640, 30.427567 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@YesSheWantsTheD: Party instructions: Walk in. Fuck shit up. Walk out.\" @GrimmyGrammy", "user": "TuppCity", "location": "Troy, MI  Kalamazoo, MI", "coord_x": -83.134469, "coord_y": 42.610159, "created_at": "2013\/03\/23", "h_m_s": "2:29:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:29:47" }, "geometry": { "type": "Point", "coordinates": [ -83.134469, 42.610159 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I missed @NBCGrimm .. Sick stuff tonight!! Haha", "user": "NickyJayl0va", "location": "I'm CANADIAN", "coord_x": -124.797626, "coord_y": 49.263442, "created_at": "2013\/03\/23", "h_m_s": "2:36:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:36:21" }, "geometry": { "type": "Point", "coordinates": [ -124.797626, 49.263442 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gb_gordon IT WAS SO ICKY! #grimm", "user": "togainunochi", "location": "virginia, usa", "coord_x": -78.204290, "coord_y": 38.915483, "created_at": "2013\/03\/23", "h_m_s": "2:44:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:44:26" }, "geometry": { "type": "Point", "coordinates": [ -78.204290, 38.915483 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bert Grimm reference for this #badass #shark #traditional #tattoo on @Dennylenny thanks!… http:\/\/t.co\/15aRQn9QPD", "user": "kimmarkstattoos", "location": "BARRIE ontario", "coord_x": -79.690262, "coord_y": 44.389648, "created_at": "2013\/03\/23", "h_m_s": "2:45:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:45:51" }, "geometry": { "type": "Point", "coordinates": [ -79.690262, 44.389648 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So I'm at wingstop and the cashier asked me what my name was and I said 'Grimmus' #lmbo #nightout… http:\/\/t.co\/0x9ar9TTla", "user": "breVthe", "location": "Chi-raq, Illinois", "coord_x": -87.688248, "coord_y": 41.942176, "created_at": "2013\/03\/23", "h_m_s": "2:55:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:55:47" }, "geometry": { "type": "Point", "coordinates": [ -87.688248, 41.942176 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#MyLife #ThankGrimmItsFriday http:\/\/t.co\/mfKDvdywP8", "user": "fuqyodreams", "location": "", "coord_x": -93.468883, "coord_y": 41.704830, "created_at": "2013\/03\/23", "h_m_s": "3:0:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:0:24" }, "geometry": { "type": "Point", "coordinates": [ -93.468883, 41.704830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Hthecheshirelad @nicholasgrimmer haha zombies are scary though.", "user": "JusticeHarris4", "location": "anywhere and everywhere", "coord_x": -134.425645, "coord_y": 58.302604, "created_at": "2013\/03\/23", "h_m_s": "3:24:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:24:25" }, "geometry": { "type": "Point", "coordinates": [ -134.425645, 58.302604 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@andrewjgrimm sure why not .. ???", "user": "nolim1t", "location": "Wherever you can checkin to", "coord_x": -123.184952, "coord_y": 49.194214, "created_at": "2013\/03\/23", "h_m_s": "3:37:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:37:30" }, "geometry": { "type": "Point", "coordinates": [ -123.184952, 49.194214 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No!!! I missed it!!!! ?? “@AdoredReality: Tonights episode of #Grimm was quite disturbing ..”", "user": "Jummy_Choo", "location": "In Shoe heaven", "coord_x": -84.097818, "coord_y": 33.757600, "created_at": "2013\/03\/23", "h_m_s": "3:44:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:44:41" }, "geometry": { "type": "Point", "coordinates": [ -84.097818, 33.757600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCGrimm just want to say Mommmmmy and grab my blanket!", "user": "travelfast53", "location": "Calgary, Alberta", "coord_x": -114.109925, "coord_y": 50.942016, "created_at": "2013\/03\/23", "h_m_s": "3:47:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:47:22" }, "geometry": { "type": "Point", "coordinates": [ -114.109925, 50.942016 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Grimm is filming in my neighborhood again http:\/\/t.co\/ILvmTJqhEG", "user": "somedave", "location": "Portland, OR", "coord_x": -122.656110, "coord_y": 45.555552, "created_at": "2013\/03\/23", "h_m_s": "3:49:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:49:16" }, "geometry": { "type": "Point", "coordinates": [ -122.656110, 45.555552 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "shit, Nick's turning into Superman #Grimm", "user": "thatsvintage", "location": "Canada", "coord_x": -76.499979, "coord_y": 44.227421, "created_at": "2013\/03\/23", "h_m_s": "3:51:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:51:47" }, "geometry": { "type": "Point", "coordinates": [ -76.499979, 44.227421 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Seeing @mightymotastic in her production at Concordia tonight. Love herrrr @ Robert Alan Grimm Hall -… http:\/\/t.co\/wath4Fn7Pl", "user": "kate_noelle", "location": "Orange County, CA", "coord_x": -117.812296, "coord_y": 33.654169, "created_at": "2013\/03\/23", "h_m_s": "3:55:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:55:29" }, "geometry": { "type": "Point", "coordinates": [ -117.812296, 33.654169 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@mistergiuntoli @BitsieTulloch GRIMM is about to start#lovethisshow#Portland#Oregon", "user": "Ducknation_23", "location": "", "coord_x": -122.711292, "coord_y": 44.396907, "created_at": "2013\/03\/23", "h_m_s": "3:59:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:59:23" }, "geometry": { "type": "Point", "coordinates": [ -122.711292, 44.396907 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#MLB TEXAS RANGERS: Optioned pitcher Justin Grimm to Round Rock (PCL). http:\/\/t.co\/WiivNyuXwD", "user": "transactionist", "location": "Chicago", "coord_x": -87.623474, "coord_y": 41.878789, "created_at": "2013\/03\/23", "h_m_s": "4:0:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:0:6" }, "geometry": { "type": "Point", "coordinates": [ -87.623474, 41.878789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "TEXAS RANGERS: Optioned pitcher Justin Grimm to Round Rock (PCL). http:\/\/t.co\/JsRbG1GXDG", "user": "MLBTransactions", "location": "Chicago", "coord_x": -87.623474, "coord_y": 41.878789, "created_at": "2013\/03\/23", "h_m_s": "4:0:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:0:6" }, "geometry": { "type": "Point", "coordinates": [ -87.623474, 41.878789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@nbdgrimm Thank Grimm it's Friday.", "user": "Birdlover51", "location": "Portland OR", "coord_x": -122.559222, "coord_y": 45.467548, "created_at": "2013\/03\/23", "h_m_s": "4:3:50", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:3:50" }, "geometry": { "type": "Point", "coordinates": [ -122.559222, 45.467548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Grimm Now that was creepy.", "user": "Birdlover51", "location": "Portland OR", "coord_x": -122.559266, "coord_y": 45.467412, "created_at": "2013\/03\/23", "h_m_s": "4:7:14", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:7:14" }, "geometry": { "type": "Point", "coordinates": [ -122.559266, 45.467412 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Grimm????????????", "user": "Jummy_Choo", "location": "In Shoe heaven", "coord_x": -84.097770, "coord_y": 33.757641, "created_at": "2013\/03\/23", "h_m_s": "4:9:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:9:6" }, "geometry": { "type": "Point", "coordinates": [ -84.097770, 33.757641 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@umjeremy First Methodist gets a mention tonight on Grimm! #NBC,#jeremydofantasy!", "user": "revmokat", "location": "Seattle, WA", "coord_x": -122.380929, "coord_y": 47.683423, "created_at": "2013\/03\/23", "h_m_s": "4:14:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:14:23" }, "geometry": { "type": "Point", "coordinates": [ -122.380929, 47.683423 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@abbyjelaine grimm?", "user": "starryanne", "location": "De Ville Acres, Utah", "coord_x": 121.111713, "coord_y": 14.612107, "created_at": "2013\/03\/23", "h_m_s": "4:16:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:16:34" }, "geometry": { "type": "Point", "coordinates": [ 121.111713, 14.612107 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@albert_hoy Watching Grimm?", "user": "Birdlover51", "location": "Portland OR", "coord_x": -122.559277, "coord_y": 45.467492, "created_at": "2013\/03\/23", "h_m_s": "4:27:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:27:52" }, "geometry": { "type": "Point", "coordinates": [ -122.559277, 45.467492 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg this episode of Grimm is scary.....", "user": "Jummy_Choo", "location": "In Shoe heaven", "coord_x": -84.097782, "coord_y": 33.757649, "created_at": "2013\/03\/23", "h_m_s": "4:33:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:33:38" }, "geometry": { "type": "Point", "coordinates": [ -84.097782, 33.757649 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Woohoo #grimm is treading at no. 1", "user": "Birdlover51", "location": "Portland OR", "coord_x": -122.559175, "coord_y": 45.467507, "created_at": "2013\/03\/23", "h_m_s": "4:41:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:41:22" }, "geometry": { "type": "Point", "coordinates": [ -122.559175, 45.467507 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There are weird dudes in Grimm. Seriously weird. But cool cars. Old cool cars. Identifiable only by the incredible @albert_hoy.", "user": "JMulletteBauer", "location": "Portland OR", "coord_x": -122.814610, "coord_y": 45.414446, "created_at": "2013\/03\/23", "h_m_s": "4:49:20", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:49:20" }, "geometry": { "type": "Point", "coordinates": [ -122.814610, 45.414446 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DonJGR mis favoritas...\n\nBuffy\nAngel\nLost\nSmallville\nTrue Blood\nSpartacus\nTWD\nGrimm\nOnce upon a time\nAmerican Horror\nBigBangTheory", "user": "61lb3rt0", "location": "Tlalnepantla", "coord_x": -99.213670, "coord_y": 19.537596, "created_at": "2013\/03\/23", "h_m_s": "4:59:42", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:59:52" }, "geometry": { "type": "Point", "coordinates": [ -99.213670, 19.537596 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I want to see @NBCGrimm footage while a character is in wesen form without the cgi. Are the actors making rediculous faces? #behindthescenes", "user": "moviemakinggod", "location": "", "coord_x": -93.152744, "coord_y": 44.992978, "created_at": "2013\/03\/23", "h_m_s": "5:1:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:1:29" }, "geometry": { "type": "Point", "coordinates": [ -93.152744, 44.992978 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nick is a fruit ninja #Grimm", "user": "reinaborikua", "location": "California", "coord_x": -122.088708, "coord_y": 37.701788, "created_at": "2013\/03\/23", "h_m_s": "5:1:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:1:35" }, "geometry": { "type": "Point", "coordinates": [ -122.088708, 37.701788 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimm's Gardens Garden Center E-commerce Web Design - http:\/\/t.co\/1BJYY3Dmy3", "user": "devseo", "location": "Lancaster, UK", "coord_x": -4.064941, "coord_y": 53.800651, "created_at": "2013\/03\/23", "h_m_s": "5:11:9", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:11:9" }, "geometry": { "type": "Point", "coordinates": [ -4.064941, 53.800651 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Grimm seriously gets better and better every week. I am so happy with it.", "user": "ikalese92", "location": "Vegas.", "coord_x": -115.325920, "coord_y": 36.203088, "created_at": "2013\/03\/23", "h_m_s": "5:39:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:39:56" }, "geometry": { "type": "Point", "coordinates": [ -115.325920, 36.203088 ] } }
+
+]
+}

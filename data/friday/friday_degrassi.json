@@ -1,0 +1,201 @@
+var degrassi = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "I had a dream I was in Degrassi LOL", "user": "ItsSydneyNixon", "location": "Hell", "coord_x": -96.565915, "coord_y": 32.843773, "created_at": "2013\/03\/22", "h_m_s": "15:38:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:38:2" }, "geometry": { "type": "Point", "coordinates": [ -96.565915, 32.843773 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Feel like going to miss #degrassifriday tonight!! ??", "user": "katieriley93", "location": "Toronto", "coord_x": -71.137978, "coord_y": 41.726889, "created_at": "2013\/03\/22", "h_m_s": "15:49:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:49:10" }, "geometry": { "type": "Point", "coordinates": [ -71.137978, 41.726889 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started from Degrassi on a chair. @Big_Kat58 @JoshMillette15 @KingStillBill", "user": "Orseenee401", "location": "CT", "coord_x": -71.905404, "coord_y": 41.731360, "created_at": "2013\/03\/22", "h_m_s": "15:55:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:55:30" }, "geometry": { "type": "Point", "coordinates": [ -71.905404, 41.731360 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@kirwanabmyfrnd: Wtf fairfax hs has a pep rally for spring break like who do you guys think you are degrassi” why are u hating on fairfax?", "user": "abutt69", "location": "", "coord_x": -77.286113, "coord_y": 38.859967, "created_at": "2013\/03\/22", "h_m_s": "16:10:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:10:38" }, "geometry": { "type": "Point", "coordinates": [ -77.286113, 38.859967 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "J'regarde Degrassi", "user": "Mathildissime", "location": "France", "coord_x": 7.766491, "coord_y": 48.564286, "created_at": "2013\/03\/22", "h_m_s": "17:16:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:16:33" }, "geometry": { "type": "Point", "coordinates": [ 7.766491, 48.564286 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "when people say drake I think Degrassi just saying. http:\/\/t.co\/1X7aflvB13", "user": "itskyluh6", "location": "west fargay.", "coord_x": -96.561821, "coord_y": 46.767983, "created_at": "2013\/03\/22", "h_m_s": "17:25:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:25:43" }, "geometry": { "type": "Point", "coordinates": [ -96.561821, 46.767983 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Crying cuz Eli is having flashbacks #degrassi", "user": "Sami_Lennon", "location": "Franklin,ma", "coord_x": -71.384747, "coord_y": 42.098407, "created_at": "2013\/03\/22", "h_m_s": "17:30:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:30:43" }, "geometry": { "type": "Point", "coordinates": [ -71.384747, 42.098407 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Haha remember when @Drake was on #degrassi as #jimmybrooks http:\/\/t.co\/p2riOfJOgi", "user": "GagaForCheryl", "location": "Eastpointe Michigan", "coord_x": -82.966795, "coord_y": 42.472232, "created_at": "2013\/03\/22", "h_m_s": "17:54:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:54:54" }, "geometry": { "type": "Point", "coordinates": [ -82.966795, 42.472232 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@degrassihaha: 7 hours. #Degrassi\"", "user": "camiesawkward", "location": "Oklahoma", "coord_x": -97.616619, "coord_y": 35.517137, "created_at": "2013\/03\/22", "h_m_s": "18:2:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:2:31" }, "geometry": { "type": "Point", "coordinates": [ -97.616619, 35.517137 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol “@astro_knott: Started from Degrassi now i'm here”", "user": "Andrew_Pontikes", "location": "Oklahoma City, Oklahoma", "coord_x": -106.067229, "coord_y": 39.480450, "created_at": "2013\/03\/22", "h_m_s": "18:22:17", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:22:17" }, "geometry": { "type": "Point", "coordinates": [ -106.067229, 39.480450 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassian is so me ?", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138052, "coord_y": 41.726836, "created_at": "2013\/03\/22", "h_m_s": "18:37:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:37:30" }, "geometry": { "type": "Point", "coordinates": [ -71.138052, 41.726836 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Degrassi \n @\n\nHye http:\/\/t.co\/yiAgy6n2Rc", "user": "NajmaShabanajan", "location": "", "coord_x": 74.182171, "coord_y": 32.151476, "created_at": "2013\/03\/22", "h_m_s": "18:40:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:40:25" }, "geometry": { "type": "Point", "coordinates": [ 74.182172, 32.151476 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@CoreyWootton: Started from degrassi now we here” @haygeorge13", "user": "coriesullins", "location": "Texas", "coord_x": -97.731401, "coord_y": 30.288258, "created_at": "2013\/03\/22", "h_m_s": "18:47:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:47:27" }, "geometry": { "type": "Point", "coordinates": [ -97.731401, 30.288258 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started on Degrassi cuz I'm queer", "user": "4NF3T4M1N3", "location": "810", "coord_x": -83.257761, "coord_y": 42.807464, "created_at": "2013\/03\/22", "h_m_s": "18:50:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:50:42" }, "geometry": { "type": "Point", "coordinates": [ -83.257761, 42.807464 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@IsJustKelly I love degrassi so much please follow me??", "user": "BTreR_215", "location": "loves my shipley", "coord_x": -75.173773, "coord_y": 39.923771, "created_at": "2013\/03\/22", "h_m_s": "18:51:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:51:13" }, "geometry": { "type": "Point", "coordinates": [ -75.173773, 39.923771 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "When #Degrassi kills off your favorite character. &lt;\/3", "user": "kristenlazelle", "location": "Raymond, Washington", "coord_x": -123.740625, "coord_y": 46.668577, "created_at": "2013\/03\/22", "h_m_s": "18:56:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:56:3" }, "geometry": { "type": "Point", "coordinates": [ -123.740625, 46.668577 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Stressing out and watching nowhere to run eps @Degrassi ?", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138055, "coord_y": 41.726814, "created_at": "2013\/03\/22", "h_m_s": "18:56:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:56:13" }, "geometry": { "type": "Point", "coordinates": [ -71.138055, 41.726814 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi&lt;3", "user": "Aymv_", "location": "En una casa pegada del piso..", "coord_x": -67.632570, "coord_y": 10.308170, "created_at": "2013\/03\/22", "h_m_s": "19:14:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:14:41" }, "geometry": { "type": "Point", "coordinates": [ -67.632570, 10.308170 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"\"Started from the bottom now my whole team here\" Oh the entire cast of Degrassi?\" #laurensthoughtsondrake", "user": "lianafranklin", "location": "Boston, MA\/ NJ", "coord_x": -74.203915, "coord_y": 39.994741, "created_at": "2013\/03\/22", "h_m_s": "19:44:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:44:29" }, "geometry": { "type": "Point", "coordinates": [ -74.203915, 39.994741 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@kaylaw2212: Dear Drake, You started from Degrassi now your here. #notthebottom”", "user": "davis_hardin13", "location": "", "coord_x": -86.982993, "coord_y": 33.439643, "created_at": "2013\/03\/22", "h_m_s": "20:47:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:47:15" }, "geometry": { "type": "Point", "coordinates": [ -86.982993, 33.439643 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@BASEDCEO: \"Started From The Bottom, Now We Here\" .... What He Really Meant Was \"Started From Degrassi In A Chair\"\"", "user": "LatheyRose", "location": "Where the wild things are", "coord_x": -90.586602, "coord_y": 41.525479, "created_at": "2013\/03\/22", "h_m_s": "21:8:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:8:54" }, "geometry": { "type": "Point", "coordinates": [ -90.586602, 41.525479 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Left the city and heading to get @Potterfan93 and @HDiPanfilo94 with @Gigi17PW and daddy #girlsnight ? #degrassifriday too ?", "user": "katieriley93", "location": "Toronto", "coord_x": -71.078665, "coord_y": 41.787822, "created_at": "2013\/03\/22", "h_m_s": "21:21:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:21:37" }, "geometry": { "type": "Point", "coordinates": [ -71.078665, 41.787822 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi is on tonight and I'm missing it... Why the fuck", "user": "lanayara_", "location": "no sé", "coord_x": -70.272697, "coord_y": 41.658327, "created_at": "2013\/03\/22", "h_m_s": "21:39:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:39:20" }, "geometry": { "type": "Point", "coordinates": [ -70.272697, 41.658327 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My dancing was compared to Drake in Degrassi... while he was in the wheel chair. So thats that @Matt_Lauschin #airbands ??", "user": "ediebeeee", "location": "Athens, Ohio", "coord_x": -82.097977, "coord_y": 39.326957, "created_at": "2013\/03\/22", "h_m_s": "21:47:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:47:56" }, "geometry": { "type": "Point", "coordinates": [ -82.097977, 39.326957 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No matter how ghetto Drake acts all I see is a kid in a wheelchair named Jimmy #survivor #Degrassi", "user": "ElisabethJDean", "location": "Minnesota", "coord_x": -93.913409, "coord_y": 45.313388, "created_at": "2013\/03\/22", "h_m_s": "22:9:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:9:58" }, "geometry": { "type": "Point", "coordinates": [ -93.913409, 45.313388 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi", "user": "xloveDilan", "location": "Deventer", "coord_x": 6.151326, "coord_y": 52.259529, "created_at": "2013\/03\/22", "h_m_s": "22:20:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:20:3" }, "geometry": { "type": "Point", "coordinates": [ 6.151326, 52.259529 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@charafeddine_j that's why I said \"the new degrassi\" cause I knew someone would say that. I mean the one they play every week!", "user": "daydreammmmm", "location": "", "coord_x": -82.993218, "coord_y": 42.244371, "created_at": "2013\/03\/22", "h_m_s": "22:33:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:33:3" }, "geometry": { "type": "Point", "coordinates": [ -82.993218, 42.244371 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi &lt;3", "user": "ZoeterDanZoet", "location": "in me bedje ?", "coord_x": 4.899237, "coord_y": 52.678014, "created_at": "2013\/03\/22", "h_m_s": "22:35:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:35:34" }, "geometry": { "type": "Point", "coordinates": [ 4.899237, 52.678014 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi #nw", "user": "XImke_lucassen", "location": "", "coord_x": 5.620851, "coord_y": 51.540738, "created_at": "2013\/03\/22", "h_m_s": "22:37:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:37:54" }, "geometry": { "type": "Point", "coordinates": [ 5.620851, 51.540738 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"TOO BAD YOU CAN'T CURE BITCH\" #degrassi", "user": "sarahxperron", "location": "Orillia, Ontario", "coord_x": -79.459701, "coord_y": 44.592159, "created_at": "2013\/03\/22", "h_m_s": "22:44:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:44:33" }, "geometry": { "type": "Point", "coordinates": [ -79.459701, 44.592159 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@anniejclark @The_Munro #degrassi to night ahhh can't wait :)", "user": "noeliacx333", "location": "", "coord_x": -73.738832, "coord_y": 40.730182, "created_at": "2013\/03\/22", "h_m_s": "23:24:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:24:42" }, "geometry": { "type": "Point", "coordinates": [ -73.738832, 40.730182 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "THIS NIGGA @BukkweatBill JUS TOLD ME TO COME OVER ND WATCH DEGRASSI ND DIDN'T EVEN SAY #NOHOMO", "user": "Hermanphrodite", "location": "Minnesota", "coord_x": -81.175031, "coord_y": 19.347437, "created_at": "2013\/03\/22", "h_m_s": "23:28:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:28:53" }, "geometry": { "type": "Point", "coordinates": [ -81.175031, 19.347437 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BukkweatBill Y U WATCHIN DEGRASSI FOOL?", "user": "Hermanphrodite", "location": "Minnesota", "coord_x": -81.175153, "coord_y": 19.347346, "created_at": "2013\/03\/22", "h_m_s": "23:30:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:30:22" }, "geometry": { "type": "Point", "coordinates": [ -81.175153, 19.347346 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Im going my Elijah ?? #degrassifriday", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138099, "coord_y": 41.726742, "created_at": "2013\/03\/22", "h_m_s": "23:36:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:36:15" }, "geometry": { "type": "Point", "coordinates": [ -71.138099, 41.726742 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "SEAN'S BACK! Looking good ???? #Degrassi", "user": "oublier_", "location": "Massachusetts", "coord_x": -70.943644, "coord_y": 42.478619, "created_at": "2013\/03\/22", "h_m_s": "23:48:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:48:21" }, "geometry": { "type": "Point", "coordinates": [ -70.943644, 42.478619 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@stefanbrogren Omg you watch #Degrassi", "user": "owl_avacado", "location": "Ypsilanti, MI", "coord_x": -83.566341, "coord_y": 42.252833, "created_at": "2013\/03\/22", "h_m_s": "23:49:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:49:38" }, "geometry": { "type": "Point", "coordinates": [ -83.566341, 42.252833 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No motive this weekend.. Guess I'm gonna try and catch up with degrassi and vampire diaries.", "user": "_853924", "location": "In a perfect world.", "coord_x": -78.977876, "coord_y": 43.907942, "created_at": "2013\/03\/22", "h_m_s": "23:59:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:59:50" }, "geometry": { "type": "Point", "coordinates": [ -78.977876, 43.907942 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi then going to bed", "user": "Notabumbleb88", "location": "", "coord_x": -83.000580, "coord_y": 42.509796, "created_at": "2013\/03\/23", "h_m_s": "0:2:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:2:0" }, "geometry": { "type": "Point", "coordinates": [ -83.000580, 42.509796 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New episodes of Degrassi... #interesting", "user": "HayleySlatina_", "location": "Michigan", "coord_x": -119.069258, "coord_y": 47.902209, "created_at": "2013\/03\/23", "h_m_s": "0:4:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:4:44" }, "geometry": { "type": "Point", "coordinates": [ -119.069258, 47.902209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm really curious as to what I've missed all these years... #Degrassi", "user": "HayleySlatina_", "location": "Michigan", "coord_x": -119.079030, "coord_y": 47.890308, "created_at": "2013\/03\/23", "h_m_s": "0:10:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:10:44" }, "geometry": { "type": "Point", "coordinates": [ -119.079030, 47.890308 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SonOfCrunch Degrassi from the N was actually Degrassi: the next generation! Emma's mom and Snake were on the original! So cool right??", "user": "veshbrochill", "location": "Hartsville, SC", "coord_x": -80.064119, "coord_y": 34.379689, "created_at": "2013\/03\/23", "h_m_s": "0:16:52", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:16:52" }, "geometry": { "type": "Point", "coordinates": [ -80.064119, 34.379689 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "How did Drake start from the bottom when he was in Degrassi ?", "user": "xoxo_Nicoolleee", "location": "with my soccer ball?", "coord_x": -94.508272, "coord_y": 38.889531, "created_at": "2013\/03\/23", "h_m_s": "0:28:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:28:4" }, "geometry": { "type": "Point", "coordinates": [ -94.508272, 38.889531 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The legitimate debate between goimg to your little brothers play or watching the new episode of degrassi. #teengirl #ruffdecisions", "user": "DanyDregs", "location": "Regina, Saskatchewan", "coord_x": -104.621252, "coord_y": 50.454239, "created_at": "2013\/03\/23", "h_m_s": "0:29:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:29:49" }, "geometry": { "type": "Point", "coordinates": [ -104.621252, 50.454239 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi is my favorite. ??", "user": "AleexiisCF", "location": "", "coord_x": -122.610075, "coord_y": 45.395553, "created_at": "2013\/03\/23", "h_m_s": "0:36:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:36:26" }, "geometry": { "type": "Point", "coordinates": [ -122.610075, 45.395553 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "omg, started from degrassi now we here! lololol", "user": "allielegue", "location": "", "coord_x": -83.584001, "coord_y": 43.362962, "created_at": "2013\/03\/23", "h_m_s": "0:37:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:37:58" }, "geometry": { "type": "Point", "coordinates": [ -83.584001, 43.362962 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dallas has a kid??? Omg. Just now watching the Degrassi from last week. #late", "user": "kitKATie_bar", "location": "Delawhere?", "coord_x": -75.584908, "coord_y": 39.259682, "created_at": "2013\/03\/23", "h_m_s": "0:43:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:43:28" }, "geometry": { "type": "Point", "coordinates": [ -75.584908, 39.259682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OK so just a few more touches for Saturday I'm so excited and I still have nun to wear aghhh but right now just watching degrassi and eating", "user": "BusbyJared", "location": "", "coord_x": -95.200811, "coord_y": 29.792502, "created_at": "2013\/03\/23", "h_m_s": "0:45:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:45:16" }, "geometry": { "type": "Point", "coordinates": [ -95.200810, 29.792502 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching degrassi lol #crap i love", "user": "sierrajackson83", "location": "", "coord_x": -96.927230, "coord_y": 35.349361, "created_at": "2013\/03\/23", "h_m_s": "0:49:52", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:49:52" }, "geometry": { "type": "Point", "coordinates": [ -96.927230, 35.349361 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New degrassi in a few minutes yay!", "user": "MarissaAnn95", "location": "Georgia", "coord_x": -84.774317, "coord_y": 33.823722, "created_at": "2013\/03\/23", "h_m_s": "0:54:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:54:13" }, "geometry": { "type": "Point", "coordinates": [ -84.774317, 33.823722 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Almost #degrassi time!! My friends r going to watch me fan girl -.-", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138016, "coord_y": 41.726725, "created_at": "2013\/03\/23", "h_m_s": "0:55:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:55:23" }, "geometry": { "type": "Point", "coordinates": [ -71.138016, 41.726725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi time", "user": "briittaannnny_", "location": "Dublin Ireland", "coord_x": -71.328017, "coord_y": 42.722870, "created_at": "2013\/03\/23", "h_m_s": "0:55:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:55:27" }, "geometry": { "type": "Point", "coordinates": [ -71.328017, 42.722870 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New DEGRASSI in 5 min!", "user": "Cassie10033", "location": "", "coord_x": -90.865362, "coord_y": 38.437207, "created_at": "2013\/03\/23", "h_m_s": "0:55:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:55:36" }, "geometry": { "type": "Point", "coordinates": [ -90.865362, 38.437207 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw #Degrassi", "user": "alwaysleah", "location": "", "coord_x": -73.699095, "coord_y": 45.558400, "created_at": "2013\/03\/23", "h_m_s": "0:55:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:55:43" }, "geometry": { "type": "Point", "coordinates": [ -73.699095, 45.558400 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New episode of Degrassi is on at 9!!", "user": "_WintersFinest_", "location": "School Of Hard Knocks", "coord_x": -86.754130, "coord_y": 34.907718, "created_at": "2013\/03\/23", "h_m_s": "0:57:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:57:29" }, "geometry": { "type": "Point", "coordinates": [ -86.754130, 34.907718 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi time !!", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138046, "coord_y": 41.726887, "created_at": "2013\/03\/23", "h_m_s": "0:57:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:57:38" }, "geometry": { "type": "Point", "coordinates": [ -71.138046, 41.726887 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassifriday", "user": "jenny_eckam", "location": "Shortsville, NY", "coord_x": -77.217055, "coord_y": 42.956986, "created_at": "2013\/03\/23", "h_m_s": "0:59:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:59:55" }, "geometry": { "type": "Point", "coordinates": [ -77.217055, 42.956986 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Been waiting all week for this @Degrassi", "user": "katieriley93", "location": "Toronto", "coord_x": -71.138500, "coord_y": 41.726678, "created_at": "2013\/03\/23", "h_m_s": "1:0:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:0:13" }, "geometry": { "type": "Point", "coordinates": [ -71.138500, 41.726678 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Degrassi starts now", "user": "Nessie1797", "location": "Tortonto", "coord_x": -79.288700, "coord_y": 43.716356, "created_at": "2013\/03\/23", "h_m_s": "1:0:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:0:49" }, "geometry": { "type": "Point", "coordinates": [ -79.288700, 43.716356 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New @Degrassi RIGHT NOW!!!", "user": "MatthewMRosario", "location": "Dark Side of The Rainbow", "coord_x": -97.733142, "coord_y": 31.055644, "created_at": "2013\/03\/23", "h_m_s": "1:2:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:2:56" }, "geometry": { "type": "Point", "coordinates": [ -97.733142, 31.055644 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Missed last degrassi now I lost :\/", "user": "Sueann_101", "location": "", "coord_x": -61.050260, "coord_y": 13.788650, "created_at": "2013\/03\/23", "h_m_s": "1:3:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:3:22" }, "geometry": { "type": "Point", "coordinates": [ -61.050260, 13.788650 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Degrassi #WastingMyLife #SaveMe", "user": "EzmaBlack", "location": "", "coord_x": -81.355997, "coord_y": 34.008275, "created_at": "2013\/03\/23", "h_m_s": "1:8:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:8:36" }, "geometry": { "type": "Point", "coordinates": [ -81.355997, 34.008275 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dallas has a baby O.o #Degrassi", "user": "xnaturee", "location": "Trilla Killa Villa", "coord_x": -96.667838, "coord_y": 32.745044, "created_at": "2013\/03\/23", "h_m_s": "1:8:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:8:51" }, "geometry": { "type": "Point", "coordinates": [ -96.667838, 32.745044 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi is on. No one talk to me.", "user": "Harmononie", "location": "The 952", "coord_x": -86.143677, "coord_y": 38.229007, "created_at": "2013\/03\/23", "h_m_s": "1:9:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:9:53" }, "geometry": { "type": "Point", "coordinates": [ -86.143677, 38.229007 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gonna watch Degrassi until I k.o.!", "user": "Brianna21_", "location": "Carolina(:", "coord_x": -81.265443, "coord_y": 33.357681, "created_at": "2013\/03\/23", "h_m_s": "1:10:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:10:35" }, "geometry": { "type": "Point", "coordinates": [ -81.265443, 33.357682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If I was @FifiCoyne I would be scared too #Degrassi", "user": "Nessie1797", "location": "Tortonto", "coord_x": -79.288699, "coord_y": 43.716355, "created_at": "2013\/03\/23", "h_m_s": "1:13:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:13:10" }, "geometry": { "type": "Point", "coordinates": [ -79.288699, 43.716355 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi Fiona can kick some butt", "user": "vont21", "location": "Mckeesport PA", "coord_x": -79.851897, "coord_y": 40.344184, "created_at": "2013\/03\/23", "h_m_s": "1:16:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:16:29" }, "geometry": { "type": "Point", "coordinates": [ -79.851897, 40.344184 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching degrassi (:", "user": "breemarie1989", "location": "", "coord_x": -76.814814, "coord_y": 42.083586, "created_at": "2013\/03\/23", "h_m_s": "1:16:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:16:40" }, "geometry": { "type": "Point", "coordinates": [ -76.814814, 42.083586 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Degrassi", "user": "Jay360X", "location": "JAMAICA", "coord_x": -79.195807, "coord_y": 43.791845, "created_at": "2013\/03\/23", "h_m_s": "1:16:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:16:43" }, "geometry": { "type": "Point", "coordinates": [ -79.195807, 43.791845 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@raee_raee3 after Cam (sexy god from heaven) died I refuse to watch Degrassi ever again.", "user": "Lenaabooo", "location": "yo pants", "coord_x": -88.753276, "coord_y": 37.301519, "created_at": "2013\/03\/23", "h_m_s": "1:21:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:21:24" }, "geometry": { "type": "Point", "coordinates": [ -88.753276, 37.301519 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "See this is why white wonder bread ppl can't survive in the hood #Degrassi", "user": "Jay360X", "location": "JAMAICA", "coord_x": -79.195811, "coord_y": 43.791885, "created_at": "2013\/03\/23", "h_m_s": "1:23:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:23:12" }, "geometry": { "type": "Point", "coordinates": [ -79.195811, 43.791885 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fionnnaaa you idioottt #darkalleysarebad #degrassi", "user": "LAlten96", "location": "Hillsboro, IL", "coord_x": -89.504685, "coord_y": 39.149143, "created_at": "2013\/03\/23", "h_m_s": "1:24:7", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:24:8" }, "geometry": { "type": "Point", "coordinates": [ -89.504685, 39.149143 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Degrassi .. :-)", "user": "RideOrDie_24", "location": "malibu California", "coord_x": -74.261057, "coord_y": 40.648949, "created_at": "2013\/03\/23", "h_m_s": "1:24:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:24:37" }, "geometry": { "type": "Point", "coordinates": [ -74.261057, 40.648949 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi ?", "user": "CandicePalvin", "location": "M O D E L I N G", "coord_x": -74.446102, "coord_y": 41.432837, "created_at": "2013\/03\/23", "h_m_s": "1:25:18", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:25:19" }, "geometry": { "type": "Point", "coordinates": [ -74.446102, 41.432837 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It was all Dallas fault #Careless #Degrassi", "user": "Jay360X", "location": "JAMAICA", "coord_x": -79.196025, "coord_y": 43.791830, "created_at": "2013\/03\/23", "h_m_s": "1:26:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:26:59" }, "geometry": { "type": "Point", "coordinates": [ -79.196025, 43.791830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Degrassi @FifiCoyne @ImogenImagines So cute together on the show :)", "user": "luke226276", "location": "Mississauga, ON", "coord_x": -79.760506, "coord_y": 43.566744, "created_at": "2013\/03\/23", "h_m_s": "1:30:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:30:53" }, "geometry": { "type": "Point", "coordinates": [ -79.760506, 43.566744 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #Degrassi y idk", "user": "Lovemekeshia", "location": "Philadelphia,pa", "coord_x": -75.691274, "coord_y": 38.182764, "created_at": "2013\/03\/23", "h_m_s": "1:32:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:32:33" }, "geometry": { "type": "Point", "coordinates": [ -75.691274, 38.182764 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi ???? #degrassi", "user": "SheldonDavis8", "location": "Mifflinburg, Pa", "coord_x": -77.013684, "coord_y": 40.906073, "created_at": "2013\/03\/23", "h_m_s": "1:39:18", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:39:18" }, "geometry": { "type": "Point", "coordinates": [ -77.013684, 40.906073 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Zube zube zoo #Degrassi", "user": "xnaturee", "location": "Trilla Killa Villa", "coord_x": -96.667852, "coord_y": 32.745031, "created_at": "2013\/03\/23", "h_m_s": "1:45:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:45:30" }, "geometry": { "type": "Point", "coordinates": [ -96.667852, 32.745031 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I can't even talk about how stupid the new degrassi is", "user": "nneghan", "location": "Maryland", "coord_x": -76.515413, "coord_y": 39.398184, "created_at": "2013\/03\/23", "h_m_s": "1:45:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:45:58" }, "geometry": { "type": "Point", "coordinates": [ -76.515413, 39.398184 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheRock a character on the awesome show #Degrassi named his son Rock, after you.", "user": "arghpiratejade", "location": "Sacramento, California", "coord_x": -121.424971, "coord_y": 38.494058, "created_at": "2013\/03\/23", "h_m_s": "1:49:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:49:7" }, "geometry": { "type": "Point", "coordinates": [ -121.424971, 38.494058 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JoshMillette15 started from Degrassi on a chair", "user": "Orseenee401", "location": "CT", "coord_x": -71.902634, "coord_y": 41.799313, "created_at": "2013\/03\/23", "h_m_s": "1:52:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:52:48" }, "geometry": { "type": "Point", "coordinates": [ -71.902634, 41.799313 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Degrassi They travel the world solving mysteries!", "user": "arghpiratejade", "location": "Sacramento, California", "coord_x": -121.425185, "coord_y": 38.494143, "created_at": "2013\/03\/23", "h_m_s": "1:53:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:53:43" }, "geometry": { "type": "Point", "coordinates": [ -121.425185, 38.494143 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started from degrassi in a chair", "user": "BillyYeatman", "location": "", "coord_x": -76.644732, "coord_y": 39.136766, "created_at": "2013\/03\/23", "h_m_s": "1:53:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:53:50" }, "geometry": { "type": "Point", "coordinates": [ -76.644732, 39.136766 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi is still gay though", "user": "nneghan", "location": "Maryland", "coord_x": -76.515409, "coord_y": 39.398483, "created_at": "2013\/03\/23", "h_m_s": "1:55:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:55:48" }, "geometry": { "type": "Point", "coordinates": [ -76.515409, 39.398483 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi my shit", "user": "bull_frawg", "location": "SouthSide Of The Pond, TX", "coord_x": -94.795710, "coord_y": 32.157749, "created_at": "2013\/03\/23", "h_m_s": "1:58:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:58:41" }, "geometry": { "type": "Point", "coordinates": [ -94.795710, 32.157749 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Go to youtube and type jimmy from degrassi...you might not listen to his music anymore but ur night will be made", "user": "NTadde007", "location": "", "coord_x": -73.332379, "coord_y": 40.729233, "created_at": "2013\/03\/23", "h_m_s": "1:59:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:59:39" }, "geometry": { "type": "Point", "coordinates": [ -73.332379, 40.729233 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why did I miss Degrassi for this that's the real question", "user": "zoemcmahon", "location": "ratchet city", "coord_x": -117.128907, "coord_y": 32.747377, "created_at": "2013\/03\/23", "h_m_s": "2:13:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:13:0" }, "geometry": { "type": "Point", "coordinates": [ -117.128907, 32.747377 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi should just go zombie &amp; bring @DylanEvz back as \"Zombie Cam\"..that'd be pretty sweet. A girl can dream.", "user": "nicolely1", "location": "Ireland.", "coord_x": -63.502718, "coord_y": 44.678120, "created_at": "2013\/03\/23", "h_m_s": "2:17:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:17:41" }, "geometry": { "type": "Point", "coordinates": [ -63.502718, 44.678120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@m_buccola14 omg, I have a fellow Degrassian?", "user": "Harmononie", "location": "The 952", "coord_x": -86.143502, "coord_y": 38.228911, "created_at": "2013\/03\/23", "h_m_s": "2:20:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:20:4" }, "geometry": { "type": "Point", "coordinates": [ -86.143502, 38.228911 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Degrassi me da diarrea mental. Whtvr.", "user": "ApoopMapanz", "location": "Puerto Rico", "coord_x": -65.868402, "coord_y": 18.373949, "created_at": "2013\/03\/23", "h_m_s": "2:22:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:22:30" }, "geometry": { "type": "Point", "coordinates": [ -65.868402, 18.373949 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@m_buccola14 I love Degrassi! I have been watching it forever. I'm not alone.", "user": "Harmononie", "location": "The 952", "coord_x": -86.143632, "coord_y": 38.228988, "created_at": "2013\/03\/23", "h_m_s": "2:39:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:39:13" }, "geometry": { "type": "Point", "coordinates": [ -86.143632, 38.228988 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching up on #Degrassi :))", "user": "FunSized1021", "location": "New Hyde park, NY", "coord_x": -73.692070, "coord_y": 40.736667, "created_at": "2013\/03\/23", "h_m_s": "2:53:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:53:37" }, "geometry": { "type": "Point", "coordinates": [ -73.692070, 40.736667 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've gotta watch this new episode of Degrassi though.\n#sotired #Degrassi", "user": "NaynaLynnA", "location": "", "coord_x": -94.626302, "coord_y": 35.164582, "created_at": "2013\/03\/23", "h_m_s": "3:16:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:16:29" }, "geometry": { "type": "Point", "coordinates": [ -94.626302, 35.164582 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "*watching Degrassi* \"Guilty as charged! (Wink)\" bahahahahaha @Airika0706 @ashley_deyoung1", "user": "AmberDeYoung", "location": "http:\/\/pbandj11.tumblr.com\/", "coord_x": -87.706118, "coord_y": 41.780426, "created_at": "2013\/03\/23", "h_m_s": "3:32:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:32:1" }, "geometry": { "type": "Point", "coordinates": [ -87.706118, 41.780426 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@T2Wade I'm gonna after this new episode of Degrassi! Lol", "user": "NaynaLynnA", "location": "", "coord_x": -94.626302, "coord_y": 35.164582, "created_at": "2013\/03\/23", "h_m_s": "3:34:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:34:1" }, "geometry": { "type": "Point", "coordinates": [ -94.626302, 35.164582 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#degrassi time!", "user": "RaaazyJ", "location": "Herriman, Ut", "coord_x": -112.003660, "coord_y": 40.531479, "created_at": "2013\/03\/23", "h_m_s": "3:45:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:45:29" }, "geometry": { "type": "Point", "coordinates": [ -112.003660, 40.531479 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started from Degrassi in a chair", "user": "MackenzieErin9", "location": "", "coord_x": -71.333568, "coord_y": 42.642700, "created_at": "2013\/03\/23", "h_m_s": "4:46:11", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:46:11" }, "geometry": { "type": "Point", "coordinates": [ -71.333568, 42.642700 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jilly_stein69 didn't know jimmy from degrassi is Drake....... ?? #mindblown", "user": "Esquared92", "location": "Statesboro, GA", "coord_x": -86.384001, "coord_y": 30.384882, "created_at": "2013\/03\/23", "h_m_s": "5:18:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:18:35" }, "geometry": { "type": "Point", "coordinates": [ -86.384001, 30.384882 ] } }
+
+]
+}

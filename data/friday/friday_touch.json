@@ -1,0 +1,73 @@
+var touch = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Eto nastoyawweye q.... !!! #marlboro #shit #touch @ Calipso http:\/\/t.co\/PD0vg02pvp", "user": "SattarTagiyev", "location": "Azerbaijan,Baku", "coord_x": 48.976552, "coord_y": 39.591762, "created_at": "2013\/03\/22", "h_m_s": "16:53:34", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:53:34" }, "geometry": { "type": "Point", "coordinates": [ 48.976552, 39.591762 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#touch é lindo demais", "user": "glaulobato", "location": "", "coord_x": -51.070617, "coord_y": 0.036681, "created_at": "2013\/03\/22", "h_m_s": "17:52:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:52:31" }, "geometry": { "type": "Point", "coordinates": [ -51.070617, 0.036681 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TOUCHonTV will be there with my pizza!!!! ;) #Excited for #TOUCHonTV", "user": "SherLibraLady59", "location": "NE Illinois, USA", "coord_x": -87.980554, "coord_y": 42.239131, "created_at": "2013\/03\/22", "h_m_s": "19:52:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:52:10" }, "geometry": { "type": "Point", "coordinates": [ -87.980554, 42.239131 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#touch!!!", "user": "orangesquashuk", "location": "Wales, UK", "coord_x": -3.161420, "coord_y": 51.678195, "created_at": "2013\/03\/22", "h_m_s": "20:26:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:27:50" }, "geometry": { "type": "Point", "coordinates": [ -3.161420, 51.678195 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Touch 2 Working in Progress  !!! Touch &amp; GO !!! R U Ready Florence !!! #restaurant #touch #florence… http:\/\/t.co\/ulVTgKvQYd", "user": "MaxAmini", "location": "Firenze", "coord_x": 11.269761, "coord_y": 43.763520, "created_at": "2013\/03\/22", "h_m_s": "21:11:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:11:24" }, "geometry": { "type": "Point", "coordinates": [ 11.269761, 43.763520 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Touch Take Away &amp; Lunch !! #touch #tripadvisor #florence @ Touch Florence http:\/\/t.co\/dgJOKUpIJ1", "user": "MaxAmini", "location": "Firenze", "coord_x": 11.263202, "coord_y": 43.772333, "created_at": "2013\/03\/22", "h_m_s": "21:31:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:31:30" }, "geometry": { "type": "Point", "coordinates": [ 11.263202, 43.772333 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "People Beach :) !!! @fabioviviani @chefpaolone #touch #florence #restaurant  #wine #boom @ Touch Florence http:\/\/t.co\/R58RyyDpbD", "user": "MaxAmini", "location": "Firenze", "coord_x": 11.263202, "coord_y": 43.772333, "created_at": "2013\/03\/22", "h_m_s": "22:13:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:13:29" }, "geometry": { "type": "Point", "coordinates": [ 11.263202, 43.772333 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Touch cap. 94 (nuevo opening &lt;3)! (@ FuaNiHouse &lt;(''&lt;)) [pic]: http:\/\/t.co\/FhZh0IuTtk", "user": "fuani_chan", "location": "Santiago de Chile, Maipú", "coord_x": -70.770364, "coord_y": -33.496725, "created_at": "2013\/03\/22", "h_m_s": "23:1:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:1:3" }, "geometry": { "type": "Point", "coordinates": [ -70.770364, -33.496725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spuntìno di Mezzanotte !! #touch #florence #chef #cook @ Touch Florence http:\/\/t.co\/Pr0uw2wM6p", "user": "MaxAmini", "location": "Firenze", "coord_x": 11.263202, "coord_y": 43.772333, "created_at": "2013\/03\/22", "h_m_s": "23:25:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:25:9" }, "geometry": { "type": "Point", "coordinates": [ 11.263202, 43.772333 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@andrewhowson #touch #me http:\/\/t.co\/K0ijqYJ4Fj", "user": "jessyay", "location": "wrexham\/aberystwyth", "coord_x": -4.063522, "coord_y": 52.419787, "created_at": "2013\/03\/23", "h_m_s": "0:15:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:15:45" }, "geometry": { "type": "Point", "coordinates": [ -4.063522, 52.419787 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Touch is on in 4 minutes.  Who's watching with me?", "user": "PBMom", "location": "The Woodlands, Texas", "coord_x": -95.466571, "coord_y": 30.119873, "created_at": "2013\/03\/23", "h_m_s": "0:57:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:57:2" }, "geometry": { "type": "Point", "coordinates": [ -95.466571, 30.119873 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Touch starts in a few minutes. Watch it on PrismTV.", "user": "CenturyLinkCFL", "location": "Central Florida", "coord_x": -81.432881, "coord_y": 28.649372, "created_at": "2013\/03\/23", "h_m_s": "0:57:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:57:42" }, "geometry": { "type": "Point", "coordinates": [ -81.432881, 28.649372 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#TOUCH", "user": "talksalot95", "location": "", "coord_x": -78.434013, "coord_y": 36.259365, "created_at": "2013\/03\/23", "h_m_s": "1:0:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:0:50" }, "geometry": { "type": "Point", "coordinates": [ -78.434013, 36.259365 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#WooHoo a new @TOUCHonTV  is on. K and I loooove this show!!!!", "user": "vabniullga", "location": "Halifax, PA", "coord_x": -76.963928, "coord_y": 40.514528, "created_at": "2013\/03\/23", "h_m_s": "1:2:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:2:48" }, "geometry": { "type": "Point", "coordinates": [ -76.963928, 40.514528 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I knew it!  #Touch", "user": "PBMom", "location": "The Woodlands, Texas", "coord_x": -95.466093, "coord_y": 30.120018, "created_at": "2013\/03\/23", "h_m_s": "1:3:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:3:8" }, "geometry": { "type": "Point", "coordinates": [ -95.466093, 30.120018 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Everyone better be watching @TOUCHonTV or you're missing out an amazing television show!", "user": "AmorAleu", "location": "Saint Joseph, MO", "coord_x": -94.781885, "coord_y": 39.741711, "created_at": "2013\/03\/23", "h_m_s": "1:8:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:8:41" }, "geometry": { "type": "Point", "coordinates": [ -94.781885, 39.741711 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Now Watching @TOUCHonTV", "user": "LilBabyPennach", "location": "", "coord_x": -75.723756, "coord_y": 39.600248, "created_at": "2013\/03\/23", "h_m_s": "1:8:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:8:42" }, "geometry": { "type": "Point", "coordinates": [ -75.723756, 39.600248 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jake: \"I found you.........\" Aww!!! @TOUCHonTV", "user": "AmorAleu", "location": "Saint Joseph, MO", "coord_x": -94.784506, "coord_y": 39.737074, "created_at": "2013\/03\/23", "h_m_s": "1:18:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:18:8" }, "geometry": { "type": "Point", "coordinates": [ -94.784506, 39.737075 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Lady_Aleena He just talked.  Growing quickly b #Touch", "user": "PBMom", "location": "The Woodlands, Texas", "coord_x": -95.466112, "coord_y": 30.120234, "created_at": "2013\/03\/23", "h_m_s": "1:24:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:24:6" }, "geometry": { "type": "Point", "coordinates": [ -95.466112, 30.120234 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Always follow Jake, he always knows where he's going @TOUCHonTV", "user": "AmorAleu", "location": "Saint Joseph, MO", "coord_x": -94.786519, "coord_y": 39.742505, "created_at": "2013\/03\/23", "h_m_s": "1:35:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:35:22" }, "geometry": { "type": "Point", "coordinates": [ -94.786519, 39.742505 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yay!!!!! You guys got Amelia back!!!! @TOUCHonTV", "user": "AmorAleu", "location": "Saint Joseph, MO", "coord_x": -94.785261, "coord_y": 39.739111, "created_at": "2013\/03\/23", "h_m_s": "1:50:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:50:33" }, "geometry": { "type": "Point", "coordinates": [ -94.785261, 39.739111 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There was an invisible knight who served a silent king. #touch #mynewaddiction #fox", "user": "hopeandheart_", "location": "West Sand Lake, NY", "coord_x": -73.609879, "coord_y": 42.513528, "created_at": "2013\/03\/23", "h_m_s": "1:51:5", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:51:5" }, "geometry": { "type": "Point", "coordinates": [ -73.609879, 42.513528 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yay! Amelia found her mom!! #touch", "user": "talksalot95", "location": "", "coord_x": -78.410596, "coord_y": 36.287367, "created_at": "2013\/03\/23", "h_m_s": "1:52:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:52:3" }, "geometry": { "type": "Point", "coordinates": [ -78.410596, 36.287367 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "they killed off Amelia's mother :o #touch", "user": "Jessicadance14", "location": "", "coord_x": -76.892022, "coord_y": 45.733663, "created_at": "2013\/03\/23", "h_m_s": "2:0:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:0:42" }, "geometry": { "type": "Point", "coordinates": [ -76.892022, 45.733663 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@RealKiefer #Touch was so great tonight!  Didn't think I could like a show as much as 24, but Touch is excellent!", "user": "ctblondie", "location": "CT", "coord_x": -72.859322, "coord_y": 41.306261, "created_at": "2013\/03\/23", "h_m_s": "2:1:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:1:56" }, "geometry": { "type": "Point", "coordinates": [ -72.859322, 41.306261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@kMAYp10: She had like 10 minutes with her daughter then was shot dead in the desert. #touch” really f***ed up ;-(", "user": "TimmellDontrell", "location": "Jersey City, NJ", "coord_x": -74.084017, "coord_y": 40.710912, "created_at": "2013\/03\/23", "h_m_s": "2:3:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:3:39" }, "geometry": { "type": "Point", "coordinates": [ -74.084017, 40.710912 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nothing like a mothers love. #touch", "user": "TimmellDontrell", "location": "Jersey City, NJ", "coord_x": -74.087051, "coord_y": 40.713037, "created_at": "2013\/03\/23", "h_m_s": "2:5:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:5:31" }, "geometry": { "type": "Point", "coordinates": [ -74.087051, 40.713037 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ultimo #touch tweet. Me niego a creer lo que acaba de pasar! Esque no.. Just no #ICANTDEAL", "user": "clauisru", "location": "Puerto Rico", "coord_x": -66.115160, "coord_y": 18.396605, "created_at": "2013\/03\/23", "h_m_s": "2:18:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:18:45" }, "geometry": { "type": "Point", "coordinates": [ -66.115160, 18.396605 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pain. As humans we are conditioned to do anything and everything to avoid it. #Touch @TOUCHonTV", "user": "klmnCstll", "location": "I'm right over here. Xp", "coord_x": -69.931667, "coord_y": 18.446600, "created_at": "2013\/03\/23", "h_m_s": "2:43:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:43:33" }, "geometry": { "type": "Point", "coordinates": [ -69.931666, 18.446600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@FOXTV #Touch is the most amazing show I've ever seen. Is it next Friday yet? @Keif_Sutherland = favorite actor of all time! #amazing", "user": "richosphotos", "location": "ÜT: 42.223952,-71.028534", "coord_x": -70.921689, "coord_y": 42.125995, "created_at": "2013\/03\/23", "h_m_s": "2:49:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:49:6" }, "geometry": { "type": "Point", "coordinates": [ -70.921689, 42.125995 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Poor Kiefer Sutherland always seems like he needs a throat lozenge. #touch", "user": "wldavis", "location": "Utah", "coord_x": -111.727190, "coord_y": 40.357035, "created_at": "2013\/03\/23", "h_m_s": "3:58:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:58:0" }, "geometry": { "type": "Point", "coordinates": [ -111.727190, 40.357035 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wonder why that guy would change his mind and want to kill them all if he's one of the 36 !! :-| #Touch @TOUCHonTV", "user": "klmnCstll", "location": "I'm right over here. Xp", "coord_x": -69.931667, "coord_y": 18.446600, "created_at": "2013\/03\/23", "h_m_s": "4:12:58", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:12:58" }, "geometry": { "type": "Point", "coordinates": [ -69.931666, 18.446600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@TOUCHonTV: RT if you're watching #touch tonight! http:\/\/t.co\/BdqxE7G8M5\"", "user": "klmnCstll", "location": "I'm right over here. Xp", "coord_x": -69.931667, "coord_y": 18.446600, "created_at": "2013\/03\/23", "h_m_s": "4:13:45", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:13:45" }, "geometry": { "type": "Point", "coordinates": [ -69.931666, 18.446600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Going to sleep tight after watching #Touch online.. Almost catching up xp wondering what's gonna happen next!? @TOUCHonTV", "user": "klmnCstll", "location": "I'm right over here. Xp", "coord_x": -69.931667, "coord_y": 18.446600, "created_at": "2013\/03\/23", "h_m_s": "4:29:1", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:29:1" }, "geometry": { "type": "Point", "coordinates": [ -69.931666, 18.446600 ] } }
+
+]
+}

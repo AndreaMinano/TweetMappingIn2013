@@ -1,0 +1,23 @@
+var lastman = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "“@PartonKevin: Wish I was feeling better for the rugby tomorrow come on ebbw vale and do valleys rugby proud” big wuss. Last man standing?", "user": "ij1971", "location": "ebbw vale", "coord_x": -3.199610, "coord_y": 51.758354, "created_at": "2013\/03\/22", "h_m_s": "18:42:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:42:46" }, "geometry": { "type": "Point", "coordinates": [ -3.199610, 51.758354 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Last Man Standing... pretty funny show", "user": "Freeman_Em", "location": "", "coord_x": -82.669946, "coord_y": 27.892442, "created_at": "2013\/03\/22", "h_m_s": "18:53:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:53:40" }, "geometry": { "type": "Point", "coordinates": [ -82.669946, 27.892442 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So. The last man standing is the one with most charge in their phone", "user": "inapudgeofmeown", "location": "Belfast", "coord_x": -5.930389, "coord_y": 54.591990, "created_at": "2013\/03\/22", "h_m_s": "19:40:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:40:38" }, "geometry": { "type": "Point", "coordinates": [ -5.930389, 54.591990 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@WCJB20: Tonight is the season finale of Last Man Standing, and Jonathan Taylor Thomas guest stars! - my preteen crush ?? had posters of him", "user": "cassmay725", "location": "Gainesville, FL", "coord_x": -82.386508, "coord_y": 29.693505, "created_at": "2013\/03\/22", "h_m_s": "21:50:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:50:40" }, "geometry": { "type": "Point", "coordinates": [ -82.386508, 29.693505 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Je viens de regarder Last Man Standing (2011) S02E11 : Mike's Pole - https:\/\/t.co\/sanlSCVXI6", "user": "tagmc", "location": "", "coord_x": 6.451938, "coord_y": 48.554763, "created_at": "2013\/03\/22", "h_m_s": "22:43:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:43:23" }, "geometry": { "type": "Point", "coordinates": [ 6.451938, 48.554763 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So mad so now I'm gonna try and calm down with last man standing....", "user": "OHitsDaCrazyCat", "location": "Somewhere Over The Rainbow?", "coord_x": -75.752467, "coord_y": 42.856366, "created_at": "2013\/03\/23", "h_m_s": "0:28:5", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:28:5" }, "geometry": { "type": "Point", "coordinates": [ -75.752467, 42.856366 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@courierchris sheesh I hope so. Carrying the flag for the Big East. Last man standing", "user": "JoeMcCann3", "location": "Fort Worth, TX", "coord_x": -97.298755, "coord_y": 32.927241, "created_at": "2013\/03\/23", "h_m_s": "4:8:11", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:8:11" }, "geometry": { "type": "Point", "coordinates": [ -97.298755, 32.927241 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "?????????????? Super Man ??????????? ????????? ???????????????????????? -0- ~~~  ????!!! ????? ???? !!!! .... \"THE LAST MAN STANDING\"", "user": "QuizerSmil3", "location": "???????????????????", "coord_x": 101.091611, "coord_y": 13.451118, "created_at": "2013\/03\/23", "h_m_s": "4:28:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:28:36" }, "geometry": { "type": "Point", "coordinates": [ 101.091611, 13.451118 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Last man standing", "user": "CodyHarper91", "location": "Oxford Michigan", "coord_x": -83.136809, "coord_y": 42.814931, "created_at": "2013\/03\/23", "h_m_s": "4:56:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:56:0" }, "geometry": { "type": "Point", "coordinates": [ -83.136809, 42.814931 ] } }
+
+]
+}

@@ -1,0 +1,59 @@
+var jayleno = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "If Jimmy Fallon takes over the Tonight Show, how long will it take for Jay Leno to say he wants his job back?", "user": "sarahherring", "location": "Valdosta, GA", "coord_x": -84.031118, "coord_y": 34.006777, "created_at": "2013\/03\/22", "h_m_s": "15:52:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:52:9" }, "geometry": { "type": "Point", "coordinates": [ -84.031118, 34.006777 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": ". @nbc your trying to shove out Jay Leno again?! You can't kill Leno. He will keep coming back. Bigger. Stronger. http:\/\/t.co\/sRI0fSasSa", "user": "PeterKirkNYC", "location": "New York", "coord_x": -74.011661, "coord_y": 40.702385, "created_at": "2013\/03\/22", "h_m_s": "16:18:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:18:55" }, "geometry": { "type": "Point", "coordinates": [ -74.011661, 40.702385 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "tonight show with jay leno.. @DJBonics will be on.. watch it", "user": "alanfan", "location": "worldwide", "coord_x": -73.993202, "coord_y": 40.737236, "created_at": "2013\/03\/22", "h_m_s": "16:40:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:40:58" }, "geometry": { "type": "Point", "coordinates": [ -73.993202, 40.737236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vai tarde, queixudo “@folha_com: Aposentadoria de Jay Leno provoca onda de mudanças nas noites da TV americana. http:\/\/t.co\/4Md6fqN3RP”", "user": "rcrisa", "location": "RJ, Brasil", "coord_x": -43.180133, "coord_y": -22.949178, "created_at": "2013\/03\/22", "h_m_s": "16:47:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:47:59" }, "geometry": { "type": "Point", "coordinates": [ -43.180133, -22.949178 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Great job @TheRock promoting the wwe going into mania on the tonight show with jay Leno #not why the hell are you even champion", "user": "hhhguy2004", "location": "", "coord_x": -71.428302, "coord_y": 43.374019, "created_at": "2013\/03\/22", "h_m_s": "17:35:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:35:1" }, "geometry": { "type": "Point", "coordinates": [ -71.428302, 43.374019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Is NBC Fallon on its Sword?: NEW YORK - \"The Tonight Show with Jay Leno\" is one of the few remaining successful... http:\/\/t.co\/VkRo6kc4jU", "user": "PhiladelphiaCP", "location": "Philadelphia", "coord_x": -75.166455, "coord_y": 39.939978, "created_at": "2013\/03\/22", "h_m_s": "17:37:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:37:36" }, "geometry": { "type": "Point", "coordinates": [ -75.166455, 39.939978 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@erikritland Fuck Jay Leno.", "user": "Falborg", "location": "AZZ EVERYWHERE", "coord_x": -93.170142, "coord_y": 45.023339, "created_at": "2013\/03\/22", "h_m_s": "18:25:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:25:47" }, "geometry": { "type": "Point", "coordinates": [ -93.170142, 45.023339 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jimmy Fallon doesn't deserve The Tonight Show. But neither did Jay Leno.", "user": "JoeIsInTheCloud", "location": "South Florida", "coord_x": -80.293544, "coord_y": 25.776740, "created_at": "2013\/03\/22", "h_m_s": "19:54:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:54:33" }, "geometry": { "type": "Point", "coordinates": [ -80.293544, 25.776740 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wiz is on Jay Leno tonight", "user": "TheTonyBrooks", "location": "Chicago, IL", "coord_x": -88.440690, "coord_y": 41.641439, "created_at": "2013\/03\/22", "h_m_s": "20:18:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:20:12" }, "geometry": { "type": "Point", "coordinates": [ -88.440690, 41.641439 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jendog310 likes Jay Leno. #worstmom", "user": "ZachSerrano", "location": "Sioux Falls\/Boca Raton", "coord_x": -96.738488, "coord_y": 43.526690, "created_at": "2013\/03\/22", "h_m_s": "21:8:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:8:4" }, "geometry": { "type": "Point", "coordinates": [ -96.738488, 43.526690 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jay Leno show #excited", "user": "WuddupSexy_", "location": "Trevor Foley is my bitch", "coord_x": -118.326964, "coord_y": 34.154727, "created_at": "2013\/03\/22", "h_m_s": "21:12:0", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:12:0" }, "geometry": { "type": "Point", "coordinates": [ -118.326964, 34.154727 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Joan Rivers needs to hang it up. I like Jay Leno better than her. She is rude and not even entertaining", "user": "CindyCorreia5", "location": "Massachusetts", "coord_x": -70.757514, "coord_y": 41.784650, "created_at": "2013\/03\/22", "h_m_s": "23:16:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:16:33" }, "geometry": { "type": "Point", "coordinates": [ -70.757514, 41.784650 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@HuffingtonPost: Jimmy Fallon and Jay Leno get animated http:\/\/t.co\/GjxW2DnNWk” what a strange video.", "user": "Richie_Barta", "location": "Minneapolis, Minnesota", "coord_x": -93.245517, "coord_y": 44.971081, "created_at": "2013\/03\/22", "h_m_s": "23:20:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:20:41" }, "geometry": { "type": "Point", "coordinates": [ -93.245517, 44.971081 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think I'm sitting next to Jay Leno.", "user": "jordanpotter_", "location": "Michigan", "coord_x": -83.206259, "coord_y": 42.282117, "created_at": "2013\/03\/22", "h_m_s": "23:58:18", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:58:18" }, "geometry": { "type": "Point", "coordinates": [ -83.206259, 42.282117 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jay Leno is complaining about his bill.", "user": "jordanpotter_", "location": "Michigan", "coord_x": -83.206112, "coord_y": 42.282149, "created_at": "2013\/03\/23", "h_m_s": "0:1:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:1:21" }, "geometry": { "type": "Point", "coordinates": [ -83.206111, 42.282149 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jay Leno is talking about Internet safety.", "user": "jordanpotter_", "location": "Michigan", "coord_x": -83.215624, "coord_y": 42.281307, "created_at": "2013\/03\/23", "h_m_s": "0:3:29", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:3:29" }, "geometry": { "type": "Point", "coordinates": [ -83.215624, 42.281307 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Def proof rt doesn't get good comedy @politico: ICYMI -- Some see political fallout in a possible Jay Leno exit http:\/\/t.co\/1Fnb2t5k3I”", "user": "ghayes4", "location": "Sacramento, CA", "coord_x": -121.389919, "coord_y": 38.570511, "created_at": "2013\/03\/23", "h_m_s": "2:18:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:18:12" }, "geometry": { "type": "Point", "coordinates": [ -121.389919, 38.570511 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HuffingtonPost jimmy is taking over jay lenos slot you fucktards. Read the article before you freak out... #subtweet", "user": "narlyyone", "location": "Buffalo, New York", "coord_x": -78.699036, "coord_y": 42.896156, "created_at": "2013\/03\/23", "h_m_s": "2:26:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:26:21" }, "geometry": { "type": "Point", "coordinates": [ -78.699036, 42.896156 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@Hoop4life10: After I watch @wizkhalifa on the jay leno show then I'm going to sleep”", "user": "Drizzy1015", "location": "Brownsville , PA", "coord_x": -79.901340, "coord_y": 40.025545, "created_at": "2013\/03\/23", "h_m_s": "3:7:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:7:57" }, "geometry": { "type": "Point", "coordinates": [ -79.901340, 40.025545 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Has there ever been a bigger sore loser &amp; baby than Jay Leno? You couldn't recreate the ratings after the shady deal you pulled. Step Aside.", "user": "CW44CouchPotato", "location": "Tampa Bay", "coord_x": -82.313767, "coord_y": 27.789017, "created_at": "2013\/03\/23", "h_m_s": "3:24:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:24:46" }, "geometry": { "type": "Point", "coordinates": [ -82.313767, 27.789017 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@pmazzone Paul Jolleys gonna be on Jay Leno tonight, it just came on", "user": "marinamazz1", "location": "s. jersey, s. phila", "coord_x": -75.174651, "coord_y": 39.776721, "created_at": "2013\/03\/23", "h_m_s": "3:36:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:36:22" }, "geometry": { "type": "Point", "coordinates": [ -75.174651, 39.776721 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Ruel_510 booty poppin on jay leno", "user": "itsLoftyyyy", "location": "Santa Barbara, CA", "coord_x": -120.532751, "coord_y": 34.748190, "created_at": "2013\/03\/23", "h_m_s": "4:3:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:3:39" }, "geometry": { "type": "Point", "coordinates": [ -120.532751, 34.748190 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wiz Khalifa &amp; Akon performing Let It Go on Jay Leno!", "user": "JayTee_35", "location": "Somewhere chilling with God :)", "coord_x": -99.487287, "coord_y": 27.550238, "created_at": "2013\/03\/23", "h_m_s": "4:30:10", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:30:10" }, "geometry": { "type": "Point", "coordinates": [ -99.487287, 27.550239 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Is Akon really on Jay Leno right now", "user": "that1arab", "location": "Florissant, MO", "coord_x": -90.345258, "coord_y": 38.799689, "created_at": "2013\/03\/23", "h_m_s": "4:33:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:33:30" }, "geometry": { "type": "Point", "coordinates": [ -90.345258, 38.799689 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Y'all know I has to catch my boy @wizkhalifa on Jay Leno though ?????", "user": "chrystina_28", "location": "Indiana", "coord_x": -86.248951, "coord_y": 41.644483, "created_at": "2013\/03\/23", "h_m_s": "4:35:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:35:32" }, "geometry": { "type": "Point", "coordinates": [ -86.248951, 41.644483 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@AlaalalaSalem but Jay Leno and Jimmy Fallon are so funny", "user": "that1arab", "location": "Florissant, MO", "coord_x": -90.345362, "coord_y": 38.799571, "created_at": "2013\/03\/23", "h_m_s": "4:39:47", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:39:47" }, "geometry": { "type": "Point", "coordinates": [ -90.345362, 38.799571 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "WIZ KHALIFA ON JAY LENO", "user": "zabinski0518", "location": "", "coord_x": -111.675561, "coord_y": 33.729775, "created_at": "2013\/03\/23", "h_m_s": "5:35:40", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:35:40" }, "geometry": { "type": "Point", "coordinates": [ -111.675561, 33.729775 ] } }
+
+]
+}

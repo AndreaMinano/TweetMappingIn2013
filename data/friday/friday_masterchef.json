@@ -1,0 +1,159 @@
+var masterchef = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "EXCLU : #AnneAlassane la gagnante de #MASTERCHEF Saison 1 sera dans le portrait de la semaine de #ThierryDemaiziere ! @TF1 #SeptAHuit #7a8", "user": "The_best_man_57", "location": "Metz", "coord_x": 6.078279, "coord_y": 49.074633, "created_at": "2013\/03\/22", "h_m_s": "15:53:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:53:28" }, "geometry": { "type": "Point", "coordinates": [ 6.078279, 49.074633 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MelissaaApp_100 love our masterchef dont we ;)", "user": "ChloeBeamanx", "location": "", "coord_x": -2.277989, "coord_y": 52.387476, "created_at": "2013\/03\/22", "h_m_s": "15:56:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "11:56:48" }, "geometry": { "type": "Point", "coordinates": [ -2.277989, 52.387476 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@RickyHardy yeah. It was a mistake getting them. Plus I'm watching masterchef and it was making me hungry", "user": "frangoddard", "location": "Leeds, Yorkshire.", "coord_x": -1.547985, "coord_y": 53.812045, "created_at": "2013\/03\/22", "h_m_s": "16:3:38", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:3:41" }, "geometry": { "type": "Point", "coordinates": [ -1.547985, 53.812045 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "MasterChef winner @matkiwi will be cooking at my place 8th &amp; 9th of April, I'll be there both nights drinking wine. tickets @GreggsBarGrill", "user": "GreggAWallace", "location": "London & Kent", "coord_x": -0.208513, "coord_y": 51.452663, "created_at": "2013\/03\/22", "h_m_s": "16:13:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:13:25" }, "geometry": { "type": "Point", "coordinates": [ -0.208513, 51.452663 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#masterchef not helping my cake desire", "user": "EllieRVC", "location": "London", "coord_x": -0.133039, "coord_y": 51.594897, "created_at": "2013\/03\/22", "h_m_s": "16:15:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:15:12" }, "geometry": { "type": "Point", "coordinates": [ -0.133039, 51.594897 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Going to feel like an orphan\/I've won Masterchef at sigur rós.", "user": "abicreakk", "location": "", "coord_x": -1.243710, "coord_y": 53.117364, "created_at": "2013\/03\/22", "h_m_s": "16:22:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:22:56" }, "geometry": { "type": "Point", "coordinates": [ -1.243710, 53.117364 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I should be on Masterchef http:\/\/t.co\/VkzOiDmpVt", "user": "ChloeAnne04", "location": "Brighton\/Occasionally London", "coord_x": -0.271702, "coord_y": 50.841113, "created_at": "2013\/03\/22", "h_m_s": "16:46:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:46:15" }, "geometry": { "type": "Point", "coordinates": [ -0.271702, 50.841113 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tackerrrrrrr we need some pics of masterchef.. U shd post some.. Jaldiiiiiiii.. @karantacker", "user": "simarpreetm", "location": "", "coord_x": 72.862740, "coord_y": 19.071810, "created_at": "2013\/03\/22", "h_m_s": "18:44:47", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:44:47" }, "geometry": { "type": "Point", "coordinates": [ 72.862740, 19.071810 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@charln1974 don't want to spoil the night, so may give that a miss and watch Masterchef instead Nik.", "user": "Drivin4Pleasure", "location": "UK", "coord_x": -0.008050, "coord_y": 53.363370, "created_at": "2013\/03\/22", "h_m_s": "18:57:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "14:57:41" }, "geometry": { "type": "Point", "coordinates": [ -0.008050, 53.363370 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Che pizza da masterchef http:\/\/t.co\/u1hbPszeJx", "user": "LudovicaVViotto", "location": "Venice-Italy", "coord_x": 12.573221, "coord_y": 45.604004, "created_at": "2013\/03\/22", "h_m_s": "19:2:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:2:43" }, "geometry": { "type": "Point", "coordinates": [ 12.573221, 45.604004 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pork Adobo for lunch. That my dad made. And he's white... #masterchef", "user": "Sirj_hacker", "location": "", "coord_x": -122.186424, "coord_y": 48.056193, "created_at": "2013\/03\/22", "h_m_s": "19:7:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:7:30" }, "geometry": { "type": "Point", "coordinates": [ -122.186424, 48.056193 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Making my speciality tonight, butternut squash risotto! #masterchef", "user": "SuzanneMartin91", "location": "Glasgow, Scotland", "coord_x": -4.287357, "coord_y": 55.876708, "created_at": "2013\/03\/22", "h_m_s": "19:16:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:16:7" }, "geometry": { "type": "Point", "coordinates": [ -4.287357, 55.876708 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "They've obviously heard of the Andrew Roux Jr #masterchef I've never been happier! Life is complete ! http:\/\/t.co\/JR12soRt2P", "user": "andrewjmball", "location": "", "coord_x": -0.092223, "coord_y": 51.656634, "created_at": "2013\/03\/22", "h_m_s": "19:36:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:36:16" }, "geometry": { "type": "Point", "coordinates": [ -0.092223, 51.656634 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@absolutelad_ they've just done sweetcorn custard on masterchef", "user": "sandracorbett", "location": "Isle of Lewis \/ Edinburgh", "coord_x": -3.186646, "coord_y": 55.948097, "created_at": "2013\/03\/22", "h_m_s": "19:45:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:45:1" }, "geometry": { "type": "Point", "coordinates": [ -3.186646, 55.948097 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In #Masterchef why does the kitchen never fill with smoke and the smoke alarm go off and Greg have to open the back door? #unrealistictv", "user": "neiljung_", "location": "On the sofa", "coord_x": -0.768550, "coord_y": 51.421820, "created_at": "2013\/03\/22", "h_m_s": "19:50:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:50:1" }, "geometry": { "type": "Point", "coordinates": [ -0.768550, 51.421820 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cooking a healthy tea for me + dad tonight #topdaughter #masterchef ????", "user": "CaraGlendinning", "location": "", "coord_x": -2.878617, "coord_y": 53.791205, "created_at": "2013\/03\/22", "h_m_s": "19:52:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:52:57" }, "geometry": { "type": "Point", "coordinates": [ -2.878617, 53.791205 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "9 year old; \"you can't be on #Masterchef mum, you don't even own a wok!\" #logical", "user": "Sparkie0201", "location": "Leicester", "coord_x": -1.092744, "coord_y": 52.604261, "created_at": "2013\/03\/22", "h_m_s": "19:59:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "15:59:20" }, "geometry": { "type": "Point", "coordinates": [ -1.092744, 52.604261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just made an aaamazing dinner of salmon, rice and grilled veggies! ??#healthy #masterchef", "user": "OohLa_X", "location": "Armadale, Scotland", "coord_x": 11.012404, "coord_y": 45.440103, "created_at": "2013\/03\/22", "h_m_s": "20:15:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:17:4" }, "geometry": { "type": "Point", "coordinates": [ 11.012404, 45.440103 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching australian masterchef masterclass. Its really good... #foodideas", "user": "sieveheads", "location": "North Oxfordshire", "coord_x": -1.125970, "coord_y": 51.873210, "created_at": "2013\/03\/22", "h_m_s": "20:17:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:19:22" }, "geometry": { "type": "Point", "coordinates": [ -1.125970, 51.873210 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love cooking programmes #Masterchef", "user": "Shawnyleigh1", "location": "Barnsley", "coord_x": -1.484454, "coord_y": 53.527332, "created_at": "2013\/03\/22", "h_m_s": "20:23:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:24:53" }, "geometry": { "type": "Point", "coordinates": [ -1.484454, 53.527332 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@LizB1977 glad your getting some relax time in. Make sure you catch plenty of Masterchef ok :) xx", "user": "wozzle_bezzle", "location": "Birmingham", "coord_x": -1.194021, "coord_y": 52.624170, "created_at": "2013\/03\/22", "h_m_s": "20:24:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:26:23" }, "geometry": { "type": "Point", "coordinates": [ -1.194021, 52.624170 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@LizB1977 even if you did he should share the remote and know the Masterchef is sacred and greater then a meh football match.", "user": "wozzle_bezzle", "location": "Birmingham", "coord_x": -1.193900, "coord_y": 52.624347, "created_at": "2013\/03\/22", "h_m_s": "20:28:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:29:42" }, "geometry": { "type": "Point", "coordinates": [ -1.193900, 52.624347 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@H0llymatthews #masterchef", "user": "danbycastle", "location": "Near Whitby, North Yorkshire", "coord_x": -0.895093, "coord_y": 54.455371, "created_at": "2013\/03\/22", "h_m_s": "20:29:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:31:26" }, "geometry": { "type": "Point", "coordinates": [ -0.895093, 54.455371 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Didn't realise masterchef was on tonight #bonus @MasterChefUK", "user": "katievictoria", "location": "London", "coord_x": -0.587673, "coord_y": 52.283494, "created_at": "2013\/03\/22", "h_m_s": "20:31:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:33:4" }, "geometry": { "type": "Point", "coordinates": [ -0.587673, 52.283494 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Know there's something wrong with your dad when he'd rather watch MasterChef than the football ??", "user": "JamesHowss", "location": "", "coord_x": -1.687343, "coord_y": 52.181345, "created_at": "2013\/03\/22", "h_m_s": "20:32:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:33:35" }, "geometry": { "type": "Point", "coordinates": [ -1.687343, 52.181345 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ruth_plays I'm loving it! Wine in hand watching Masterchef!", "user": "emzandrews", "location": "London", "coord_x": 0.270830, "coord_y": 51.560757, "created_at": "2013\/03\/22", "h_m_s": "20:32:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:33:44" }, "geometry": { "type": "Point", "coordinates": [ 0.270830, 51.560757 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Masterchef always makes me so hungry. I think I may actually be addicted to food. #Greedy", "user": "emma_venn", "location": "Ribble Valley", "coord_x": -2.542061, "coord_y": 53.774691, "created_at": "2013\/03\/22", "h_m_s": "20:33:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:34:26" }, "geometry": { "type": "Point", "coordinates": [ -2.542061, 53.774691 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Masterchef especially when Greg and John shove food in their mouth like they haven't eaten for weeks", "user": "x_xAmyMayx_x", "location": "Manchester", "coord_x": -2.077499, "coord_y": 53.390597, "created_at": "2013\/03\/22", "h_m_s": "20:35:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:35:55" }, "geometry": { "type": "Point", "coordinates": [ -2.077499, 53.390597 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "HELLO Ollie. #masterchef", "user": "NishaGorania", "location": "", "coord_x": -1.095849, "coord_y": 52.587412, "created_at": "2013\/03\/22", "h_m_s": "20:36:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:38:2" }, "geometry": { "type": "Point", "coordinates": [ -1.095849, 52.587413 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@siwi_fish nah watching masterchef now....more entertaining!", "user": "cmgille06", "location": "Essex (someone has to)", "coord_x": 0.513012, "coord_y": 51.716627, "created_at": "2013\/03\/22", "h_m_s": "20:37:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:38:41" }, "geometry": { "type": "Point", "coordinates": [ 0.513012, 51.716627 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love love love masterchef - but why always so much fish - hate it, more meat mmm!!!", "user": "jackie23cook", "location": "", "coord_x": 0.172293, "coord_y": 52.216750, "created_at": "2013\/03\/22", "h_m_s": "20:41:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:41:52" }, "geometry": { "type": "Point", "coordinates": [ 0.172293, 52.216750 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Masterchef seems far more exciting tonight.", "user": "SteveDyer1", "location": "Just small talk boh.", "coord_x": 1.006313, "coord_y": 51.341627, "created_at": "2013\/03\/22", "h_m_s": "20:42:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:42:13" }, "geometry": { "type": "Point", "coordinates": [ 1.006313, 51.341627 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The match has bored me, watching Masterchef instead", "user": "P_Oatzz", "location": "Unknown", "coord_x": -0.195140, "coord_y": 51.793036, "created_at": "2013\/03\/22", "h_m_s": "20:42:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:42:32" }, "geometry": { "type": "Point", "coordinates": [ -0.195140, 51.793036 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tuilles are always a waste of time. #Masterchef", "user": "Jja1987", "location": "Lancaster, England", "coord_x": -2.797598, "coord_y": 54.049783, "created_at": "2013\/03\/22", "h_m_s": "20:43:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:43:51" }, "geometry": { "type": "Point", "coordinates": [ -2.797598, 54.049783 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Masterchef n neud fi'n llwglyd!! #bwyd", "user": "elenlois", "location": "Wales", "coord_x": -3.666699, "coord_y": 53.172365, "created_at": "2013\/03\/22", "h_m_s": "20:44:7", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:44:11" }, "geometry": { "type": "Point", "coordinates": [ -3.666699, 53.172365 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "boredom has led to watching masterchef.. I hate this programme", "user": "claire_connelly", "location": "Rhoose", "coord_x": -3.346871, "coord_y": 51.390076, "created_at": "2013\/03\/22", "h_m_s": "20:44:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:44:23" }, "geometry": { "type": "Point", "coordinates": [ -3.346871, 51.390076 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Saf02 @pjfesta @masterchefuk what? Masterchef is on??", "user": "Jonno1975", "location": "", "coord_x": -1.258932, "coord_y": 51.334906, "created_at": "2013\/03\/22", "h_m_s": "20:46:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:46:28" }, "geometry": { "type": "Point", "coordinates": [ -1.258932, 51.334906 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Not sure I can cope with another 20 episodes of the already incredibly irritating Greg Wallace #Masterchef", "user": "erikah101", "location": "", "coord_x": -3.233611, "coord_y": 51.713737, "created_at": "2013\/03\/22", "h_m_s": "20:47:15", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:47:16" }, "geometry": { "type": "Point", "coordinates": [ -3.233611, 51.713737 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "MASTERCHEF!! ??", "user": "little_l1", "location": "?Here, there & everywhere...?", "coord_x": -0.791674, "coord_y": 52.255352, "created_at": "2013\/03\/22", "h_m_s": "20:48:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:48:10" }, "geometry": { "type": "Point", "coordinates": [ -0.791674, 52.255352 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bloody love a bit of MasterChef #foodheaven", "user": "littlun51", "location": "", "coord_x": -2.935184, "coord_y": 53.174585, "created_at": "2013\/03\/22", "h_m_s": "20:48:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:48:31" }, "geometry": { "type": "Point", "coordinates": [ -2.935184, 53.174585 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hope Claire and Ollie go through. #Masterchef", "user": "TheChrisHampton", "location": "Manchester", "coord_x": -2.228717, "coord_y": 53.478430, "created_at": "2013\/03\/22", "h_m_s": "20:50:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:50:32" }, "geometry": { "type": "Point", "coordinates": [ -2.228717, 53.478430 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rukmini's dish looks awesome. #Masterchef", "user": "Jja1987", "location": "Lancaster, England", "coord_x": -2.798182, "coord_y": 54.049985, "created_at": "2013\/03\/22", "h_m_s": "20:51:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:51:14" }, "geometry": { "type": "Point", "coordinates": [ -2.798182, 54.049985 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why does specs take such massive forkfuls on #masterchef", "user": "SophieLouise63", "location": "Leicester", "coord_x": -1.176031, "coord_y": 52.617173, "created_at": "2013\/03\/22", "h_m_s": "20:51:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:51:35" }, "geometry": { "type": "Point", "coordinates": [ -1.176031, 52.617173 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching masterchef in my jammies on a fri night wtf #feelineedtonibblenow", "user": "sueb7198", "location": "", "coord_x": -3.833530, "coord_y": 56.026739, "created_at": "2013\/03\/22", "h_m_s": "20:53:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:53:32" }, "geometry": { "type": "Point", "coordinates": [ -3.833530, 56.026739 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #masterchef making me hungry", "user": "welshandy27", "location": "New tredegar south wales uk", "coord_x": -3.328933, "coord_y": 51.767960, "created_at": "2013\/03\/22", "h_m_s": "20:53:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:53:45" }, "geometry": { "type": "Point", "coordinates": [ -3.328933, 51.767960 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Masterchef is my guilty pleasure", "user": "beewilliamson22", "location": "", "coord_x": 0.136394, "coord_y": 51.340223, "created_at": "2013\/03\/22", "h_m_s": "20:54:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:54:11" }, "geometry": { "type": "Point", "coordinates": [ 0.136394, 51.340223 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love flower flavours. Want that dessert. #Masterchef", "user": "Jja1987", "location": "Lancaster, England", "coord_x": -2.798195, "coord_y": 54.050120, "created_at": "2013\/03\/22", "h_m_s": "20:54:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:54:20" }, "geometry": { "type": "Point", "coordinates": [ -2.798195, 54.050120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "God I HATE smeared sauces #Masterchef Which fucking chef first did this? I want him (and yes it must be a he) named.", "user": "bazzanagnagnag", "location": "blowing south of the north sea", "coord_x": 1.301897, "coord_y": 52.930087, "created_at": "2013\/03\/22", "h_m_s": "20:54:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:54:28" }, "geometry": { "type": "Point", "coordinates": [ 1.301897, 52.930087 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why is Mesut Ozil on Masterchef? http:\/\/t.co\/Z6v13CIzV6", "user": "ThornyITFC", "location": "Wandsworth, London", "coord_x": -0.158595, "coord_y": 51.445018, "created_at": "2013\/03\/22", "h_m_s": "20:56:27", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:56:27" }, "geometry": { "type": "Point", "coordinates": [ -0.158595, 51.445018 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Masterchef is making me want to phone Dominos", "user": "Jason_The_Guy", "location": "Manchester, England", "coord_x": -2.239408, "coord_y": 53.490246, "created_at": "2013\/03\/22", "h_m_s": "20:56:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:56:41" }, "geometry": { "type": "Point", "coordinates": [ -2.239408, 53.490246 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Friday evening! masterchef, large glass of wine and a packet of minstrels Mmm", "user": "chufter", "location": "", "coord_x": -1.423799, "coord_y": 54.960229, "created_at": "2013\/03\/22", "h_m_s": "20:56:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:56:47" }, "geometry": { "type": "Point", "coordinates": [ -1.423799, 54.960229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Masterchef always makes me hungry!! #stomachrumble", "user": "YukiParmar", "location": "London baby", "coord_x": -0.127720, "coord_y": 51.565594, "created_at": "2013\/03\/22", "h_m_s": "20:57:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:57:57" }, "geometry": { "type": "Point", "coordinates": [ -0.127720, 51.565594 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching masterchef while waiting for my LATE Tesco delivery is not what Friday nights are about", "user": "Anjlee_11", "location": "London", "coord_x": -0.072550, "coord_y": 51.510470, "created_at": "2013\/03\/22", "h_m_s": "20:59:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:59:42" }, "geometry": { "type": "Point", "coordinates": [ -0.072550, 51.510470 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NatalieKMitch MasterChef, take notes x", "user": "watt_barry", "location": "Scotland\n", "coord_x": -3.438808, "coord_y": 56.061264, "created_at": "2013\/03\/22", "h_m_s": "21:3:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:3:21" }, "geometry": { "type": "Point", "coordinates": [ -3.438808, 56.061264 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cooked dinner for @lemoniemelonie and ange #MasterChef! http:\/\/t.co\/u3I1E7MDlK", "user": "nimsaylouise", "location": "Harlow", "coord_x": 0.086894, "coord_y": 51.762608, "created_at": "2013\/03\/22", "h_m_s": "21:4:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:4:6" }, "geometry": { "type": "Point", "coordinates": [ 0.086894, 51.762608 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Me my self and I #MasterCheff", "user": "joshtysen9", "location": "", "coord_x": -71.824652, "coord_y": 42.037453, "created_at": "2013\/03\/22", "h_m_s": "21:6:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:6:49" }, "geometry": { "type": "Point", "coordinates": [ -71.824652, 42.037453 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jamesalanroe Alan, who's winning in Masterchef?", "user": "derekperrin", "location": "In the City I love", "coord_x": -2.234861, "coord_y": 53.483713, "created_at": "2013\/03\/22", "h_m_s": "21:7:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:7:4" }, "geometry": { "type": "Point", "coordinates": [ -2.234861, 53.483713 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yey Ollie!! Phew, how you worry me!! #Masterchef", "user": "HeyThereJemima", "location": "BUCKS, the posh county.", "coord_x": -1.007365, "coord_y": 51.910528, "created_at": "2013\/03\/22", "h_m_s": "21:8:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:8:14" }, "geometry": { "type": "Point", "coordinates": [ -1.007365, 51.910528 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Masterchef. THRILLING", "user": "HeyThereJemima", "location": "BUCKS, the posh county.", "coord_x": -1.007279, "coord_y": 51.910505, "created_at": "2013\/03\/22", "h_m_s": "21:9:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:9:46" }, "geometry": { "type": "Point", "coordinates": [ -1.007279, 51.910505 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "is junior masterchef Australia ever going to return?? #bestprogramme", "user": "KateLBx", "location": "Chesterfield, England", "coord_x": -1.463179, "coord_y": 53.231537, "created_at": "2013\/03\/22", "h_m_s": "21:13:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:13:25" }, "geometry": { "type": "Point", "coordinates": [ -1.463179, 53.231537 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@karantacker #masterchef awwW tats really bad.. Hopefully u hear a pack up soon..", "user": "simarpreetm", "location": "", "coord_x": 72.862940, "coord_y": 19.071920, "created_at": "2013\/03\/22", "h_m_s": "21:15:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:15:26" }, "geometry": { "type": "Point", "coordinates": [ 72.862940, 19.071920 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@antodelprino a masterchef in 3 minuti devono fare un brasato! Cosa dici ci beviamo quel barolo? Intanto non cambia nulla qui", "user": "vittorio_trucco", "location": "", "coord_x": 8.783260, "coord_y": 44.761347, "created_at": "2013\/03\/22", "h_m_s": "21:17:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:17:52" }, "geometry": { "type": "Point", "coordinates": [ 8.783260, 44.761347 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Friday night in watching Masterchef. Not geeky at all!", "user": "LeighFraser_x", "location": "Inverness", "coord_x": -4.143931, "coord_y": 57.474015, "created_at": "2013\/03\/22", "h_m_s": "21:20:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:21:1" }, "geometry": { "type": "Point", "coordinates": [ -4.143931, 57.474015 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #masterchef Which part of getting your ass into gear do these women not get?!! This is a PROFESSIONAL kitchen!!! #frustrating", "user": "sarahjsimpkins", "location": "Sheffield", "coord_x": -1.495812, "coord_y": 53.400830, "created_at": "2013\/03\/22", "h_m_s": "22:2:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:2:14" }, "geometry": { "type": "Point", "coordinates": [ -1.495812, 53.400830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@itssimon95 Ryan Reynolds, Masterchef people and Saturdays", "user": "James__Mason", "location": "", "coord_x": -2.033896, "coord_y": 52.661606, "created_at": "2013\/03\/22", "h_m_s": "22:7:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:7:49" }, "geometry": { "type": "Point", "coordinates": [ -2.033896, 52.661606 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You could go on this... Never loved him more... #masterchef", "user": "ChantalBorch", "location": "", "coord_x": -0.129918, "coord_y": 51.453859, "created_at": "2013\/03\/22", "h_m_s": "22:15:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:15:3" }, "geometry": { "type": "Point", "coordinates": [ -0.129918, 51.453859 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh my god masterchef judges on chatty man ??", "user": "loolar123", "location": "scottyland?", "coord_x": -2.244076, "coord_y": 57.432116, "created_at": "2013\/03\/22", "h_m_s": "22:31:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:31:54" }, "geometry": { "type": "Point", "coordinates": [ -2.244076, 57.432116 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@fuckmeitsmiatea I've not been on Masterchef!", "user": "slowpokesam", "location": "", "coord_x": -1.259229, "coord_y": 51.405312, "created_at": "2013\/03\/22", "h_m_s": "22:32:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:32:16" }, "geometry": { "type": "Point", "coordinates": [ -1.259229, 51.405312 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If youre a masterchef fan and youve never seen this? #Sacrilege http:\/\/t.co\/DmoFtUiaJk", "user": "NatalieHewing", "location": "nottingham,UK", "coord_x": -1.197657, "coord_y": 52.978694, "created_at": "2013\/03\/22", "h_m_s": "22:36:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:36:49" }, "geometry": { "type": "Point", "coordinates": [ -1.197657, 52.978694 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just wrapped a very hectic cheesy le if #masterchef, 21st hr exhausted. Headed home Gn to d peeps still up!", "user": "karantacker", "location": "", "coord_x": 72.902053, "coord_y": 19.048837, "created_at": "2013\/03\/22", "h_m_s": "22:45:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "18:45:23" }, "geometry": { "type": "Point", "coordinates": [ 72.902053, 19.048837 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching up on 2 episodes of #Masterchef on #BBCiplayer #tastetest seems 2b sortg pretender wanabees frm true taster cooks", "user": "Goldenlady1010", "location": "", "coord_x": -0.413983, "coord_y": 51.892406, "created_at": "2013\/03\/22", "h_m_s": "23:38:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "19:38:2" }, "geometry": { "type": "Point", "coordinates": [ -0.413983, 51.892406 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just casually seeing masterchef being filmed http:\/\/t.co\/bEQVGehhjh", "user": "Gbad7", "location": "", "coord_x": 144.966758, "coord_y": -37.801626, "created_at": "2013\/03\/23", "h_m_s": "0:26:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:26:20" }, "geometry": { "type": "Point", "coordinates": [ 144.966758, -37.801626 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "On masterchef when they go do lunch service at a restaurant I can never cope with people who would want a curry for lunch :\/", "user": "frangoddard", "location": "Leeds, Yorkshire.", "coord_x": -1.548163, "coord_y": 53.812027, "created_at": "2013\/03\/23", "h_m_s": "0:49:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:49:59" }, "geometry": { "type": "Point", "coordinates": [ -1.548163, 53.812027 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "sou masterchef de cozinha com especialização em preparar lasanha de microondas", "user": "nafffie", "location": "hell de janeiro", "coord_x": -42.420678, "coord_y": -22.152492, "created_at": "2013\/03\/23", "h_m_s": "1:28:44", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:28:44" }, "geometry": { "type": "Point", "coordinates": [ -42.420678, -22.152492 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#MasterChef #challenge on #lygonstreet\nSuch a public\/foodie #circlejerk http:\/\/t.co\/NjLen0bd3M", "user": "mcronicr", "location": "melbourne", "coord_x": 144.968313, "coord_y": -37.799058, "created_at": "2013\/03\/23", "h_m_s": "3:27:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:27:21" }, "geometry": { "type": "Point", "coordinates": [ 144.968313, -37.799058 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "MasterChef in my neighborhood! @ Lygon Street http:\/\/t.co\/Lozj6zRnLr", "user": "amyrudback", "location": "Uppsala", "coord_x": 144.966690, "coord_y": -37.799790, "created_at": "2013\/03\/23", "h_m_s": "3:40:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:40:40" }, "geometry": { "type": "Point", "coordinates": [ 144.966690, -37.799790 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "MasterChef! @ Lygon Street http:\/\/t.co\/DJ185rxvEB", "user": "tanyiing", "location": "Melbourne, Australia", "coord_x": 144.966917, "coord_y": -37.800561, "created_at": "2013\/03\/23", "h_m_s": "5:0:21", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:0:21" }, "geometry": { "type": "Point", "coordinates": [ 144.966917, -37.800561 ] } }
+
+]
+}

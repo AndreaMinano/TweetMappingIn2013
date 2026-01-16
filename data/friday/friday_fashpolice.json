@@ -1,0 +1,71 @@
+var fashpolice = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Who made you the fashion police #stfu #stop #being #jealous", "user": "SydneyFreeman18", "location": "", "coord_x": -80.272434, "coord_y": 35.472968, "created_at": "2013\/03\/22", "h_m_s": "16:6:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:6:14" }, "geometry": { "type": "Point", "coordinates": [ -80.272434, 35.472968 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "to vendo fashion police e acertei q era a bunda da selena hjklç", "user": "obgjustin", "location": "", "coord_x": -43.950540, "coord_y": -19.826367, "created_at": "2013\/03\/22", "h_m_s": "16:36:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "12:36:3" }, "geometry": { "type": "Point", "coordinates": [ -43.950540, -19.826367 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Joan_Rivers I think you should have the #olsentwins on fashion police. ! What do you think?", "user": "roycem01", "location": "upland, ca", "coord_x": -117.655125, "coord_y": 34.091499, "created_at": "2013\/03\/22", "h_m_s": "17:11:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "13:11:28" }, "geometry": { "type": "Point", "coordinates": [ -117.655125, 34.091499 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NW : Fashion Police !!!!", "user": "Bee_Myaah", "location": "FUTUR", "coord_x": 1.954546, "coord_y": 48.822725, "created_at": "2013\/03\/22", "h_m_s": "20:52:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "16:52:32" }, "geometry": { "type": "Point", "coordinates": [ 1.954546, 48.822725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dans la Fashion Police ce sont trop des hypocrite !", "user": "BrownBainy", "location": "", "coord_x": 2.371113, "coord_y": 48.889728, "created_at": "2013\/03\/22", "h_m_s": "21:1:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:1:35" }, "geometry": { "type": "Point", "coordinates": [ 2.371113, 48.889728 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NW Fashion police", "user": "Heezy_Busy", "location": "Yaoundé", "coord_x": 11.549731, "coord_y": 3.881146, "created_at": "2013\/03\/22", "h_m_s": "21:51:3", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:51:3" }, "geometry": { "type": "Point", "coordinates": [ 11.549731, 3.881147 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jregardais \"Fashion Police\" talheur trop bien ..", "user": "ChelseaFenty", "location": "PARIS", "coord_x": 2.527855, "coord_y": 48.813405, "created_at": "2013\/03\/22", "h_m_s": "21:52:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:52:12" }, "geometry": { "type": "Point", "coordinates": [ 2.527855, 48.813405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "La vieille de Fashion Police la , putin elle mm elle merite d'etre clasher qoi !", "user": "HabsaRawr", "location": "", "coord_x": -4.307310, "coord_y": 11.221860, "created_at": "2013\/03\/22", "h_m_s": "21:53:54", "time_ets": "2013\/03\/22", "h_m_s_ets": "17:53:54" }, "geometry": { "type": "Point", "coordinates": [ -4.307310, 11.221860 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "javert fashion police http:\/\/t.co\/yDetMhSxRD", "user": "laritacouto", "location": "narnia", "coord_x": -48.496256, "coord_y": -1.451897, "created_at": "2013\/03\/23", "h_m_s": "0:15:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:15:25" }, "geometry": { "type": "Point", "coordinates": [ -48.496256, -1.451897 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vão falar da Rachel Bilson no Fashion Police ou ela vai estar lá?", "user": "dodolfoaraujo", "location": "Belém, Pará - Brasil", "coord_x": -48.487470, "coord_y": -1.421236, "created_at": "2013\/03\/23", "h_m_s": "0:24:22", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:24:22" }, "geometry": { "type": "Point", "coordinates": [ -48.487470, -1.421236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OMG, Rachel no Fashion Police. *-*", "user": "dodolfoaraujo", "location": "Belém, Pará - Brasil", "coord_x": -48.487564, "coord_y": -1.421255, "created_at": "2013\/03\/23", "h_m_s": "0:28:7", "time_ets": "2013\/03\/22", "h_m_s_ets": "20:28:8" }, "geometry": { "type": "Point", "coordinates": [ -48.487564, -1.421255 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fashion police alway gets me lolllllll", "user": "ShenellLueAffat", "location": "Trinidad & Tobago", "coord_x": -61.458957, "coord_y": 10.654115, "created_at": "2013\/03\/23", "h_m_s": "1:53:42", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:53:42" }, "geometry": { "type": "Point", "coordinates": [ -61.458957, 10.654115 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@frankdecaroshow George Kotsiopolis was just on NASCAR RADIO. He is on fashion police..He sounds like our demograhic.", "user": "TrukerSue", "location": "America", "coord_x": -93.469899, "coord_y": 44.798738, "created_at": "2013\/03\/23", "h_m_s": "1:57:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:57:51" }, "geometry": { "type": "Point", "coordinates": [ -93.469899, 44.798738 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Fashion Police &gt;&gt;", "user": "Kiss_MeLovely", "location": "", "coord_x": -81.745526, "coord_y": 30.208557, "created_at": "2013\/03\/23", "h_m_s": "1:58:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:58:32" }, "geometry": { "type": "Point", "coordinates": [ -81.745526, 30.208557 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fashion Police is on! ?????????", "user": "ChopGotGlocks", "location": "ÜT: 37.560431,-77.451727", "coord_x": -76.775149, "coord_y": 38.965230, "created_at": "2013\/03\/23", "h_m_s": "2:1:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:1:40" }, "geometry": { "type": "Point", "coordinates": [ -76.775149, 38.965230 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@ReemsDope: To go out or stay in?” Stay in Fashion Police is on!!", "user": "ChopGotGlocks", "location": "ÜT: 37.560431,-77.451727", "coord_x": -76.775149, "coord_y": 38.965230, "created_at": "2013\/03\/23", "h_m_s": "2:2:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:2:11" }, "geometry": { "type": "Point", "coordinates": [ -76.775149, 38.965230 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #FashionPolice hi guys @e_FashionPolice oh hi! @MissKellyO welcome back to Fashion Police we missed you \nXo", "user": "LuiggyPalacios", "location": "Lindsay's World", "coord_x": -80.182761, "coord_y": 26.100054, "created_at": "2013\/03\/23", "h_m_s": "2:3:50", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:3:50" }, "geometry": { "type": "Point", "coordinates": [ -80.182761, 26.100054 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jeff Gordon on #fashion police", "user": "clayknobfarm", "location": "", "coord_x": -86.717271, "coord_y": 40.353526, "created_at": "2013\/03\/23", "h_m_s": "2:21:11", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:21:11" }, "geometry": { "type": "Point", "coordinates": [ -86.717271, 40.353526 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MindFloss check out fashion police on E!  NASCAR fashion!", "user": "Jeanmar55371729", "location": "", "coord_x": -73.673816, "coord_y": 40.664506, "created_at": "2013\/03\/23", "h_m_s": "2:21:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:21:28" }, "geometry": { "type": "Point", "coordinates": [ -73.673816, 40.664506 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jeff Gordon was just on Fashion Police. #nightmade", "user": "rileynichols13", "location": "", "coord_x": -97.081137, "coord_y": 42.176118, "created_at": "2013\/03\/23", "h_m_s": "2:24:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:24:56" }, "geometry": { "type": "Point", "coordinates": [ -97.081137, 42.176118 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jeff Gordon on Fashion Police is hilarious. Sorry not sorry.", "user": "MaryK1202", "location": "Raleigh, NC", "coord_x": -78.687574, "coord_y": 35.749806, "created_at": "2013\/03\/23", "h_m_s": "2:25:17", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:25:18" }, "geometry": { "type": "Point", "coordinates": [ -78.687574, 35.749806 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fashion Police &gt;&gt;", "user": "ChillinEvy_", "location": "Los Angeles", "coord_x": -118.278646, "coord_y": 33.983057, "created_at": "2013\/03\/23", "h_m_s": "2:30:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:30:58" }, "geometry": { "type": "Point", "coordinates": [ -118.278646, 33.983057 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cristiano Ronaldo is always on the 16 most attractive athletes of the week on fashion police. #ImAProudWife", "user": "daydreammmmm", "location": "", "coord_x": -82.993454, "coord_y": 42.244241, "created_at": "2013\/03\/23", "h_m_s": "2:43:31", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:43:31" }, "geometry": { "type": "Point", "coordinates": [ -82.993454, 42.244241 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I always find myself laughing so hard while watching fashion police. Love it! @Joan_Rivers", "user": "feelalive12", "location": "Cincinnati", "coord_x": -84.515605, "coord_y": 39.127018, "created_at": "2013\/03\/23", "h_m_s": "2:48:40", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:48:40" }, "geometry": { "type": "Point", "coordinates": [ -84.515605, 39.127018 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching \" Fashion Police\" ??????", "user": "VIVMCMXC", "location": "At the Bank, Depositing Checks", "coord_x": -76.994211, "coord_y": 38.829610, "created_at": "2013\/03\/23", "h_m_s": "2:49:41", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:49:41" }, "geometry": { "type": "Point", "coordinates": [ -76.994211, 38.829610 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@KrissJenner watching fashion police...... Love Joan !!!! Sooo funny !!!!", "user": "SuzanneBarriner", "location": "", "coord_x": -81.496797, "coord_y": 30.314873, "created_at": "2013\/03\/23", "h_m_s": "2:54:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:54:14" }, "geometry": { "type": "Point", "coordinates": [ -81.496797, 30.314873 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My dad likes watching fashion police when noone's in the room.", "user": "katieclairekinz", "location": "the woodlands, tx", "coord_x": -78.587758, "coord_y": 26.540211, "created_at": "2013\/03\/23", "h_m_s": "3:2:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:2:13" }, "geometry": { "type": "Point", "coordinates": [ -78.587758, 26.540211 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My Mom definitely thinks I'm really drunk right now but no I'm just really tired from eating brownies and watching Fashion Police like..", "user": "AlexRea98", "location": "The City of Townsville.", "coord_x": -74.813608, "coord_y": 40.487619, "created_at": "2013\/03\/23", "h_m_s": "3:9:37", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:9:37" }, "geometry": { "type": "Point", "coordinates": [ -74.813608, 40.487619 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fashion Police.  Things are getting back to normal.  #perfect #gettingmylife", "user": "thatmrs99", "location": "in my skin", "coord_x": -81.276453, "coord_y": 28.793479, "created_at": "2013\/03\/23", "h_m_s": "4:1:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:1:25" }, "geometry": { "type": "Point", "coordinates": [ -81.276453, 28.793479 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Maggiemaesdays @bt_dmb Thank you very much.  Watching Fashion Police now!", "user": "rapunzel_dmb1", "location": "Alabama", "coord_x": -85.866380, "coord_y": 33.877331, "created_at": "2013\/03\/23", "h_m_s": "4:5:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:5:0" }, "geometry": { "type": "Point", "coordinates": [ -85.866380, 33.877331 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Col3y_ the question is why are you watching fashion police?", "user": "DmaRrO4225", "location": "", "coord_x": -73.198238, "coord_y": 40.877002, "created_at": "2013\/03\/23", "h_m_s": "4:20:14", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:20:14" }, "geometry": { "type": "Point", "coordinates": [ -73.198238, 40.877002 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "!\"@SMonsterMan: Watching Fashion Police on E! :)\"", "user": "flexxgarvin", "location": "Trinindad & Tobago", "coord_x": -61.404812, "coord_y": 10.639385, "created_at": "2013\/03\/23", "h_m_s": "4:22:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:22:6" }, "geometry": { "type": "Point", "coordinates": [ -61.404812, 10.639385 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm watching Fashion Police and wondering were my early 20's have gone :\/ :(:'(", "user": "Rizzy17", "location": "PA, USA", "coord_x": -76.498926, "coord_y": 39.955372, "created_at": "2013\/03\/23", "h_m_s": "4:58:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "0:58:32" }, "geometry": { "type": "Point", "coordinates": [ -76.498926, 39.955372 ] } }
+
+]
+}

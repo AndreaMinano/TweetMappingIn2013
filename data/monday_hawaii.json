@@ -1,0 +1,25 @@
+var hawaii = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Dog the Bounty Hunter is going to be on Hawaii Five-0 tonight!!! Not that I watch that but...", "user": "acescon1", "location": "", "coord_x": -78.494380, "coord_y": 43.026806, "created_at": "2013\/03\/18", "h_m_s": "21:28:54", "time_ets": "2013\/03\/18", "h_m_s_ets": "17:28:55", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -78.494380, 43.026807 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hawaii Five 0 is a monday night must", "user": "Brooke4Trautsch", "location": "", "coord_x": -91.138921, "coord_y": 43.062435, "created_at": "2013\/03\/19", "h_m_s": "1:52:50", "time_ets": "2013\/03\/18", "h_m_s_ets": "21:52:52", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -91.138921, 43.062435 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching my best show Hawaii five -o", "user": "SSajjabi", "location": "", "coord_x": -79.068876, "coord_y": 43.102292, "created_at": "2013\/03\/19", "h_m_s": "2:0:44", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:0:45", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -79.068876, 43.102292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hawaii Five O tonight let's go!", "user": "BarBarzz35", "location": "", "coord_x": -75.950793, "coord_y": 42.123118, "created_at": "2013\/03\/19", "h_m_s": "2:1:39", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:1:41", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -75.950793, 42.123118 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DogBountyHunter @MrsdogC and the rest of the family doing an awesome job on hawaii five-0", "user": "Amanda_Alycia", "location": "Niagara Falls, Ontario, Canada", "coord_x": -79.090344, "coord_y": 43.080668, "created_at": "2013\/03\/19", "h_m_s": "2:5:49", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:5:51", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -79.090344, 43.080668 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bounty Hunter on Hawaii Five O - that's interesting...", "user": "TeresaReitano", "location": "Ottawa", "coord_x": -75.808614, "coord_y": 45.348382, "created_at": "2013\/03\/19", "h_m_s": "2:8:35", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:8:37", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -75.808614, 45.348382 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hawaii Five-O and Deception on at the same time :(", "user": "delali_phyllis", "location": "", "coord_x": -81.288326, "coord_y": 41.686136, "created_at": "2013\/03\/19", "h_m_s": "2:8:58", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:8:59", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -81.288326, 41.686136 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just saw Dog and crew on Hawaii five-0. @Mrs.dogC", "user": "bandmomof5", "location": "norwich", "coord_x": -75.551481, "coord_y": 42.576743, "created_at": "2013\/03\/19", "h_m_s": "2:28:56", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:28:58", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -75.551481, 42.576743 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hawaii Five Os on !", "user": "C_Ryan12", "location": "Lacey, Wa", "coord_x": -122.781413, "coord_y": 47.007042, "created_at": "2013\/03\/19", "h_m_s": "5:17:20", "time_ets": "2013\/03\/19", "h_m_s_ets": "1:17:22", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -122.781413, 47.007043 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MrsdogC.  I watched Hawaii Five O &amp; you all looked great. It was a great opening part with Dog &amp; Leland running after the suspect.", "user": "rld121965", "location": "", "coord_x": -72.012312, "coord_y": 42.471730, "created_at": "2013\/03\/19", "h_m_s": "9:21:7", "time_ets": "2013\/03\/19", "h_m_s_ets": "5:21:9", "count6": 1, "category5": "hawaii" }, "geometry": { "type": "Point", "coordinates": [ -72.012312, 42.471730 ] } }
+
+]
+}

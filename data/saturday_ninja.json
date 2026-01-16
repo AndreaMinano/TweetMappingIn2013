@@ -1,0 +1,19 @@
+var ninja = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "American ninja warrior &gt;&gt;&gt;", "user": "cesar_marez17", "location": "Austin,Tx", "coord_x": -97.559761, "coord_y": 30.170163, "created_at": "2013\/03\/24", "h_m_s": "0:27:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:27:53" }, "geometry": { "type": "Point", "coordinates": [ -97.559761, 30.170163 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American ninja warrior #crazy #ninja #hotbods", "user": "valerie_handy", "location": "", "coord_x": -76.997752, "coord_y": 40.232292, "created_at": "2013\/03\/24", "h_m_s": "0:36:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:36:35" }, "geometry": { "type": "Point", "coordinates": [ -76.997752, 40.232292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American ninja warrior", "user": "colinherf", "location": "ny", "coord_x": -77.628821, "coord_y": 43.191830, "created_at": "2013\/03\/24", "h_m_s": "0:39:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:39:26" }, "geometry": { "type": "Point", "coordinates": [ -77.628821, 43.191830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sittin and watchin American Ninja Warrior with my parents. This is the dream.", "user": "molly_hynes", "location": "Austin, TX", "coord_x": -98.507606, "coord_y": 33.859180, "created_at": "2013\/03\/24", "h_m_s": "0:42:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:42:56" }, "geometry": { "type": "Point", "coordinates": [ -98.507606, 33.859180 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Ninja Warrior will never be the same as the original.", "user": "mitchellorin", "location": "Daytona Beach\/Waynesville", "coord_x": -80.353484, "coord_y": 27.434329, "created_at": "2013\/03\/24", "h_m_s": "0:48:10", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:48:11" }, "geometry": { "type": "Point", "coordinates": [ -80.353484, 27.434329 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "i've always wanted to try American ninja warrior! Just looks so fun", "user": "greggbrennan", "location": "", "coord_x": -83.716227, "coord_y": 42.732124, "created_at": "2013\/03\/24", "h_m_s": "0:58:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:58:36" }, "geometry": { "type": "Point", "coordinates": [ -83.716227, 42.732125 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "american ninja warrior &gt;&gt;", "user": "erinnnxbabiee", "location": "", "coord_x": -71.095972, "coord_y": 41.674206, "created_at": "2013\/03\/24", "h_m_s": "0:59:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:59:8" }, "geometry": { "type": "Point", "coordinates": [ -71.095972, 41.674206 ] } }
+
+]
+}

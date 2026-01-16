@@ -1,0 +1,23 @@
+var billmaher = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Getting ready to watch Bill Maher", "user": "gdpalerm", "location": "New York City", "coord_x": -73.958241, "coord_y": 40.768082, "created_at": "2013\/03\/23", "h_m_s": "1:21:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:21:58" }, "geometry": { "type": "Point", "coordinates": [ -73.958241, 40.768082 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could only see myself marrying one man... That is  bill maher.. I don't care if he is 37 years older than me", "user": "megkahane", "location": "", "coord_x": -118.477563, "coord_y": 34.146268, "created_at": "2013\/03\/23", "h_m_s": "1:43:46", "time_ets": "2013\/03\/22", "h_m_s_ets": "21:43:46" }, "geometry": { "type": "Point", "coordinates": [ -118.477563, 34.146268 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Austan_Goolsbee Lookin good on Bill Maher. HP neighbor", "user": "bettyvholcomb", "location": "Updated as needed", "coord_x": -87.584187, "coord_y": 41.800516, "created_at": "2013\/03\/23", "h_m_s": "2:11:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:11:17" }, "geometry": { "type": "Point", "coordinates": [ -87.584187, 41.800516 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What is this mystery demographic that keeps asking Paul Ryan to write the same budget every year?    --Bill Maher", "user": "Author_Bryian_R", "location": "Wynne, Arkansas", "coord_x": -90.767366, "coord_y": 35.226154, "created_at": "2013\/03\/23", "h_m_s": "2:15:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:15:13" }, "geometry": { "type": "Point", "coordinates": [ -90.767366, 35.226154 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Religion, it's like Wikipedia. Anyone can write something in. - Bill Maher", "user": "JoshWhan", "location": "Windham, Ohio.", "coord_x": -81.190422, "coord_y": 41.306823, "created_at": "2013\/03\/23", "h_m_s": "2:57:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:57:14" }, "geometry": { "type": "Point", "coordinates": [ -81.190422, 41.306823 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Religion: It's like Wikipedia. Anyone can write something in\" - Bill Maher", "user": "riccavender", "location": "", "coord_x": -81.625842, "coord_y": 38.341041, "created_at": "2013\/03\/23", "h_m_s": "2:57:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "22:57:59" }, "geometry": { "type": "Point", "coordinates": [ -81.625842, 38.341041 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Bill Maher!! New Rules!!!", "user": "nyssahraye", "location": "Cali!!", "coord_x": -119.156624, "coord_y": 34.844778, "created_at": "2013\/03\/23", "h_m_s": "3:16:32", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:16:32" }, "geometry": { "type": "Point", "coordinates": [ -119.156624, 34.844778 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@billmaher The Stupid GOP on Bill Maher Bush didn't go to Israel until the end of his presidency.", "user": "stellabystarlit", "location": "oklahoma", "coord_x": -97.561489, "coord_y": 35.625376, "created_at": "2013\/03\/23", "h_m_s": "3:23:43", "time_ets": "2013\/03\/22", "h_m_s_ets": "23:23:44" }, "geometry": { "type": "Point", "coordinates": [ -97.561489, 35.625376 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bill Maher on California Income Taxes: 'Liberals - You Could Actually Lose Me' http:\/\/t.co\/0QoL7e0ZtH", "user": "All_the_Aces", "location": "Henderson, United States", "coord_x": -114.983665, "coord_y": 36.032932, "created_at": "2013\/03\/23", "h_m_s": "5:20:48", "time_ets": "2013\/03\/23", "h_m_s_ets": "1:20:48" }, "geometry": { "type": "Point", "coordinates": [ -114.983665, 36.032932 ] } }
+
+]
+}

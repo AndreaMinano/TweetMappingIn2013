@@ -1,0 +1,9 @@
+var bigbrother = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@BigBrotherCA Yay curling! Love you Big Brother 4 keeping the Canuck in this game! Might have 2 explain this to our USA friends tho #BBCAN", "user": "werring_lisa", "location": "", "coord_x": -113.332098, "coord_y": 53.523823, "created_at": "2013\/03\/21", "h_m_s": "4:34:20", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:34:23", "count": 1, "category": "bigbrother" }, "geometry": { "type": "Point", "coordinates": [ -113.332098, 53.523823 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BigBrotherCA Desperation is something MR. EGO never thought he'd have to resort to, but things often change in the Big Brother house!", "user": "JulianLeBlanc", "location": "Vancouver, Canada", "coord_x": -123.131721, "coord_y": 49.285448, "created_at": "2013\/03\/21", "h_m_s": "4:46:31", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:46:34", "count": 1, "category": "bigbrother" }, "geometry": { "type": "Point", "coordinates": [ -123.131721, 49.285448 ] } }
+
+]
+}

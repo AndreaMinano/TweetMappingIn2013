@@ -1,0 +1,17 @@
+var parks = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Thought I heard someone talk about pauwnee... Obviously parks and recreations is the only thing on my mind #addicted", "user": "Frickotine", "location": "", "coord_x": -88.069094, "coord_y": 44.443946, "created_at": "2013\/03\/21", "h_m_s": "17:54:5", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:54:5", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ -88.069094, 44.443946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started watching parks and recreation again. I'm a fool for not keeping up with it.", "user": "kymorgz", "location": "Columbia, MO", "coord_x": -92.307040, "coord_y": 38.922397, "created_at": "2013\/03\/22", "h_m_s": "0:20:53", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:20:53", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ -92.307040, 38.922397 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've got the theme tune to Parks and Recreation stuck in my head. #catchy", "user": "AlexMaryM", "location": "Norwich, Norfolk, UK", "coord_x": 0.070350, "coord_y": 51.506969, "created_at": "2013\/03\/22", "h_m_s": "2:47:3", "time_ets": "2013\/03\/21", "h_m_s_ets": "22:47:3", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ 0.070350, 51.506969 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#threewordstoliveby Parks and Recreation", "user": "Shlepp_711", "location": "", "coord_x": -96.679253, "coord_y": 40.784532, "created_at": "2013\/03\/22", "h_m_s": "3:24:52", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:24:52", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ -96.679253, 40.784532 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Parks and Recreation", "user": "Sir_Bdegro", "location": "Florida. California. Michigan", "coord_x": -80.376690, "coord_y": 25.753867, "created_at": "2013\/03\/22", "h_m_s": "6:25:51", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:25:51", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ -80.376690, 25.753867 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The credibility of zero dark thirty flies out the window once Andy from parks and recreation shows up in a military uniform", "user": "valeriethinks", "location": "Minneapolis, MN", "coord_x": -93.230581, "coord_y": 44.983813, "created_at": "2013\/03\/22", "h_m_s": "7:9:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "3:9:23", "count": 1, "category": "parks" }, "geometry": { "type": "Point", "coordinates": [ -93.230581, 44.983813 ] } }
+
+]
+}

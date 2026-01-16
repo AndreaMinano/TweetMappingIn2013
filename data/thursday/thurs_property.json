@@ -1,0 +1,15 @@
+var property = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "PROPERTY WARS ????", "user": "darryontaylor", "location": "", "coord_x": -104.810835, "coord_y": 40.088908, "created_at": "2013\/03\/21", "h_m_s": "17:21:48", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:21:49", "count": 1, "category": "property" }, "geometry": { "type": "Point", "coordinates": [ -104.810835, 40.088908 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Property wars", "user": "RobynStaton10", "location": "Where I be, NC", "coord_x": -77.160373, "coord_y": 35.347594, "created_at": "2013\/03\/21", "h_m_s": "17:30:52", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:30:52", "count": 1, "category": "property" }, "geometry": { "type": "Point", "coordinates": [ -77.160373, 35.347594 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could watch property wars for dayz", "user": "jmaucerixo", "location": "", "coord_x": -76.192371, "coord_y": 42.594563, "created_at": "2013\/03\/21", "h_m_s": "18:39:33", "time_ets": "2013\/03\/21", "h_m_s_ets": "14:39:33", "count": 1, "category": "property" }, "geometry": { "type": "Point", "coordinates": [ -76.192371, 42.594563 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Discovery i wonder who dougs gonna scream at now #property wars", "user": "EHanky22", "location": "Galesburg Illinois", "coord_x": -90.391157, "coord_y": 40.948206, "created_at": "2013\/03\/22", "h_m_s": "4:37:7", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:37:7", "count": 1, "category": "property" }, "geometry": { "type": "Point", "coordinates": [ -90.391157, 40.948206 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just got my very own tweet on discovery channel #property wars swaggg", "user": "EHanky22", "location": "Galesburg Illinois", "coord_x": -90.391157, "coord_y": 40.948206, "created_at": "2013\/03\/22", "h_m_s": "4:39:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:39:8", "count": 1, "category": "property" }, "geometry": { "type": "Point", "coordinates": [ -90.391157, 40.948206 ] } }
+
+]
+}

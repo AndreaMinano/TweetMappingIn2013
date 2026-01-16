@@ -1,0 +1,17 @@
+var penn = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@mrsbgrim @hwinkler4real  cant wait to see you on 1600 Penn tonight! Wish you would follow me.  Love your compassion!!", "user": "mrsbgrim", "location": "", "coord_x": -78.192043, "coord_y": 39.197271, "created_at": "2013\/03\/21", "h_m_s": "17:42:42", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:42:42", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -78.192043, 39.197271 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gretawire Yes he does...he lives at 1600 Pennsylvania Ave..", "user": "Rockerof88s", "location": "Seagrove, North Carolina", "coord_x": -117.498683, "coord_y": 34.069443, "created_at": "2013\/03\/22", "h_m_s": "0:20:57", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:20:58", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -117.498683, 34.069443 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Well played NBC... Sneaking in this 1600 penn between my shows has slightly piqued my interest. #nbc", "user": "iamkennybok", "location": "Franklin Co., NC", "coord_x": -78.461514, "coord_y": 36.101370, "created_at": "2013\/03\/22", "h_m_s": "0:33:3", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:33:3", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -78.461514, 36.101370 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "1600 Penn can be a good show.  It's getting better.  The actor who plays the President's son is the best part of show.  #1600Penn", "user": "thoughtbeast", "location": "Greensboro, NC", "coord_x": -79.700905, "coord_y": 36.175030, "created_at": "2013\/03\/22", "h_m_s": "0:34:19", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:34:19", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -79.700905, 36.175030 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@joshgad Im sad that we don't get 1600 penn in Ireland, Do u think it will ever be screened over here in the land of Guinness &amp; Leprechauns?", "user": "DylanWade7", "location": "Dublin", "coord_x": -6.292455, "coord_y": 53.353802, "created_at": "2013\/03\/22", "h_m_s": "0:45:33", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:45:33", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -6.292455, 53.353802 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JennaElfman  In world of Hyundais, 1600 Penn is a Mercedes Benz", "user": "feldman1222", "location": "charlestom South Carolina", "coord_x": -80.047034, "coord_y": 32.800929, "created_at": "2013\/03\/22", "h_m_s": "0:58:48", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:58:48", "count": 1, "category": "1600penn" }, "geometry": { "type": "Point", "coordinates": [ -80.047034, 32.800929 ] } }
+
+]
+}

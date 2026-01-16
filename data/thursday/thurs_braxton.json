@@ -1,0 +1,41 @@
+var braxton = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Watching Braxton Family Values q\/ myGrandma tho!", "user": "_xNiyaaa", "location": "minding myOwn business .", "coord_x": -92.285981, "coord_y": 34.773838, "created_at": "2013\/03\/22", "h_m_s": "0:39:18", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:39:18", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -92.285981, 34.773838 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton family values is next!!", "user": "ChazzzzG", "location": "Georgia", "coord_x": -84.150682, "coord_y": 33.435053, "created_at": "2013\/03\/22", "h_m_s": "0:50:55", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:50:55", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -84.150682, 33.435053 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton family values", "user": "2_pretti_lovely", "location": "Bahamas", "coord_x": -76.970143, "coord_y": 36.994026, "created_at": "2013\/03\/22", "h_m_s": "0:57:21", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:57:21", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -76.970143, 36.994026 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchin \"Braxton Family Values\"", "user": "WorkaholicSean", "location": "Hyattsville, Maryland", "coord_x": -76.976427, "coord_y": 38.947079, "created_at": "2013\/03\/22", "h_m_s": "1:0:50", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:0:50", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -76.976427, 38.947079 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton family values!", "user": "kmichellscott81", "location": "Anderson SC", "coord_x": -82.762347, "coord_y": 34.393110, "created_at": "2013\/03\/22", "h_m_s": "1:7:12", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:7:12", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -82.762347, 34.393110 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Finally watching Braxton Family Values!", "user": "quanda_baybee", "location": "floating on rainbows!", "coord_x": -76.602125, "coord_y": 38.657548, "created_at": "2013\/03\/22", "h_m_s": "3:1:48", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:1:48", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -76.602125, 38.657548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hahaha im watching Braxton family values an this is hallourious OMG !! IM BOUT TO WATCH THE NEW EPISODE OF GLEE CALISE I HOPE YOU WATCHIN:)", "user": "KaylynnKaylynnb", "location": "", "coord_x": -84.500248, "coord_y": 39.149380, "created_at": "2013\/03\/22", "h_m_s": "3:41:20", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:41:19", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -84.500248, 39.149380 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Braxton Family Values. Never realized that Towanda was sooo jealous of Tamar!! #Get Yo Life", "user": "Butta_Bytches", "location": "Saint Louis", "coord_x": -90.311860, "coord_y": 38.731908, "created_at": "2013\/03\/22", "h_m_s": "4:1:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:1:12", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -90.311860, 38.731908 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love the Braxton family", "user": "mzphatgurl2u", "location": "Chicago, IL", "coord_x": -87.671728, "coord_y": 41.776682, "created_at": "2013\/03\/22", "h_m_s": "4:7:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:7:8", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -87.671728, 41.776682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love the Braxton family can't wait till next week@TamarBraxtonHer", "user": "mzphatgurl2u", "location": "Chicago, IL", "coord_x": -87.671728, "coord_y": 41.776682, "created_at": "2013\/03\/22", "h_m_s": "4:10:2", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:10:2", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -87.671728, 41.776682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Braxton Family Value:-)", "user": "TaylorBabynow", "location": "With my Baby AJ", "coord_x": -84.155179, "coord_y": 33.419614, "created_at": "2013\/03\/22", "h_m_s": "4:16:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:16:10", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -84.155179, 33.419614 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So I had a chance to catch Braxton Family Values????", "user": "Lyrical_Driven", "location": "SCSU", "coord_x": -80.851503, "coord_y": 33.519648, "created_at": "2013\/03\/22", "h_m_s": "4:17:56", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:17:55", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -80.851503, 33.519648 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton Family Values | Season 3: Ep. 2 | Lights, Camera, Braxton Drama (REVIEW) http:\/\/t.co\/61aj17rDp1 via @youtube", "user": "JoshBryan32", "location": "Somewhere in GagaLand!", "coord_x": -83.318326, "coord_y": 42.281242, "created_at": "2013\/03\/22", "h_m_s": "4:25:9", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:25:9", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -83.318325, 42.281242 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton Family Values | Season 3: Ep. 2 | Lights, Camera, Braxton Drama (FULL EPISODE) http:\/\/t.co\/R2HCrgFd0q via @youtube", "user": "JoshBryan32", "location": "Somewhere in GagaLand!", "coord_x": -83.318326, "coord_y": 42.281242, "created_at": "2013\/03\/22", "h_m_s": "4:25:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:25:59", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -83.318325, 42.281242 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Braxton Family Values show ..???", "user": "SarahSmiles03", "location": "The 612\/Graduate School Hell", "coord_x": -93.357134, "coord_y": 44.916322, "created_at": "2013\/03\/22", "h_m_s": "4:49:21", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:49:21", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -93.357134, 44.916322 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Everyone watch this review she too on point  @AshleyShyMilleWatch \"Braxton Family Values | (cont) http:\/\/t.co\/fMEkKdfsH3", "user": "Oreo__atheart", "location": "lbc", "coord_x": -118.107619, "coord_y": 34.561119, "created_at": "2013\/03\/22", "h_m_s": "7:2:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "3:2:39", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -118.107619, 34.561120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why Braxton Family Values always on. Damn!!", "user": "GEMMYjones_", "location": "Howard U | Northern VA", "coord_x": -77.346516, "coord_y": 38.698449, "created_at": "2013\/03\/22", "h_m_s": "7:25:59", "time_ets": "2013\/03\/22", "h_m_s_ets": "3:25:59", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -77.346516, 38.698449 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Braxton family values #tamarIsCraycray", "user": "nannerz143", "location": "3®d & Shelton", "coord_x": -116.059006, "coord_y": 34.144994, "created_at": "2013\/03\/22", "h_m_s": "8:26:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "4:26:19", "count": 1, "category": "braxton" }, "geometry": { "type": "Point", "coordinates": [ -116.059006, 34.144994 ] } }
+
+]
+}

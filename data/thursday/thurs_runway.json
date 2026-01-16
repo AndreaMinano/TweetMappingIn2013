@@ -1,0 +1,39 @@
+var runway = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "In the projects one day- to project runway!", "user": "Gift_YB", "location": "", "coord_x": -95.688686, "coord_y": 29.917416, "created_at": "2013\/03\/21", "h_m_s": "19:22:54", "time_ets": "2013\/03\/21", "h_m_s_ets": "15:22:54", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -95.688686, 29.917416 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wow it just hit me that I'm gonna miss Project Runway tonight that's upsetting", "user": "wrinkledsilk", "location": "Bethesda, Maryland", "coord_x": -77.069503, "coord_y": 38.904504, "created_at": "2013\/03\/21", "h_m_s": "20:58:16", "time_ets": "2013\/03\/21", "h_m_s_ets": "16:58:17", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -77.069503, 38.904504 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Jessie_Brasil31 @jenn_mitchell the stuff on your heads is from the tutu making material from the project runway! Lmao judging!", "user": "Ayy__Chica", "location": "", "coord_x": -82.048613, "coord_y": 28.028991, "created_at": "2013\/03\/21", "h_m_s": "21:57:48", "time_ets": "2013\/03\/21", "h_m_s_ets": "17:57:48", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -82.048613, 28.028991 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wish Project Runway still came on British TV", "user": "vickygillxo", "location": "Northamptonshire", "coord_x": -0.720159, "coord_y": 52.416533, "created_at": "2013\/03\/21", "h_m_s": "22:6:18", "time_ets": "2013\/03\/21", "h_m_s_ets": "18:6:18", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -0.720159, 52.416533 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My goal is to be in bed by 9:30. Running around like a crazy person though... Gah! And Project Runway is onnnn!", "user": "AshleyFier", "location": "", "coord_x": -81.448649, "coord_y": 41.618335, "created_at": "2013\/03\/22", "h_m_s": "0:1:29", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:1:29", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -81.448649, 41.618335 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Feel like shit. Watching Project Runway and then bed time for my ass.", "user": "willowjwilliams", "location": "Indiana", "coord_x": -86.963831, "coord_y": 38.894243, "created_at": "2013\/03\/22", "h_m_s": "0:46:7", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:46:7", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -86.963831, 38.894243 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching project runway.", "user": "richandcyn", "location": "", "coord_x": -80.723517, "coord_y": 28.261350, "created_at": "2013\/03\/22", "h_m_s": "1:10:2", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:10:2", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -80.723517, 28.261350 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Daniel &amp; Richard have to leave Project Runway. Pair them next week. 2 for the price of 1.", "user": "JJaffa", "location": "Baltimore, MD", "coord_x": -76.616425, "coord_y": 39.331454, "created_at": "2013\/03\/22", "h_m_s": "2:53:17", "time_ets": "2013\/03\/21", "h_m_s_ets": "22:53:17", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -76.616425, 39.331454 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching project runway cuz im that bored", "user": "balmoreeden", "location": "Port City C A L I F O R N I A", "coord_x": -121.435082, "coord_y": 37.736405, "created_at": "2013\/03\/22", "h_m_s": "3:20:58", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:20:57", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -121.435082, 37.736405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These male strippers on project runway though&gt;&gt;&gt;&gt;", "user": "kandashyanne", "location": "Oklahoma", "coord_x": -96.364145, "coord_y": 34.057544, "created_at": "2013\/03\/22", "h_m_s": "4:9:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:9:13", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -96.364145, 34.057544 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "project runway kitchen table edition", "user": "susanzienty", "location": "", "coord_x": -111.972466, "coord_y": 33.637761, "created_at": "2013\/03\/22", "h_m_s": "4:11:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:11:57", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -111.972466, 33.637761 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg!!! Project Runway tonight #omg #projectrunway ????????????", "user": "JennJennUrbina", "location": "Sugar Land, Tx", "coord_x": -95.631394, "coord_y": 29.607075, "created_at": "2013\/03\/22", "h_m_s": "4:34:48", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:34:48", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -95.631394, 29.607075 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think I'm going to love vicariously through the Project Runway contestants. #ThankYouMood #TimGunn #MakeItWork", "user": "MryBrdly", "location": "Murray, KY", "coord_x": -86.102919, "coord_y": 39.896326, "created_at": "2013\/03\/22", "h_m_s": "5:15:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:15:9", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -86.102919, 39.896326 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think I'm going to live vicariously through Project Runway contestants. #ThankYouMood #TimGunn #MakeItWork", "user": "MryBrdly", "location": "Murray, KY", "coord_x": -86.102808, "coord_y": 39.896381, "created_at": "2013\/03\/22", "h_m_s": "5:16:12", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:16:12", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -86.102808, 39.896381 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Project runway! #malestrippers", "user": "kenzzywenzzy", "location": "Glendale, AZ", "coord_x": -112.249754, "coord_y": 33.549217, "created_at": "2013\/03\/22", "h_m_s": "7:9:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "3:9:36", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -112.249754, 33.549217 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just watched the new project runway episode.. Definitely buying that dress at lord and Taylor!! #gorgeous", "user": "savannachristy4", "location": "Morgantown WV", "coord_x": -79.999230, "coord_y": 39.653566, "created_at": "2013\/03\/22", "h_m_s": "8:19:16", "time_ets": "2013\/03\/22", "h_m_s_ets": "4:19:16", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ -79.999230, 39.653566 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There is nothing better than figuring out who is your boyfriend's black twin is y'know? Since you asked, it's Fabio from Project Runway.", "user": "caroline_fisher", "location": "Auckland\/London\/Edinburgh", "coord_x": 174.771918, "coord_y": -36.789753, "created_at": "2013\/03\/22", "h_m_s": "8:59:1", "time_ets": "2013\/03\/22", "h_m_s_ets": "4:59:1", "count": 1, "category": "runway" }, "geometry": { "type": "Point", "coordinates": [ 174.771918, -36.789753 ] } }
+
+]
+}

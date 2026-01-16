@@ -1,0 +1,51 @@
+var first48 = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "The first 48", "user": "Eriqq26", "location": "", "coord_x": -83.265324, "coord_y": 42.659387, "created_at": "2013\/03\/21", "h_m_s": "19:9:14", "time_ets": "2013\/03\/21", "h_m_s_ets": "15:9:14", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -83.265324, 42.659387 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why's everyone on the First 48 Hours black?", "user": "thepathenry", "location": "Maywood, NJ", "coord_x": -74.064896, "coord_y": 40.908491, "created_at": "2013\/03\/21", "h_m_s": "20:38:49", "time_ets": "2013\/03\/21", "h_m_s_ets": "16:38:49", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -74.064896, 40.908491 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Congrats to the First 48 regular Memphis  #NCAABrackets #NCAATournament", "user": "BryanBHopkins1", "location": "On a Interstate Somewhere USA", "coord_x": -83.757833, "coord_y": 32.133052, "created_at": "2013\/03\/21", "h_m_s": "20:51:35", "time_ets": "2013\/03\/21", "h_m_s_ets": "16:51:35", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -83.757833, 32.133052 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The First 48 &gt;&gt; ??", "user": "dylanhofs", "location": "Baton Rouge", "coord_x": -91.171080, "coord_y": 30.389666, "created_at": "2013\/03\/21", "h_m_s": "21:21:58", "time_ets": "2013\/03\/21", "h_m_s_ets": "17:21:59", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -91.171080, 30.389666 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The first 48 is good", "user": "loverr_boy", "location": "ATX", "coord_x": -97.701161, "coord_y": 30.226585, "created_at": "2013\/03\/21", "h_m_s": "22:14:43", "time_ets": "2013\/03\/21", "h_m_s_ets": "18:14:44", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -97.701161, 30.226585 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Jadore_1994 layin down watching the first 48 hours", "user": "LaquitaTeresa1", "location": "my crib bitch", "coord_x": -77.400430, "coord_y": 35.594003, "created_at": "2013\/03\/22", "h_m_s": "0:4:34", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:4:34", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -77.400430, 35.594003 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "LMFAOOOOOOOOOOOO \"@BloodBloodBIood: Blood, I swear I seen that nigga @cuhcuhcuh on The First 48 snitchin' &amp; shit.\"", "user": "JaahBroooN", "location": "", "coord_x": -97.270074, "coord_y": 37.705263, "created_at": "2013\/03\/22", "h_m_s": "0:55:12", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:55:12", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -97.270074, 37.705263 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchn the First 48 &amp; this girl was a straight A student &amp; quit school for a thug ends up losin her life smh wat some women  do for a man", "user": "Lovely_Dani23", "location": "Chicago", "coord_x": -87.619545, "coord_y": 41.727573, "created_at": "2013\/03\/22", "h_m_s": "1:0:15", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:0:15", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -87.619545, 41.727573 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The First 48?", "user": "_dijahFbabyy", "location": "Waterloo|to|Orangeburg", "coord_x": -80.855128, "coord_y": 33.493461, "created_at": "2013\/03\/22", "h_m_s": "1:2:46", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:2:46", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -80.855128, 33.493461 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@BloodBloodBIood: Blood, I swear I seen that nigga @cuhcuhcuh on The First 48 snitchin' &amp; shit.\"", "user": "SnkrHeadEric", "location": "Always Strive And Prosper", "coord_x": -118.409516, "coord_y": 33.883937, "created_at": "2013\/03\/22", "h_m_s": "1:5:39", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:5:39", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -118.409515, 33.883937 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "ha ha ha. . .I am I started back watching t.v. The First 48 was on you know that's my all time favorite show!!!", "user": "_dijahFbabyy", "location": "Waterloo|to|Orangeburg", "coord_x": -80.850807, "coord_y": 33.503292, "created_at": "2013\/03\/22", "h_m_s": "3:6:8", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:6:8", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -80.850807, 33.503292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BruinsArmy17 Do you watch The first 48? Obsessed w that show too!", "user": "MaldonadoGelin", "location": "", "coord_x": -75.259170, "coord_y": 40.677042, "created_at": "2013\/03\/22", "h_m_s": "3:40:10", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:40:10", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -75.259170, 40.677042 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The first 48! ??", "user": "ajstx09", "location": "San Antonio, Texas", "coord_x": -98.566941, "coord_y": 29.408043, "created_at": "2013\/03\/22", "h_m_s": "3:54:38", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:54:38", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -98.566941, 29.408043 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ambyfig yeah it's so interesting! \nHave you seen \"after the first 48 hours?\" Some of them are continuations of the unsolved ones.", "user": "ajstx09", "location": "San Antonio, Texas", "coord_x": -98.585394, "coord_y": 29.419193, "created_at": "2013\/03\/22", "h_m_s": "4:13:35", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:13:35", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -98.585394, 29.419193 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The first 48", "user": "Lilblacc919", "location": "", "coord_x": -79.429101, "coord_y": 36.065356, "created_at": "2013\/03\/22", "h_m_s": "4:17:49", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:17:49", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -79.429101, 36.065356 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@apikaliamalia lmfao don't worry. the first 48 has just begun.", "user": "JuicyGray", "location": "long beach", "coord_x": -118.198380, "coord_y": 33.806422, "created_at": "2013\/03\/22", "h_m_s": "4:18:26", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:18:26", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -118.198380, 33.806422 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn Bham stay in the first 48", "user": "pentylu", "location": "Daphne Alabama", "coord_x": -87.860141, "coord_y": 30.641697, "created_at": "2013\/03\/22", "h_m_s": "4:20:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:20:6", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -87.860141, 30.641697 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the first 48..", "user": "Aispuro93_", "location": "Las vegas.", "coord_x": -115.111491, "coord_y": 36.218968, "created_at": "2013\/03\/22", "h_m_s": "4:45:24", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:45:24", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -115.111491, 36.218968 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The first 48 is funny.. niggas be lying like hell", "user": "_AJtheJUICEMAN_", "location": "Greensboro, NC", "coord_x": -78.957579, "coord_y": 36.423855, "created_at": "2013\/03\/22", "h_m_s": "4:49:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:49:13", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -78.957579, 36.423855 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the first 48", "user": "_LuscioussLipss", "location": "in bed with Kobe", "coord_x": -78.805255, "coord_y": 42.913993, "created_at": "2013\/03\/22", "h_m_s": "4:57:13", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:57:13", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -78.805255, 42.913993 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The first 48 &gt;&gt;&gt;", "user": "ShawnaBear_", "location": "Oregon", "coord_x": -121.318762, "coord_y": 44.469181, "created_at": "2013\/03\/22", "h_m_s": "5:9:4", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:9:4", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -121.318762, 44.469181 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nw The first 48", "user": "georgiaboi_loud", "location": "Sea-port Georgia\/Wssu", "coord_x": -80.264602, "coord_y": 36.014388, "created_at": "2013\/03\/22", "h_m_s": "5:14:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:14:20", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -80.264602, 36.014388 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching The First 48 :)", "user": "OvoxoTwod_", "location": "Kiss Land", "coord_x": -116.982489, "coord_y": 33.752363, "created_at": "2013\/03\/22", "h_m_s": "5:17:8", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:17:8", "count": 1, "category": "first48" }, "geometry": { "type": "Point", "coordinates": [ -116.982489, 33.752363 ] } }
+
+]
+}

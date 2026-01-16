@@ -1,0 +1,57 @@
+var chelsea = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "\"I'm totally jazzed about this new pope\" - a midget on Chelsea lately", "user": "flargon12", "location": "New York, NY", "coord_x": -73.909178, "coord_y": 40.766748, "created_at": "2013\/03\/21", "h_m_s": "17:17:26", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:17:27", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -73.909178, 40.766748 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Never really been a Gerard butler fan but watching him on Chelsea lately and he's funny and charming and damn it", "user": "flargon12", "location": "New York, NY", "coord_x": -73.909300, "coord_y": 40.766848, "created_at": "2013\/03\/21", "h_m_s": "18:2:25", "time_ets": "2013\/03\/21", "h_m_s_ets": "14:2:25", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -73.909300, 40.766848 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea Lately shared the following link and had this to say about it:  They say black don't crack...but Asian does.  http:\/\/t.co\/Xmnf4mXfqZ", "user": "oong12billong", "location": "Batam Island", "coord_x": 104.053024, "coord_y": 1.112075, "created_at": "2013\/03\/21", "h_m_s": "18:13:44", "time_ets": "2013\/03\/21", "h_m_s_ets": "14:13:45", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ 104.053024, 1.112075 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@blondie_983 @caitymints I do when it's my boy from Chelsea Lately!", "user": "chelscoyle", "location": "", "coord_x": -75.089457, "coord_y": 39.837265, "created_at": "2013\/03\/21", "h_m_s": "19:41:7", "time_ets": "2013\/03\/21", "h_m_s_ets": "15:41:7", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -75.089457, 39.837265 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "hope i can stay awake for chelsea lately tonight so i can see @selenagomez &amp; @vanessahudgens ? #SpringBreakers", "user": "gerty_mcgerts", "location": "", "coord_x": -75.188844, "coord_y": 40.015244, "created_at": "2013\/03\/21", "h_m_s": "23:1:15", "time_ets": "2013\/03\/21", "h_m_s_ets": "19:1:15", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -75.188844, 40.015244 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gerard butler on Chelsea lately oh night is made", "user": "lgoldie2", "location": "Scotland", "coord_x": -4.236300, "coord_y": 55.459831, "created_at": "2013\/03\/22", "h_m_s": "0:19:7", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:19:7", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -4.236300, 55.459831 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@selenagomez tune in spring breakers tonight!!!!!! &amp; CHELSEA LATELY! #SpringBreakers ?????? http:\/\/t.co\/EQIecM19Qw", "user": "_lexytaylor", "location": "Texas girl", "coord_x": -97.384151, "coord_y": 27.741558, "created_at": "2013\/03\/22", "h_m_s": "0:24:43", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:24:43", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -97.384151, 27.741558 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea lately.", "user": "bootywhippa", "location": "", "coord_x": -80.306994, "coord_y": 27.169560, "created_at": "2013\/03\/22", "h_m_s": "3:1:33", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:1:33", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -80.306994, 27.169560 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vanessa Hudgens &amp; Selena Gomez on Chelsea Lately &gt;&gt;&gt;&gt;&gt;", "user": "_SweetJones2_", "location": "Dallas Texas", "coord_x": -96.873922, "coord_y": 32.895476, "created_at": "2013\/03\/22", "h_m_s": "3:3:42", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:3:41", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -96.873922, 32.895476 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I lovvee Chelsea Lately!!", "user": "Funsizee8D", "location": "", "coord_x": -98.670445, "coord_y": 29.431243, "created_at": "2013\/03\/22", "h_m_s": "3:5:38", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:5:37", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -98.670445, 29.431243 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Satin sheets and Chelsea Lately. The only thing missing is my boo thaaaaaang", "user": "JaelynMcClain", "location": "Louisiana", "coord_x": -93.576081, "coord_y": 32.549506, "created_at": "2013\/03\/22", "h_m_s": "3:6:5", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:6:4", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -93.576081, 32.549506 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I absolutely love Chelsea Lately #bestshowever", "user": "chelsea_renee3", "location": "Traer, IA", "coord_x": -92.467900, "coord_y": 42.189441, "created_at": "2013\/03\/22", "h_m_s": "3:8:41", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:8:41", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -92.467900, 42.189441 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Selena &amp; Vanessa on Chelsea Lately tonight @springbreakers", "user": "JAILxBAIT", "location": "707", "coord_x": -122.670199, "coord_y": 38.450715, "created_at": "2013\/03\/22", "h_m_s": "3:28:3", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:28:3", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -122.670199, 38.450715 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "ahhh so much more excited to see #SpringBreakers tomorrow after watching chelsea lately.. loveee @vanessahudgens &amp; @selenagomez ??", "user": "gerty_mcgerts", "location": "", "coord_x": -75.205789, "coord_y": 40.029140, "created_at": "2013\/03\/22", "h_m_s": "3:28:25", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:28:25", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -75.205789, 40.029140 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@sarahhflowerr lol I just heard about it on Chelsea lately apparentally it's in their new movie spring breakers", "user": "Arayy1392", "location": "Plymouth Nh", "coord_x": -71.338039, "coord_y": 42.672510, "created_at": "2013\/03\/22", "h_m_s": "3:44:32", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:44:32", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -71.338039, 42.672510 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea lately with selena gomez", "user": "BigTimeGlambert", "location": "Legion Of The Black", "coord_x": -96.223134, "coord_y": 43.660357, "created_at": "2013\/03\/22", "h_m_s": "4:30:19", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:30:19", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -96.223134, 43.660357 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Who needs sleep when you have Chelsea lately!", "user": "abbygoldenn", "location": "the maht", "coord_x": -92.963723, "coord_y": 45.109566, "created_at": "2013\/03\/22", "h_m_s": "4:32:23", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:32:23", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -92.963723, 45.109566 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea Lately is so funny", "user": "gemyy23", "location": "", "coord_x": -74.206555, "coord_y": 39.849740, "created_at": "2013\/03\/22", "h_m_s": "4:33:57", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:33:57", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -74.206555, 39.849740 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea lately is the only reason I stay up past 1 AM", "user": "kaylyndunlap", "location": "springfield, tennessee", "coord_x": -86.233856, "coord_y": 36.591087, "created_at": "2013\/03\/22", "h_m_s": "6:4:45", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:4:45", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -86.233856, 36.591087 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "A majority of the comedians on Chelsea lately need new material", "user": "cziriak_", "location": "Detroit", "coord_x": -83.130060, "coord_y": 42.517509, "created_at": "2013\/03\/22", "h_m_s": "6:5:28", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:5:28", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -83.130060, 42.517509 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg why am I watching Drake Bell and Chuy from Chelsea Lately learn to dive?!?!", "user": "_sailorpluto_", "location": "California", "coord_x": -120.090755, "coord_y": 36.954296, "created_at": "2013\/03\/22", "h_m_s": "6:7:30", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:7:30", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -120.090755, 36.954296 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Chelsea lately guest comedians are struggling with the jokes tonight. #FallingAsleep ??", "user": "OMGJessicaP", "location": "", "coord_x": -81.007438, "coord_y": 29.225880, "created_at": "2013\/03\/22", "h_m_s": "6:16:10", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:16:10", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -81.007438, 29.225880 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Selena &amp; Vanessa on Chelsea Lately about spring breakers unf i luv em", "user": "makennadelancey", "location": "", "coord_x": -81.274292, "coord_y": 28.762354, "created_at": "2013\/03\/22", "h_m_s": "6:27:33", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:27:33", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -81.274292, 28.762354 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chelsea Lately: Labor Pains http:\/\/t.co\/s4rPQ3vNDq", "user": "itsmebrocie", "location": "San Marcos, Texas", "coord_x": -97.914469, "coord_y": 29.903464, "created_at": "2013\/03\/22", "h_m_s": "6:29:39", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:29:39", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -97.914469, 29.903464 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just watched Chelsea lately with Selena and Vanessa Hughes, that was classic", "user": "BrewGhost", "location": "sf", "coord_x": -122.467540, "coord_y": 37.688423, "created_at": "2013\/03\/22", "h_m_s": "6:31:25", "time_ets": "2013\/03\/22", "h_m_s_ets": "2:31:25", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ -122.467540, 37.688423 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Selena on Chelsea Lately! http:\/\/t.co\/Cu8KdqoGqI http:\/\/t.co\/t4f6GBzU8a", "user": "GofranBieber", "location": "Denmark", "coord_x": 10.375926, "coord_y": 55.392709, "created_at": "2013\/03\/22", "h_m_s": "8:55:17", "time_ets": "2013\/03\/22", "h_m_s_ets": "4:55:17", "count": 1, "category": "chelsea" }, "geometry": { "type": "Point", "coordinates": [ 10.375926, 55.392709 ] } }
+
+]
+}

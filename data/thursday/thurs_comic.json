@@ -1,0 +1,11 @@
+var comic = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@derfersco absolutely! But not talking dead or comic book men", "user": "lgpoo1965", "location": "Kitchener, Ontario", "coord_x": -80.457739, "coord_y": 43.420469, "created_at": "2013\/03\/21", "h_m_s": "17:40:56", "time_ets": "2013\/03\/21", "h_m_s_ets": "13:40:56", "count": 1, "category": "comic" }, "geometry": { "type": "Point", "coordinates": [ -80.457739, 43.420469 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Have u ever seen comic book men on AMC?(CHANNEL 67) @YOURBOYEDDIE  its really cool n funny.", "user": "nataliluv", "location": "Seattle", "coord_x": -122.371538, "coord_y": 47.782954, "created_at": "2013\/03\/22", "h_m_s": "5:45:6", "time_ets": "2013\/03\/22", "h_m_s_ets": "1:45:6", "count": 1, "category": "comic" }, "geometry": { "type": "Point", "coordinates": [ -122.371537, 47.782954 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ThatKevinSmith love comic book men tonight!!! kick ass good!!!", "user": "allyson81169", "location": "Napoleonville, Louisiana", "coord_x": -90.999253, "coord_y": 29.913264, "created_at": "2013\/03\/22", "h_m_s": "7:48:58", "time_ets": "2013\/03\/22", "h_m_s_ets": "3:48:58", "count": 1, "category": "comic" }, "geometry": { "type": "Point", "coordinates": [ -90.999253, 29.913264 ] } }
+
+]
+}

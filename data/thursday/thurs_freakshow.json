@@ -1,0 +1,43 @@
+var freakshow = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "http:\/\/t.co\/MJ2d5li9FM #metal #nowplaying #AgressiveNegotiation #FreakShow #TheAmericanNightmare #thrash #epic", "user": "AgressiveNeg", "location": "Orange County, CA", "coord_x": -117.904874, "coord_y": 33.658877, "created_at": "2013\/03\/21", "h_m_s": "14:49:48", "time_ets": "2013\/03\/21", "h_m_s_ets": "10:49:48", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -117.904874, 33.658877 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes! #Freakshow is on! I love having access to a tv.", "user": "OhHeyKmo", "location": "Memphis, TN", "coord_x": -89.950458, "coord_y": 35.115739, "created_at": "2013\/03\/21", "h_m_s": "23:2:21", "time_ets": "2013\/03\/21", "h_m_s_ets": "19:2:22", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -89.950458, 35.115739 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching freakshow...", "user": "thatBETCHjgutta", "location": "east carolina university", "coord_x": -77.363166, "coord_y": 35.612324, "created_at": "2013\/03\/21", "h_m_s": "23:3:35", "time_ets": "2013\/03\/21", "h_m_s_ets": "19:3:35", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -77.363166, 35.612324 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wish they would bring #freakshow to West Virginia. #hopefulthinking", "user": "little_penguin6", "location": "Harts", "coord_x": -82.170487, "coord_y": 37.946428, "created_at": "2013\/03\/22", "h_m_s": "0:10:16", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:10:16", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -82.170487, 37.946428 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I feel like Morgue from Freakshow is my soul mate.", "user": "Lyssa_Lullaby", "location": "", "coord_x": -90.083818, "coord_y": 38.860633, "created_at": "2013\/03\/22", "h_m_s": "0:35:15", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:35:15", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -90.083818, 38.860633 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Freakshow...name says it all", "user": "dyand95", "location": "", "coord_x": -87.808807, "coord_y": 41.786419, "created_at": "2013\/03\/22", "h_m_s": "0:38:5", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:38:5", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -87.808807, 41.786419 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Home sick &amp; #NowPlaying See You In Hell by Hinder on #Spotify loving #freakshow @hindermusic  http:\/\/t.co\/tCh8o6VXzd", "user": "AngieLembo", "location": "Richfield, MN", "coord_x": -93.248414, "coord_y": 44.871263, "created_at": "2013\/03\/22", "h_m_s": "0:40:23", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:40:23", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -93.248414, 44.871263 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Freakshow is the freakiest show ever but I can't stop watching it !", "user": "BritBowcock92", "location": "Lanoka Harbor, NJ", "coord_x": -74.196466, "coord_y": 39.871085, "created_at": "2013\/03\/22", "h_m_s": "0:53:25", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:53:26", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -74.196466, 39.871085 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kind of getting addicted to #freakshow #loveit", "user": "Rose_Lovii", "location": "SATX", "coord_x": -98.672376, "coord_y": 29.902746, "created_at": "2013\/03\/22", "h_m_s": "0:53:26", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:53:26", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -98.672376, 29.902746 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm watching this show freakshow and its dope, I gotta visit this place.", "user": "alyssiaxoxoxo", "location": "Kansas citty", "coord_x": -94.537273, "coord_y": 39.233265, "created_at": "2013\/03\/22", "h_m_s": "0:56:23", "time_ets": "2013\/03\/21", "h_m_s_ets": "20:56:24", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -94.537273, 39.233265 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Freakshow is my new favorite show!!!", "user": "ARH___", "location": "", "coord_x": -84.774300, "coord_y": 42.245092, "created_at": "2013\/03\/22", "h_m_s": "1:1:11", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:1:11", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -84.774300, 42.245092 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#FREAKSHOW", "user": "Jooseinmacup", "location": "", "coord_x": -97.531105, "coord_y": 25.941395, "created_at": "2013\/03\/22", "h_m_s": "1:6:7", "time_ets": "2013\/03\/21", "h_m_s_ets": "21:6:8", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -97.531105, 25.941395 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This show on amc #freakshow is really...quite interesting.", "user": "RyTy2009", "location": "Renton, WA", "coord_x": -122.149374, "coord_y": 47.501435, "created_at": "2013\/03\/22", "h_m_s": "3:32:40", "time_ets": "2013\/03\/21", "h_m_s_ets": "23:32:40", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -122.149374, 47.501435 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm so intrigued by Freakshow", "user": "kolyejoyce", "location": "810, Michigan", "coord_x": -83.824549, "coord_y": 43.063612, "created_at": "2013\/03\/22", "h_m_s": "4:23:53", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:23:53", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -83.824549, 43.063612 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#freakshow on amc is pretty interesting.", "user": "lambertefaith", "location": "", "coord_x": -80.412952, "coord_y": 35.267240, "created_at": "2013\/03\/22", "h_m_s": "4:26:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:26:55", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -80.412952, 35.267240 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just watched two midgets from Freakshow get married and I got goosebumps when they said 'I do.' such cute lil nuggetz", "user": "kolyejoyce", "location": "810, Michigan", "coord_x": -83.824549, "coord_y": 43.063612, "created_at": "2013\/03\/22", "h_m_s": "4:28:14", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:28:14", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -83.824549, 43.063612 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Has anyone else seen this \"Freakshow\" show.....?", "user": "YoungCoug541", "location": "Hermiston, OR & Pullman, WA", "coord_x": -117.168032, "coord_y": 46.730251, "created_at": "2013\/03\/22", "h_m_s": "4:50:36", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:50:36", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -117.168032, 46.730251 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mom has me watching this freakshow show and it's beyond weird!!", "user": "__AutumnLovee", "location": "", "coord_x": -105.096929, "coord_y": 39.794517, "created_at": "2013\/03\/22", "h_m_s": "4:51:20", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:51:20", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -105.096929, 39.794517 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My moms making me watch the show #FreakShow &amp; it's creeping me ouuuutttt!", "user": "SDavidson2013", "location": "Wathena Kansas", "coord_x": -94.987967, "coord_y": 39.783699, "created_at": "2013\/03\/22", "h_m_s": "4:56:55", "time_ets": "2013\/03\/22", "h_m_s_ets": "0:56:55", "count": 1, "category": "freakshow" }, "geometry": { "type": "Point", "coordinates": [ -94.987967, 39.783699 ] } }
+
+]
+}

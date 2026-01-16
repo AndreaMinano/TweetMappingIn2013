@@ -1,0 +1,7 @@
+var lab_rats = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Sitting down watching lab rats just started it to laugh at my tv lol now about to talk to my people shay out", "user": "2kool4you223", "location": "d.c", "coord_x": -76.931923, "coord_y": 38.891997, "created_at": "2013\/03\/19", "h_m_s": "2:33:49", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:33:51", "count8": 1, "category7": "labrats" }, "geometry": { "type": "Point", "coordinates": [ -76.931923, 38.891997 ] } }
+
+]
+}

@@ -1,0 +1,21 @@
+var rules_of_e = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Rules of Engagement rules, one if the best shows on TV, very underrated #rulesofengagement", "user": "Veneto1961", "location": "Canada", "coord_x": -79.711656, "coord_y": 43.742981, "created_at": "2013\/03\/18", "h_m_s": "18:58:31", "time_ets": "2013\/03\/18", "h_m_s_ets": "14:58:32", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -79.711656, 43.742981 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Matt_Stillwell were you an extra in the TV series \"Rules of Engagement\"? #doppleganger http:\/\/t.co\/Hg81w9UBst", "user": "RageKage22", "location": "Prairie village; olathe", "coord_x": -77.898227, "coord_y": 34.238746, "created_at": "2013\/03\/18", "h_m_s": "22:31:35", "time_ets": "2013\/03\/18", "h_m_s_ets": "18:31:37", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -77.898227, 34.238746 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rules of engagement is alot like friends", "user": "DCB24", "location": "Hillsborough, NC", "coord_x": -79.072126, "coord_y": 36.042065, "created_at": "2013\/03\/18", "h_m_s": "22:33:20", "time_ets": "2013\/03\/18", "h_m_s_ets": "18:33:22", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -79.072126, 36.042065 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rules of engagement is funny!", "user": "DCB24", "location": "Hillsborough, NC", "coord_x": -79.072530, "coord_y": 36.042196, "created_at": "2013\/03\/18", "h_m_s": "22:37:2", "time_ets": "2013\/03\/18", "h_m_s_ets": "18:37:4", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -79.072530, 36.042196 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just watched 2 minutes of \"rules of engagement\" on accident.  Wouldn't recommend it", "user": "mnbinkley", "location": "", "coord_x": -83.037494, "coord_y": 39.984633, "created_at": "2013\/03\/19", "h_m_s": "0:34:0", "time_ets": "2013\/03\/18", "h_m_s_ets": "20:34:1", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -83.037494, 39.984633 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New Rules of Engagement ??", "user": "Styrone_", "location": "410", "coord_x": -76.567955, "coord_y": 39.046623, "created_at": "2013\/03\/19", "h_m_s": "0:34:10", "time_ets": "2013\/03\/18", "h_m_s_ets": "20:34:12", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -76.567955, 39.046623 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"What was up with [#Yosemite_Sam]?  I heard he was #bipolar or something,\"  --Rules of Engagement", "user": "Titopoquito", "location": "", "coord_x": -76.644573, "coord_y": 39.210850, "created_at": "2013\/03\/19", "h_m_s": "1:12:1", "time_ets": "2013\/03\/18", "h_m_s_ets": "21:12:3", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -76.644573, 39.210850 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rules of Engagement is hilarious hahaha", "user": "tayrenee_10", "location": "Indiana", "coord_x": -87.219542, "coord_y": 41.419950, "created_at": "2013\/03\/19", "h_m_s": "2:52:30", "time_ets": "2013\/03\/18", "h_m_s_ets": "22:52:32", "count11": 1, "category10": "rulesofe" }, "geometry": { "type": "Point", "coordinates": [ -87.219542, 41.419950 ] } }
+
+]
+}

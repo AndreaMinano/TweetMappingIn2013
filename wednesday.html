@@ -1,0 +1,605 @@
+<!--I completed this project for an Undergraduate course on web GIS...BACK IN 2013!
+Enjoy browsing what people were watching back in 2013. When The Walking Dead was all the rage.
+Though I wrote most of this code, there may be bits and pieces I copied and adapted from online tutorials and StackOverflow.
+
+By Andrea Minano Goldring-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mapping TV Ratings with Tweets</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+	<!--<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.ie.css" /><![endif]-->
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+	 		function reverseValue(value){
+			if (value == 1){return 'CSI, Law and Order, My Strange Addiction, Survivor';}
+			else if (value == 2){return 'CSI, Survivor, Supernatural';}
+			else if (value == 3){return 'CSI, Duck Dynasty';}
+			else if (value == 4){return 'American Idol, Supernatural';}
+			else if (value == 5){return 'Supernatural';}
+			else if (value == 6){return 'Criminal Minds';}
+			else if (value == 7){return 'CSI, Supernatural';}
+			else if (value == 8){return 'Workaholics, My Strange Addiction';}
+			else if (value == 9){return 'Law and Order';}
+			else if (value == 10){return 'Workaholics, American Idol, Survivor';}
+			else if (value == 11){return 'Duck Dynasty, American Idol';}
+			else if (value == 12){return 'Workaholics';}
+			else if (value == 13){return 'Duck Dynasty, Workaholics';}
+			else if (value == 14){return 'CSI, Duck Dynasty, Chicago Fire';}
+			else if (value == 15){return 'Duck Dynasty, Hoarding';}
+			else if (value == 16){return 'Duck Dynasty, Workaholics, American Idol, Survivor';}
+			else if (value == 17){return 'Survivor';}
+			else if (value == 18){return 'American Idol, Survivor, Chicago Fire';}
+			else if (value == 19){return 'Duck Dynasty';}
+			else if (value == 20){return 'American Idol';}
+			else if (value == 21){return 'CSI, Workaholics, American Idol, Psych, Survivor';}
+			else if (value == 22){return 'American Idol, My Strange Addiction';}
+			else if (value == 23){return 'Workaholics, American Idol, Supernatural';}
+			else if (value == 24){return 'Psych';}
+			else if (value == 25){return 'American Idol, Criminal Minds';}
+			else if (value == 26){return 'Workaholics, Psych';}
+			else if (value == 27){return 'Workaholics, Survivor';}
+			else {return 'Others';}
+		}
+	 
+	 
+      function drawChart(in_array) {
+		var arr = new Array(40);
+		arr = [['TV Show', 'Number of Tweets']];
+		var count = 1;
+		var name;
+		var name_len;
+		var num_var;
+		for (var i = 0; i < in_array.length; i++){
+			name = reverseValue(in_array[i][0]);
+			num_var = in_array[i][1];
+			name_len = name.split(", ");
+			for (var j = 0; j < name_len.length; j++){
+				arr[count] = [name_len[j], num_var];
+				count = count + 1;
+			}
+		}
+		
+		var data = google.visualization.arrayToDataTable(arr);
+
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, {title: 'Number of Tweets per TV Show'});
+      }
+	  
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+    </script>
+	<style>
+	
+		body {
+		background: #000000;
+		}
+		
+		#map {
+		position: fixed; 
+		top: 0; 
+		left: 0; 
+	
+		/* Preserve aspet ratio */
+		min-width: 100%;
+		min-height: 100%;
+		}
+		
+		.popup {
+		width: 800px;
+		}
+		
+		h3 {
+		text-align: center;
+		}
+		h4 {
+		font: 14px Courier; 
+		text-align: center;
+		color: #FF3300;
+		}
+		
+		h5 {
+		text-align: center;
+		font: 12px Courier;
+		}
+
+		h6 {
+		text-align: right;
+		font: 12px Courier;
+		}
+		
+		A:link {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:visited {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:active {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:hover {font: verdana; font-size: 14px; font-weight: bold; color: #FF6600}
+		
+		.info {
+			padding: 6px 8px;
+			text-align: center;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,1);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			width: 280px;
+
+		}
+
+		.info2 {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			border-radius: 5px;
+		}
+		
+		.info h2 {
+			margin: 0 0 5px;
+			color: #000000;
+		}
+		
+		.legend {
+			text-align: left;
+			line-height: 18px;
+			bottom: 25px;
+			color: #555;
+		}
+		.legend i {
+			width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.7;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+	
+	<!--<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>-->
+	<script src="data/wednesday.json"></script>
+	<script src="data/wednesday/wednesday.json"></script>
+	<script src="data/wednesday/weds_arrow.json"></script>
+	<script src="data/wednesday/weds_bigbrother.json"></script>
+	<script src="data/wednesday/weds_chicago.json"></script>
+	<script src="data/wednesday/weds_criminalminds.json"></script>
+	<script src="data/wednesday/weds_csi.json"></script>
+	<script src="data/wednesday/weds_duck.json"></script>
+	<script src="data/wednesday/weds_essex.json"></script>
+	<script src="data/wednesday/weds_hoarding.json"></script>
+	<script src="data/wednesday/weds_idol.json"></script>
+	<script src="data/wednesday/weds_kitchen.json"></script>
+	<script src="data/wednesday/weds_law.json"></script>
+	<script src="data/wednesday/weds_psych.json"></script>
+	<script src="data/wednesday/weds_strange.json"></script>
+	<script src="data/wednesday/weds_suburgatory.json"></script>
+	<script src="data/wednesday/weds_supernatural.json"></script>
+	<script src="data/wednesday/weds_survivor.json"></script>
+	<script src="data/wednesday/weds_whitney.json"></script>
+	<script src="data/wednesday/weds_workaholics.json"></script>
+	
+	<script>
+		//create map object and import basemap
+		var map = L.map('map').setView([37.8, -88], 4);
+		
+		L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attribution">CARTO</a>',
+		}).addTo(map);
+		
+		// title of the map
+		var info = L.control();
+
+		info.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info.update = function (props) {
+			this._div.innerHTML = "<h2>Tweet-Mapping TV Ratings<br>Wednesday, March 20, 2013</h2><br>" + 
+			"<div class='info2 legend'><b>Top Tweeted TV Show</b><br><i style ='background:#000066'></i>American Idol<br>" +
+			//"<i style ='background:#33CC66'></i>CSI & Others<br>" +
+			"<i style ='background:#990099'></i>Duck Dynasty<br>" +
+			//"<i style ='background:#FFCC33'></i>Duck Dynasty & Others<br>" +
+			"<i style ='background:#FF6600'></i>Pysch<br>" +
+			"<i style ='background:#FF0000'></i>Supernatural<br>" +
+			"<i style ='background:#FF6666'></i>Workaholics<br>" +
+			"<i style ='background:#33CC66'></i>Various Shows<br>" +
+			
+			"<br><img src= 'img/WednesdayTV_zps4f6efa06.jpg' width='260' height='170' border='0'/>" +
+			"<img src= 'img/WednesdayTweets_zps7aaa34af.jpg' width='260' height='170' border='0'/>" +
+			
+			"</div>";
+		};
+
+				   
+		info.addTo(map);
+
+		var info2 = L.control();
+
+		info2.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info2.update = function (props) {
+			this._div.innerHTML = "<a href='index.html'>MON  </a><a href='tuesday.html'>TUE  </a><a href='wednesday.html'>WED  </a><a href='thursday.html'>THU  </a><a href='friday.html'>FRI  </a><a href='saturday.html'>SAT  </a><a href='sunday.html'>SUN  </a>";
+		};
+
+		info2.addTo(map);
+		
+		function getValue(name){
+		if (name == 'CSI, Law and Order, My Strange Addiction, Survivor'){return 1;}
+		else if (name == 'CSI, Survivor, Supernatural'){return 2;}
+		else if (name == 'CSI, Duck Dynasty'){return 3;}
+		else if (name == 'American Idol, Supernatural'){return 4;}
+		else if (name == 'Supernatural'){return 5;}
+		else if (name == 'Criminal Minds'){return 6;}
+		else if (name == 'CSI, Supernatural'){return 7;}
+		else if (name == 'Workaholics, My Strange Addiction'){return 8;}
+		else if (name == 'Law and Order'){return 9;}
+		else if (name == 'Workaholics, American Idol, Survivor'){return 10;}
+		else if (name == 'Duck Dynasty, American Idol'){return 11;}
+		else if (name == 'Workaholics'){return 12;}
+		else if (name == 'Duck Dynasty, Workaholics'){return 13;}
+		else if (name == 'CSI, Duck Dynasty, Chicago Fire'){return 14;}
+		else if (name == 'Duck Dynasty, Hoarding'){return 15;}
+		else if (name == 'Duck Dynasty, Workaholics, American Idol, Survivor'){return 16;}
+		else if (name == 'Survivor'){return 17;}
+		else if (name == 'American Idol, Survivor, Chicago Fire'){return 18;}
+		else if (name == 'Duck Dynasty'){return 19;}
+		else if (name == 'American Idol'){return 20;}
+		else if (name == 'CSI, Workaholics, American Idol, Psych, Survivor'){return 21;}
+		else if (name == 'American Idol, My Strange Addiction'){return 22;}
+		else if (name == 'Workaholics, American Idol, Supernatural'){return 23;}
+		else if (name == 'Psych'){return 24;}
+		else if (name == 'American Idol, Criminal Minds'){return 25;}
+		else if (name == 'Workaholics, Psych'){return 26;}
+		else if (name == 'Workaholics, Survivor'){return 27;}
+			else {return 9999;}
+		}
+		
+		//create pop up window
+		function onEachFeature_Wednesday(feature, layer) {
+		if (feature.properties && feature.properties.w_max1 && feature.properties.w_max2 && feature.properties.w_max3){
+			var max1 = getValue(feature.properties.w_max1);
+			var max2 = getValue(feature.properties.w_max2);
+			var max3 = getValue(feature.properties.w_max3);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.w_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.w_count1 + "],[" + max2 + ", " + feature.properties.w_count2 + "],[" + max3 + ", " + feature.properties.w_count3 + "],[" + other + ", " + feature.properties.w_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else if (feature.properties.w_max1 && feature.properties.w_max2){
+			var max1 = getValue(feature.properties.w_max1);
+			var max2 = getValue(feature.properties.w_max2);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.w_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.w_count1 + "],[" + max2 + ", " + feature.properties.w_count2 + "],[" + other + ", " + feature.properties.w_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else if (feature.properties.w_max1){
+			var max1 = getValue(feature.properties.w_max1);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.w_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.w_count1 + "],[" + other + ", " + feature.properties.w_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else {
+			layer.bindPopup("Sorry! No tweets were available for this state");
+		}
+		
+		}
+		
+		//create pop up for tweet
+		function onEachFeature_Tweet(feature, layer){
+			layer.bindPopup('<h5>' + feature.properties.tweet + '<h6>-@' + feature.properties.user + '</h6>');
+		}
+		//wednesday
+
+		function getColor_Wednesday(d) {
+			return d == 'American Idol' ? '#000066' :
+				   d == 'CSI, Survivor, Supernatural' ? '#33CC66' :
+				   d == 'Duck Dynasty' ? '#990099' :
+				   d == 'Duck Dynasty, American Idol' ? '#33CC66' : 
+				   d == 'Duck Dynasty, Workaholics' ? '#33CC66' : 
+				   d == 'Duck Dynasty, Workaholics, American Idol, Survivor' ? '#33CC66' : 
+				   d == 'Psych' ? '#FF6600' :
+				   d == 'Supernatural' ? '#FF0000' :
+				   d == 'Workaholics' ? '#FF6666' :
+							'#FFFFFF';
+		}
+		
+		//style features
+		function style_Wednesday(feature) {
+			return {
+				weight: 1,
+				opacity: 1,
+				color: '#424242',
+				fillOpacity: 0.7,
+				fillColor: getColor_Wednesday(feature.properties.w_max1)
+			};
+		}			
+
+		//state json
+		week_json_wednesday = new L.geoJson(all_week, {style: style_Wednesday, onEachFeature: onEachFeature_Wednesday});
+		//tweet json
+		all_tweets_json = new L.geoJson(all_tweets, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#ff7800",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		arrow_json = new L.geoJson(arrow, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#52FF52",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		bigbrother_json = new L.geoJson(bigbrother, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#F8FF2E",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		chicago_json = new L.geoJson(chicago, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FFA514",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		criminalminds_json = new L.geoJson(criminalminds, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#CC8C25",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		csi_json = new L.geoJson(csi, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF8E69",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		duck_json = new L.geoJson(duck, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF1717",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		essex_json = new L.geoJson(essex, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF1778",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		hoarding_json = new L.geoJson(hoarding, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#B617FF",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		idol_json = new L.geoJson(idol, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#3617FF",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		kitchen_json = new L.geoJson(kitchen, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#9B8DF7",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		law_json = new L.geoJson(law, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#8DEDF7",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		psych_json = new L.geoJson(psych, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#07B595",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		strange_json = new L.geoJson(strange, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#0DA347",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		suburgatory_json = new L.geoJson(suburgatory, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#F2CA16",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		supernatural_json = new L.geoJson(supernatural, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#606060",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		survivor_json = new L.geoJson(survivor, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#660066",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		whitney_json = new L.geoJson(whitney, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#99CC99",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		workaholics_json = new L.geoJson(workaholics, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#66FF33",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});		
+		//add group layers to the map
+		var week_layer_wednesday = new L.LayerGroup();
+		week_layer_wednesday.addLayer(week_json_wednesday);
+
+		var all_tweets_layer = new L.LayerGroup();
+		all_tweets_layer.addLayer(all_tweets_json);
+
+		var arrow_layer = new L.LayerGroup();
+		arrow_layer.addLayer(arrow_json);
+		
+		var bigbrother_layer = new L.LayerGroup();
+		bigbrother_layer.addLayer(bigbrother_json);
+		
+		var chicago_layer = new L.LayerGroup();
+		chicago_layer.addLayer(chicago_json);
+		
+		var criminalminds_layer = new L.LayerGroup();
+		criminalminds_layer.addLayer(criminalminds_json);
+		
+		var csi_layer = new L.LayerGroup();
+		csi_layer.addLayer(csi_json);
+		
+		var duck_layer = new L.LayerGroup();
+		duck_layer.addLayer(duck_json);
+
+		var essex_layer = new L.LayerGroup();
+		essex_layer.addLayer(essex_json);
+
+		var hoarding_layer = new L.LayerGroup();
+		hoarding_layer.addLayer(hoarding_json);
+		
+		var idol_layer = new L.LayerGroup();
+		idol_layer.addLayer(idol_json);
+
+		var kitchen_layer = new L.LayerGroup();
+		kitchen_layer.addLayer(kitchen_json);	
+
+		var law_layer = new L.LayerGroup();
+		law_layer.addLayer(law_json);
+
+		var psych_layer = new L.LayerGroup();
+		psych_layer.addLayer(psych_json);		
+
+		var strange_layer = new L.LayerGroup();
+		strange_layer.addLayer(strange_json);	
+
+		var suburgatory_layer = new L.LayerGroup();
+		suburgatory_layer.addLayer(suburgatory_json);	
+
+		var supernatural_layer = new L.LayerGroup();
+		supernatural_layer.addLayer(supernatural_json);
+
+		var survivor_layer = new L.LayerGroup();
+		survivor_layer.addLayer(survivor_json);
+
+		var whitney_layer = new L.LayerGroup();
+		whitney_layer.addLayer(whitney_json);
+
+		var workaholics_layer = new L.LayerGroup();
+		workaholics_layer.addLayer(workaholics_json);
+		
+		map.addLayer(week_layer_wednesday);
+		
+		var otherLayers = {
+		"All Tweets": all_tweets_layer,
+		"Arrow": arrow_layer,
+		"Big Brother": bigbrother_layer,
+		"Chicago": chicago_layer,
+		"Criminal Minds": criminalminds_layer,
+		"CSI": csi_layer,
+		"Duck Dynasty": duck_layer,
+		"The Only Way is Essex": essex_layer,
+		"Hoarding": hoarding_layer,
+		"American Idol": idol_layer,
+		"My Kitchen Rules": kitchen_layer,
+		"Law & Order": law_layer,
+		"Psych": psych_layer,
+		"My Strange Addiction": strange_layer,
+		"Suburgatory": suburgatory_layer,
+		"Supernatural": supernatural_layer,
+		"Survivor": survivor_layer,
+		"Whitney": whitney_layer,
+		"Workaholics": workaholics_layer
+		};
+		
+		var layersControl = new L.Control.Layers(null, otherLayers, {position: 'topleft', collapsed: true, autoZIndex: false});
+
+		map.addControl(layersControl);
+	</script>
+</body>
+</html>

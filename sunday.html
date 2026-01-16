@@ -1,0 +1,560 @@
+<!--I completed this project for an Undergraduate course on web GIS...BACK IN 2013!
+Enjoy browsing what people were watching back in 2013. When The Walking Dead was all the rage.
+Though I wrote most of this code, there may be bits and pieces I copied and adapted from online tutorials and StackOverflow.
+
+By Andrea Minano Goldring-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mapping TV Ratings with Tweets</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+	<!--<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.ie.css" /><![endif]-->
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+	 		function reverseValue(value){
+			if (value == 1){return 'Vikings';}
+			else if (value == 2){return 'Once Upon A Time, The Amazing Race, American Dad';}
+			else if (value == 3){return 'Shameless, Kourtney and Kim Take Miami';}
+			else if (value == 4){return 'Once Upon A Time, Family Guy';}
+			else if (value == 5){return 'The Amazing Race, Family Guy, Vikings';}
+			else if (value == 6){return 'Real Housewives';}
+			else if (value == 7){return 'Revenge, Vikings';}
+			else if (value == 8){return 'Shameless, American Dad';}
+			else if (value == 9){return 'The Apprentice, Family Guy';}
+			else if (value == 10){return 'Revenge';}
+			else if (value == 11){return 'Once Upon A Time';}
+			else if (value == 12){return 'Revenge, The Amazing Race';}
+			else if (value == 13){return 'Shameless, Family Guy';}
+			else if (value == 14){return 'American Dad';}
+			else if (value == 15){return 'The Amazing Race, Family Guy';}
+			else if (value == 16){return 'Shameless';}
+			else if (value == 17){return 'Real Housewives, Once Upon A Time, Vikings';}
+			else if (value == 18){return 'The Amazing Race, Kourtney and Kim Take Miami, Vikings';}
+			else if (value == 19){return 'Once Upon A Time, The Amazing Race';}
+			else if (value == 20){return 'Family Guy';}
+			else if (value == 21){return 'Revenge, Once Upon A Time, Shameless, Kourtney and Kim Take Miami';}
+			else if (value == 22){return 'The Amazing Race';}
+			else if (value == 23){return 'The Walking Dead';}
+			else if (value == 24){return 'The Amazing Race, The Good Wife';}
+			else if (value == 25){return 'The Amazing Race, Vikings';}
+			else if (value == 26){return 'Revenge, Once Upon A Time';}
+			else if (value == 27){return 'Revenge, Shameless, Family Guy';}
+			else if (value == 28){return 'Revenge, Shameless';}
+			else {return 'Others';}
+		}
+	 
+      function drawChart(in_array) {
+		var arr = new Array(40);
+		arr = [['TV Show', 'Number of Tweets']];
+		var count = 1;
+		var name;
+		var name_len;
+		var num_var;
+		for (var i = 0; i < in_array.length; i++){
+			name = reverseValue(in_array[i][0]);
+			num_var = in_array[i][1];
+			name_len = name.split(", ");
+			for (var j = 0; j < name_len.length; j++){
+				arr[count] = [name_len[j], num_var];
+				count = count + 1;
+			}
+		}
+		
+		var data = google.visualization.arrayToDataTable(arr);
+
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, {title: 'Number of Tweets per TV Show'});
+      }
+	  
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+    </script>
+	<style>
+	
+		body {
+		background: #000000;
+		}
+		
+		#map {
+		position: fixed; 
+		top: 0; 
+		left: 0; 
+	
+		/* Preserve aspet ratio */
+		min-width: 100%;
+		min-height: 100%;
+		}
+		
+		.popup {
+		width: 800px;
+		}
+		
+		h3 {
+		text-align: center;
+		}
+		h4 {
+		font: 14px Courier; 
+		text-align: center;
+		color: #FF3300;
+		}
+		
+		h5 {
+		text-align: center;
+		font: 12px Courier;
+		}
+
+		h6 {
+		text-align: right;
+		font: 12px Courier;
+		}
+		
+		A:link {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:visited {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:active {font: verdana; font-size: 14px; font-weight: bold; color: #000000; text-decoration: none}
+		A:hover {font: verdana; font-size: 14px; font-weight: bold; color: #FF6600}
+		
+		.info {
+			padding: 6px 8px;
+			text-align: center;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,1);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			width: 280px;
+
+		}
+
+		.info2 {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			border-radius: 5px;
+		}
+		
+		.info h2 {
+			margin: 0 0 5px;
+			color: #000000;
+		}
+		
+		.legend {
+			text-align: left;
+			line-height: 18px;
+			bottom: 25px;
+			color: #555;
+		}
+		.legend i {
+			width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.7;
+		}
+	</style>
+</head>
+<body>
+	<div id="map"></div>
+	
+	<!--<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>-->
+	<script src="data/sunday.json"></script>
+	<script src="data/sunday/sunday.json"></script>
+	<script src="data/sunday/sunday_americandad.json"></script>
+	<script src="data/sunday/sunday_apprentice.json"></script>
+	<script src="data/sunday/sunday_californication.json"></script>
+	<script src="data/sunday/sunday_familyguy.json"></script>
+	<script src="data/sunday/sunday_houseoflies.json"></script>
+	<script src="data/sunday/sunday_kourtkim.json"></script>
+	<script src="data/sunday/sunday_lostgirl.json"></script>
+	<script src="data/sunday/sunday_mentalist.json"></script>
+	<script src="data/sunday/sunday_onceupon.json"></script>
+	<script src="data/sunday/sunday_race.json"></script>
+	<script src="data/sunday/sunday_realhousewives.json"></script>
+	<script src="data/sunday/sunday_revenge.json"></script>
+	<script src="data/sunday/sunday_shameless.json"></script>
+	<script src="data/sunday/sunday_thegoodwife.json"></script>
+	<script src="data/sunday/sunday_vikings.json"></script>
+	<script src="data/sunday/sunday_walkingdead.json"></script>
+	
+	<script>
+		//create map object and import basemap
+		var map = L.map('map').setView([37.8, -88], 4);
+		
+		L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attribution">CARTO</a>',
+		}).addTo(map);
+		
+		// title of the map
+		var info = L.control();
+
+		info.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info.update = function (props) {
+			this._div.innerHTML = "<h2>Tweet-Mapping TV Ratings<br>Sunday, March 24, 2013</h2><br>" + 
+			"<div class='info2 legend'><b>Top Tweeted TV Show</b><br><i style ='background:#000066'></i>The Walking Dead<br>" +
+			
+			"<br><img src= 'img/SundayTV_zps2b123937.jpg' width='260' height='170' border='0'/>" +
+			"<img src= 'img/SundayTweets_zps4dd6510f.jpg' width='260' height='170' border='0'/>" +
+			
+			"</div>";
+		};
+				   
+		info.addTo(map);
+
+		var info2 = L.control();
+
+		info2.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info2.update = function (props) {
+			this._div.innerHTML = "<a href='index.html'>MON  </a><a href='tuesday.html'>TUE  </a><a href='wednesday.html'>WED  </a><a href='thursday.html'>THU  </a><a href='friday.html'>FRI  </a><a href='saturday.html'>SAT  </a><a href='sunday.html'>SUN  </a>";
+		};
+
+		info2.addTo(map);
+		
+		function getValue(name){
+		if (name == 'Vikings'){return 1;}
+		else if (name == 'Once Upon A Time, The Amazing Race, American Dad'){return 2;}
+		else if (name == 'Shameless, Kourtney and Kim Take Miami'){return 3;}
+		else if (name == 'Once Upon A Time, Family Guy'){return 4;}
+		else if (name == 'The Amazing Race, Family Guy, Vikings'){return 5;}
+		else if (name == 'Real Housewives'){return 6;}
+		else if (name == 'Revenge, Vikings'){return 7;}
+		else if (name == 'Shameless, American Dad'){return 8;}
+		else if (name == 'The Apprentice, Family Guy'){return 9;}
+		else if (name == 'Revenge'){return 10;}
+		else if (name == 'Once Upon A Time'){return 11;}
+		else if (name == 'Revenge, The Amazing Race'){return 12;}
+		else if (name == 'Shameless, Family Guy'){return 13;}
+		else if (name == 'American Dad'){return 14;}
+		else if (name == 'The Amazing Race, Family Guy'){return 15;}
+		else if (name == 'Shameless'){return 16;}
+		else if (name == 'Real Housewives, Once Upon A Time, Vikings'){return 17;}
+		else if (name == 'The Amazing Race, Kourtney and Kim Take Miami, Vikings'){return 18;}
+		else if (name == 'Once Upon A Time, The Amazing Race'){return 19;}
+		else if (name == 'Family Guy'){return 20;}
+		else if (name == 'Revenge, Once Upon A Time, Shameless, Kourtney and Kim Take Miami'){return 21;}
+		else if (name == 'The Amazing Race'){return 22;}
+		else if (name == 'The Walking Dead'){return 23;}
+		else if (name == 'The Amazing Race, The Good Wife'){return 24;}
+		else if (name == 'The Amazing Race, Vikings'){return 25;}
+		else if (name == 'Revenge, Once Upon A Time'){return 26;}
+		else if (name == 'Revenge, Shameless, Family Guy'){return 27;}
+		else if (name == 'Revenge, Shameless'){return 28;}
+			else {return 9999;}
+		}
+		
+		//create pop up window
+		function onEachFeature_Sunday(feature, layer) {
+		if (feature.properties && feature.properties.su_max1 && feature.properties.su_max2 && feature.properties.su_max3){
+			var max1 = getValue(feature.properties.su_max1);
+			var max2 = getValue(feature.properties.su_max2);
+			var max3 = getValue(feature.properties.su_max3);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.su_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.su_count1 + "],[" + max2 + ", " + feature.properties.su_count2 + "],[" + max3 + ", " + feature.properties.su_count3 + "],[" + other + ", " + feature.properties.su_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else if (feature.properties.su_max1 && feature.properties.su_max2){
+			var max1 = getValue(feature.properties.su_max1);
+			var max2 = getValue(feature.properties.su_max2);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.su_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.su_count1 + "],[" + max2 + ", " + feature.properties.su_count2 + "],[" + other + ", " + feature.properties.su_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else if (feature.properties.su_max1){
+			var max1 = getValue(feature.properties.su_max1);
+			var other = getValue('Others');
+			layer.bindPopup("<b><h3>" + feature.properties.NAME10 + "<br></h3>Most Popular TV Show(s): </b>" + feature.properties.su_max1 + "<br><br><center><button onclick='drawChart([[" + max1 + ", " + feature.properties.su_count1 + "],[" + other + ", " + feature.properties.su_other + "]])'>Click for more info</button><div id='chart_div' style='width: 320px; height: 200px;'></center></div>");
+		}
+		else {
+			layer.bindPopup("Sorry! No tweets were available for this state");
+		}
+		
+		}
+		
+		//create pop up for tweet
+		function onEachFeature_Tweet(feature, layer){
+			layer.bindPopup('<h5>' + feature.properties.tweet + '<h6>-@' + feature.properties.user + '</h6>');
+		}
+		//sunday
+		function getColor_Sunday(d) {
+			return d == 'The Walking Dead' ? '#000066' :
+							'#FFFFFF';
+		}
+		
+		//style features
+		function style_Sunday(feature) {
+			return {
+				weight: 1,
+				opacity: 1,
+				color: '#424242',
+				fillOpacity: 0.7,
+				fillColor: getColor_Sunday(feature.properties.su_max1)
+			};
+		}	
+
+		//state json
+		week_json_sunday = new L.geoJson(all_week, {style: style_Sunday, onEachFeature: onEachFeature_Sunday});
+		//tweet json
+		all_tweets_json = new L.geoJson(all_tweets, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#EB7F7F",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		americandad_json = new L.geoJson(americandad, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#52FF52",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		apprentice_json = new L.geoJson(apprentice, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#F8FF2E",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		californication_json = new L.geoJson(californication, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FFA514",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		familyguy_json = new L.geoJson(familyguy, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#CC8C25",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		houseoflies_json = new L.geoJson(houseoflies, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF8E69",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		kourtkim_json = new L.geoJson(kourtkim, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF1717",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		lostgirl_json = new L.geoJson(lostgirl, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#FF1778",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		mentalist_json = new L.geoJson(mentalist, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#B617FF",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		onceupon_json = new L.geoJson(onceupon, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#3617FF",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		race_json = new L.geoJson(race, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#9B8DF7",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		realhousewives_json = new L.geoJson(realhousewives, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#8DEDF7",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		revenge_json = new L.geoJson(revenge, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#07B595",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		shameless_json = new L.geoJson(shameless, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#0DA347",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		thegoodwife_json = new L.geoJson(thegoodwife, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#F2CA16",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		vikings_json = new L.geoJson(vikings, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#606060",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+
+		walkingdead_json = new L.geoJson(walkingdead, {onEachFeature: onEachFeature_Tweet, pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, {
+					radius: 3,
+					fillColor: "#660066",
+					color: "#000",
+					weight: 1,
+					opacity: 1,
+					fillOpacity: 0.8});
+		}});
+		
+		//add group layers to the map
+		var week_layer_sunday = new L.LayerGroup();
+		week_layer_sunday.addLayer(week_json_sunday);
+
+		var all_tweets_layer = new L.LayerGroup();
+		all_tweets_layer.addLayer(all_tweets_json);
+
+		var americandad_layer = new L.LayerGroup();
+		americandad_layer.addLayer(americandad_json);
+		
+		var apprentice_layer = new L.LayerGroup();
+		apprentice_layer.addLayer(apprentice_json);
+		
+		var californication_layer = new L.LayerGroup();
+		californication_layer.addLayer(californication_json);
+		
+		var familyguy_layer = new L.LayerGroup();
+		familyguy_layer.addLayer(familyguy_json);
+		
+		var houseoflies_layer = new L.LayerGroup();
+		houseoflies_layer.addLayer(houseoflies_json);
+		
+		var kourtkim_layer = new L.LayerGroup();
+		kourtkim_layer.addLayer(kourtkim_json);
+
+		var lostgirl_layer = new L.LayerGroup();
+		lostgirl_layer.addLayer(lostgirl_json);
+
+		var mentalist_layer = new L.LayerGroup();
+		mentalist_layer.addLayer(mentalist_json);
+		
+		var onceupon_layer = new L.LayerGroup();
+		onceupon_layer.addLayer(onceupon_json);
+
+		var race_layer = new L.LayerGroup();
+		race_layer.addLayer(race_json);	
+
+		var realhousewives_layer = new L.LayerGroup();
+		realhousewives_layer.addLayer(realhousewives_json);
+
+		var revenge_layer = new L.LayerGroup();
+		revenge_layer.addLayer(revenge_json);		
+
+		var shameless_layer = new L.LayerGroup();
+		shameless_layer.addLayer(shameless_json);	
+
+		var thegoodwife_layer = new L.LayerGroup();
+		thegoodwife_layer.addLayer(thegoodwife_json);	
+
+		var vikings_layer = new L.LayerGroup();
+		vikings_layer.addLayer(vikings_json);
+
+		var walkingdead_layer = new L.LayerGroup();
+		walkingdead_layer.addLayer(walkingdead_json);
+		
+		map.addLayer(week_layer_sunday);
+		
+		var otherLayers = {
+		"All Tweets": all_tweets_layer,
+		"American Dad": americandad_layer,
+		"The Apprentice": apprentice_layer,
+		"Californication": californication_layer,
+		"Family Guy": familyguy_layer,
+		"House of Lies": houseoflies_layer,
+		"Kourtney & Kim Take Miami": kourtkim_layer,
+		"Lost Girl": lostgirl_layer,
+		"The Mentalist": mentalist_layer,
+		"Once Upon a Time": onceupon_layer,
+		"The Amazing Race": race_layer,
+		"Real Housewives": realhousewives_layer,
+		"Revenge": revenge_layer,
+		"Shameless": shameless_layer,
+		"The Good Wife": thegoodwife_layer,
+		"Vikings": vikings_layer,
+		"The Walking Dead": walkingdead_layer
+		};
+		
+		var layersControl = new L.Control.Layers(null, otherLayers, {position: 'topleft', collapsed: true, autoZIndex: false});
+
+		map.addControl(layersControl);
+	</script>
+</body>
+</html>

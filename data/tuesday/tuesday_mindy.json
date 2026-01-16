@@ -1,0 +1,39 @@
+var mindy = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "“@TheWeek: The Mindy Project is the best TV show you're not watching: http:\/\/t.co\/CKW7IgQ6NU” I love this show!", "user": "dekadaye", "location": "Portland, OR", "coord_x": -122.683893, "coord_y": 45.521987, "created_at": "2013\/03\/19", "h_m_s": "18:54:41", "time_ets": "2013\/03\/19", "h_m_s_ets": "14:54:46", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -122.683893, 45.521987 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Best evening of sushi, vino and The Mindy Project with @louiserogers15", "user": "danielapapillon", "location": "Southwark, London", "coord_x": -0.301960, "coord_y": 51.458096, "created_at": "2013\/03\/19", "h_m_s": "21:53:22", "time_ets": "2013\/03\/19", "h_m_s_ets": "17:53:25", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -0.301960, 51.458096 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I will be appearing on The Mindy Project on FOX this evening! @MindyProjectFox", "user": "StephAllynne", "location": "Los Angeles", "coord_x": -118.412080, "coord_y": 34.050306, "created_at": "2013\/03\/19", "h_m_s": "22:40:41", "time_ets": "2013\/03\/19", "h_m_s_ets": "18:40:45", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -118.412080, 34.050306 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What an I gonna do on my Tuesday nights now that pretty little liars is over. Atleast I still have new girl and the Mindy project ?", "user": "SarahShohfi", "location": "", "coord_x": -74.070368, "coord_y": 39.961393, "created_at": "2013\/03\/20", "h_m_s": "1:8:49", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:19:2", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -74.070368, 39.961393 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So I need to catch up on PLL, Dance Moms, and The Mindy Project. Would have done that tomorrow... Too bad I have jury duty.", "user": "NicoleBugella", "location": "", "coord_x": -72.774281, "coord_y": 41.603227, "created_at": "2013\/03\/20", "h_m_s": "1:33:21", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:34:25", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -72.774281, 41.603227 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh my god the Indian from pitch perfect is on mindy project! #isthisreal", "user": "kwaysloww", "location": "", "coord_x": -78.761835, "coord_y": 35.716364, "created_at": "2013\/03\/20", "h_m_s": "1:36:43", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:37:46", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -78.761835, 35.716364 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love the mindy project&lt;33 @mindykaling", "user": "Kelsey_Davis33", "location": "", "coord_x": -75.588305, "coord_y": 40.256816, "created_at": "2013\/03\/20", "h_m_s": "1:38:20", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:39:25", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -75.588305, 40.256816 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mindy Project on Hulu Plus app via my new Blue Ray DVD Player. Yes please. (@ Hernandez's Hideout 2.0) [pic]: http:\/\/t.co\/TTtr3Zf3Ws", "user": "NYCScottH", "location": "iPhone: 40.707169,-74.008011", "coord_x": -73.991809, "coord_y": 40.762718, "created_at": "2013\/03\/20", "h_m_s": "1:38:55", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:39:50", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -73.991809, 40.762718 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wish I was watching the Mindy Project instead of reading this FDR speech about pearl harbor that I don't even care about...", "user": "Nessaa29", "location": "Lake County", "coord_x": -87.883690, "coord_y": 42.198840, "created_at": "2013\/03\/20", "h_m_s": "1:39:18", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:40:13", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -87.883690, 42.198840 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@alexfanuka tonight on the mindy project this group of girls said they were from Rutgers delta gamma sorority", "user": "sammyfio", "location": "Philly\/South Jerz", "coord_x": -75.211926, "coord_y": 40.023818, "created_at": "2013\/03\/20", "h_m_s": "1:44:21", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:44:48", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -75.211926, 40.023818 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mom wants to start the tweet #teammindy because she loves The Mindy Project", "user": "Kelmarsh18", "location": "Medway, MA", "coord_x": -71.433126, "coord_y": 42.168185, "created_at": "2013\/03\/20", "h_m_s": "1:54:24", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:54:31", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -71.433125, 42.168185 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The mindy project is actually funny. You're built real sturdy for sex. Thanks I never fall off the bed #haha #priceless", "user": "mandikinns", "location": "windsor", "coord_x": -82.937663, "coord_y": 42.342046, "created_at": "2013\/03\/20", "h_m_s": "2:4:8", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:4:15", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -82.937663, 42.342046 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New Girl, Mindy Project, and PLL with @LandanDoyle !", "user": "carly9210", "location": "Laramie, WY", "coord_x": -107.963991, "coord_y": 44.010234, "created_at": "2013\/03\/20", "h_m_s": "3:4:44", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:4:47", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -107.963991, 44.010234 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@RealisticUtopia: Look everyone.. Its @Kelencoleman on The Mindy Project. Divine.” Very sweet thanks!", "user": "Kelencoleman", "location": "los angeles", "coord_x": -118.359604, "coord_y": 34.071735, "created_at": "2013\/03\/20", "h_m_s": "3:36:8", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:36:10", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -118.359604, 34.071735 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@MarkDuplass: I'll be on THE MINDY PROJECT again tonight, in expensive clothing.I think I get hit in the face?” We have good aim", "user": "Kelencoleman", "location": "los angeles", "coord_x": -118.359675, "coord_y": 34.071616, "created_at": "2013\/03\/20", "h_m_s": "3:38:11", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:38:13", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -118.359675, 34.071616 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So happy the mindy project is back. Love it more than life", "user": "kfish612", "location": "Ohio \/\/ New Jersey", "coord_x": -81.555065, "coord_y": 41.137912, "created_at": "2013\/03\/20", "h_m_s": "3:46:48", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:46:50", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -81.555065, 41.137912 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Did I mention there is newsroom crossover on the mindy project tonight ?! Tune in 9:30 on FOX. Less than 30 min!", "user": "Kelencoleman", "location": "los angeles", "coord_x": -118.351397, "coord_y": 34.076246, "created_at": "2013\/03\/20", "h_m_s": "4:6:35", "time_ets": "2013\/03\/20", "h_m_s_ets": "0:6:38", "count": 1, "category": "mindy" }, "geometry": { "type": "Point", "coordinates": [ -118.351397, 34.076246 ] } }
+
+]
+}

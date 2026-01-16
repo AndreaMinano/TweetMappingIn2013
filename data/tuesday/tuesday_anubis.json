@@ -1,0 +1,9 @@
+var anubis = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@hashtagmaya HOUSE OF ANUBIS IS BACK SOON ahhhh season 3", "user": "sammy_drake", "location": "", "coord_x": 0.045960, "coord_y": 52.284019, "created_at": "2013\/03\/19", "h_m_s": "17:43:28", "time_ets": "2013\/03\/19", "h_m_s_ets": "13:43:30", "count": 1, "category": "anubis" }, "geometry": { "type": "Point", "coordinates": [ 0.045960, 52.284019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Srry tonite i vant keep up to date on that show \" House Of Anubis \" because my sister @DreaSittnPreety is in the living room so ill cuut tty", "user": "carterlavell01", "location": "", "coord_x": -89.095421, "coord_y": 42.291039, "created_at": "2013\/03\/19", "h_m_s": "23:30:13", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:30:16", "count": 1, "category": "anubis" }, "geometry": { "type": "Point", "coordinates": [ -89.095421, 42.291039 ] } }
+
+]
+}

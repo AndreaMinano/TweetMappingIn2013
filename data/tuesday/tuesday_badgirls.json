@@ -1,0 +1,69 @@
+var badgirls = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "The Bad Girls Club is on tonight #finally #nohomo", "user": "Brice_j_Johnson", "location": "Colchester, CT", "coord_x": -72.406368, "coord_y": 41.592106, "created_at": "2013\/03\/19", "h_m_s": "20:12:21", "time_ets": "2013\/03\/19", "h_m_s_ets": "16:12:27", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -72.406368, 41.592106 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm just about to spend my day watching the Bad Girls Club.", "user": "dee_vuu", "location": "", "coord_x": -118.114434, "coord_y": 34.697484, "created_at": "2013\/03\/19", "h_m_s": "21:19:6", "time_ets": "2013\/03\/19", "h_m_s_ets": "17:19:8", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -118.114434, 34.697484 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@boda_16 we need to be on the bad girls club!  #runthatshit", "user": "KP_16_", "location": "", "coord_x": -88.081183, "coord_y": 42.024938, "created_at": "2013\/03\/19", "h_m_s": "21:29:56", "time_ets": "2013\/03\/19", "h_m_s_ets": "17:30:0", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -88.081183, 42.024938 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the bad girls club and steph talking bout sex and my dad Is in the kitchen and can hear it. AWKARD.!!", "user": "birthday_cake1", "location": "", "coord_x": -80.885526, "coord_y": 34.164931, "created_at": "2013\/03\/19", "h_m_s": "22:49:3", "time_ets": "2013\/03\/19", "h_m_s_ets": "18:49:6", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -80.885526, 34.164931 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hope that people I know will get on the bad girls club", "user": "calidreamin69", "location": "", "coord_x": -122.747323, "coord_y": 45.310596, "created_at": "2013\/03\/19", "h_m_s": "23:25:5", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:25:8", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -122.747323, 45.310596 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The more I watch the bad girls club the more it looks scripted", "user": "that_asssss", "location": "Cincinnati, OH", "coord_x": -84.589047, "coord_y": 39.253770, "created_at": "2013\/03\/19", "h_m_s": "23:34:7", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:34:11", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -84.589047, 39.253770 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BGConOxygen I luv the bad girls club. I cant wait to see tonights new episode!  I think Stephanie is the only one who aint bout fightin.", "user": "angelbby777", "location": "", "coord_x": -71.164546, "coord_y": 41.686777, "created_at": "2013\/03\/19", "h_m_s": "23:36:10", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:36:13", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -71.164546, 41.686777 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Well my night has consisted of watching the bad girls club and eating a whole pizza with @sarahsoboslay . Not too shabby", "user": "KatieMeyers976", "location": "", "coord_x": -81.516150, "coord_y": 41.036033, "created_at": "2013\/03\/19", "h_m_s": "23:38:15", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:38:25", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -81.516150, 41.036033 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don messed around and got into The Bad Girls Club this season ??????", "user": "CJ_atHerBest27", "location": "", "coord_x": -82.010243, "coord_y": 34.895828, "created_at": "2013\/03\/19", "h_m_s": "23:54:16", "time_ets": "2013\/03\/19", "h_m_s_ets": "19:54:19", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -82.010243, 34.895828 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Welcome to the bad girls club.", "user": "SmokeMeImSoDope", "location": "", "coord_x": -86.155995, "coord_y": 39.709732, "created_at": "2013\/03\/20", "h_m_s": "0:2:24", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:6:33", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -86.155995, 39.709732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The bad girls club!! Aww yeah what I want yeah I get it!", "user": "SheCallsMeTrev", "location": "", "coord_x": -85.983395, "coord_y": 41.754756, "created_at": "2013\/03\/20", "h_m_s": "0:2:39", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:6:54", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -85.983395, 41.754756 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It's Going Down In The Bad Girls Club House! #BGC10", "user": "HisChosen_Queen", "location": "", "coord_x": -86.753968, "coord_y": 36.140545, "created_at": "2013\/03\/20", "h_m_s": "0:2:41", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:6:56", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -86.753968, 36.140545 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Words can't express how much I hate the Bad Girls Club.", "user": "simply_monea143", "location": "", "coord_x": -85.717625, "coord_y": 34.953614, "created_at": "2013\/03\/20", "h_m_s": "0:4:44", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:9:26", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -85.717625, 34.953614 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Shut up with the sad music and shit this is the bad girls club #BGC10", "user": "MZBELLASTAR", "location": "houston,TX", "coord_x": -95.506368, "coord_y": 29.853540, "created_at": "2013\/03\/20", "h_m_s": "0:18:51", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:19:0", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -95.506368, 29.853540 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol why do people invite their mom to the bad girls club ?", "user": "iAmTd3", "location": "iMpatient Nation", "coord_x": -85.672967, "coord_y": 32.124708, "created_at": "2013\/03\/20", "h_m_s": "0:25:19", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:31:49", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -85.672967, 32.124708 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CameronWoodin and i are the only two guys that watch the bad girls club religiously its depressing", "user": "Brice_j_Johnson", "location": "Colchester, CT", "coord_x": -72.410216, "coord_y": 41.591923, "created_at": "2013\/03\/20", "h_m_s": "0:42:32", "time_ets": "2013\/03\/19", "h_m_s_ets": "20:48:2", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -72.410216, 41.591923 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "- I`m excited too watch the brand new episode of The Bad Girls Club on Tuesday. c: @BGConOxygen #BGC10", "user": "TaylorPriestxo", "location": "Paulding County,Georgia", "coord_x": -84.600967, "coord_y": 33.788066, "created_at": "2013\/03\/20", "h_m_s": "1:4:11", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:10:11", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -84.600967, 33.788066 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tf I missed the bad girls club", "user": "_QueenShonda", "location": "?", "coord_x": -74.407594, "coord_y": 40.624971, "created_at": "2013\/03\/20", "h_m_s": "1:4:48", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:11:39", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -74.407594, 40.624971 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could so see @Babygirlkellum on the bad girls club.", "user": "_breelynb", "location": "", "coord_x": -96.451349, "coord_y": 32.762366, "created_at": "2013\/03\/20", "h_m_s": "1:33:3", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:34:7", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -96.451349, 32.762366 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "the beef with the cats in my household is basically the bad girls club", "user": "tcoopsya", "location": "", "coord_x": -96.644618, "coord_y": 33.119088, "created_at": "2013\/03\/20", "h_m_s": "1:36:23", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:37:21", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -96.644618, 33.119088 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahh I missed the bad girls club! RT", "user": "corey_malik", "location": "Columbus,GA", "coord_x": -84.922018, "coord_y": 32.440154, "created_at": "2013\/03\/20", "h_m_s": "1:46:27", "time_ets": "2013\/03\/19", "h_m_s_ets": "21:46:30", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -84.922018, 32.440154 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wonder if I made a video for the bad girls club if I would make it", "user": "leighaAitchison", "location": "", "coord_x": -75.912590, "coord_y": 42.469287, "created_at": "2013\/03\/20", "h_m_s": "2:25:8", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:25:11", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -75.912590, 42.469287 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@kaseygene: I could totally be in the bad girls club.\"&lt;-- you don't wanna be that..", "user": "JAM_MasterSam", "location": "", "coord_x": -81.440887, "coord_y": 41.535668, "created_at": "2013\/03\/20", "h_m_s": "2:51:32", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:51:34", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -81.440887, 41.535668 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the Bad Girls Club", "user": "LibertyBoy7", "location": "Madison Va", "coord_x": -80.024287, "coord_y": 36.929677, "created_at": "2013\/03\/20", "h_m_s": "2:56:36", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:56:38", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -80.024287, 36.929677 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@OhYouFancyHuhFB: Here's the bad girls club ALL STAR cast http:\/\/t.co\/I2n1dEayNe” @CalebLaShan", "user": "kaypeelove", "location": "951Menifee . but my ?'s in LA.", "coord_x": -117.175851, "coord_y": 33.706568, "created_at": "2013\/03\/20", "h_m_s": "2:58:40", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:58:43", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -117.175851, 33.706568 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ItsEmileeo_o Ohh yea I remember that, you were with the Bad Girls Club", "user": "Maurooo6", "location": "Waco, Texas", "coord_x": -97.130995, "coord_y": 31.530226, "created_at": "2013\/03\/20", "h_m_s": "2:59:38", "time_ets": "2013\/03\/19", "h_m_s_ets": "22:59:40", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -97.130995, 31.530226 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Missed the bad girls club again!", "user": "EnvyMeXxKayy", "location": "Thibodaux,la", "coord_x": -90.831256, "coord_y": 29.792982, "created_at": "2013\/03\/20", "h_m_s": "3:0:47", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:0:49", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -90.831256, 29.792982 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "love the bad girls club", "user": "GinaLeighHamilt", "location": "atlanta ga", "coord_x": -84.494530, "coord_y": 33.598166, "created_at": "2013\/03\/20", "h_m_s": "3:7:32", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:7:35", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -84.494530, 33.598166 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My brother is such a freak. What guy watches The Bad Girls Club........I don't even watch that show.", "user": "Lionheaart_7", "location": "", "coord_x": -94.503916, "coord_y": 38.617389, "created_at": "2013\/03\/20", "h_m_s": "3:8:1", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:8:3", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -94.503916, 38.617389 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@itsemileee hahaha. The tv switched to The Bad girls club and I was like fucking Emilee.", "user": "Matt_N_Dew1", "location": "", "coord_x": -82.724347, "coord_y": 41.054713, "created_at": "2013\/03\/20", "h_m_s": "3:25:8", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:25:10", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -82.724347, 41.054713 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "All the bitches on the bad girls club look like guys", "user": "ChristianFaithW", "location": "Ortega, Florida", "coord_x": -81.714294, "coord_y": 30.239641, "created_at": "2013\/03\/20", "h_m_s": "3:34:25", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:34:27", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -81.714294, 30.239641 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These hoes be cutting up on the bad girls club!", "user": "EnvyMeXxKayy", "location": "Thibodaux,la", "coord_x": -90.831122, "coord_y": 29.792959, "created_at": "2013\/03\/20", "h_m_s": "3:55:51", "time_ets": "2013\/03\/19", "h_m_s_ets": "23:55:54", "count": 1, "category": "badgirls" }, "geometry": { "type": "Point", "coordinates": [ -90.831122, 29.792959 ] } }
+
+]
+}

@@ -1,0 +1,9 @@
+var joanmelissa = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Joan and Melissa ?", "user": "Bianca_Iscoa", "location": "", "coord_x": -87.216494, "coord_y": 14.053366, "created_at": "2013\/03\/24", "h_m_s": "1:5:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:5:4" }, "geometry": { "type": "Point", "coordinates": [ -87.216494, 14.053366 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw Joan and Melissa she is foul mouthed but she is hilarious", "user": "wizardgirl91", "location": "Lewisburg, Pennslyvania", "coord_x": -76.972410, "coord_y": 41.019157, "created_at": "2013\/03\/24", "h_m_s": "2:2:15", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:2:16" }, "geometry": { "type": "Point", "coordinates": [ -76.972410, 41.019157 ] } }
+
+]
+}

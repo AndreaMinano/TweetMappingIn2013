@@ -1,0 +1,11 @@
+var redneck = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@NASCAR , @MarinerSeattle ,#RedneckVacation &amp; @PBR  today what great Saturday", "user": "armendacowgirl", "location": "buhl Idaho", "coord_x": -114.769684, "coord_y": 42.608199, "created_at": "2013\/03\/23", "h_m_s": "20:8:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:8:8" }, "geometry": { "type": "Point", "coordinates": [ -114.769684, 42.608199 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Counting down RT @tammym2bB: One more hour! #redneckvacation\"", "user": "crowland67", "location": "NC", "coord_x": -78.694314, "coord_y": 35.645769, "created_at": "2013\/03\/24", "h_m_s": "0:5:41", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:5:42" }, "geometry": { "type": "Point", "coordinates": [ -78.694314, 35.645769 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RedneckVacation time!", "user": "ChamboRambo", "location": "Aztec, NM", "coord_x": -107.979871, "coord_y": 36.834646, "created_at": "2013\/03\/24", "h_m_s": "1:1:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:1:50" }, "geometry": { "type": "Point", "coordinates": [ -107.979871, 36.834646 ] } }
+
+]
+}

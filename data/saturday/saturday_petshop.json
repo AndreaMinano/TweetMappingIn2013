@@ -1,0 +1,7 @@
+var petshop = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Eche un vistazo a LITTLEST PET SHOP. http:\/\/t.co\/XqheugGaBR", "user": "BryanChiika", "location": "", "coord_x": -75.601107, "coord_y": 8.871406, "created_at": "2013\/03\/23", "h_m_s": "16:8:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "12:9:0" }, "geometry": { "type": "Point", "coordinates": [ -75.601107, 8.871406 ] } }
+
+]
+}

@@ -1,0 +1,559 @@
+var realworld = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "#RealWorld marathon. (: yesss.", "user": "XxrAwRcxxX", "location": "", "coord_x": -74.721267, "coord_y": 40.195813, "created_at": "2013\/03\/23", "h_m_s": "19:40:42", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:40:43" }, "geometry": { "type": "Point", "coordinates": [ -74.721267, 40.195813 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Real World: Las Vegas is on!! #RetroMTV", "user": "eschoe13", "location": "Nebraska, United States", "coord_x": -96.676177, "coord_y": 40.861574, "created_at": "2013\/03\/23", "h_m_s": "19:40:48", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:40:49" }, "geometry": { "type": "Point", "coordinates": [ -96.676177, 40.861574 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@giiicaps I'm watching the old real worlds on MTV and u look exactly like trischelle when she was young", "user": "GCoss5", "location": "North End Boston", "coord_x": -71.056980, "coord_y": 42.365898, "created_at": "2013\/03\/23", "h_m_s": "19:44:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:44:32" }, "geometry": { "type": "Point", "coordinates": [ -71.056980, 42.365898 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Vegas, don't mind if I do!", "user": "MandieLeighB", "location": "Pittsburgh", "coord_x": -80.141550, "coord_y": 40.481281, "created_at": "2013\/03\/23", "h_m_s": "19:45:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:45:34" }, "geometry": { "type": "Point", "coordinates": [ -80.141550, 40.481281 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Uhhh, this is definitely the first real world from like the 70s.", "user": "tsmoooooth", "location": "", "coord_x": -122.583426, "coord_y": 45.641178, "created_at": "2013\/03\/23", "h_m_s": "19:46:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:46:8" }, "geometry": { "type": "Point", "coordinates": [ -122.583425, 45.641178 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@_EliChavez_: I'm really bouts be watching the real world all day today. ??” irrelevant ?", "user": "_PrincessElyse", "location": "California Dreamin' ?", "coord_x": -118.555603, "coord_y": 34.364216, "created_at": "2013\/03\/23", "h_m_s": "19:46:54", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:46:55" }, "geometry": { "type": "Point", "coordinates": [ -118.555603, 34.364216 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the real world Las Vegas and oh man how I remember that casino at the palms ????", "user": "chucky0620", "location": "thornton, colorado", "coord_x": -104.974742, "coord_y": 39.852640, "created_at": "2013\/03\/23", "h_m_s": "19:47:12", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:47:13" }, "geometry": { "type": "Point", "coordinates": [ -104.974742, 39.852640 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sign me up!“@OUBad: They oughta do a Real World: Geezers season...people in their 30's and 40's who need 4 mos away from their families.”", "user": "mkluvsdw", "location": "syracuse NY", "coord_x": -76.079679, "coord_y": 43.170799, "created_at": "2013\/03\/23", "h_m_s": "19:47:23", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:47:24" }, "geometry": { "type": "Point", "coordinates": [ -76.079679, 43.170799 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm kind of stoked all the original Real Worlds are on today. Not leaving the couch. K.", "user": "iisalobo", "location": "Detroit.", "coord_x": -83.135077, "coord_y": 42.302104, "created_at": "2013\/03\/23", "h_m_s": "19:47:44", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:47:45" }, "geometry": { "type": "Point", "coordinates": [ -83.135077, 42.302104 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't believe I am missing the real world Vegas marathon #retroMTV #workinggirlprobz #retailprobz ??", "user": "allisonclaire22", "location": "Richmond", "coord_x": -77.474108, "coord_y": 37.553091, "created_at": "2013\/03\/23", "h_m_s": "19:50:44", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:50:45" }, "geometry": { "type": "Point", "coordinates": [ -77.474108, 37.553091 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nowadays I prefer to stay home in my own world...cuz the real world is so full of assholes &amp; bullshit!", "user": "russfouts1", "location": "San Diego", "coord_x": -117.190491, "coord_y": 32.739897, "created_at": "2013\/03\/23", "h_m_s": "19:51:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:51:57" }, "geometry": { "type": "Point", "coordinates": [ -117.190491, 32.739897 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These throwback episodes of the real world are so funny. #retromtv", "user": "maria_e_ierardi", "location": "", "coord_x": -72.532939, "coord_y": 41.275934, "created_at": "2013\/03\/23", "h_m_s": "19:52:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:52:28" }, "geometry": { "type": "Point", "coordinates": [ -72.532939, 41.275934 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Entertain the older xrowd... Niggas that know the real world.", "user": "Suxk_Mii_Strap", "location": "", "coord_x": -79.781210, "coord_y": 34.212030, "created_at": "2013\/03\/23", "h_m_s": "19:52:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:52:29" }, "geometry": { "type": "Point", "coordinates": [ -79.781210, 34.212030 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I need to be on the real world in a few years.", "user": "Marlena_Siegel", "location": "", "coord_x": -71.133020, "coord_y": 42.079236, "created_at": "2013\/03\/23", "h_m_s": "19:53:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:53:31" }, "geometry": { "type": "Point", "coordinates": [ -71.133020, 42.079236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Books: for when the real world is toooooo rubbish to deal with and you lack the energy to go punch walls.", "user": "maliseangie", "location": "UK", "coord_x": -2.225222, "coord_y": 53.018969, "created_at": "2013\/03\/23", "h_m_s": "19:55:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "15:55:30" }, "geometry": { "type": "Point", "coordinates": [ -2.225222, 53.018969 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My Saturday has included cleaning, Retro MTV Real World Episodes and a corndog. #winning", "user": "ErinHowey", "location": "Chicago, Illinios", "coord_x": -87.649610, "coord_y": 41.942003, "created_at": "2013\/03\/23", "h_m_s": "20:3:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:3:28" }, "geometry": { "type": "Point", "coordinates": [ -87.649610, 41.942003 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Girls on the real world worrying about cheating on their bfs... You're gone for three months  #keepitinyourpants", "user": "Grey_geese", "location": "", "coord_x": -76.311059, "coord_y": 39.909669, "created_at": "2013\/03\/23", "h_m_s": "20:4:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:4:59" }, "geometry": { "type": "Point", "coordinates": [ -76.311059, 39.909669 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm loving the old Real World episodes on MTV this weekend. #ThisIsTheTrueStory #NYC  #SanFrancisco #LasVegas #retromtv", "user": "itsAdam", "location": "New York", "coord_x": -73.993960, "coord_y": 40.763958, "created_at": "2013\/03\/23", "h_m_s": "20:5:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:5:18" }, "geometry": { "type": "Point", "coordinates": [ -73.993960, 40.763958 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In the #realworld its likely to be accused of all sorts. Keep your head down and prove every doubter wrong.", "user": "sir_cas", "location": "Deutschland", "coord_x": 8.362720, "coord_y": 51.935710, "created_at": "2013\/03\/23", "h_m_s": "20:10:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:10:39" }, "geometry": { "type": "Point", "coordinates": [ 8.362720, 51.935710 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'The Real World: Portland' isn't about the city -- it's about reality TV: ...  of, as one of the women says, \"... http:\/\/t.co\/UmvMm6LTdz", "user": "FayReviews", "location": "", "coord_x": -78.878600, "coord_y": 35.052500, "created_at": "2013\/03\/23", "h_m_s": "20:14:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:14:0" }, "geometry": { "type": "Point", "coordinates": [ -78.878600, 35.052500 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And wtf he is from the real world on MTV I'm drinking a famous man drink hehehehehe", "user": "BentleyNm", "location": "santa fe, new mexico", "coord_x": -97.170751, "coord_y": 26.136926, "created_at": "2013\/03\/23", "h_m_s": "20:15:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:15:35" }, "geometry": { "type": "Point", "coordinates": [ -97.170751, 26.136926 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@tillson37 @duntzygeorge @teebone1017 @bvertny I'm watching old episodes of Real World Vegas to prepare #truth #vegas", "user": "heintzsaid", "location": "NY", "coord_x": -73.737434, "coord_y": 42.975122, "created_at": "2013\/03\/23", "h_m_s": "20:15:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:15:44" }, "geometry": { "type": "Point", "coordinates": [ -73.737434, 42.975122 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The real world 2002 looks so weird", "user": "lizzie908", "location": "", "coord_x": -82.263789, "coord_y": 34.912413, "created_at": "2013\/03\/23", "h_m_s": "20:17:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:17:20" }, "geometry": { "type": "Point", "coordinates": [ -82.263789, 34.912413 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV original real world vegas marathon, brings me back!", "user": "MsBhavnaB", "location": "NYC", "coord_x": -73.994475, "coord_y": 40.756051, "created_at": "2013\/03\/23", "h_m_s": "20:17:57", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:17:58" }, "geometry": { "type": "Point", "coordinates": [ -73.994475, 40.756051 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think vaginas are the most powerful thing created . #realworld", "user": "daniii_bananiii", "location": "brainerd, Minnesota", "coord_x": -94.174734, "coord_y": 46.433425, "created_at": "2013\/03\/23", "h_m_s": "20:23:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:23:5" }, "geometry": { "type": "Point", "coordinates": [ -94.174734, 46.433425 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I been trying to figure out why everyone was talking about Real World! I now know!", "user": "JayeCee_Smiles", "location": "Chicago| Ohio| &BEYOND?", "coord_x": -82.523932, "coord_y": 40.074065, "created_at": "2013\/03\/23", "h_m_s": "20:24:42", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:24:43" }, "geometry": { "type": "Point", "coordinates": [ -82.523932, 40.074065 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I feel SO sorry for all the kids that get every single thing they want from their parents.. They'll die once they're out in the real world.??", "user": "Deanna_Leasman", "location": "Texas", "coord_x": -97.639456, "coord_y": 30.013259, "created_at": "2013\/03\/23", "h_m_s": "20:26:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:26:40" }, "geometry": { "type": "Point", "coordinates": [ -97.639456, 30.013259 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro Real World", "user": "tomaschdat", "location": "young buffalo ?", "coord_x": -78.776937, "coord_y": 42.943878, "created_at": "2013\/03\/23", "h_m_s": "20:28:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:28:5" }, "geometry": { "type": "Point", "coordinates": [ -78.776937, 42.943878 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the real world Las Vegas #RetroMTV, this is how I feel ??", "user": "anglwearinjeans", "location": "Boston, MA", "coord_x": -71.153474, "coord_y": 42.340062, "created_at": "2013\/03\/23", "h_m_s": "20:30:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:30:27" }, "geometry": { "type": "Point", "coordinates": [ -71.153474, 42.340062 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The fact that they are playing the original real world Las Vegas right now on MTV makes life feel truly special #Trichelle", "user": "BKesselman3", "location": "", "coord_x": -74.984613, "coord_y": 40.203331, "created_at": "2013\/03\/23", "h_m_s": "20:31:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:31:40" }, "geometry": { "type": "Point", "coordinates": [ -74.984613, 40.203331 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching this retro MTV real world. Thinking people dressed reall weird a few years ago lol.", "user": "Niecy_Not_Nash", "location": "FL", "coord_x": -82.426373, "coord_y": 29.683173, "created_at": "2013\/03\/23", "h_m_s": "20:32:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:32:29" }, "geometry": { "type": "Point", "coordinates": [ -82.426373, 29.683173 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RealWorld marathon on @MTV - Las Vegas on right now! Woooo", "user": "captainbigbones", "location": "In Your Kitchen\/Hoboken, NJ", "coord_x": -74.038600, "coord_y": 40.741905, "created_at": "2013\/03\/23", "h_m_s": "20:34:54", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:34:55" }, "geometry": { "type": "Point", "coordinates": [ -74.038600, 40.741905 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Real World Portland doesn't look that good ????", "user": "arielloveee__", "location": "ESVA", "coord_x": -75.874690, "coord_y": 37.575453, "created_at": "2013\/03\/23", "h_m_s": "20:37:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:37:34" }, "geometry": { "type": "Point", "coordinates": [ -75.874690, 37.575453 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world ??", "user": "_ASpiv", "location": "860", "coord_x": -71.995405, "coord_y": 41.442498, "created_at": "2013\/03\/23", "h_m_s": "20:38:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:38:3" }, "geometry": { "type": "Point", "coordinates": [ -71.995405, 41.442498 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I forgot how much of a bitch Steven was #retroMTV #realworld #Vegas", "user": "MissAneka", "location": "Dayton, Ohio", "coord_x": -84.230701, "coord_y": 39.770185, "created_at": "2013\/03\/23", "h_m_s": "20:44:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:44:50" }, "geometry": { "type": "Point", "coordinates": [ -84.230701, 39.770185 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahh yes, the fork incident #RetroMTV #RealWorld", "user": "magma89", "location": "California", "coord_x": -122.004103, "coord_y": 39.006278, "created_at": "2013\/03\/23", "h_m_s": "20:45:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:45:47" }, "geometry": { "type": "Point", "coordinates": [ -122.004103, 39.006278 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching real world all day #retromtv", "user": "ms_brawl", "location": "Boston, MA", "coord_x": -71.744959, "coord_y": 42.242384, "created_at": "2013\/03\/23", "h_m_s": "20:47:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:47:28" }, "geometry": { "type": "Point", "coordinates": [ -71.744959, 42.242384 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes back in the real world we have electricity again and a bit of heat", "user": "keithmagill73", "location": "nutts corner", "coord_x": -5.970936, "coord_y": 54.566914, "created_at": "2013\/03\/23", "h_m_s": "20:48:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:48:37" }, "geometry": { "type": "Point", "coordinates": [ -5.970936, 54.566914 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm into the retro real world, it's dopeee.", "user": "Angelicagucci11", "location": "", "coord_x": -115.257723, "coord_y": 36.189656, "created_at": "2013\/03\/23", "h_m_s": "20:53:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:53:17" }, "geometry": { "type": "Point", "coordinates": [ -115.257722, 36.189656 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Austin was the realest I have ever seen! Dudes mom died during the shoot.", "user": "dirtyjoeee34", "location": "Houston Tx", "coord_x": -95.283723, "coord_y": 29.665813, "created_at": "2013\/03\/23", "h_m_s": "20:55:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:55:1" }, "geometry": { "type": "Point", "coordinates": [ -95.283723, 29.665813 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Real World 10 years ago&gt;&gt; The Real World now #retroMTV", "user": "jessijoelle", "location": "", "coord_x": -96.673035, "coord_y": 43.515565, "created_at": "2013\/03\/23", "h_m_s": "20:56:20", "time_ets": "2013\/03\/23", "h_m_s_ets": "16:56:21" }, "geometry": { "type": "Point", "coordinates": [ -96.673035, 43.515565 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This old Real World is fuckin gay", "user": "RegaladoRicky", "location": "", "coord_x": -82.730677, "coord_y": 41.051749, "created_at": "2013\/03\/23", "h_m_s": "21:0:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:0:6" }, "geometry": { "type": "Point", "coordinates": [ -82.730677, 41.051749 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No those jokes are NOT funny little girl. Good thing you don't go outside in the real world you might learn something", "user": "guardtristan", "location": "Austria", "coord_x": 13.859703, "coord_y": 46.617668, "created_at": "2013\/03\/23", "h_m_s": "21:0:12", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:0:12" }, "geometry": { "type": "Point", "coordinates": [ 13.859703, 46.617668 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world marathon", "user": "AllisonKajewski", "location": "", "coord_x": -91.528316, "coord_y": 41.657110, "created_at": "2013\/03\/23", "h_m_s": "21:3:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:3:28" }, "geometry": { "type": "Point", "coordinates": [ -91.528316, 41.657110 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Marathon on MTV fuck yes!", "user": "OvoxoTwod_", "location": "Kiss Land", "coord_x": -116.982452, "coord_y": 33.752421, "created_at": "2013\/03\/23", "h_m_s": "21:3:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:3:33" }, "geometry": { "type": "Point", "coordinates": [ -116.982452, 33.752421 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@mich_elleR glad you had a great time , you deserve it chelle .. Back to the real world doh lol xx", "user": "arbmcfcpab", "location": "", "coord_x": -1.450741, "coord_y": 53.256086, "created_at": "2013\/03\/23", "h_m_s": "21:5:24", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:5:25" }, "geometry": { "type": "Point", "coordinates": [ -1.450741, 53.256086 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV #RealWorld they wild ass hell!!! Lol throwing ??????????", "user": "3_NO_", "location": "Chicago Illinois", "coord_x": -87.551930, "coord_y": 41.747366, "created_at": "2013\/03\/23", "h_m_s": "21:6:15", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:6:16" }, "geometry": { "type": "Point", "coordinates": [ -87.551930, 41.747366 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real world marathon Is on point #retromtv", "user": "alikokjohn", "location": "btownnn", "coord_x": -91.134360, "coord_y": 40.837743, "created_at": "2013\/03\/23", "h_m_s": "21:7:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:7:40" }, "geometry": { "type": "Point", "coordinates": [ -91.134360, 40.837743 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Favorite season of real world #lasvegas", "user": "GinaaaaBinaaaa", "location": "", "coord_x": -75.262217, "coord_y": 43.077183, "created_at": "2013\/03\/23", "h_m_s": "21:11:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:11:33" }, "geometry": { "type": "Point", "coordinates": [ -75.262217, 43.077183 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Getting ready for Sandy's bday night out watching Real World Las Vegas. When it was good - before JShore blew it away. #RetroMTV", "user": "barbaraannlat", "location": "Montclair, NJ", "coord_x": -74.219656, "coord_y": 40.820285, "created_at": "2013\/03\/23", "h_m_s": "21:12:58", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:12:58" }, "geometry": { "type": "Point", "coordinates": [ -74.219656, 40.820285 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These bitches are ugly #RealWorld #RetroMTV", "user": "beccaspretty", "location": "Colorado Spings, CO", "coord_x": -104.808804, "coord_y": 38.772508, "created_at": "2013\/03\/23", "h_m_s": "21:15:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:15:33" }, "geometry": { "type": "Point", "coordinates": [ -104.808804, 38.772508 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school @RealWorldMTV is on! My Saturday night is complete", "user": "jennalourutt", "location": "CLE-RR", "coord_x": -81.837456, "coord_y": 41.468284, "created_at": "2013\/03\/23", "h_m_s": "21:15:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:15:44" }, "geometry": { "type": "Point", "coordinates": [ -81.837456, 41.468284 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "they say that I can't survive a day in the real world, I say you wouldn't survive one night in mine ??", "user": "BrianaGavito", "location": "", "coord_x": -97.478804, "coord_y": 25.949526, "created_at": "2013\/03\/23", "h_m_s": "21:19:40", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:19:41" }, "geometry": { "type": "Point", "coordinates": [ -97.478804, 25.949526 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Loooooving these throwback Real Worlds. #retroMTV", "user": "CaseyDebus", "location": "Nebraska", "coord_x": -103.008586, "coord_y": 42.822693, "created_at": "2013\/03\/23", "h_m_s": "21:21:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:21:46" }, "geometry": { "type": "Point", "coordinates": [ -103.008586, 42.822693 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The real world! #RetroMTV", "user": "bianca_ae15", "location": "", "coord_x": -98.732152, "coord_y": 29.501118, "created_at": "2013\/03\/23", "h_m_s": "21:22:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:22:32" }, "geometry": { "type": "Point", "coordinates": [ -98.732152, 29.501118 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Welcome to the real world", "user": "AmandaTrim3", "location": "Huntington Beach, CA", "coord_x": -117.161548, "coord_y": 33.500004, "created_at": "2013\/03\/23", "h_m_s": "21:25:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:25:33" }, "geometry": { "type": "Point", "coordinates": [ -117.161548, 33.500004 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The real world Portland???? They just gonna stay in the house all day and wait for it to stop raining ?", "user": "H8ersH8en", "location": "East Los Angeles County 626", "coord_x": -118.103047, "coord_y": 34.068777, "created_at": "2013\/03\/23", "h_m_s": "21:27:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:27:17" }, "geometry": { "type": "Point", "coordinates": [ -118.103047, 34.068777 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real world used to be good but now its just fighting with no purpose or reason", "user": "liliq101", "location": "chi-town", "coord_x": -87.785100, "coord_y": 41.857611, "created_at": "2013\/03\/23", "h_m_s": "21:27:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:27:20" }, "geometry": { "type": "Point", "coordinates": [ -87.785100, 41.857611 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #RetroMTV old school real world is makin me excited for when I'm on it", "user": "megpinc", "location": "413 & 203", "coord_x": -72.889672, "coord_y": 41.419486, "created_at": "2013\/03\/23", "h_m_s": "21:28:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:28:2" }, "geometry": { "type": "Point", "coordinates": [ -72.889672, 41.419486 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Haven't done anything but watch real world all day with @Rachel_Carp_", "user": "ambertaylor216", "location": "wonderland", "coord_x": -93.873798, "coord_y": 44.821129, "created_at": "2013\/03\/23", "h_m_s": "21:30:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:30:8" }, "geometry": { "type": "Point", "coordinates": [ -93.873798, 44.821129 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@D_Tayls being in the real world does that anyway mate ;) #banter", "user": "Ethan2o10", "location": "Worcester, UK", "coord_x": -1.974250, "coord_y": 52.582070, "created_at": "2013\/03\/23", "h_m_s": "21:32:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:32:30" }, "geometry": { "type": "Point", "coordinates": [ -1.974250, 52.582070 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "MTV is playing hella old real worlds and it is so weird ??", "user": "tylerrrm", "location": "mill creek, washington.", "coord_x": -122.193786, "coord_y": 47.874033, "created_at": "2013\/03\/23", "h_m_s": "21:33:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:33:9" }, "geometry": { "type": "Point", "coordinates": [ -122.193786, 47.874033 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I need to study but.......I can't stop watching the real world Las Vegas", "user": "laurbuer", "location": "NJ \/ pittsburgh", "coord_x": -79.958487, "coord_y": 40.441671, "created_at": "2013\/03\/23", "h_m_s": "21:38:9", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:38:10" }, "geometry": { "type": "Point", "coordinates": [ -79.958487, 40.441671 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching real world Las Vegas makes me want to go again!!!!", "user": "angeleyewings", "location": "Minnesota", "coord_x": -95.907929, "coord_y": 45.579654, "created_at": "2013\/03\/23", "h_m_s": "21:38:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:38:39" }, "geometry": { "type": "Point", "coordinates": [ -95.907929, 45.579654 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school #realworld @MTV LOVING IT", "user": "PennyLaneLamb", "location": "arkansas", "coord_x": -93.038190, "coord_y": 34.674120, "created_at": "2013\/03\/23", "h_m_s": "21:39:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:39:40" }, "geometry": { "type": "Point", "coordinates": [ -93.038190, 34.674120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This retro real world marathon is so funny. The clothes, the problems.", "user": "ams_lynnn", "location": "Tucson, Arizona", "coord_x": -111.027508, "coord_y": 32.220626, "created_at": "2013\/03\/23", "h_m_s": "21:40:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:40:29" }, "geometry": { "type": "Point", "coordinates": [ -111.027508, 32.220626 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school Real World in MTV &gt;&gt;&gt;", "user": "CodyMerriman", "location": "", "coord_x": -79.800260, "coord_y": 36.659795, "created_at": "2013\/03\/23", "h_m_s": "21:40:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:40:36" }, "geometry": { "type": "Point", "coordinates": [ -79.800260, 36.659795 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Molly__Stanley @ChelseaHouska @KailLowry @PBandJenelley_1 @TM2LeahDawn no.... they're playing real world all day", "user": "K_Andrea", "location": "Des Moines, IA", "coord_x": -93.697502, "coord_y": 41.559559, "created_at": "2013\/03\/23", "h_m_s": "21:40:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:40:53" }, "geometry": { "type": "Point", "coordinates": [ -93.697502, 41.559559 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'This is the story of 7 strangers..' lovin this real world marathon. #retromtv", "user": "robinlynae", "location": "", "coord_x": -116.117784, "coord_y": 41.980708, "created_at": "2013\/03\/23", "h_m_s": "21:41:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:41:8" }, "geometry": { "type": "Point", "coordinates": [ -116.117784, 41.980708 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'This is the true story of 7 strangers..' lovin this real world marathon. #retromtv", "user": "robinlynae", "location": "", "coord_x": -116.117762, "coord_y": 41.980725, "created_at": "2013\/03\/23", "h_m_s": "21:43:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:43:4" }, "geometry": { "type": "Point", "coordinates": [ -116.117762, 41.980725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV loving the #realworld marathon. The music is bringing me back to the #middleschool dances.", "user": "sjcqt", "location": "", "coord_x": -72.836325, "coord_y": 42.025200, "created_at": "2013\/03\/23", "h_m_s": "21:47:44", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:47:45" }, "geometry": { "type": "Point", "coordinates": [ -72.836325, 42.025200 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Right when you graduate, it's your real world....", "user": "ErikTheBarber92", "location": "Houston", "coord_x": -95.291861, "coord_y": 29.684194, "created_at": "2013\/03\/23", "h_m_s": "21:49:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:49:7" }, "geometry": { "type": "Point", "coordinates": [ -95.291861, 29.684194 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Work is sooooo much longer when you know there's a @RealWorldMTV marathon waiting at home for me. #mtv", "user": "Fizzooli", "location": "", "coord_x": -83.019681, "coord_y": 42.319303, "created_at": "2013\/03\/23", "h_m_s": "21:50:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:50:16" }, "geometry": { "type": "Point", "coordinates": [ -83.019681, 42.319304 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "How did my parents allow me to watch real world Las Vegas when I was in 4th grade? #RetroMTV #RetroRealWorld", "user": "kelly_byram", "location": "", "coord_x": -74.310341, "coord_y": 40.964314, "created_at": "2013\/03\/23", "h_m_s": "21:50:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:50:57" }, "geometry": { "type": "Point", "coordinates": [ -74.310341, 40.964314 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There needs to be another Real World Austin", "user": "DorisMcGill3", "location": "", "coord_x": -99.452618, "coord_y": 27.491200, "created_at": "2013\/03\/23", "h_m_s": "21:51:54", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:51:55" }, "geometry": { "type": "Point", "coordinates": [ -99.452618, 27.491200 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Real World: Las Vegas and my girls @kerryisawkward and @justspeakplain are coming over later.. Is it 2002 again?!", "user": "arielleschwarz", "location": "White Plains, NY", "coord_x": -73.774828, "coord_y": 41.062913, "created_at": "2013\/03\/23", "h_m_s": "21:52:53", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:52:54" }, "geometry": { "type": "Point", "coordinates": [ -73.774828, 41.062913 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only thing that prepares you for the real world is the real world", "user": "Lorenzoguyjones", "location": "", "coord_x": -76.475827, "coord_y": 39.387268, "created_at": "2013\/03\/23", "h_m_s": "21:52:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:52:57" }, "geometry": { "type": "Point", "coordinates": [ -76.475827, 39.387268 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the old Real World episodes&gt;&gt;&gt;", "user": "NMowery09", "location": "Ohio", "coord_x": -80.701474, "coord_y": 41.109127, "created_at": "2013\/03\/23", "h_m_s": "21:56:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:56:22" }, "geometry": { "type": "Point", "coordinates": [ -80.701474, 41.109127 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Alton is most annoying real world roommate!!", "user": "risarisaracks", "location": "Houston", "coord_x": -95.456012, "coord_y": 29.722253, "created_at": "2013\/03\/23", "h_m_s": "21:58:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:58:5" }, "geometry": { "type": "Point", "coordinates": [ -95.456012, 29.722253 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "High school girls think because this they last year in school there grown.. Fucc round n the real world make u feel like a kid again", "user": "PrinceBfresh", "location": "", "coord_x": -85.332398, "coord_y": 35.093132, "created_at": "2013\/03\/23", "h_m_s": "22:7:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:7:37" }, "geometry": { "type": "Point", "coordinates": [ -85.332398, 35.093132 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching old school Real World episodes right now.", "user": "chelseasavago", "location": "", "coord_x": -71.435809, "coord_y": 41.840770, "created_at": "2013\/03\/23", "h_m_s": "22:8:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:8:4" }, "geometry": { "type": "Point", "coordinates": [ -71.435809, 41.840770 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The kid on the new real world is from bridgewater Massachusetts ! Shits crazy", "user": "shmiggs", "location": "bridgewater MA \/ newport RI", "coord_x": -71.258008, "coord_y": 41.620697, "created_at": "2013\/03\/23", "h_m_s": "22:10:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:10:17" }, "geometry": { "type": "Point", "coordinates": [ -71.258008, 41.620697 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the Real World #RetroMTV", "user": "Tenaj_Marie86", "location": "*IN THE CLOUDS*", "coord_x": -77.624721, "coord_y": 43.123552, "created_at": "2013\/03\/23", "h_m_s": "22:10:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:10:19" }, "geometry": { "type": "Point", "coordinates": [ -77.624721, 43.123552 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "A little retro real world while i cuddle with my sick boy!", "user": "xolovemegan", "location": "seminole, FL", "coord_x": -82.834710, "coord_y": 27.845729, "created_at": "2013\/03\/23", "h_m_s": "22:10:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:10:25" }, "geometry": { "type": "Point", "coordinates": [ -82.834710, 27.845729 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NW #retromtv real world Las Vegas", "user": "SipOnThatLeen", "location": "215 aPHILLYated", "coord_x": -75.307248, "coord_y": 39.926936, "created_at": "2013\/03\/23", "h_m_s": "22:10:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:10:35" }, "geometry": { "type": "Point", "coordinates": [ -75.307248, 39.926936 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hot damn the soundtrack to Real World Las Vegas was on point ??", "user": "laurennnnn8", "location": "Newport", "coord_x": -71.312558, "coord_y": 41.474246, "created_at": "2013\/03\/23", "h_m_s": "22:13:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:13:4" }, "geometry": { "type": "Point", "coordinates": [ -71.312558, 41.474246 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This girl on real world is bitching cause she doesn't have flowers from her man yeah well suck my twat cuz I ain't got nothin you whore", "user": "karrra17", "location": "315, CareFree&Blessed*", "coord_x": -75.209031, "coord_y": 43.184785, "created_at": "2013\/03\/23", "h_m_s": "22:14:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:14:38" }, "geometry": { "type": "Point", "coordinates": [ -75.209031, 43.184785 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Day 2793 of not using algebra in the real world", "user": "KalynKapanke", "location": "", "coord_x": -88.334721, "coord_y": 43.383733, "created_at": "2013\/03\/23", "h_m_s": "22:16:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:16:7" }, "geometry": { "type": "Point", "coordinates": [ -88.334721, 43.383733 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV is rockin my world! Love The Real World Las Vegas!", "user": "LHC317", "location": "Indy", "coord_x": -86.126994, "coord_y": 40.032756, "created_at": "2013\/03\/23", "h_m_s": "22:24:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:24:46" }, "geometry": { "type": "Point", "coordinates": [ -86.126994, 40.032757 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Christopher Pyne - I agree, but you were an apparatchik. Entered the Parliament without working in real world. Pots and kettles #insiders", "user": "petergraham123", "location": "Melbourne, Australia", "coord_x": 144.977910, "coord_y": -37.805933, "created_at": "2013\/03\/23", "h_m_s": "22:25:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:25:35" }, "geometry": { "type": "Point", "coordinates": [ 144.977910, -37.805933 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Agreed!“@BlancoDiddy: Original Real World was really incredible and a whole new world of television. Eff the new season(s).”", "user": "mkluvsdw", "location": "syracuse NY", "coord_x": -76.079300, "coord_y": 43.170923, "created_at": "2013\/03\/23", "h_m_s": "22:26:10", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:26:11" }, "geometry": { "type": "Point", "coordinates": [ -76.079300, 43.170923 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@_miatopia indeed. LC music and real world music and literally like universes apart...", "user": "LaurenLike", "location": "Cork, Ireland", "coord_x": -8.604121, "coord_y": 51.925939, "created_at": "2013\/03\/23", "h_m_s": "22:29:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:29:15" }, "geometry": { "type": "Point", "coordinates": [ -8.604121, 51.925939 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Loving #retromtv been watching real world Las Vegas all day", "user": "GCoss5", "location": "North End Boston", "coord_x": -71.042955, "coord_y": 42.387682, "created_at": "2013\/03\/23", "h_m_s": "22:29:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:29:26" }, "geometry": { "type": "Point", "coordinates": [ -71.042955, 42.387682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school real world on mtv is freaking me out right now #thingshavechanged", "user": "kdgford", "location": "hartsville sc", "coord_x": -80.087527, "coord_y": 34.736127, "created_at": "2013\/03\/23", "h_m_s": "22:30:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:30:57" }, "geometry": { "type": "Point", "coordinates": [ -80.087527, 34.736127 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So does anybody watch the Real World anymore?", "user": "alexpfau16", "location": "", "coord_x": -96.759048, "coord_y": 33.108089, "created_at": "2013\/03\/23", "h_m_s": "22:31:20", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:31:21" }, "geometry": { "type": "Point", "coordinates": [ -96.759048, 33.108089 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "When your tweet about the Real World shows up on tv during the Real World. Thanks @EmmeyWemmyWoo #imfamous", "user": "simplyjburns", "location": "", "coord_x": -84.142445, "coord_y": 33.546884, "created_at": "2013\/03\/23", "h_m_s": "22:39:1", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:39:1" }, "geometry": { "type": "Point", "coordinates": [ -84.142445, 33.546884 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These old ass real world episodes &gt;&gt;&gt;&gt;&gt;&gt;&gt; and the music is &gt;&gt;&gt;&gt;&gt; ??????", "user": "nogoodMel", "location": "philadelphia, PA", "coord_x": -74.920597, "coord_y": 40.157906, "created_at": "2013\/03\/23", "h_m_s": "22:40:26", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:40:27" }, "geometry": { "type": "Point", "coordinates": [ -74.920597, 40.157906 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ife_egbeyemi the real world baby", "user": "Le_rouxxx", "location": "USA", "coord_x": -98.429500, "coord_y": 34.604995, "created_at": "2013\/03\/23", "h_m_s": "22:42:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:42:18" }, "geometry": { "type": "Point", "coordinates": [ -98.429500, 34.604995 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Showing old reruns of the real world", "user": "NavyReed", "location": "29 palms marine base", "coord_x": -116.051573, "coord_y": 34.231770, "created_at": "2013\/03\/23", "h_m_s": "22:43:12", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:43:13" }, "geometry": { "type": "Point", "coordinates": [ -116.051573, 34.231770 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MTV you need to have reruns of Real World San Diego! #RetroMTV #RealWorld", "user": "iPaulll", "location": "California, Pennsylvania", "coord_x": -79.890678, "coord_y": 40.059469, "created_at": "2013\/03\/23", "h_m_s": "22:43:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:43:33" }, "geometry": { "type": "Point", "coordinates": [ -79.890678, 40.059469 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I remember thinking that Gabe was fine af #RetroMTV #RealWorld #Vegas", "user": "MissAneka", "location": "Dayton, Ohio", "coord_x": -84.232633, "coord_y": 39.763031, "created_at": "2013\/03\/23", "h_m_s": "22:44:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:44:33" }, "geometry": { "type": "Point", "coordinates": [ -84.232633, 39.763031 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "They Say The Real World Is Stressful But You Can't Dodge It Forever", "user": "iKayKing", "location": "No Pressure, No Diamonds ?", "coord_x": -95.913609, "coord_y": 33.241365, "created_at": "2013\/03\/23", "h_m_s": "22:46:54", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:46:55" }, "geometry": { "type": "Point", "coordinates": [ -95.913609, 33.241365 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV old school real world", "user": "macimcfarlin", "location": "", "coord_x": -84.381995, "coord_y": 39.218502, "created_at": "2013\/03\/23", "h_m_s": "22:47:14", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:47:15" }, "geometry": { "type": "Point", "coordinates": [ -84.381995, 39.218502 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The fact that Bills was music they played on Real World Vegas 1 is like mind blowing they had the good music then lol @MTV  #RetroMTV", "user": "Rissa_Elizabeth", "location": "D[M]V", "coord_x": -76.684165, "coord_y": 39.123076, "created_at": "2013\/03\/23", "h_m_s": "22:49:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:49:8" }, "geometry": { "type": "Point", "coordinates": [ -76.684165, 39.123076 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the real world...what the hell is an open relationship #bullshit", "user": "aanndreag", "location": "", "coord_x": -93.647056, "coord_y": 41.699437, "created_at": "2013\/03\/23", "h_m_s": "22:50:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:50:6" }, "geometry": { "type": "Point", "coordinates": [ -93.647056, 41.699437 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV: Real World, Beavis and Butthead, Carson Daily, great music videos, non of this crap that's on now... I miss those days", "user": "Musicluv79", "location": "In a house somewhere", "coord_x": -75.328823, "coord_y": 40.662221, "created_at": "2013\/03\/23", "h_m_s": "22:55:55", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:55:56" }, "geometry": { "type": "Point", "coordinates": [ -75.328823, 40.662221 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My fav season on real world is playing #retromtv", "user": "JJ_BUNS", "location": "Richmond, VA", "coord_x": -77.442749, "coord_y": 37.546210, "created_at": "2013\/03\/23", "h_m_s": "22:57:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:57:34" }, "geometry": { "type": "Point", "coordinates": [ -77.442749, 37.546210 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Las Vegas had the best looking reality show females", "user": "B_I_Supastar", "location": "Beech Island", "coord_x": -81.872708, "coord_y": 33.430698, "created_at": "2013\/03\/23", "h_m_s": "22:58:26", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:58:27" }, "geometry": { "type": "Point", "coordinates": [ -81.872708, 33.430698 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Joeswfc_ Please get in the real world here. We only ever want promotion. We just do not care for it. What's the attraction? Nothing!", "user": "Lobbsy27", "location": "Luton \/ Bedford", "coord_x": -0.549638, "coord_y": 52.075507, "created_at": "2013\/03\/23", "h_m_s": "22:58:37", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:58:37" }, "geometry": { "type": "Point", "coordinates": [ -0.549638, 52.075507 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school real world on MTV right now... !! What a great start to my Saturday night...! #retroMTV", "user": "JayKNM", "location": "Fort Lauderdale, Fl", "coord_x": -80.138212, "coord_y": 26.121759, "created_at": "2013\/03\/23", "h_m_s": "22:58:50", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:58:50" }, "geometry": { "type": "Point", "coordinates": [ -80.138212, 26.121759 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV best season of real world hands dwn . Irulan sexii *** !!", "user": "Low2daEarth_", "location": "..", "coord_x": -87.409752, "coord_y": 41.604324, "created_at": "2013\/03\/23", "h_m_s": "22:59:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "18:59:35" }, "geometry": { "type": "Point", "coordinates": [ -87.409752, 41.604324 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg old Real World?!?  This day just got superb! ?? #retromtv", "user": "deannestafford", "location": "'Merica", "coord_x": -79.053230, "coord_y": 43.118178, "created_at": "2013\/03\/23", "h_m_s": "23:1:20", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:1:20" }, "geometry": { "type": "Point", "coordinates": [ -79.053230, 43.118178 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vintage Real World seasons showing on @MTV. Mind blown.", "user": "LLBeanTown", "location": "Boston, MA", "coord_x": -71.167751, "coord_y": 42.351948, "created_at": "2013\/03\/23", "h_m_s": "23:5:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:5:9" }, "geometry": { "type": "Point", "coordinates": [ -71.167751, 42.351948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The nice thing about a snowy day is curling up under a cozy blanket and watching a throwback Real World Vegas marathon!!! :-)", "user": "jelmo79", "location": "Overland Park, Ks", "coord_x": -94.670615, "coord_y": 38.875518, "created_at": "2013\/03\/23", "h_m_s": "23:5:41", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:5:41" }, "geometry": { "type": "Point", "coordinates": [ -94.670615, 38.875518 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@AndyCarriger35 yo this hot chick from the Real World a couple years ago goes to UC Davis... Just saying", "user": "RobbyCarriger", "location": "Norman, OK", "coord_x": -97.437779, "coord_y": 35.201006, "created_at": "2013\/03\/23", "h_m_s": "23:8:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:8:44" }, "geometry": { "type": "Point", "coordinates": [ -97.437779, 35.201006 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Welcome to the real world", "user": "YaBishhhhh", "location": "", "coord_x": -97.804226, "coord_y": 30.175010, "created_at": "2013\/03\/23", "h_m_s": "23:10:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:10:17" }, "geometry": { "type": "Point", "coordinates": [ -97.804226, 30.175010 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've always been a fan of Real World!", "user": "chaquillejaymes", "location": "fort worth", "coord_x": -101.883824, "coord_y": 33.592828, "created_at": "2013\/03\/23", "h_m_s": "23:12:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:12:5" }, "geometry": { "type": "Point", "coordinates": [ -101.883824, 33.592828 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I would totes go on The Real World if the opportunity was given ??", "user": "beckydingo", "location": "RVA", "coord_x": -77.554762, "coord_y": 37.523327, "created_at": "2013\/03\/23", "h_m_s": "23:13:37", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:13:38" }, "geometry": { "type": "Point", "coordinates": [ -77.554762, 37.523327 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World marathon! Love Las Vegas season!", "user": "DanielleKlick", "location": "Rhode Island", "coord_x": -71.642676, "coord_y": 41.448024, "created_at": "2013\/03\/23", "h_m_s": "23:19:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:19:6" }, "geometry": { "type": "Point", "coordinates": [ -71.642676, 41.448024 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The real world las Vegas is the best season...both of them", "user": "Anthony_The_NBK", "location": "the octagon", "coord_x": -119.043510, "coord_y": 35.315099, "created_at": "2013\/03\/23", "h_m_s": "23:19:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:19:36" }, "geometry": { "type": "Point", "coordinates": [ -119.043510, 35.315099 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world on MTV fuck wit me", "user": "ScooterBee", "location": "Chicago\/Phoenix\/LA", "coord_x": -112.054395, "coord_y": 33.310881, "created_at": "2013\/03\/23", "h_m_s": "23:21:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:21:7" }, "geometry": { "type": "Point", "coordinates": [ -112.054395, 33.310881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching this old real world episode. Is that even real life?", "user": "victortexass", "location": "Waco", "coord_x": -97.162513, "coord_y": 31.538569, "created_at": "2013\/03\/23", "h_m_s": "23:22:54", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:22:55" }, "geometry": { "type": "Point", "coordinates": [ -97.162513, 31.538569 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This real world that is on is super old", "user": "RachelHalase", "location": "", "coord_x": -87.984324, "coord_y": 42.986940, "created_at": "2013\/03\/23", "h_m_s": "23:23:13", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:23:14" }, "geometry": { "type": "Point", "coordinates": [ -87.984324, 42.986940 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg the 90s, where real world was legit and you could still smoke in restaurants. #soweird", "user": "deannestafford", "location": "'Merica", "coord_x": -79.052571, "coord_y": 43.117789, "created_at": "2013\/03\/23", "h_m_s": "23:25:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:25:46" }, "geometry": { "type": "Point", "coordinates": [ -79.052571, 43.117789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Las Vegas! First season I ever watched #RetroMTV", "user": "nandezzzz", "location": "Woodhaven, Mi", "coord_x": -76.310746, "coord_y": 36.947186, "created_at": "2013\/03\/23", "h_m_s": "23:26:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:26:37" }, "geometry": { "type": "Point", "coordinates": [ -76.310746, 36.947186 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jessgraham21 welcome 2 the real world #NoSpringBreak #NoSummerBreak #JustWork lol but #Cograts so fun watching ya'll this year #GoVandals", "user": "VandalsGoCampin", "location": "Moscow, ID", "coord_x": -122.286861, "coord_y": 47.596538, "created_at": "2013\/03\/23", "h_m_s": "23:27:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:28:0" }, "geometry": { "type": "Point", "coordinates": [ -122.286861, 47.596538 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching these throwback Real World eps thinking how much shit id get into if I was on this show.", "user": "DevinDeV35", "location": "", "coord_x": -75.208575, "coord_y": 40.023180, "created_at": "2013\/03\/23", "h_m_s": "23:28:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:28:9" }, "geometry": { "type": "Point", "coordinates": [ -75.208575, 40.023180 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World #Retro ^_^", "user": "UrLuvZmYDruG", "location": "Charlotte, NC", "coord_x": -80.874991, "coord_y": 35.123266, "created_at": "2013\/03\/23", "h_m_s": "23:28:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:28:33" }, "geometry": { "type": "Point", "coordinates": [ -80.874991, 35.123266 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@snooki is talking about the real world Seattle ??", "user": "tylerrrm", "location": "mill creek, washington.", "coord_x": -122.193729, "coord_y": 47.873939, "created_at": "2013\/03\/23", "h_m_s": "23:35:45", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:35:46" }, "geometry": { "type": "Point", "coordinates": [ -122.193729, 47.873939 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RealworldLasVegas must have been the longest real world season #RetroMTV #RETRORW", "user": "LisaG_325", "location": "Somewhere...", "coord_x": -82.870390, "coord_y": 40.067863, "created_at": "2013\/03\/23", "h_m_s": "23:37:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:37:36" }, "geometry": { "type": "Point", "coordinates": [ -82.870390, 40.067863 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Trishelle &amp; Steven #RealWorld", "user": "lonzojames", "location": "Paris, Tennekkee", "coord_x": -88.112288, "coord_y": 36.395038, "created_at": "2013\/03\/23", "h_m_s": "23:38:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:38:34" }, "geometry": { "type": "Point", "coordinates": [ -88.112288, 36.395038 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Felt that needed to be documented before I have to be a person in the real world #liveitup", "user": "DanRadChillin", "location": "USA", "coord_x": -76.485472, "coord_y": 42.427926, "created_at": "2013\/03\/23", "h_m_s": "23:39:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:39:36" }, "geometry": { "type": "Point", "coordinates": [ -76.485472, 42.427926 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I need the San Diego season of the real world.", "user": "ms_brawl", "location": "Boston, MA", "coord_x": -71.744945, "coord_y": 42.242250, "created_at": "2013\/03\/23", "h_m_s": "23:42:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:42:7" }, "geometry": { "type": "Point", "coordinates": [ -71.744945, 42.242250 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fuck I forgot how hott Alton from real world Las Vegas was!", "user": "ssweetnessxo", "location": "NewJerseyyyy", "coord_x": -74.071560, "coord_y": 40.265721, "created_at": "2013\/03\/23", "h_m_s": "23:43:9", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:43:10" }, "geometry": { "type": "Point", "coordinates": [ -74.071560, 40.265721 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think I have watched every season of @RealWorldMTV love it", "user": "BELLA224", "location": "ÜT: 41.118055,-73.50912", "coord_x": -73.529150, "coord_y": 41.093584, "created_at": "2013\/03\/23", "h_m_s": "23:44:11", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:44:12" }, "geometry": { "type": "Point", "coordinates": [ -73.529150, 41.093584 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg! I'm have so much fun at home watching the real world Las Vegas. -_- yea this is the life. #Sarcasm", "user": "yesitzdaniel", "location": "Michigan", "coord_x": -83.287256, "coord_y": 42.440043, "created_at": "2013\/03\/23", "h_m_s": "23:44:15", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:44:16" }, "geometry": { "type": "Point", "coordinates": [ -83.287256, 42.440043 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You guys! How can anyone think about going out when there is a #retromtv Real World Las Vegas marathon on???", "user": "megkeathleyy", "location": "", "coord_x": -96.104816, "coord_y": 41.214771, "created_at": "2013\/03\/23", "h_m_s": "23:44:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:44:38" }, "geometry": { "type": "Point", "coordinates": [ -96.104816, 41.214771 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've been watching Real World Las Vegas all damn day!!", "user": "uh_LEE_shaH", "location": "at Rue 2fucking1", "coord_x": -80.579656, "coord_y": 35.396810, "created_at": "2013\/03\/23", "h_m_s": "23:44:56", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:44:56" }, "geometry": { "type": "Point", "coordinates": [ -80.579656, 35.396810 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the real world.", "user": "XcuseMySins", "location": "South Jersey", "coord_x": -74.962030, "coord_y": 40.008184, "created_at": "2013\/03\/23", "h_m_s": "23:48:53", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:48:54" }, "geometry": { "type": "Point", "coordinates": [ -74.962030, 40.008184 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DerekRW22 I mizz your real world the most. Last good one http:\/\/t.co\/bETyv5xXHj", "user": "H8ersH8en", "location": "East Los Angeles County 626", "coord_x": -118.103081, "coord_y": 34.068813, "created_at": "2013\/03\/23", "h_m_s": "23:49:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:49:28" }, "geometry": { "type": "Point", "coordinates": [ -118.103081, 34.068813 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I really wanna watch San Diego's season now. Lol the robin and brad duo arrests #RetroMTV #RealWorld", "user": "Miss_Rissa19", "location": "livin in The D[M]V", "coord_x": -76.684341, "coord_y": 39.122995, "created_at": "2013\/03\/23", "h_m_s": "23:49:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:49:50" }, "geometry": { "type": "Point", "coordinates": [ -76.684341, 39.122995 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real world used to be my shit lol", "user": "SweaterGawd", "location": "", "coord_x": -75.929197, "coord_y": 39.808310, "created_at": "2013\/03\/23", "h_m_s": "23:50:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:50:8" }, "geometry": { "type": "Point", "coordinates": [ -75.929197, 39.808310 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Everyone from soul society went to the real world #bleach", "user": "ibrahimmahameed", "location": "??????", "coord_x": 46.694637, "coord_y": 24.769646, "created_at": "2013\/03\/23", "h_m_s": "23:52:42", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:52:42" }, "geometry": { "type": "Point", "coordinates": [ 46.694637, 24.769646 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "the real world Las Vegas caught my attention and killed my boredom", "user": "kaaatherine_xo", "location": "Spring, Texas", "coord_x": -95.389996, "coord_y": 30.050644, "created_at": "2013\/03\/23", "h_m_s": "23:53:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:53:29" }, "geometry": { "type": "Point", "coordinates": [ -95.389996, 30.050644 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@C_waitforit_J they're having a retro real world marathon all weekend", "user": "awileyx3", "location": "Columbus,OH", "coord_x": -83.012213, "coord_y": 40.006300, "created_at": "2013\/03\/23", "h_m_s": "23:59:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:59:31" }, "geometry": { "type": "Point", "coordinates": [ -83.012213, 40.006300 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wonder if any of the roommates from the real world are watching themself on tv this weekend #sofunny #retromtv #realworld", "user": "natalieboyd17", "location": "cape cod", "coord_x": -70.611699, "coord_y": 41.649091, "created_at": "2013\/03\/24", "h_m_s": "0:0:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:0:35" }, "geometry": { "type": "Point", "coordinates": [ -70.611699, 41.649092 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Baby finally sleeping. Real World marathon.", "user": "emilyemcnally", "location": "Washington, D.C.", "coord_x": -76.997974, "coord_y": 38.904919, "created_at": "2013\/03\/24", "h_m_s": "0:0:44", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:0:45" }, "geometry": { "type": "Point", "coordinates": [ -76.997974, 38.904919 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MTV's views are probably the highest they've been in years this weekend. #realworld #RetroMTV", "user": "anglwearinjeans", "location": "Boston, MA", "coord_x": -71.153546, "coord_y": 42.340104, "created_at": "2013\/03\/24", "h_m_s": "0:4:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:4:7" }, "geometry": { "type": "Point", "coordinates": [ -71.153546, 42.340104 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Work seems to be my life these days like I'm isolated from the real world....need some excited in my life", "user": "7CityMikeJonez", "location": "", "coord_x": -76.582909, "coord_y": 37.174292, "created_at": "2013\/03\/24", "h_m_s": "0:6:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:6:28" }, "geometry": { "type": "Point", "coordinates": [ -76.582909, 37.174292 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Q_Diddy14 Real World Las Vegas is on MTV #VEGAS LIFESTYLE lol", "user": "REFresh_B", "location": "In your mind", "coord_x": -93.161049, "coord_y": 44.958722, "created_at": "2013\/03\/24", "h_m_s": "0:7:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:7:24" }, "geometry": { "type": "Point", "coordinates": [ -93.161049, 44.958722 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could watch this real world Las Vegas all day!", "user": "LadyLauraMae", "location": "", "coord_x": -83.411119, "coord_y": 41.664741, "created_at": "2013\/03\/24", "h_m_s": "0:8:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:8:25" }, "geometry": { "type": "Point", "coordinates": [ -83.411119, 41.664741 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching my favorite season of The Real World....Las Vegas.!:-)", "user": "Freezy_LL92", "location": "KC, MO", "coord_x": -94.455565, "coord_y": 39.043670, "created_at": "2013\/03\/24", "h_m_s": "0:8:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:8:36" }, "geometry": { "type": "Point", "coordinates": [ -94.455565, 39.043670 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm obsessed with the real world", "user": "KimBaker10", "location": "Hartland", "coord_x": -83.722025, "coord_y": 42.831108, "created_at": "2013\/03\/24", "h_m_s": "0:12:57", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:12:58" }, "geometry": { "type": "Point", "coordinates": [ -83.722025, 42.831108 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Today I baked a cake and have watched almost a whole season of the real world. Productivity at its fullest.", "user": "CassidyMurray", "location": "", "coord_x": -94.442597, "coord_y": 39.220256, "created_at": "2013\/03\/24", "h_m_s": "0:14:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:14:32" }, "geometry": { "type": "Point", "coordinates": [ -94.442597, 39.220256 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This \"The Real World\" marathon right now&gt;&gt;&gt;", "user": "rambooty98", "location": "East Valley", "coord_x": -120.621609, "coord_y": 46.660877, "created_at": "2013\/03\/24", "h_m_s": "0:14:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:14:35" }, "geometry": { "type": "Point", "coordinates": [ -120.621609, 46.660877 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Las Vegas marathon. #FTW", "user": "SusannaJoanna", "location": "Terre Haute, Indiana", "coord_x": -87.386149, "coord_y": 39.489073, "created_at": "2013\/03\/24", "h_m_s": "0:14:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:14:39" }, "geometry": { "type": "Point", "coordinates": [ -87.386149, 39.489073 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Loving these old episodes of The Real World #retromtv", "user": "Briheyde", "location": "Natick, MA", "coord_x": -71.352832, "coord_y": 42.293144, "created_at": "2013\/03\/24", "h_m_s": "0:19:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:19:33" }, "geometry": { "type": "Point", "coordinates": [ -71.352832, 42.293144 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Perfectly happy laying on the couch watching #vegas real world.. #retromtv", "user": "peach_slizz", "location": "Las Vegas", "coord_x": -115.273798, "coord_y": 36.131174, "created_at": "2013\/03\/24", "h_m_s": "0:21:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:21:53" }, "geometry": { "type": "Point", "coordinates": [ -115.273798, 36.131174 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BeccaJade_xo like in the real world, not just twitter", "user": "StephHicks_xo", "location": "Hertfordshire", "coord_x": -0.038893, "coord_y": 51.701059, "created_at": "2013\/03\/24", "h_m_s": "0:22:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:22:47" }, "geometry": { "type": "Point", "coordinates": [ -0.038893, 51.701059 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pregaming to throwback Real World episodes #yes", "user": "AmberRWitt", "location": "", "coord_x": -121.487534, "coord_y": 38.582829, "created_at": "2013\/03\/24", "h_m_s": "0:22:57", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:22:58" }, "geometry": { "type": "Point", "coordinates": [ -121.487534, 38.582829 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I have been watching Real World: New York from '92 all evening #throwback #retromtv", "user": "AlyssaHenslee", "location": "Stillwater", "coord_x": -87.946945, "coord_y": 42.277989, "created_at": "2013\/03\/24", "h_m_s": "0:24:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:25:0" }, "geometry": { "type": "Point", "coordinates": [ -87.946945, 42.277989 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OLD SCHOOL real world right now", "user": "laurenpennino", "location": "", "coord_x": -73.498163, "coord_y": 40.690575, "created_at": "2013\/03\/24", "h_m_s": "0:26:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:26:32" }, "geometry": { "type": "Point", "coordinates": [ -73.498163, 40.690575 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I'm trying out for the real world, my friends are going to video me and I'm going to say my name is ohbhave &amp; then I'll be on\" @OhBHavens", "user": "mackzdek", "location": "", "coord_x": -97.887693, "coord_y": 36.336986, "created_at": "2013\/03\/24", "h_m_s": "0:27:53", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:27:54" }, "geometry": { "type": "Point", "coordinates": [ -97.887693, 36.336986 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No better thing to do than watch #RealWorld #RetroMTV :)", "user": "EliBible91", "location": "Catoosa, Ok", "coord_x": -88.856107, "coord_y": 35.667034, "created_at": "2013\/03\/24", "h_m_s": "0:28:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:28:7" }, "geometry": { "type": "Point", "coordinates": [ -88.856107, 35.667034 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Epic gay tv moment: college wrestling championship on espn and real world Las Vegas marathon on MTV... #overwhelmed with #decisions", "user": "FucciTim", "location": "Los Angeles", "coord_x": -118.407553, "coord_y": 33.929982, "created_at": "2013\/03\/24", "h_m_s": "0:34:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:34:7" }, "geometry": { "type": "Point", "coordinates": [ -118.407553, 33.929982 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro Real World?? #YesPlease", "user": "AdrinaSchwab", "location": "Ludowici, Georgia", "coord_x": -81.483129, "coord_y": 31.181711, "created_at": "2013\/03\/24", "h_m_s": "0:36:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:36:39" }, "geometry": { "type": "Point", "coordinates": [ -81.483129, 31.181711 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Or we can cuddle and make out and watch the real world", "user": "celinasaputo", "location": "reedley, y que ?", "coord_x": -119.446987, "coord_y": 36.582102, "created_at": "2013\/03\/24", "h_m_s": "0:40:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:40:34" }, "geometry": { "type": "Point", "coordinates": [ -119.446987, 36.582102 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "why can't new seasons of the Real World be like the old ones? now all they do is drink and fight with each other #RetroMTV", "user": "Teiokerathe", "location": "Kahnawake", "coord_x": -73.703101, "coord_y": 45.406513, "created_at": "2013\/03\/24", "h_m_s": "0:41:21", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:41:22" }, "geometry": { "type": "Point", "coordinates": [ -73.703101, 45.406513 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The old real worlds were mad good", "user": "jadekatty", "location": "", "coord_x": -73.826124, "coord_y": 42.672946, "created_at": "2013\/03\/24", "h_m_s": "0:42:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:42:18" }, "geometry": { "type": "Point", "coordinates": [ -73.826124, 42.672946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "omg this girl brings her dog on the new real world .. i'd be so pissed if i was her roommates !", "user": "stefanideprince", "location": "Collingdale, PA", "coord_x": -75.280776, "coord_y": 39.909070, "created_at": "2013\/03\/24", "h_m_s": "0:44:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:44:53" }, "geometry": { "type": "Point", "coordinates": [ -75.280776, 39.909070 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@MTV: The #RetroMTV #RealWorld marathon starts now with season 1 and it's going all weekend. RT if you're watching!”", "user": "PaytonNotGary", "location": "Weekend at Burnies", "coord_x": -96.660123, "coord_y": 32.770808, "created_at": "2013\/03\/24", "h_m_s": "0:46:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:46:3" }, "geometry": { "type": "Point", "coordinates": [ -96.660123, 32.770808 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Did everyone smoke cigarettes back then or was it just a coincidence? #RetroMTV #RealWorld @MTV", "user": "MTVtrey", "location": "Baltimore, MD", "coord_x": -76.460055, "coord_y": 39.391926, "created_at": "2013\/03\/24", "h_m_s": "0:46:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:46:8" }, "geometry": { "type": "Point", "coordinates": [ -76.460055, 39.391926 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol at the style these girls have in old Real World episodes.", "user": "allisonbitchhh", "location": "North Dakota ?", "coord_x": -97.144291, "coord_y": 46.075103, "created_at": "2013\/03\/24", "h_m_s": "0:48:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:48:31" }, "geometry": { "type": "Point", "coordinates": [ -97.144291, 46.075103 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Like my haircut? #shmexy lol @ Real World:BK http:\/\/t.co\/rPiTzuw2y2", "user": "prblmz99", "location": "Q-U-Double E- N-Z", "coord_x": -73.953616, "coord_y": 40.716333, "created_at": "2013\/03\/24", "h_m_s": "0:56:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:56:18" }, "geometry": { "type": "Point", "coordinates": [ -73.953616, 40.716333 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro Real World #RetroMTV ??", "user": "taylaaa0x", "location": "swansea", "coord_x": -71.247878, "coord_y": 41.731649, "created_at": "2013\/03\/24", "h_m_s": "1:0:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:0:22" }, "geometry": { "type": "Point", "coordinates": [ -71.247878, 41.731649 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OH MY GOD IS THIS AN OLD REAL WORLD? ?? #tearsofjoy", "user": "justynicole", "location": "", "coord_x": -84.465478, "coord_y": 39.035014, "created_at": "2013\/03\/24", "h_m_s": "1:0:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:0:30" }, "geometry": { "type": "Point", "coordinates": [ -84.465478, 39.035014 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchin \"The Real World\" On MTV", "user": "danikarowe", "location": "Washington DC", "coord_x": -76.982782, "coord_y": 38.900859, "created_at": "2013\/03\/24", "h_m_s": "1:2:26", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:2:27" }, "geometry": { "type": "Point", "coordinates": [ -76.982782, 38.900859 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I have done nothing but eat Pizza Hut and watch the real world Las Vegas and the kids choice awards since noon #solid #productive #blessed", "user": "headofDRAMA", "location": "Charlotte, NC", "coord_x": -80.870862, "coord_y": 35.232424, "created_at": "2013\/03\/24", "h_m_s": "1:4:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:4:7" }, "geometry": { "type": "Point", "coordinates": [ -80.870862, 35.232424 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Real World Las Vegas bahan", "user": "April_Sigoda", "location": "??", "coord_x": -75.426481, "coord_y": 40.629921, "created_at": "2013\/03\/24", "h_m_s": "1:11:39", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:11:40" }, "geometry": { "type": "Point", "coordinates": [ -75.426481, 40.629921 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Loving this #retromtv real worlddd #ilovethe90s", "user": "elpay_02", "location": "Albany, New York", "coord_x": -73.788859, "coord_y": 42.697023, "created_at": "2013\/03\/24", "h_m_s": "1:13:8", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:13:9" }, "geometry": { "type": "Point", "coordinates": [ -73.788859, 42.697023 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Real World Las Vegas #RetroMTV #Palms", "user": "kstevenson818", "location": "Minneapolis, MN", "coord_x": -93.206404, "coord_y": 45.191725, "created_at": "2013\/03\/24", "h_m_s": "1:14:31", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:14:32" }, "geometry": { "type": "Point", "coordinates": [ -93.206404, 45.191725 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@paultays Ohhhhhhh Paul Taylor! When are you joining the real world and move to London? :-)", "user": "Clairehodson", "location": "London", "coord_x": -0.081251, "coord_y": 51.524823, "created_at": "2013\/03\/24", "h_m_s": "1:17:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:17:0" }, "geometry": { "type": "Point", "coordinates": [ -0.081251, 51.524823 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In love with the real world #retromtv", "user": "FL3TCHH", "location": "Minnesota", "coord_x": -94.150805, "coord_y": 45.554915, "created_at": "2013\/03\/24", "h_m_s": "1:17:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:17:18" }, "geometry": { "type": "Point", "coordinates": [ -94.150805, 45.554915 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Super old seasons of real world = I'm not doing anything but watching all evening.", "user": "dreamingtree82", "location": "Lexington, KY", "coord_x": -84.423153, "coord_y": 38.011233, "created_at": "2013\/03\/24", "h_m_s": "1:17:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:17:19" }, "geometry": { "type": "Point", "coordinates": [ -84.423153, 38.011233 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This is the real world", "user": "SoKixclusive", "location": "", "coord_x": -81.574079, "coord_y": 26.259015, "created_at": "2013\/03\/24", "h_m_s": "1:22:7", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:22:8" }, "geometry": { "type": "Point", "coordinates": [ -81.574079, 26.259015 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I can't stop watching this Real World marathon! #LasVegas #RetroMTV", "user": "Jenniferlroyy", "location": "Alabama", "coord_x": -86.603795, "coord_y": 32.816199, "created_at": "2013\/03\/24", "h_m_s": "1:23:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:23:20" }, "geometry": { "type": "Point", "coordinates": [ -86.603795, 32.816199 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@Tiffanniee: The fuck is #RetroMTV ?\" They showing the real world from like 1993.", "user": "CharlesToYOU", "location": "IG:ididitfortheratchet", "coord_x": -88.057753, "coord_y": 41.690907, "created_at": "2013\/03\/24", "h_m_s": "1:26:40", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:26:41" }, "geometry": { "type": "Point", "coordinates": [ -88.057753, 41.690907 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@Jerry414: I could drink 720 beers in an hour, according to math after I timed a beer bong.” Yay for real world applications of math ??", "user": "Angg66", "location": "", "coord_x": -105.051869, "coord_y": 39.908146, "created_at": "2013\/03\/24", "h_m_s": "1:27:51", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:27:52" }, "geometry": { "type": "Point", "coordinates": [ -105.051869, 39.908146 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world weekend.   Yesss.", "user": "mmmnuggets", "location": "Knoxville, TN", "coord_x": -84.004393, "coord_y": 35.996915, "created_at": "2013\/03\/24", "h_m_s": "1:29:1", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:29:2" }, "geometry": { "type": "Point", "coordinates": [ -84.004393, 35.996915 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I used to think people on the real world were so old.  Watching now, they are 21-23", "user": "mmmnuggets", "location": "Knoxville, TN", "coord_x": -84.004508, "coord_y": 35.996544, "created_at": "2013\/03\/24", "h_m_s": "1:31:16", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:31:17" }, "geometry": { "type": "Point", "coordinates": [ -84.004508, 35.996544 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Like for real doh, call me stupid or ridiculous but I wanna go on the Real World. &amp; then y'all can visit me ??", "user": "AlyssaHenslee", "location": "Stillwater", "coord_x": -87.946855, "coord_y": 42.278137, "created_at": "2013\/03\/24", "h_m_s": "1:32:15", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:32:16" }, "geometry": { "type": "Point", "coordinates": [ -87.946855, 42.278137 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "?Real World Las Vegas? #RetroMTV", "user": "MrsKStep", "location": "", "coord_x": -81.961308, "coord_y": 33.525179, "created_at": "2013\/03\/24", "h_m_s": "1:34:1", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:34:1" }, "geometry": { "type": "Point", "coordinates": [ -81.961308, 33.525179 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So I've been witnessing the real world an the twitterverse combine into one world as I meet more people..What's gonna happen when it's done?", "user": "dennisminster", "location": "Rexburg, ID", "coord_x": -111.930274, "coord_y": 43.643575, "created_at": "2013\/03\/24", "h_m_s": "1:34:19", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:34:20" }, "geometry": { "type": "Point", "coordinates": [ -111.930274, 43.643575 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Trey from real world........ Nuff said.", "user": "cayladigiovanni", "location": "", "coord_x": -75.528090, "coord_y": 39.994541, "created_at": "2013\/03\/24", "h_m_s": "1:34:41", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:34:42" }, "geometry": { "type": "Point", "coordinates": [ -75.528090, 39.994541 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I go to channel 38 and they're passing the real world from like YEARS ago! and the shoes and clothes they're wearing are just ????????????", "user": "_rosagmz", "location": "Laredo Tx", "coord_x": -99.444654, "coord_y": 27.478291, "created_at": "2013\/03\/24", "h_m_s": "1:37:12", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:37:13" }, "geometry": { "type": "Point", "coordinates": [ -99.444654, 27.478291 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@slonchyna real world marathon? #amazing", "user": "Mrjustbrown", "location": "New York, NY", "coord_x": -76.712707, "coord_y": 41.888118, "created_at": "2013\/03\/24", "h_m_s": "1:37:13", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:37:13" }, "geometry": { "type": "Point", "coordinates": [ -76.712707, 41.888118 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "lol at this old version at real world. seriously.", "user": "_rosagmz", "location": "Laredo Tx", "coord_x": -99.444390, "coord_y": 27.478564, "created_at": "2013\/03\/24", "h_m_s": "1:42:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:42:30" }, "geometry": { "type": "Point", "coordinates": [ -99.444390, 27.478564 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "the \"real world\" is all about girls fighting today. ??", "user": "_rosagmz", "location": "Laredo Tx", "coord_x": -99.444331, "coord_y": 27.478597, "created_at": "2013\/03\/24", "h_m_s": "1:44:51", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:44:51" }, "geometry": { "type": "Point", "coordinates": [ -99.444331, 27.478597 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hottest cast.....ever! #RetroMTV #RealWorld", "user": "marielsancen", "location": "Fort Worth, TX", "coord_x": -97.275932, "coord_y": 32.692690, "created_at": "2013\/03\/24", "h_m_s": "1:49:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:49:5" }, "geometry": { "type": "Point", "coordinates": [ -97.275932, 32.692690 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Alton and Irulan were just rollerblading and I'm so jealous #RealWorld", "user": "Yooo_Gano", "location": "NYC \/ CLE", "coord_x": -73.982728, "coord_y": 40.764830, "created_at": "2013\/03\/24", "h_m_s": "1:54:13", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:54:13" }, "geometry": { "type": "Point", "coordinates": [ -73.982728, 40.764830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@yupitsphil618 DUDE RERUNS OF THE ORIGINAL REAL WORLD LAS VEGAS ON MTV RIGHT NOW ??", "user": "AlexRea98", "location": "The City of Townsville.", "coord_x": -74.813497, "coord_y": 40.487539, "created_at": "2013\/03\/24", "h_m_s": "1:56:33", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:56:34" }, "geometry": { "type": "Point", "coordinates": [ -74.813497, 40.487539 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "He aint ready for the real world", "user": "Yvette_Shorty27", "location": "London, England", "coord_x": -105.087739, "coord_y": 39.753791, "created_at": "2013\/03\/24", "h_m_s": "1:56:44", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:56:45" }, "geometry": { "type": "Point", "coordinates": [ -105.087739, 39.753791 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Seeing this season of real world makes Alton the coolest dude #RetroMTV", "user": "Anthony_The_NBK", "location": "the octagon", "coord_x": -119.043680, "coord_y": 35.315086, "created_at": "2013\/03\/24", "h_m_s": "2:5:13", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:5:13" }, "geometry": { "type": "Point", "coordinates": [ -119.043680, 35.315086 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "They have Daisy her own #RealWorld promo, lmao. That's rad. Makes me wish we had a pet on the island (instead of the rats)", "user": "MTVtrey", "location": "Baltimore, MD", "coord_x": -76.460102, "coord_y": 39.392044, "created_at": "2013\/03\/24", "h_m_s": "2:6:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:7:0" }, "geometry": { "type": "Point", "coordinates": [ -76.460102, 39.392044 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The real world hurts .", "user": "PriinceNate", "location": "2k14 -.o", "coord_x": -71.082841, "coord_y": 42.309015, "created_at": "2013\/03\/24", "h_m_s": "2:7:57", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:7:58" }, "geometry": { "type": "Point", "coordinates": [ -71.082841, 42.309015 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@JACKI333: the fact that the real world las vegas actually happened is crazy. #retromtv”", "user": "jdriggah", "location": "Tampa", "coord_x": -82.430355, "coord_y": 28.069154, "created_at": "2013\/03\/24", "h_m_s": "2:10:10", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:10:11" }, "geometry": { "type": "Point", "coordinates": [ -82.430355, 28.069154 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I want to stay on vacation. I don't like the real world", "user": "SweetGaPeach08", "location": "", "coord_x": -85.814175, "coord_y": 30.180368, "created_at": "2013\/03\/24", "h_m_s": "2:18:43", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:18:44" }, "geometry": { "type": "Point", "coordinates": [ -85.814175, 30.180368 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So remember the hot skinny kid that was with the blonde girl on real world Vegas...Do you remember his gay porno?! @christiewistie_", "user": "wtfkaya", "location": "Philadelphia, PA", "coord_x": -75.431896, "coord_y": 40.483760, "created_at": "2013\/03\/24", "h_m_s": "2:20:6", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:20:7" }, "geometry": { "type": "Point", "coordinates": [ -75.431896, 40.483760 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I miss The Real World SD from 2011.", "user": "kaaaaaathy_", "location": "", "coord_x": -118.456010, "coord_y": 34.187447, "created_at": "2013\/03\/24", "h_m_s": "2:21:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:21:32" }, "geometry": { "type": "Point", "coordinates": [ -118.456010, 34.187447 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world weekend &gt;&gt;&gt;&gt;", "user": "Alysia_sibley", "location": "pittsgrove", "coord_x": -75.086643, "coord_y": 39.573951, "created_at": "2013\/03\/24", "h_m_s": "2:21:51", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:21:52" }, "geometry": { "type": "Point", "coordinates": [ -75.086643, 39.573951 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Miami Roomates @KiddyKatRawr @amypogo @miz_breakaway @joycedariel ????? @ Nikki Beach http:\/\/t.co\/6ld09CfGXZ", "user": "CarolynaMeow", "location": "Wonderland", "coord_x": -80.132115, "coord_y": 25.768926, "created_at": "2013\/03\/24", "h_m_s": "2:23:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:23:47" }, "geometry": { "type": "Point", "coordinates": [ -80.132115, 25.768926 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Back to the real world. Now I gotta find a job and finish my MBA. #exciting but #daunting", "user": "yougosarahcoco", "location": "Denver, CO", "coord_x": -118.406032, "coord_y": 33.940962, "created_at": "2013\/03\/24", "h_m_s": "2:28:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:28:35" }, "geometry": { "type": "Point", "coordinates": [ -118.406032, 33.940962 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@mtv pick me for 2014 Las Vegas Real World. ?????????????? this generation needs a Las Vegas Real World lol.", "user": "TrishiaBoo", "location": "Tracy, California", "coord_x": -121.440812, "coord_y": 37.753775, "created_at": "2013\/03\/24", "h_m_s": "2:30:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:31:0" }, "geometry": { "type": "Point", "coordinates": [ -121.440812, 37.753775 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Really wish this car could get wifi so that I could watch MTV's Retro Real World #bestthingever #drivefaster", "user": "nicole_sorensen", "location": "Ames, Iowa", "coord_x": -87.344021, "coord_y": 36.645639, "created_at": "2013\/03\/24", "h_m_s": "2:34:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:34:35" }, "geometry": { "type": "Point", "coordinates": [ -87.344021, 36.645639 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old skool Real World is on with Johnny Bananas!! I remember sneaking to watch this back in the day &amp; thinking I was a bad A. ???? #childhood", "user": "hillaryclarkk", "location": "The Dirty South.", "coord_x": -81.653874, "coord_y": 35.233417, "created_at": "2013\/03\/24", "h_m_s": "2:35:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:35:5" }, "geometry": { "type": "Point", "coordinates": [ -81.653874, 35.233417 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "=o. Mtv is goin retro. There is the real world from 2003 and 1992", "user": "Alejandro_G1992", "location": "Stork, In the sky", "coord_x": -87.803138, "coord_y": 41.795724, "created_at": "2013\/03\/24", "h_m_s": "2:35:15", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:35:16" }, "geometry": { "type": "Point", "coordinates": [ -87.803138, 41.795724 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@iEnterate: En 1981 un perro fue elegido alcalde de una pequeña ciudad californiana.” \/\/ #RealWorld", "user": "x_zkr", "location": "Closer to the edge...", "coord_x": -99.256414, "coord_y": 19.358193, "created_at": "2013\/03\/24", "h_m_s": "2:35:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:35:27" }, "geometry": { "type": "Point", "coordinates": [ -99.256414, 19.358193 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I am loving #RetroMTV, @TrishelleC  is my favorite cast member on the Real World. Period!", "user": "A_Holt_", "location": "Lawrence, Kansas", "coord_x": -95.201806, "coord_y": 38.943190, "created_at": "2013\/03\/24", "h_m_s": "2:36:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:36:4" }, "geometry": { "type": "Point", "coordinates": [ -95.201806, 38.943190 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This real world suckssss!!", "user": "__quintana", "location": "", "coord_x": -84.942416, "coord_y": 32.509162, "created_at": "2013\/03\/24", "h_m_s": "2:38:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:38:23" }, "geometry": { "type": "Point", "coordinates": [ -84.942416, 32.509162 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#retroMTV needs to be its own channel....real world LV\/early 2000s was MTV's last Golden Era", "user": "FucciTim", "location": "Los Angeles", "coord_x": -118.408541, "coord_y": 33.928830, "created_at": "2013\/03\/24", "h_m_s": "2:43:45", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:43:46" }, "geometry": { "type": "Point", "coordinates": [ -118.408541, 33.928830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If you're gonna do #retromtv at least show something better than old the real world episodes.", "user": "hannahnanna_", "location": "kzoo", "coord_x": -85.535299, "coord_y": 42.230973, "created_at": "2013\/03\/24", "h_m_s": "2:44:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:44:31" }, "geometry": { "type": "Point", "coordinates": [ -85.535299, 42.230973 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In my opinion one of the best seasons of real world is on ??", "user": "Rude_Tendencies", "location": "", "coord_x": -84.621435, "coord_y": 39.394275, "created_at": "2013\/03\/24", "h_m_s": "2:44:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:44:33" }, "geometry": { "type": "Point", "coordinates": [ -84.621435, 39.394275 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Goodbye babysitting and funemployment . Back the grind on Monday #newjob #realworld", "user": "ldavy47", "location": "Massachusetts", "coord_x": -71.223344, "coord_y": 42.318219, "created_at": "2013\/03\/24", "h_m_s": "2:45:18", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:45:19" }, "geometry": { "type": "Point", "coordinates": [ -71.223344, 42.318219 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There's nothing better than the season of Real World: Las Vegas from 2002. #guiltypleasure", "user": "megfussell", "location": "Statesboro, GA", "coord_x": -81.792067, "coord_y": 32.426957, "created_at": "2013\/03\/24", "h_m_s": "2:46:24", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:46:25" }, "geometry": { "type": "Point", "coordinates": [ -81.792067, 32.426957 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And my mommy started workin days at the church. Finding faith in god cause the real world hurts.", "user": "DetocksMenace", "location": "Dededope", "coord_x": 144.836268, "coord_y": 13.521204, "created_at": "2013\/03\/24", "h_m_s": "2:50:4", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:50:5" }, "geometry": { "type": "Point", "coordinates": [ 144.836268, 13.521204 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV omg. Old #RealWorld this is what's up!", "user": "Libra_Doll91", "location": "Chicago", "coord_x": -87.655559, "coord_y": 41.993983, "created_at": "2013\/03\/24", "h_m_s": "2:51:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:51:18" }, "geometry": { "type": "Point", "coordinates": [ -87.655559, 41.993983 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The best real world. Is real world Las Vegas. It very interesting. That is what I watch not dem other shit.", "user": "Trini_Caribbean", "location": "Caribbean Trinidad & Tobago", "coord_x": -61.496940, "coord_y": 10.686750, "created_at": "2013\/03\/24", "h_m_s": "2:55:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:55:1" }, "geometry": { "type": "Point", "coordinates": [ -61.496940, 10.686750 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@kristigyles real world 2002 now hahah #gettingbetter", "user": "britttney_ann", "location": "", "coord_x": -71.996067, "coord_y": 42.240983, "created_at": "2013\/03\/24", "h_m_s": "2:56:59", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:57:1" }, "geometry": { "type": "Point", "coordinates": [ -71.996067, 42.240983 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It's crazy how much style has changed since 2002 ... I would never wear those clothes now! #RetroMTV #RealWorld", "user": "RachelHaaaht", "location": "Boston MA", "coord_x": -71.056543, "coord_y": 42.365032, "created_at": "2013\/03\/24", "h_m_s": "3:5:34", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:5:35" }, "geometry": { "type": "Point", "coordinates": [ -71.056543, 42.365032 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sad to say but this…RT @LIKE_theCar: Why is real world so addicting !?! And I've seen these episodes already ??", "user": "SweaterGawd", "location": "", "coord_x": -75.929207, "coord_y": 39.808312, "created_at": "2013\/03\/24", "h_m_s": "3:12:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:12:4" }, "geometry": { "type": "Point", "coordinates": [ -75.929207, 39.808312 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World Las Vegas", "user": "ihearthk", "location": "ÜT: 30.229894,-97.731101", "coord_x": -97.728371, "coord_y": 30.231053, "created_at": "2013\/03\/24", "h_m_s": "3:14:29", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:14:29" }, "geometry": { "type": "Point", "coordinates": [ -97.728371, 30.231053 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just went on a 30 minute vacation to Australia thanks to the throwback Real World marathon @whoshart #RetroMTV", "user": "BananaHan1", "location": "Delaware,OH and Burlington,VT", "coord_x": -83.069182, "coord_y": 40.294273, "created_at": "2013\/03\/24", "h_m_s": "3:18:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:18:29" }, "geometry": { "type": "Point", "coordinates": [ -83.069182, 40.294273 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "real world marathon&gt;&gt; #RetroMTV ??????", "user": "alliee_marie", "location": "", "coord_x": -87.802652, "coord_y": 41.655241, "created_at": "2013\/03\/24", "h_m_s": "3:21:28", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:21:29" }, "geometry": { "type": "Point", "coordinates": [ -87.802652, 41.655241 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Old school real world ??", "user": "kaaayy_tee", "location": "ny", "coord_x": -73.448501, "coord_y": 40.772881, "created_at": "2013\/03\/24", "h_m_s": "3:27:36", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:27:36" }, "geometry": { "type": "Point", "coordinates": [ -73.448501, 40.772881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spring Breakers!!!! Why isn't there spring break in the real world? #postgradprobs", "user": "Alexa_Michelle", "location": "LA", "coord_x": -118.466711, "coord_y": 34.154632, "created_at": "2013\/03\/24", "h_m_s": "3:27:49", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:27:50" }, "geometry": { "type": "Point", "coordinates": [ -118.466711, 34.154632 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oops I spent all day watching Real World: Las Vegas #RetroMTV", "user": "mmpacheco", "location": "Burlingame, Ca", "coord_x": -122.420528, "coord_y": 37.798540, "created_at": "2013\/03\/24", "h_m_s": "3:28:0", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:28:0" }, "geometry": { "type": "Point", "coordinates": [ -122.420528, 37.798540 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching MTV's real world marathon. #RetroMTV @RealWorldMTV", "user": "TylerElyzabeth", "location": "Darlington", "coord_x": -79.877702, "coord_y": 34.325271, "created_at": "2013\/03\/24", "h_m_s": "3:34:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:34:33" }, "geometry": { "type": "Point", "coordinates": [ -79.877702, 34.325271 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching these old real world episodes got me feeling old... I use love the real world back in the day...", "user": "iJusBeSmilin", "location": "Jacksonville", "coord_x": -81.601389, "coord_y": 30.382640, "created_at": "2013\/03\/24", "h_m_s": "3:35:26", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:35:26" }, "geometry": { "type": "Point", "coordinates": [ -81.601389, 30.382640 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV this real world.marathon js insane. Soooo many memories", "user": "bklynitendc", "location": "", "coord_x": -77.025451, "coord_y": 38.939693, "created_at": "2013\/03\/24", "h_m_s": "3:35:38", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:35:38" }, "geometry": { "type": "Point", "coordinates": [ -77.025450, 38.939693 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In bed with Bella watching real world!", "user": "geauxtigers0714", "location": "Alexandria, Louisiana", "coord_x": -93.679783, "coord_y": 32.664302, "created_at": "2013\/03\/24", "h_m_s": "3:39:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:39:3" }, "geometry": { "type": "Point", "coordinates": [ -93.679783, 32.664302 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wonder why they never had a Real World Atlanta???", "user": "iJusBeSmilin", "location": "Jacksonville", "coord_x": -81.601385, "coord_y": 30.382647, "created_at": "2013\/03\/24", "h_m_s": "3:41:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:41:3" }, "geometry": { "type": "Point", "coordinates": [ -81.601385, 30.382647 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Whenever @mtv decides they want to do a Real World with all niggas! I want to be on it!!", "user": "iJusBeSmilin", "location": "Jacksonville", "coord_x": -81.601414, "coord_y": 30.382604, "created_at": "2013\/03\/24", "h_m_s": "3:44:32", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:44:32" }, "geometry": { "type": "Point", "coordinates": [ -81.601414, 30.382604 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Retro real world thank The Lord Jesus ????????????", "user": "maweeessa", "location": "", "coord_x": -71.875619, "coord_y": 42.058078, "created_at": "2013\/03\/24", "h_m_s": "3:45:24", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:45:24" }, "geometry": { "type": "Point", "coordinates": [ -71.875619, 42.058078 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So ready to get out in the real world and make it mine", "user": "asvpxcaleb", "location": "Cloud 9", "coord_x": -97.112612, "coord_y": 33.148147, "created_at": "2013\/03\/24", "h_m_s": "3:49:25", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:49:26" }, "geometry": { "type": "Point", "coordinates": [ -97.112611, 33.148147 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You need to get your priorities straight in life. If you don't you're fucked. Good luck in the real world.", "user": "KevinString", "location": "New Jersey", "coord_x": -75.183059, "coord_y": 39.865679, "created_at": "2013\/03\/24", "h_m_s": "3:50:30", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:50:30" }, "geometry": { "type": "Point", "coordinates": [ -75.183059, 39.865679 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@TheGoogleFactz: The cost of being a real world Batman would be $300 million dollars.” That's a little out of my budget...  #MyDreamsBroken", "user": "JonathanWarner7", "location": "Wisconsin", "coord_x": -87.833764, "coord_y": 42.610436, "created_at": "2013\/03\/24", "h_m_s": "3:55:10", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:55:11" }, "geometry": { "type": "Point", "coordinates": [ -87.833764, 42.610436 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real world marathon and talkin to Jae", "user": "chacha_solis", "location": "", "coord_x": -80.163389, "coord_y": 25.997425, "created_at": "2013\/03\/24", "h_m_s": "3:59:46", "time_ets": "2013\/03\/23", "h_m_s_ets": "23:59:47" }, "geometry": { "type": "Point", "coordinates": [ -80.163389, 25.997425 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real world&lt;3", "user": "mookiefresh_", "location": "", "coord_x": -73.240187, "coord_y": 40.730773, "created_at": "2013\/03\/24", "h_m_s": "4:0:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:0:12" }, "geometry": { "type": "Point", "coordinates": [ -73.240187, 40.730773 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Tlong4403 yep! Hopefully the few days you were in class you learned a thing or two and now it's real world. \"BSI, SCENE SAFE\" lmao", "user": "shel_renee", "location": "Racine :(", "coord_x": -87.805772, "coord_y": 42.729063, "created_at": "2013\/03\/24", "h_m_s": "4:1:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:1:6" }, "geometry": { "type": "Point", "coordinates": [ -87.805772, 42.729063 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the Real World Vegas re-runs waiting to see my lost brother Eddie Gomez. Where are you Eddie? I miss you, I'm coming to find you!", "user": "Sheldenarae", "location": "LA~ATL~MIA~NYC", "coord_x": -118.349473, "coord_y": 33.899405, "created_at": "2013\/03\/24", "h_m_s": "4:2:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:2:11" }, "geometry": { "type": "Point", "coordinates": [ -118.349473, 33.899405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm gonna be up at 8am watching real world San Francisco lol.obviously a dedicated RW fan lol #Dedicated #RetroMTV #RealWorld @MTV @RWRRMTV", "user": "Rissa_Elizabeth", "location": "D[M]V", "coord_x": -76.684095, "coord_y": 39.122950, "created_at": "2013\/03\/24", "h_m_s": "4:8:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:8:48" }, "geometry": { "type": "Point", "coordinates": [ -76.684095, 39.122950 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I was really sad when I watched Pedro on the Real World and found out that he died", "user": "ihearthk", "location": "ÜT: 30.229894,-97.731101", "coord_x": -97.728265, "coord_y": 30.231237, "created_at": "2013\/03\/24", "h_m_s": "4:9:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:9:24" }, "geometry": { "type": "Point", "coordinates": [ -97.728265, 30.231237 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Throwback Real World on MTV &gt;&gt;&gt;", "user": "CarlyMowen", "location": "", "coord_x": -77.703017, "coord_y": 39.787151, "created_at": "2013\/03\/24", "h_m_s": "4:11:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:11:47" }, "geometry": { "type": "Point", "coordinates": [ -77.703017, 39.787151 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Is there a funnier feeling then watching Real World on #RetroMtv and recalling details like how thin Frank's\"friend\" Emily's eyebrows are?", "user": "BekahBerger", "location": "ÜT: 41.797967,-71.437487", "coord_x": -71.372264, "coord_y": 41.816057, "created_at": "2013\/03\/24", "h_m_s": "4:12:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:12:17" }, "geometry": { "type": "Point", "coordinates": [ -71.372264, 41.816057 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol Garfield is trapped with Odie in the real world, hahaha!", "user": "weregonnadie4L", "location": "Onterrible, California", "coord_x": -117.625360, "coord_y": 34.075488, "created_at": "2013\/03\/24", "h_m_s": "4:12:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:12:17" }, "geometry": { "type": "Point", "coordinates": [ -117.625360, 34.075488 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BravoAndy  LV Real World Steven looks like a cross between @BravoAndy and #RyanReynolds!", "user": "Chellysta", "location": "Kenosha, WI", "coord_x": -87.818454, "coord_y": 42.595572, "created_at": "2013\/03\/24", "h_m_s": "4:13:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:13:8" }, "geometry": { "type": "Point", "coordinates": [ -87.818454, 42.595572 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #retromtv 2002 real world. Wow. Different. Haha", "user": "lindsayteter", "location": "Salt Lake City, UTAH", "coord_x": -111.933039, "coord_y": 40.402932, "created_at": "2013\/03\/24", "h_m_s": "4:20:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:20:32" }, "geometry": { "type": "Point", "coordinates": [ -111.933039, 40.402932 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Well,nice quiet weekend at home.Loving retroMTV. They're showing Vegas Real World. Original.  Maybe music videos coming back or Road Rules.", "user": "Grannyx5Sherry", "location": "", "coord_x": -90.504151, "coord_y": 40.543946, "created_at": "2013\/03\/24", "h_m_s": "4:21:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:21:55" }, "geometry": { "type": "Point", "coordinates": [ -90.504151, 40.543946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Uhh why am I just now finding out there has been reruns of old Real World episodes?!? #favorite", "user": "_chelseamarie", "location": "Ohio", "coord_x": -83.286069, "coord_y": 41.465379, "created_at": "2013\/03\/24", "h_m_s": "4:24:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:24:28" }, "geometry": { "type": "Point", "coordinates": [ -83.286069, 41.465379 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Again tonight my mom kept talking to me about how she wants me to apply to be on real world. Sorry mom, I have bigger aspirations.", "user": "katielinmiller", "location": "kc", "coord_x": -94.704036, "coord_y": 38.896548, "created_at": "2013\/03\/24", "h_m_s": "4:27:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:27:43" }, "geometry": { "type": "Point", "coordinates": [ -94.704036, 38.896548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why doesn't MTV ever put people like me on The Real World?!", "user": "tHeMaCnAmEdMiKe", "location": "SF,CA", "coord_x": -122.411106, "coord_y": 37.755577, "created_at": "2013\/03\/24", "h_m_s": "4:28:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:28:27" }, "geometry": { "type": "Point", "coordinates": [ -122.411106, 37.755577 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This throwback real world marathon ??", "user": "laurenkuehl", "location": "KC & Lawrence", "coord_x": -94.726155, "coord_y": 39.023369, "created_at": "2013\/03\/24", "h_m_s": "4:30:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:30:10" }, "geometry": { "type": "Point", "coordinates": [ -94.726155, 39.023369 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm partying at a house that feels like it should be on The Real World", "user": "katheetran", "location": "", "coord_x": -94.132173, "coord_y": 30.083212, "created_at": "2013\/03\/24", "h_m_s": "4:31:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:31:40" }, "geometry": { "type": "Point", "coordinates": [ -94.132173, 30.083212 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If you want you're life to be easy start by trusting your self &amp; others make a change stop hiding your self &amp; your prob from the real world", "user": "Sindey_XOkf", "location": "curacao,Willemstad", "coord_x": -68.897270, "coord_y": 12.121260, "created_at": "2013\/03\/24", "h_m_s": "4:32:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:32:4" }, "geometry": { "type": "Point", "coordinates": [ -68.897270, 12.121260 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Woah what #RetroMTV right now?! #RealWorldLasVegas sweeeeeeet!", "user": "jazzypants02", "location": "", "coord_x": -87.638584, "coord_y": 41.619318, "created_at": "2013\/03\/24", "h_m_s": "4:39:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:39:45" }, "geometry": { "type": "Point", "coordinates": [ -87.638584, 41.619318 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#RetroMTV when is the real world is going off", "user": "youngj24", "location": "", "coord_x": -72.533800, "coord_y": 41.919046, "created_at": "2013\/03\/24", "h_m_s": "4:40:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:40:10" }, "geometry": { "type": "Point", "coordinates": [ -72.533800, 41.919046 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Is this the new real world on mtv or a throw back of the real world #confused", "user": "AshsoluteVodka", "location": "", "coord_x": -76.758846, "coord_y": 40.019744, "created_at": "2013\/03\/24", "h_m_s": "4:40:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:40:31" }, "geometry": { "type": "Point", "coordinates": [ -76.758846, 40.019744 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lmao the real world is on right now #RetroMTV wtf", "user": "DannyManeee", "location": "Pistol Bay", "coord_x": -82.209498, "coord_y": 27.876071, "created_at": "2013\/03\/24", "h_m_s": "4:41:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:41:11" }, "geometry": { "type": "Point", "coordinates": [ -82.209498, 27.876071 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Real World 2003.", "user": "BryonaTurner", "location": "Trinidad", "coord_x": -87.596531, "coord_y": 38.014279, "created_at": "2013\/03\/24", "h_m_s": "4:45:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:45:15" }, "geometry": { "type": "Point", "coordinates": [ -87.596531, 38.014279 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Reruns of old real world episodes ??", "user": "amandaplease7", "location": "", "coord_x": -121.263795, "coord_y": 38.800999, "created_at": "2013\/03\/24", "h_m_s": "4:47:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:47:36" }, "geometry": { "type": "Point", "coordinates": [ -121.263795, 38.800999 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "HAHA that's so embarrassing.. But I went over there just to watch real world Denver then when I left we'd call each other and talk about it", "user": "TiphanieMarieee", "location": "", "coord_x": -97.266661, "coord_y": 37.553722, "created_at": "2013\/03\/24", "h_m_s": "4:48:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:48:5" }, "geometry": { "type": "Point", "coordinates": [ -97.266661, 37.553722 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Been watching The Real World all day", "user": "AllEyesOnAlex74", "location": "", "coord_x": -80.044502, "coord_y": 42.126960, "created_at": "2013\/03\/24", "h_m_s": "4:49:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:49:34" }, "geometry": { "type": "Point", "coordinates": [ -80.044502, 42.126960 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@iamfortu lol hayi u probably watch too much fairytales..there's no such in this real world..lol but I won't give up hey...", "user": "LapiMalematja", "location": "Bloemfontein, South Africa", "coord_x": 30.211698, "coord_y": -23.630356, "created_at": "2013\/03\/24", "h_m_s": "4:51:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:51:44" }, "geometry": { "type": "Point", "coordinates": [ 30.211698, -23.630356 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just like Andy Samberg said in the Threw it On The Ground digital short. \"WELCOME TO THE REAL WORLD JACKASS!\"", "user": "danika_wright", "location": "gainesville ga", "coord_x": -83.870590, "coord_y": 34.943844, "created_at": "2013\/03\/24", "h_m_s": "4:53:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:53:40" }, "geometry": { "type": "Point", "coordinates": [ -83.870590, 34.943844 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real World.", "user": "blackyychan69", "location": "", "coord_x": -94.479002, "coord_y": 38.837254, "created_at": "2013\/03\/24", "h_m_s": "4:54:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:54:44" }, "geometry": { "type": "Point", "coordinates": [ -94.479002, 38.837254 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love watching this real world: Las Vegas #RetroMTV #RetroRealWorld", "user": "KiddoWillo", "location": "Land of 10,000 Lakes", "coord_x": -93.156161, "coord_y": 44.826274, "created_at": "2013\/03\/24", "h_m_s": "4:55:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:55:21" }, "geometry": { "type": "Point", "coordinates": [ -93.156161, 44.826274 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Estan dando in throwback de Real world en MTV ????", "user": "ashleimarr", "location": "Puerto Rico", "coord_x": -66.232070, "coord_y": 18.441828, "created_at": "2013\/03\/24", "h_m_s": "4:58:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:58:8" }, "geometry": { "type": "Point", "coordinates": [ -66.232070, 18.441828 ] } }
+
+]
+}

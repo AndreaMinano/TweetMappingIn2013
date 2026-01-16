@@ -1,0 +1,9 @@
+var ghost = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "I guess it's time to watch my ghost story", "user": "skeller1995", "location": "Maryland", "coord_x": -76.534124, "coord_y": 39.160258, "created_at": "2013\/03\/23", "h_m_s": "21:32:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "17:32:36" }, "geometry": { "type": "Point", "coordinates": [ -76.534124, 39.160258 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My Ghost Story is my new favourite TV programme, gullible Americans galore", "user": "mateo_riley", "location": "Nottingham \/ Pontefract", "coord_x": -1.304234, "coord_y": 53.703661, "created_at": "2013\/03\/24", "h_m_s": "0:37:22", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:37:40" }, "geometry": { "type": "Point", "coordinates": [ -1.304234, 53.703661 ] } }
+
+]
+}

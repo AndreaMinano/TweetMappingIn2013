@@ -1,0 +1,13 @@
+var pitboss = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Long line @ Pit Boss @ Pit Boss BBQ http:\/\/t.co\/ceUYkGf3A5", "user": "mickeykingjr", "location": "", "coord_x": -84.417208, "coord_y": 33.658386, "created_at": "2013\/03\/23", "h_m_s": "23:27:52", "time_ets": "2013\/03\/23", "h_m_s_ets": "19:27:53" }, "geometry": { "type": "Point", "coordinates": [ -84.417208, 33.658386 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pit Boss. Why I need cable.", "user": "bianca101", "location": "Saint Paul, MN", "coord_x": -93.063936, "coord_y": 45.054010, "created_at": "2013\/03\/24", "h_m_s": "1:8:3", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:8:4" }, "geometry": { "type": "Point", "coordinates": [ -93.063936, 45.054010 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Don't hate! U can be my Pit Boss... LOLOLOL! @Mr400hurdles http:\/\/t.co\/GRHOdLKhqx", "user": "diviroxx", "location": "WORLDWIDE", "coord_x": -118.374529, "coord_y": 33.945019, "created_at": "2013\/03\/24", "h_m_s": "1:48:35", "time_ets": "2013\/03\/23", "h_m_s_ets": "21:48:36" }, "geometry": { "type": "Point", "coordinates": [ -118.374529, 33.945019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pit Boss is on at the gym and I'm crying. I want one so bad??", "user": "Dayna_Polk", "location": "", "coord_x": -81.724770, "coord_y": 41.037145, "created_at": "2013\/03\/24", "h_m_s": "2:17:17", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:17:17" }, "geometry": { "type": "Point", "coordinates": [ -81.724770, 41.037145 ] } }
+
+]
+}

@@ -1,0 +1,7 @@
+var cops = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "New @CopsTV #yesyesyes #cops", "user": "TomP_5000", "location": "", "coord_x": -83.339619, "coord_y": 42.422853, "created_at": "2013\/03\/24", "h_m_s": "0:2:2", "time_ets": "2013\/03\/23", "h_m_s_ets": "20:2:2" }, "geometry": { "type": "Point", "coordinates": [ -83.339619, 42.422853 ] } }
+
+]
+}

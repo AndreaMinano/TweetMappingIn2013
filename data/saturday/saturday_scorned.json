@@ -1,0 +1,13 @@
+var scorned = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Just up... watching this scorned show. People are crazy as hell.", "user": "AllieBallie90", "location": "", "coord_x": -83.448510, "coord_y": 35.771551, "created_at": "2013\/03\/24", "h_m_s": "2:31:37", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:31:38" }, "geometry": { "type": "Point", "coordinates": [ -83.448510, 35.771551 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Scorned ..", "user": "TeyLovesTey_", "location": "Jhordyn's ?", "coord_x": -79.849027, "coord_y": 34.207641, "created_at": "2013\/03\/24", "h_m_s": "2:33:27", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:33:28" }, "geometry": { "type": "Point", "coordinates": [ -79.849027, 34.207641 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Do people really sit at home watch    Scorned Love Kills @ 10pm on Saturday night?\" \"Yeah people w no  lives\" \"Do you?\" \"Yes &amp; you are too\"", "user": "Whowrotealexb", "location": "New York", "coord_x": -73.677079, "coord_y": 41.008338, "created_at": "2013\/03\/24", "h_m_s": "2:56:5", "time_ets": "2013\/03\/23", "h_m_s_ets": "22:56:8" }, "geometry": { "type": "Point", "coordinates": [ -73.677079, 41.008338 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh boy!!! This episode of Scorned: Love Kills takes place right here in Westchester County! Except they've got people from Stamford talking?", "user": "Whowrotealexb", "location": "New York", "coord_x": -73.675673, "coord_y": 41.009670, "created_at": "2013\/03\/24", "h_m_s": "4:12:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "0:12:11" }, "geometry": { "type": "Point", "coordinates": [ -73.675673, 41.009670 ] } }
+
+]
+}

@@ -1,0 +1,125 @@
+var americandad = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "HAHAHAHAHAHA AMERICAN DAD IS ZO GRAPPIG", "user": "kimmelkimz", "location": "op je plafond.", "coord_x": 5.566401, "coord_y": 51.433558, "created_at": "2013\/03\/24", "h_m_s": "18:21:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:21:53" }, "geometry": { "type": "Point", "coordinates": [ 5.566401, 51.433558 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chilling with my Lil man and takin a punch to the jaw for interrupting American dad! #brotherlylove", "user": "KainBirch", "location": "", "coord_x": -3.240623, "coord_y": 51.668564, "created_at": "2013\/03\/24", "h_m_s": "19:2:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:2:32" }, "geometry": { "type": "Point", "coordinates": [ -3.240623, 51.668564 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#American Dad :)", "user": "CrisLpezGmez", "location": "Villablino", "coord_x": -6.322263, "coord_y": 42.940109, "created_at": "2013\/03\/24", "h_m_s": "19:32:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:32:10" }, "geometry": { "type": "Point", "coordinates": [ -6.322263, 42.940109 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Viendo American Dad", "user": "javi03_11", "location": "vigo", "coord_x": -8.803484, "coord_y": 42.178120, "created_at": "2013\/03\/24", "h_m_s": "19:51:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:51:10" }, "geometry": { "type": "Point", "coordinates": [ -8.803484, 42.178120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad :')", "user": "lauraventura_ro", "location": "A 7.038 km de Dubai", "coord_x": -16.815665, "coord_y": 28.301860, "created_at": "2013\/03\/24", "h_m_s": "19:57:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:57:42" }, "geometry": { "type": "Point", "coordinates": [ -16.815665, 28.301860 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "blown watching american dad waiting for this foo", "user": "JaimeLoks", "location": "L.A", "coord_x": -118.198556, "coord_y": 33.969402, "created_at": "2013\/03\/24", "h_m_s": "20:54:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:54:46" }, "geometry": { "type": "Point", "coordinates": [ -118.198556, 33.969402 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gonna watch American Dad till Monday ??", "user": "emilyclewett", "location": "Bristol", "coord_x": -2.486425, "coord_y": 51.486432, "created_at": "2013\/03\/24", "h_m_s": "21:31:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:31:32" }, "geometry": { "type": "Point", "coordinates": [ -2.486425, 51.486432 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Smaddiii American dad had finished and I finally had the courage to get up (it was all dark and quiet) then that came on, didn't move then", "user": "Esmethompson2", "location": "", "coord_x": -3.172697, "coord_y": 54.159204, "created_at": "2013\/03\/24", "h_m_s": "22:6:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:6:42" }, "geometry": { "type": "Point", "coordinates": [ -3.172697, 54.159204 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Somehow my phone has decided to link American DAD, the stanker's twitter info and bio with my actual father known as dad in my contacts,", "user": "ScottGlynn10", "location": "DadFest2013", "coord_x": -0.067438, "coord_y": 51.796059, "created_at": "2013\/03\/24", "h_m_s": "22:21:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:21:12" }, "geometry": { "type": "Point", "coordinates": [ -0.067438, 51.796059 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dno what I prefer more, family guy or American dad #toughy", "user": "itsRM", "location": "", "coord_x": -4.128294, "coord_y": 55.855320, "created_at": "2013\/03\/24", "h_m_s": "23:51:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:51:27" }, "geometry": { "type": "Point", "coordinates": [ -4.128294, 55.855320 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@_jaimeggg see I think that anol but at times I find American dad hilarious?", "user": "itsRM", "location": "", "coord_x": -4.128355, "coord_y": 55.855362, "created_at": "2013\/03\/25", "h_m_s": "0:0:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:0:49" }, "geometry": { "type": "Point", "coordinates": [ -4.128355, 55.855362 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad &gt; Family Guy.... Said noone ever", "user": "TommyJB_", "location": "Sidcup, London", "coord_x": 0.097183, "coord_y": 51.440980, "created_at": "2013\/03\/25", "h_m_s": "0:17:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:17:43" }, "geometry": { "type": "Point", "coordinates": [ 0.097183, 51.440980 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Roger in American Dad has me in bits", "user": "leepearson", "location": "Mirfield", "coord_x": -1.689188, "coord_y": 53.687457, "created_at": "2013\/03\/25", "h_m_s": "0:19:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:19:35" }, "geometry": { "type": "Point", "coordinates": [ -1.689188, 53.687457 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I Love Roger From American Dad,He Makes Me Fucking Cry", "user": "ItsJoycey", "location": "Camden Town", "coord_x": -0.141744, "coord_y": 51.549998, "created_at": "2013\/03\/25", "h_m_s": "0:19:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:19:58" }, "geometry": { "type": "Point", "coordinates": [ -0.141744, 51.549998 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American dad time ??", "user": "SarahMcGrath26", "location": "Manchester", "coord_x": -2.229275, "coord_y": 53.415459, "created_at": "2013\/03\/25", "h_m_s": "0:21:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:21:33" }, "geometry": { "type": "Point", "coordinates": [ -2.229275, 53.415459 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@JoshHickson_: Hahahaha baby legs\" how funny is this American dad!!!! Hahahahahaha", "user": "WinstanleyHarry", "location": "England - Manchester United", "coord_x": -2.548139, "coord_y": 53.197914, "created_at": "2013\/03\/25", "h_m_s": "0:36:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:36:34" }, "geometry": { "type": "Point", "coordinates": [ -2.548139, 53.197914 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dancing to the american dad theme song i see", "user": "GeorginaCee", "location": "", "coord_x": -2.255130, "coord_y": 53.486668, "created_at": "2013\/03\/25", "h_m_s": "0:39:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:39:21" }, "geometry": { "type": "Point", "coordinates": [ -2.255130, 53.486668 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is so disappointing in comparison to Family Guy :(", "user": "ChrisSmith1992", "location": "Heathrow, West London, England", "coord_x": -0.437784, "coord_y": 51.498496, "created_at": "2013\/03\/25", "h_m_s": "0:41:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:41:14" }, "geometry": { "type": "Point", "coordinates": [ -0.437784, 51.498496 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is actually fantastic", "user": "karl_sloly", "location": "Portsmouth", "coord_x": -1.073823, "coord_y": 50.832140, "created_at": "2013\/03\/25", "h_m_s": "0:46:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:46:58" }, "geometry": { "type": "Point", "coordinates": [ -1.073823, 50.832140 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is just insane. Absolutely insane. @SethMacFarlane", "user": "zpapadopoulos", "location": "Pittsburgh, PA", "coord_x": -79.733947, "coord_y": 40.483867, "created_at": "2013\/03\/25", "h_m_s": "0:46:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:47:1" }, "geometry": { "type": "Point", "coordinates": [ -79.733947, 40.483867 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I prefer American dad than family guy", "user": "BrezZer1", "location": "Midsomer Norton", "coord_x": -2.471442, "coord_y": 51.248711, "created_at": "2013\/03\/25", "h_m_s": "0:49:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:46" }, "geometry": { "type": "Point", "coordinates": [ -2.471442, 51.248711 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is garbage", "user": "lukechanner", "location": "Milton Keynes, England", "coord_x": -0.856898, "coord_y": 52.056884, "created_at": "2013\/03\/25", "h_m_s": "0:51:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:51:49" }, "geometry": { "type": "Point", "coordinates": [ -0.856898, 52.056884 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love the little fat dude on American dad ?? #cutie", "user": "BrezZer1", "location": "Midsomer Norton", "coord_x": -2.471294, "coord_y": 51.248656, "created_at": "2013\/03\/25", "h_m_s": "0:52:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:52:17" }, "geometry": { "type": "Point", "coordinates": [ -2.471294, 51.248656 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is thoroughly under rated.", "user": "mattync_", "location": "Lancaster", "coord_x": -2.790965, "coord_y": 54.048845, "created_at": "2013\/03\/25", "h_m_s": "0:58:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:58:32" }, "geometry": { "type": "Point", "coordinates": [ -2.790965, 54.048845 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad! ????", "user": "megann1006", "location": "Houston?Huntsville", "coord_x": -95.543294, "coord_y": 30.711924, "created_at": "2013\/03\/25", "h_m_s": "1:30:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:30:27" }, "geometry": { "type": "Point", "coordinates": [ -95.543294, 30.711924 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad on &gt;&gt;&gt;&gt; LOl", "user": "BottomLife_", "location": "Cool-in W\/ Yo shawty", "coord_x": -77.439809, "coord_y": 37.498593, "created_at": "2013\/03\/25", "h_m_s": "1:31:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:31:30" }, "geometry": { "type": "Point", "coordinates": [ -77.439809, 37.498593 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This new American dad is kiiindaaa lameeee", "user": "c0mpa_rafa", "location": "#Chi-City area ¬_¬", "coord_x": -87.750565, "coord_y": 41.854416, "created_at": "2013\/03\/25", "h_m_s": "1:37:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:37:51" }, "geometry": { "type": "Point", "coordinates": [ -87.750565, 41.854417 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American dad", "user": "LathanielS", "location": "St louis Mo.", "coord_x": -90.522961, "coord_y": 38.762563, "created_at": "2013\/03\/25", "h_m_s": "1:43:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:43:29" }, "geometry": { "type": "Point", "coordinates": [ -90.522961, 38.762563 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "HahahahH american dad &gt;&gt;", "user": "Jason_Willix_30", "location": "Concord, NC", "coord_x": -81.299730, "coord_y": 29.035158, "created_at": "2013\/03\/25", "h_m_s": "1:44:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:44:29" }, "geometry": { "type": "Point", "coordinates": [ -81.299730, 29.035158 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wish someone would get off the computer &amp; watch American dad. #lameass #getoffthecomputer  #greathost", "user": "hilbilybonez", "location": "", "coord_x": -79.551044, "coord_y": 44.309953, "created_at": "2013\/03\/25", "h_m_s": "1:44:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:2" }, "geometry": { "type": "Point", "coordinates": [ -79.551044, 44.309953 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Nw American Dad", "user": "Edras_20", "location": "Washington D.C ??-?-?", "coord_x": -77.023114, "coord_y": 38.956798, "created_at": "2013\/03\/25", "h_m_s": "1:44:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:2" }, "geometry": { "type": "Point", "coordinates": [ -77.023114, 38.956798 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I want a Jeff and Hailey relationship from American Dad.", "user": "KingAhmaad", "location": "Chefin.", "coord_x": -77.200528, "coord_y": 39.160590, "created_at": "2013\/03\/25", "h_m_s": "1:45:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:4" }, "geometry": { "type": "Point", "coordinates": [ -77.200528, 39.160590 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@FamilyGuyonFOX  american dad is better", "user": "DaylyJim", "location": "Oklahoma", "coord_x": -94.923941, "coord_y": 34.068489, "created_at": "2013\/03\/25", "h_m_s": "1:58:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:7" }, "geometry": { "type": "Point", "coordinates": [ -94.923941, 34.068489 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy and American dad is over", "user": "xttpack420", "location": "???The ???? then ? ?? ????", "coord_x": -82.359643, "coord_y": 31.210487, "created_at": "2013\/03\/25", "h_m_s": "2:0:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:0:22" }, "geometry": { "type": "Point", "coordinates": [ -82.359643, 31.210487 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheRock I saw u on fox during the simpson's-American dad hour for gi-joe!", "user": "corey_malik", "location": "Columbus,GA", "coord_x": -84.921862, "coord_y": 32.440238, "created_at": "2013\/03\/25", "h_m_s": "2:6:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:6:49" }, "geometry": { "type": "Point", "coordinates": [ -84.921862, 32.440238 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just relaxing about to watch the new episodes of Family Guy and American Dad. Then some reruns.", "user": "j_parsons1", "location": "Twin Lakes, Ruckersville, Va.", "coord_x": -78.440106, "coord_y": 38.244811, "created_at": "2013\/03\/25", "h_m_s": "2:23:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:18" }, "geometry": { "type": "Point", "coordinates": [ -78.440106, 38.244811 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "At all RT @_AsToldBySteph: American dad isn't funny", "user": "Addicted2Amber_", "location": "", "coord_x": -84.033653, "coord_y": 33.691593, "created_at": "2013\/03\/25", "h_m_s": "2:23:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:40" }, "geometry": { "type": "Point", "coordinates": [ -84.033653, 33.691593 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is wayyyy funnier than Family Guy", "user": "JZL___", "location": "Area code 240", "coord_x": -76.839854, "coord_y": 42.179763, "created_at": "2013\/03\/25", "h_m_s": "2:37:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:37:52" }, "geometry": { "type": "Point", "coordinates": [ -76.839854, 42.179763 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Me &amp; roger from American dad are the same person. We have the exact same personalities. It's fucking amazing", "user": "avoiding_fanny", "location": "halifax UK", "coord_x": -1.878460, "coord_y": 53.752894, "created_at": "2013\/03\/25", "h_m_s": "2:45:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:45:36" }, "geometry": { "type": "Point", "coordinates": [ -1.878460, 53.752894 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching American dad", "user": "ken14fire", "location": "Alabama", "coord_x": -85.031093, "coord_y": 32.485142, "created_at": "2013\/03\/25", "h_m_s": "3:22:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:22:19" }, "geometry": { "type": "Point", "coordinates": [ -85.031093, 32.485142 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is fucking hilarious", "user": "marrrrktm", "location": "Jacksonville Beach, FL?", "coord_x": -81.615678, "coord_y": 30.439166, "created_at": "2013\/03\/25", "h_m_s": "3:29:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:29:6" }, "geometry": { "type": "Point", "coordinates": [ -81.615678, 30.439166 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Basically my alter ego is Roger from American Dad.", "user": "velvetcrowbarr", "location": "Fresno, CA", "coord_x": -119.881300, "coord_y": 36.829257, "created_at": "2013\/03\/25", "h_m_s": "3:32:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:32:7" }, "geometry": { "type": "Point", "coordinates": [ -119.881300, 36.829257 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "O american dad realmente não tem limites. Né @marcelmvp  @MiguelNeves", "user": "vinipiazzeta", "location": "Porto Alegre - Brasil", "coord_x": -51.180992, "coord_y": -30.032029, "created_at": "2013\/03\/25", "h_m_s": "3:34:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:34:36" }, "geometry": { "type": "Point", "coordinates": [ -51.180992, -30.032029 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Pizza and American Dad with my Timmy! :)", "user": "itsMeli_Mel", "location": "TX & NJ", "coord_x": -97.333074, "coord_y": 32.395177, "created_at": "2013\/03\/25", "h_m_s": "4:17:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:17:23" }, "geometry": { "type": "Point", "coordinates": [ -97.333074, 32.395177 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And new American dad(:", "user": "Hashmine420", "location": "In the sky", "coord_x": -118.339998, "coord_y": 34.092903, "created_at": "2013\/03\/25", "h_m_s": "4:31:26", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:31:27" }, "geometry": { "type": "Point", "coordinates": [ -118.339998, 34.092904 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JeromeMassad American dad just said Tatanka.", "user": "MindOfManuel", "location": "Portland, Oregon", "coord_x": -122.541059, "coord_y": 45.482131, "created_at": "2013\/03\/25", "h_m_s": "4:35:50", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:35:52" }, "geometry": { "type": "Point", "coordinates": [ -122.541059, 45.482131 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BastianJerez yo por lo que leo es que fue maraca jajaj estaba viendo American Dad y The Cleveland Show", "user": "GonHalabi", "location": "Antofagasta, Chile.", "coord_x": -70.403348, "coord_y": -23.675291, "created_at": "2013\/03\/25", "h_m_s": "4:39:1", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:39:2" }, "geometry": { "type": "Point", "coordinates": [ -70.403348, -23.675291 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American dad is a trip lol", "user": "niggaalex95", "location": "", "coord_x": -118.175843, "coord_y": 33.981803, "created_at": "2013\/03\/25", "h_m_s": "4:52:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:52:18" }, "geometry": { "type": "Point", "coordinates": [ -118.175843, 33.981803 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh my god. American dad is gold. Spell diarrhea. Diaryofamadblackwoman", "user": "MrBrandonDavid", "location": "#UofSC", "coord_x": -80.998425, "coord_y": 33.987097, "created_at": "2013\/03\/25", "h_m_s": "4:55:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:55:23" }, "geometry": { "type": "Point", "coordinates": [ -80.998425, 33.987097 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@FreshlySnipes42 American dad lol", "user": "Heart_strong20", "location": "Heart of the U.S.", "coord_x": -94.739473, "coord_y": 38.979429, "created_at": "2013\/03\/25", "h_m_s": "5:4:27", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:4:28" }, "geometry": { "type": "Point", "coordinates": [ -94.739473, 38.979429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American dad. Lololol", "user": "sydneebeezy", "location": "", "coord_x": -119.033497, "coord_y": 35.353445, "created_at": "2013\/03\/25", "h_m_s": "5:26:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:26:49" }, "geometry": { "type": "Point", "coordinates": [ -119.033497, 35.353445 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Probably the funniest American Dad bit ever! XD", "user": "philjfitzmusic", "location": "Cleveland, Ohio", "coord_x": -81.801986, "coord_y": 41.484992, "created_at": "2013\/03\/25", "h_m_s": "5:35:32", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:35:33" }, "geometry": { "type": "Point", "coordinates": [ -81.801986, 41.484992 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Which one is Better Family Guy, American Dad, The Cleveland Show", "user": "80s_ariesbaby", "location": "", "coord_x": -75.571052, "coord_y": 39.745835, "created_at": "2013\/03\/25", "h_m_s": "6:2:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:2:11" }, "geometry": { "type": "Point", "coordinates": [ -75.571052, 39.745835 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BonyKucoc damnnnn tried Cleveland show hahah yea I like American dad the most only cuz they hate so hard on Americans", "user": "BASEDQUEENCHELS", "location": "FLA", "coord_x": -81.147062, "coord_y": 28.546845, "created_at": "2013\/03\/25", "h_m_s": "6:7:54", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:7:55" }, "geometry": { "type": "Point", "coordinates": [ -81.147062, 28.546845 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad always helps me sleep.", "user": "DevinWimberly", "location": "Mobile, Alabama.", "coord_x": -88.261877, "coord_y": 30.663192, "created_at": "2013\/03\/25", "h_m_s": "6:13:20", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:13:35" }, "geometry": { "type": "Point", "coordinates": [ -88.261877, 30.663192 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love family guy kinda like American dad better tho", "user": "vinny312326", "location": "shirley NY", "coord_x": -78.813427, "coord_y": 42.975793, "created_at": "2013\/03\/25", "h_m_s": "6:18:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:18:30" }, "geometry": { "type": "Point", "coordinates": [ -78.813426, 42.975793 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't beat a bit of American dad!", "user": "marcus_mcnamara", "location": "somewhere in the world", "coord_x": 114.314157, "coord_y": 4.605439, "created_at": "2013\/03\/25", "h_m_s": "12:36:4", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:36:5" }, "geometry": { "type": "Point", "coordinates": [ 114.314157, 4.605439 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Any man who ever did anything amazing was just trying to show up some piece of ass that didn't give him any - American dad", "user": "Lylejonathankay", "location": "Cardiff", "coord_x": -3.187897, "coord_y": 51.493450, "created_at": "2013\/03\/25", "h_m_s": "12:39:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:39:11" }, "geometry": { "type": "Point", "coordinates": [ -3.187897, 51.493450 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yeah that's right, I'm in the bath smoking a spliff and watching American Dad. \n\n...fuck you Monday. I win!!!", "user": "_FearFighter_", "location": "edinburgh", "coord_x": -3.163569, "coord_y": 55.962134, "created_at": "2013\/03\/25", "h_m_s": "13:4:7", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:4:8" }, "geometry": { "type": "Point", "coordinates": [ -3.163569, 55.962134 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American dad!!&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;", "user": "PV2rodriguez_Z", "location": "korea", "coord_x": 126.972302, "coord_y": 37.543229, "created_at": "2013\/03\/25", "h_m_s": "13:38:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:38:9" }, "geometry": { "type": "Point", "coordinates": [ 126.972302, 37.543229 ] } }
+
+]
+}

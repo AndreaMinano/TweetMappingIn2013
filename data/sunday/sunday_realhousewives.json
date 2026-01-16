@@ -1,0 +1,87 @@
+var realhousewives = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Snowed in, day off, Real Housewives of Beverly Hills marathon is on, and the KU game? ???? #perfection", "user": "kahlibarrett", "location": "", "coord_x": -94.788212, "coord_y": 38.834936, "created_at": "2013\/03\/24", "h_m_s": "17:36:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:36:45" }, "geometry": { "type": "Point", "coordinates": [ -94.788212, 38.834936 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cant wait to watch real housewives of atlanta tonight  @NeNeLeakes you are my favorite person on that show !!! #favoriteshow #rhoa", "user": "tmcourtney10", "location": "", "coord_x": -84.425627, "coord_y": 39.224686, "created_at": "2013\/03\/24", "h_m_s": "18:57:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:57:41" }, "geometry": { "type": "Point", "coordinates": [ -84.425627, 39.224686 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Thank goodness for Real Housewives on a gross day like today!", "user": "sthrnmiss1852", "location": "", "coord_x": -79.875004, "coord_y": 36.075931, "created_at": "2013\/03\/24", "h_m_s": "19:2:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:2:14" }, "geometry": { "type": "Point", "coordinates": [ -79.875004, 36.075931 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching real housewives of Beverley hills makes me realize that I have to get my doctorate and show these sugar mamas how to be independent", "user": "OliviaHeisler", "location": "", "coord_x": -76.267492, "coord_y": 39.968622, "created_at": "2013\/03\/24", "h_m_s": "19:8:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:8:58" }, "geometry": { "type": "Point", "coordinates": [ -76.267492, 39.968622 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The YCSWU group is sure to soon be the real housewives of Dallas.... \n\n#armypantsandflipflops #Exclusive #vip", "user": "AlixDSmith", "location": "Denton, TX", "coord_x": -96.969751, "coord_y": 33.004705, "created_at": "2013\/03\/24", "h_m_s": "20:10:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:10:4" }, "geometry": { "type": "Point", "coordinates": [ -96.969751, 33.004705 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fake it til' you make it? Tyvärr \"The Real Housewives of Miami\"-mormor, lite mer skit i ansiktet så kanske det funkar http:\/\/t.co\/qz9oWABtX1", "user": "KellieHansson", "location": "Sweden", "coord_x": 12.528919, "coord_y": 56.891948, "created_at": "2013\/03\/24", "h_m_s": "21:32:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:32:14" }, "geometry": { "type": "Point", "coordinates": [ 12.528919, 56.891948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real housewives of Atlanta ! My show !!", "user": "Rebelle_MyLove", "location": "LAWTON , OK.", "coord_x": -98.472198, "coord_y": 34.597536, "created_at": "2013\/03\/24", "h_m_s": "22:0:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:0:21" }, "geometry": { "type": "Point", "coordinates": [ -98.472198, 34.597536 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching The Real Housewives of Atlanta.", "user": "_InhaleKindness", "location": "Somewhere Chillin like a MF'", "coord_x": -89.541849, "coord_y": 34.348156, "created_at": "2013\/03\/24", "h_m_s": "22:19:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:19:25" }, "geometry": { "type": "Point", "coordinates": [ -89.541849, 34.348156 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wouldnt miss it #mmhmm RT @PhaedraParks: Tune in to Bravo tonight at 8pm EST for a new episode of The Real Housewives of Atlanta!", "user": "FeinbergFest", "location": "NC", "coord_x": -78.670303, "coord_y": 35.846250, "created_at": "2013\/03\/24", "h_m_s": "22:29:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:33:21" }, "geometry": { "type": "Point", "coordinates": [ -78.670303, 35.846250 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching up on Real Housewives of ATL", "user": "iTS_ASHA_BiiTCH", "location": "ON MY OWN LEVEL", "coord_x": -96.884804, "coord_y": 32.653010, "created_at": "2013\/03\/24", "h_m_s": "22:32:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:35:14" }, "geometry": { "type": "Point", "coordinates": [ -96.884804, 32.653010 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real housewives of Alanna tonight", "user": "justinnealy", "location": "dallas tx", "coord_x": -96.773754, "coord_y": 32.698567, "created_at": "2013\/03\/24", "h_m_s": "23:58:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:58:7" }, "geometry": { "type": "Point", "coordinates": [ -96.773754, 32.698567 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NeNeLeakes I'm tuned in to the real housewives of atlanta just to watch you", "user": "Jamal_Paisley", "location": "Miami, FL", "coord_x": -80.162601, "coord_y": 26.113721, "created_at": "2013\/03\/25", "h_m_s": "0:2:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:2:23" }, "geometry": { "type": "Point", "coordinates": [ -80.162601, 26.113721 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nw ; Real Housewives Of Atlanta", "user": "Tiki_bxtch", "location": "", "coord_x": -92.645783, "coord_y": 33.211567, "created_at": "2013\/03\/25", "h_m_s": "0:3:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:3:25" }, "geometry": { "type": "Point", "coordinates": [ -92.645783, 33.211567 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real Housewives!!!", "user": "Trace_Boog07", "location": "Up road", "coord_x": -76.625379, "coord_y": 39.134276, "created_at": "2013\/03\/25", "h_m_s": "0:5:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:5:28" }, "geometry": { "type": "Point", "coordinates": [ -76.625379, 39.134276 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the real housewives of atlanta ?", "user": "MyLovee____", "location": "blade dancing ? .", "coord_x": -83.104169, "coord_y": 42.380193, "created_at": "2013\/03\/25", "h_m_s": "0:9:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:9:59" }, "geometry": { "type": "Point", "coordinates": [ -83.104169, 42.380193 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@b_federico it's my new real housewives of Orange County. The season has finish so now it's bigrichtexas", "user": "Chelsee_James", "location": "london", "coord_x": -0.094018, "coord_y": 51.604300, "created_at": "2013\/03\/25", "h_m_s": "0:17:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:17:56" }, "geometry": { "type": "Point", "coordinates": [ -0.094018, 51.604300 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BUTTABEEZY6 real housewives of Atlanta", "user": "CuteAssBlonde_", "location": "", "coord_x": -89.924521, "coord_y": 35.881160, "created_at": "2013\/03\/25", "h_m_s": "0:39:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:39:35" }, "geometry": { "type": "Point", "coordinates": [ -89.924521, 35.881160 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real housewives of Atlanta ..tired of lifetime &amp; lmn showing da same dam movies !!", "user": "DeShaundaDeshae", "location": "Love me or hate me :)", "coord_x": -87.487220, "coord_y": 36.873351, "created_at": "2013\/03\/25", "h_m_s": "0:44:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:44:22" }, "geometry": { "type": "Point", "coordinates": [ -87.487220, 36.873351 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kandi &gt;&gt;&gt;&gt; from Real HouseWives Of Atlanta ! She bad!", "user": "TeeLewis_", "location": "In Saint Johns, Antigua !", "coord_x": -95.505965, "coord_y": 29.645946, "created_at": "2013\/03\/25", "h_m_s": "0:48:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:48:49" }, "geometry": { "type": "Point", "coordinates": [ -95.505965, 29.645946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"it's retardo-ville, it's mindless drivel\" -my Dad's look on the real housewives of Atlanta.", "user": "katpennns", "location": "? South Wall ?", "coord_x": -74.080883, "coord_y": 40.102732, "created_at": "2013\/03\/25", "h_m_s": "0:53:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:53:26" }, "geometry": { "type": "Point", "coordinates": [ -74.080883, 40.102732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@katfish watch real housewives of Atlanta!", "user": "Christinaaa__xo", "location": "The Mitt.", "coord_x": -82.833689, "coord_y": 42.648379, "created_at": "2013\/03\/25", "h_m_s": "0:57:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:57:40" }, "geometry": { "type": "Point", "coordinates": [ -82.833689, 42.648379 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "this was a short season of real housewives..", "user": "_kaila_alissia", "location": "", "coord_x": -91.502241, "coord_y": 29.790073, "created_at": "2013\/03\/25", "h_m_s": "1:1:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:1:2" }, "geometry": { "type": "Point", "coordinates": [ -91.502241, 29.790073 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Y'all, Nikki Caldwell needs to be on Real Housewives of Baton Rouge. She rull pretty.", "user": "jfoLSU", "location": "Baton Rouge, Louisiana", "coord_x": -91.128053, "coord_y": 30.408008, "created_at": "2013\/03\/25", "h_m_s": "1:7:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:16" }, "geometry": { "type": "Point", "coordinates": [ -91.128053, 30.408008 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mom watches Real Housewives of Atlanta like its her religion ??", "user": "JohnnHollerz", "location": "Greensboro NC", "coord_x": -79.986822, "coord_y": 36.201640, "created_at": "2013\/03\/25", "h_m_s": "1:18:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:18:49" }, "geometry": { "type": "Point", "coordinates": [ -79.986822, 36.201640 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "??????\n\nMy DVR didn't record real housewives ??", "user": "CocoCeliaa", "location": "Tacoma Washington", "coord_x": -122.356398, "coord_y": 47.118575, "created_at": "2013\/03\/25", "h_m_s": "1:23:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:23:56" }, "geometry": { "type": "Point", "coordinates": [ -122.356398, 47.118575 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real Housewives of Atlanta | Season 5: Ep. 19 | Donktabulous (REVIEW) http:\/\/t.co\/3kAmuiBNTf via @youtube", "user": "JoshBryan32", "location": "Somewhere in GagaLand!", "coord_x": -83.315109, "coord_y": 42.286642, "created_at": "2013\/03\/25", "h_m_s": "1:55:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:55:42" }, "geometry": { "type": "Point", "coordinates": [ -83.315109, 42.286643 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Blind Side, Love &amp; Hip Hop, Real Housewives of Atlanta. Perks of having the whole downstairs to myself ????", "user": "VivaLaDria", "location": "San Diego, CA", "coord_x": -116.967902, "coord_y": 32.716186, "created_at": "2013\/03\/25", "h_m_s": "2:5:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:5:33" }, "geometry": { "type": "Point", "coordinates": [ -116.967902, 32.716186 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching real housewives of atlanta", "user": "VivaLaKiaaa", "location": "", "coord_x": -88.121586, "coord_y": 30.749100, "created_at": "2013\/03\/25", "h_m_s": "2:5:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:5:34" }, "geometry": { "type": "Point", "coordinates": [ -88.121586, 30.749100 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real housewives of Atlanta... No one likes you ??", "user": "MorganSalinsky", "location": "Jacksonville, FL", "coord_x": -81.580400, "coord_y": 30.339429, "created_at": "2013\/03\/25", "h_m_s": "2:26:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:26:43" }, "geometry": { "type": "Point", "coordinates": [ -81.580400, 30.339429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Atlanta! Went from watching Big Rich Atlanta to Real Housewives of Atlanta. Lol", "user": "ItsMissAsya2U", "location": "", "coord_x": -82.705455, "coord_y": 38.554078, "created_at": "2013\/03\/25", "h_m_s": "2:29:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:29:18" }, "geometry": { "type": "Point", "coordinates": [ -82.705455, 38.554078 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real Housewives of Atlanta.", "user": "TrillerThanU", "location": "Where I'm meant to be", "coord_x": -118.210455, "coord_y": 33.900154, "created_at": "2013\/03\/25", "h_m_s": "3:4:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:4:13" }, "geometry": { "type": "Point", "coordinates": [ -118.210455, 33.900154 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@EXGFprblms: Ugh, there are no boys at this party! Wait, I'm on the couch watching Real Housewives...\" my life", "user": "AbigailWessel", "location": "", "coord_x": -90.063400, "coord_y": 38.467527, "created_at": "2013\/03\/25", "h_m_s": "3:7:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:7:40" }, "geometry": { "type": "Point", "coordinates": [ -90.063400, 38.467527 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just watched 15 minutes of The Real Housewives of Beverly Hills and I really see no point to living life. Goodbye world! #USA #idiots #dumb", "user": "TaymazValley", "location": "Montreal", "coord_x": -73.565273, "coord_y": 45.494254, "created_at": "2013\/03\/25", "h_m_s": "3:56:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:19" }, "geometry": { "type": "Point", "coordinates": [ -73.565273, 45.494254 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DanniSteele1 : new plan to drop out of school, marry for money and be the star of Real Housewives of Orange County. Plastic surgery &amp; all.", "user": "leahfanders", "location": "", "coord_x": -93.223240, "coord_y": 45.044669, "created_at": "2013\/03\/25", "h_m_s": "4:1:4", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:1:5" }, "geometry": { "type": "Point", "coordinates": [ -93.223240, 45.044669 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could see myself on Real Housewives Of Atlanta... If I was FROM Atlanta... -.-", "user": "dragonballheath", "location": "lansdowne", "coord_x": -75.225363, "coord_y": 39.969727, "created_at": "2013\/03\/25", "h_m_s": "4:15:59", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:16:0" }, "geometry": { "type": "Point", "coordinates": [ -75.225363, 39.969727 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "however i do feel like the women of real housewives of ATL WORK more than these doctors wives at trying to have their own. #M2M", "user": "TIFFANAY_1216", "location": "On the Road to Success", "coord_x": -79.768573, "coord_y": 36.077507, "created_at": "2013\/03\/25", "h_m_s": "5:39:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:39:49" }, "geometry": { "type": "Point", "coordinates": [ -79.768572, 36.077507 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jacobmasga haha well that was a very quotable moment! I missed me some Real Housewives", "user": "kylekhandikian", "location": "Los Angeles, CA", "coord_x": -118.452388, "coord_y": 34.069392, "created_at": "2013\/03\/25", "h_m_s": "6:26:36", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:26:37" }, "geometry": { "type": "Point", "coordinates": [ -118.452388, 34.069392 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It's 330 got a great sleep drinking a chai watching real housewives waiting for my driver #panamaBound #5hrs ?? @sarahhc11 @shosho0603", "user": "Avoir_Espoir", "location": "Chicago", "coord_x": -87.816862, "coord_y": 41.921233, "created_at": "2013\/03\/25", "h_m_s": "8:38:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:38:18" }, "geometry": { "type": "Point", "coordinates": [ -87.816862, 41.921233 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "the real housewives of atlanta on my dinner break #relax #stressfree #monday", "user": "Rachael_Bostock", "location": "Heanor, Derbyshire", "coord_x": -1.366315, "coord_y": 53.013360, "created_at": "2013\/03\/25", "h_m_s": "10:49:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:49:41" }, "geometry": { "type": "Point", "coordinates": [ -1.366315, 53.013360 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Getting to know the \"real\" Real Housewives of New York on the M60 at 7:27 Monday morning = priceless. #NYC", "user": "cblackwelder", "location": "", "coord_x": -73.950048, "coord_y": 40.809618, "created_at": "2013\/03\/25", "h_m_s": "11:27:9", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:27:10" }, "geometry": { "type": "Point", "coordinates": [ -73.950048, 40.809618 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Real housewives of Atlanta.. So funny", "user": "Allyson010", "location": "Manchester", "coord_x": -2.251560, "coord_y": 53.460030, "created_at": "2013\/03\/25", "h_m_s": "11:30:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:30:9" }, "geometry": { "type": "Point", "coordinates": [ -2.251560, 53.460030 ] } }
+
+]
+}

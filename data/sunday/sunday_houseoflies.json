@@ -1,0 +1,19 @@
+var houseoflies = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Monica is such a hoe! #HouseOfLies", "user": "OneTreeHill_1", "location": "where the sidewalk ends...", "coord_x": -84.208003, "coord_y": 39.796867, "created_at": "2013\/03\/25", "h_m_s": "0:20:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:20:7" }, "geometry": { "type": "Point", "coordinates": [ -84.208003, 39.796867 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#HouseOfLies", "user": "ReelTalker", "location": "Brooklyn, New York City", "coord_x": -74.036354, "coord_y": 40.620040, "created_at": "2013\/03\/25", "h_m_s": "2:1:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:1:33" }, "geometry": { "type": "Point", "coordinates": [ -74.036354, 40.620040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Monica is a mess!! @SHO_HouseOfLies", "user": "dani_tro", "location": "Atlanta", "coord_x": -84.417837, "coord_y": 33.732253, "created_at": "2013\/03\/25", "h_m_s": "2:14:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:14:48" }, "geometry": { "type": "Point", "coordinates": [ -84.417837, 33.732253 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn you SHOWTIME, why can't #HouseOfLies be an hour long?!?!? http:\/\/t.co\/tWZBny7KUl", "user": "OmigodItsTike", "location": "ÜT: 40.4553,-79.88293", "coord_x": -79.882890, "coord_y": 40.455350, "created_at": "2013\/03\/25", "h_m_s": "2:29:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:29:5" }, "geometry": { "type": "Point", "coordinates": [ -79.882890, 40.455350 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This girls a champ! #houseoflies", "user": "chefmanig", "location": "", "coord_x": -84.330436, "coord_y": 33.823229, "created_at": "2013\/03\/25", "h_m_s": "4:21:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:21:32" }, "geometry": { "type": "Point", "coordinates": [ -84.330436, 33.823229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Good god #HouseofLies is pretty fucked up, can't turn away.", "user": "itisbritt", "location": "Keller \/ Southlake, Texas, USA", "coord_x": -97.279168, "coord_y": 32.959751, "created_at": "2013\/03\/25", "h_m_s": "4:22:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:22:50" }, "geometry": { "type": "Point", "coordinates": [ -97.279168, 32.959751 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Marty Khan's ex wife is a slut! #HouseofLies", "user": "MasonicPrince32", "location": "9.98778,-84.107202", "coord_x": -84.107250, "coord_y": 9.987772, "created_at": "2013\/03\/25", "h_m_s": "4:57:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:57:41" }, "geometry": { "type": "Point", "coordinates": [ -84.107250, 9.987772 ] } }
+
+]
+}

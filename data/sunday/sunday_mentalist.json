@@ -1,0 +1,55 @@
+var mentalist = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Okay i need to do sit ups before i continue with the next season of the mentalist, that's my reward! Been eating too many goodies!", "user": "Acquila_N", "location": "Johannesburg, South Africa", "coord_x": 28.240758, "coord_y": -25.752495, "created_at": "2013\/03\/24", "h_m_s": "20:32:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:32:51" }, "geometry": { "type": "Point", "coordinates": [ 28.240758, -25.752495 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Navy CIS and The Mentalist \nLove crime sunday ?", "user": "Stefanie_Wrobel", "location": "Wedringen", "coord_x": 11.460088, "coord_y": 52.272517, "created_at": "2013\/03\/24", "h_m_s": "20:34:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:34:31" }, "geometry": { "type": "Point", "coordinates": [ 11.460088, 52.272517 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Pavo90Quigg no no watching some other pish.... the mentalist", "user": "Micky_Lugs", "location": "Castlefield, Manchester", "coord_x": -2.263414, "coord_y": 53.474645, "created_at": "2013\/03\/24", "h_m_s": "21:2:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:2:14" }, "geometry": { "type": "Point", "coordinates": [ -2.263414, 53.474645 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg, @echriqui just died at @Mentalist_CBS !! :( goddamn red john!", "user": "kinby", "location": "Tielt, Belgium", "coord_x": 3.250147, "coord_y": 50.911382, "created_at": "2013\/03\/24", "h_m_s": "22:32:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:34:50" }, "geometry": { "type": "Point", "coordinates": [ 3.250147, 50.911382 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Mentalist_CBS real life tonight ! Janes is back for an other episode", "user": "MaloneyDany", "location": "Quebec,Canada", "coord_x": -71.176652, "coord_y": 48.413914, "created_at": "2013\/03\/25", "h_m_s": "1:17:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:26" }, "geometry": { "type": "Point", "coordinates": [ -71.176652, 48.413914 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheCarlosPena Then \"The Mentalist\", Right?", "user": "Carlos_P_Fan", "location": "Supportin BTR & Jax", "coord_x": -84.340492, "coord_y": 30.511756, "created_at": "2013\/03\/25", "h_m_s": "1:59:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:15" }, "geometry": { "type": "Point", "coordinates": [ -84.340492, 30.511756 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"THE MENTALIST\" TIMEEEEEEE", "user": "Carlos_P_Fan", "location": "Supportin BTR & Jax", "coord_x": -84.340416, "coord_y": 30.511727, "created_at": "2013\/03\/25", "h_m_s": "2:0:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:0:5" }, "geometry": { "type": "Point", "coordinates": [ -84.340416, 30.511727 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OMGGG COMMERCIALS STOP!! I WANNA WATCH \"THE MENTALIST\"!!! DAMNNN", "user": "Carlos_P_Fan", "location": "Supportin BTR & Jax", "coord_x": -84.340416, "coord_y": 30.511732, "created_at": "2013\/03\/25", "h_m_s": "2:2:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:2:34" }, "geometry": { "type": "Point", "coordinates": [ -84.340416, 30.511732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This is not the mentalist .", "user": "sha_nay_nay7", "location": "Westminster, MD", "coord_x": -77.027408, "coord_y": 39.580328, "created_at": "2013\/03\/25", "h_m_s": "2:7:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:8:5" }, "geometry": { "type": "Point", "coordinates": [ -77.027408, 39.580328 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mentalist vs Political science homework", "user": "Josep_JNR", "location": "Somalia", "coord_x": -84.288912, "coord_y": 46.508748, "created_at": "2013\/03\/25", "h_m_s": "2:12:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:12:4" }, "geometry": { "type": "Point", "coordinates": [ -84.288912, 46.508748 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@itsmelissaa_ I'm not gonna sleep till after the mentalist lol but goodnight!", "user": "Acasillas29", "location": "Trujillo Alto, Puerto Rico", "coord_x": -76.129679, "coord_y": 43.039473, "created_at": "2013\/03\/25", "h_m_s": "2:44:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:44:19" }, "geometry": { "type": "Point", "coordinates": [ -76.129679, 43.039473 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mentalist... finally!  I have missed it for some Sundays. ..", "user": "Ajay12luv", "location": "", "coord_x": -94.477844, "coord_y": 39.018023, "created_at": "2013\/03\/25", "h_m_s": "2:51:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:52:21" }, "geometry": { "type": "Point", "coordinates": [ -94.477844, 39.018023 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn have to download The Mentalist since it was delayed 45 minutes.\nAlso can watch it at 10 I guess.", "user": "Gitsegukladude", "location": "Surrey,BC Canada", "coord_x": -122.852758, "coord_y": 49.185265, "created_at": "2013\/03\/25", "h_m_s": "3:10:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:10:23" }, "geometry": { "type": "Point", "coordinates": [ -122.852758, 49.185265 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The mentalist &gt;", "user": "Baaaaaabydollll", "location": "Delhi", "coord_x": -84.591420, "coord_y": 39.089750, "created_at": "2013\/03\/25", "h_m_s": "3:15:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:15:26" }, "geometry": { "type": "Point", "coordinates": [ -84.591420, 39.089750 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Okay, so is the mentalist ever going to be over..", "user": "coriraemusser", "location": "excelsior springs, missouri.", "coord_x": -94.230940, "coord_y": 39.351899, "created_at": "2013\/03\/25", "h_m_s": "3:40:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:41:0" }, "geometry": { "type": "Point", "coordinates": [ -94.230940, 39.351899 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The mentalist ????", "user": "juuubx", "location": "", "coord_x": -46.730228, "coord_y": -23.587740, "created_at": "2013\/03\/25", "h_m_s": "4:56:56", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:56:57" }, "geometry": { "type": "Point", "coordinates": [ -46.730228, -23.587740 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mentalist &lt;33", "user": "_anaviieira", "location": "Brazil", "coord_x": -46.695833, "coord_y": -23.476099, "created_at": "2013\/03\/25", "h_m_s": "5:3:7", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:3:8" }, "geometry": { "type": "Point", "coordinates": [ -46.695833, -23.476099 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Esse Japa do The Mentalist é foda!", "user": "_malemes", "location": "", "coord_x": 0.000000, "coord_y": 0.000000, "created_at": "2013\/03\/25", "h_m_s": "5:21:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:21:56" }, "geometry": { "type": "Point", "coordinates": [ 0.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mentalist é, tipo, muito foda!", "user": "moniquelmmrtz", "location": "", "coord_x": -49.500379, "coord_y": -28.954767, "created_at": "2013\/03\/25", "h_m_s": "5:27:12", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:27:13" }, "geometry": { "type": "Point", "coordinates": [ -49.500379, -28.954767 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Esse Japa Tim Kang do The Mentalist é foda! hahaha", "user": "_malemes", "location": "", "coord_x": 0.000000, "coord_y": 0.000000, "created_at": "2013\/03\/25", "h_m_s": "5:29:23", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:29:24" }, "geometry": { "type": "Point", "coordinates": [ 0.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the mentalist :)", "user": "chriss_2k13", "location": "", "coord_x": -117.170033, "coord_y": 32.745120, "created_at": "2013\/03\/25", "h_m_s": "5:49:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:49:37" }, "geometry": { "type": "Point", "coordinates": [ -117.170033, 32.745120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Mentalist antes de dormir.", "user": "sandydamus", "location": "Guadalajara, México", "coord_x": -103.429204, "coord_y": 20.685368, "created_at": "2013\/03\/25", "h_m_s": "7:18:38", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:18:39" }, "geometry": { "type": "Point", "coordinates": [ -103.429204, 20.685368 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching \"the mentalist\" again! haha", "user": "Dampiiin", "location": "Snow land! ?", "coord_x": 121.359811, "coord_y": 14.233171, "created_at": "2013\/03\/25", "h_m_s": "12:14:34", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:14:35" }, "geometry": { "type": "Point", "coordinates": [ 121.359811, 14.233171 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Segunda tem parte boa: assistir episódio novo de the mentalist!", "user": "sylviassumpcao", "location": "Recife, Brasil", "coord_x": -34.903544, "coord_y": -8.060555, "created_at": "2013\/03\/25", "h_m_s": "12:21:2", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:21:3" }, "geometry": { "type": "Point", "coordinates": [ -34.903544, -8.060555 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ontem fui dormir bem tarde. Fiquei vendo the mentalist com minha vó", "user": "tthpss", "location": "", "coord_x": -48.549421, "coord_y": -27.310347, "created_at": "2013\/03\/25", "h_m_s": "12:54:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:54:43" }, "geometry": { "type": "Point", "coordinates": [ -48.549421, -27.310347 ] } }
+
+]
+}

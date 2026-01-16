@@ -1,0 +1,397 @@
+var revenge = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@Nehaa96 omg haha yes watch #revenge on it :)", "user": "Asda_P", "location": "Slough, Berkshire, UK", "coord_x": -0.576432, "coord_y": 51.504647, "created_at": "2013\/03\/24", "h_m_s": "17:45:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:45:31" }, "geometry": { "type": "Point", "coordinates": [ -0.576432, 51.504647 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "L'amicizia tra Ems e Nolan è così kjjkobhjih #Revenge", "user": "annapau_LP", "location": "", "coord_x": 14.273756, "coord_y": 41.070489, "created_at": "2013\/03\/24", "h_m_s": "17:56:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:56:24" }, "geometry": { "type": "Point", "coordinates": [ 14.273756, 41.070489 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "aww :-Q this episode #Revenge", "user": "Mamzell_Mag", "location": "France - PACA", "coord_x": 5.352030, "coord_y": 43.396256, "created_at": "2013\/03\/24", "h_m_s": "17:59:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:59:41" }, "geometry": { "type": "Point", "coordinates": [ 5.352030, 43.396256 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "just remembered when I was sick I was laying on the couch my sister slept on, and she just woke up sounding like shit ?? #revenge", "user": "BrooklynLeary", "location": "", "coord_x": -74.147214, "coord_y": 39.895250, "created_at": "2013\/03\/24", "h_m_s": "18:15:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:15:7" }, "geometry": { "type": "Point", "coordinates": [ -74.147214, 39.895250 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Curled up catching up on @Revenge. #faveshow", "user": "AndreaSmith04", "location": "Northport, AL", "coord_x": -87.588425, "coord_y": 33.299968, "created_at": "2013\/03\/24", "h_m_s": "18:40:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:40:7" }, "geometry": { "type": "Point", "coordinates": [ -87.588425, 33.299968 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Revenge basically Emily will have to kill Eli James #plotthickens", "user": "longislandlilly", "location": "Missouri", "coord_x": -94.354326, "coord_y": 39.042753, "created_at": "2013\/03\/24", "h_m_s": "19:6:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:6:23" }, "geometry": { "type": "Point", "coordinates": [ -94.354326, 39.042753 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why don't people recognize Emily as Amanda? How much does someone's face change from age 13 to adulthood? #revenge", "user": "DangerCrane", "location": "", "coord_x": -87.656554, "coord_y": 41.954776, "created_at": "2013\/03\/24", "h_m_s": "19:48:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:48:3" }, "geometry": { "type": "Point", "coordinates": [ -87.656554, 41.954776 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh never mind Eli recognized her after all. #revenge", "user": "DangerCrane", "location": "", "coord_x": -87.656570, "coord_y": 41.954791, "created_at": "2013\/03\/24", "h_m_s": "19:52:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:52:16" }, "geometry": { "type": "Point", "coordinates": [ -87.656570, 41.954792 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sofiane qui sors des buisssons ...  #Revenge http:\/\/t.co\/6YN3pm5VD1", "user": "samiBDN", "location": "Bondy", "coord_x": 2.478970, "coord_y": 48.911173, "created_at": "2013\/03\/24", "h_m_s": "20:2:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:2:57" }, "geometry": { "type": "Point", "coordinates": [ 2.478970, 48.911173 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": ".wd Mommy Bennett .. #nowWatching #Revenge #LunchMode (@ Red Moon) [pic]: http:\/\/t.co\/KiZVhmln86", "user": "appletespinosa", "location": "Philippines ... :o)", "coord_x": 123.906296, "coord_y": 10.327847, "created_at": "2013\/03\/24", "h_m_s": "20:17:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:17:57" }, "geometry": { "type": "Point", "coordinates": [ 123.906296, 10.327847 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\" @SnazzyTrinkets: Double Infinity Cuff http:\/\/t.co\/MVyKQkkNyS #emilythorne #doubleinfinity #revenge... http:\/\/t.co\/pg7c8xI5WW \" #like2", "user": "like2", "location": "Henley-on-Thames, UK", "coord_x": -77.789492, "coord_y": 35.304536, "created_at": "2013\/03\/24", "h_m_s": "20:42:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:42:52" }, "geometry": { "type": "Point", "coordinates": [ -77.789492, 35.304536 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I would love to see a Syracuse vs Temple rematch this year... esp it being in the tourney. #Revenge #AllOrNothing #Rematch", "user": "saun_DERS", "location": "", "coord_x": -75.170668, "coord_y": 40.189103, "created_at": "2013\/03\/24", "h_m_s": "20:54:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:54:24" }, "geometry": { "type": "Point", "coordinates": [ -75.170668, 40.189103 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm already overwhelmed by tonight's TV lineup.  #MarchMadness #Pens #Revenge #WhoIsTheFalcon", "user": "cat_thegr8", "location": "Athens, GA", "coord_x": -83.368793, "coord_y": 33.959878, "created_at": "2013\/03\/24", "h_m_s": "21:6:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:6:9" }, "geometry": { "type": "Point", "coordinates": [ -83.368793, 33.959878 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #revenge tonight!!", "user": "clayyyt", "location": "Salt Lake City | Atlanta", "coord_x": -111.893839, "coord_y": 40.746427, "created_at": "2013\/03\/24", "h_m_s": "21:12:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:12:43" }, "geometry": { "type": "Point", "coordinates": [ -111.893839, 40.746427 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Sophielwill well I hope you felt popular for a while. Ill sabotage your food or laundry, red sock or something. #revenge", "user": "scottharward8", "location": "Leeds", "coord_x": -2.239009, "coord_y": 53.783430, "created_at": "2013\/03\/24", "h_m_s": "21:27:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:27:34" }, "geometry": { "type": "Point", "coordinates": [ -2.239009, 53.783430 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cliff Hangers.. I hate them! #Revenge", "user": "PrettiLilLiiar", "location": "Jamaica\/NYC\/California", "coord_x": -70.662279, "coord_y": -33.442388, "created_at": "2013\/03\/24", "h_m_s": "21:39:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:39:2" }, "geometry": { "type": "Point", "coordinates": [ -70.662279, -33.442388 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "People who aren't who they claim to be, are very very dangerous. #revenge", "user": "b_simison", "location": "Lincoln Park, MI", "coord_x": -83.963609, "coord_y": 43.510757, "created_at": "2013\/03\/24", "h_m_s": "22:32:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:34:40" }, "geometry": { "type": "Point", "coordinates": [ -83.963609, 43.510757 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't wait for some #revenge tonight. @Gabriel_Mann . One more hour live in the east coast.", "user": "LopierreK", "location": "Cliffside Park, NJ", "coord_x": -74.011223, "coord_y": 40.812610, "created_at": "2013\/03\/25", "h_m_s": "0:4:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:4:59" }, "geometry": { "type": "Point", "coordinates": [ -74.011223, 40.812610 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tell me #revenge is new tonight", "user": "hnjohnso", "location": "Los Angeles", "coord_x": -118.284336, "coord_y": 34.059158, "created_at": "2013\/03\/25", "h_m_s": "0:8:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:8:52" }, "geometry": { "type": "Point", "coordinates": [ -118.284336, 34.059158 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wanna watch #Revenge on @ctelevision now but I also wanna watch this episode of #Snapped of Oxygen #decisions", "user": "Nece868", "location": "Trinidad and Tobago", "coord_x": -61.333660, "coord_y": 10.637520, "created_at": "2013\/03\/25", "h_m_s": "0:9:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:10:0" }, "geometry": { "type": "Point", "coordinates": [ -61.333660, 10.637520 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#OnceUponATime and #Revenge ... Love Sunday nights!", "user": "Lauren_Gladson", "location": "", "coord_x": -83.029425, "coord_y": 36.390901, "created_at": "2013\/03\/25", "h_m_s": "0:10:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:10:45" }, "geometry": { "type": "Point", "coordinates": [ -83.029425, 36.390901 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Gabriel_Mann @Revenge Love me some more Revenge. Bring it on!!", "user": "Debbiecakes910", "location": "Rochester, NH", "coord_x": -71.005945, "coord_y": 43.303239, "created_at": "2013\/03\/25", "h_m_s": "0:23:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:23:2" }, "geometry": { "type": "Point", "coordinates": [ -71.005945, 43.303239 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@markmoaiscooler @HBO Will have to watch On Demand cause I can't miss #Revenge", "user": "Debbiecakes910", "location": "Rochester, NH", "coord_x": -71.005881, "coord_y": 43.303151, "created_at": "2013\/03\/25", "h_m_s": "0:28:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:28:51" }, "geometry": { "type": "Point", "coordinates": [ -71.005881, 43.303151 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I hate power outages. It needs to be back on before #Revenge starts, or I will be pissed.", "user": "LuvMyDestiny", "location": "In Your Thoughts", "coord_x": -87.162809, "coord_y": 33.158560, "created_at": "2013\/03\/25", "h_m_s": "0:40:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:41:3" }, "geometry": { "type": "Point", "coordinates": [ -87.162809, 33.158560 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only good thing about Sundays is Revenge #revenge", "user": "Briheyde", "location": "Natick, MA", "coord_x": -71.350671, "coord_y": 42.293948, "created_at": "2013\/03\/25", "h_m_s": "0:43:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:43:13" }, "geometry": { "type": "Point", "coordinates": [ -71.350671, 42.293948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'mma take my white girlfriend to go see Temptation.. I mean she made me sit thru Life of Pi.. #revenge", "user": "_theEMPEROR", "location": "Trapped Inside My Mind", "coord_x": -81.553912, "coord_y": 30.270066, "created_at": "2013\/03\/25", "h_m_s": "0:45:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:2" }, "geometry": { "type": "Point", "coordinates": [ -81.553912, 30.270066 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Baked walnut chocolate chunk cookies real quick before Revenge. Yum! @Revenge #WhoIsTheFalcon #WatchLive", "user": "NicLovesM5", "location": "Atlanta, GA", "coord_x": -81.785297, "coord_y": 32.410065, "created_at": "2013\/03\/25", "h_m_s": "0:45:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:30" }, "geometry": { "type": "Point", "coordinates": [ -81.785297, 32.410065 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "time for #revenge @Em_Gula", "user": "TWEETDATSHIT", "location": "Philadelphia, Pennsylvania :)", "coord_x": -75.775740, "coord_y": 40.519910, "created_at": "2013\/03\/25", "h_m_s": "0:47:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:47:5" }, "geometry": { "type": "Point", "coordinates": [ -75.775740, 40.519910 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Almost time for @Revenge - can't wait!!", "user": "TheDesignDR", "location": "Lincoln, NE | Chicago, IL", "coord_x": -96.695978, "coord_y": 40.802370, "created_at": "2013\/03\/25", "h_m_s": "0:49:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:24" }, "geometry": { "type": "Point", "coordinates": [ -96.695978, 40.802370 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "In three mins it's time for #revenge", "user": "nav1nk", "location": "", "coord_x": -79.714039, "coord_y": 43.720238, "created_at": "2013\/03\/25", "h_m_s": "0:57:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:57:32" }, "geometry": { "type": "Point", "coordinates": [ -79.714039, 43.720238 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#REVENGE", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668139, "coord_y": 40.487290, "created_at": "2013\/03\/25", "h_m_s": "1:0:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:0:38" }, "geometry": { "type": "Point", "coordinates": [ -84.668139, 40.487290 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#REVENGE &gt;&gt; ????", "user": "ashleyyyba", "location": "North Carolina", "coord_x": -79.800228, "coord_y": 35.725120, "created_at": "2013\/03\/25", "h_m_s": "1:1:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:1:19" }, "geometry": { "type": "Point", "coordinates": [ -79.800228, 35.725120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why can't Emily and Daniel be back together #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827498, "coord_y": 42.673302, "created_at": "2013\/03\/25", "h_m_s": "1:3:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:4:11" }, "geometry": { "type": "Point", "coordinates": [ -73.827498, 42.673302 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #Revenge the right way. Love being home!! http:\/\/t.co\/7qDJbcpCTH", "user": "kenzwall", "location": "Carolina del Sur", "coord_x": -79.790550, "coord_y": 32.904288, "created_at": "2013\/03\/25", "h_m_s": "1:4:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:4:23" }, "geometry": { "type": "Point", "coordinates": [ -79.790550, 32.904288 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sunday night TV!!!! #thewalkingdead #REVENGE #thetalkingdead @WalkingDead_AMC", "user": "kafox23", "location": "High Point, NC", "coord_x": -79.946945, "coord_y": 36.038785, "created_at": "2013\/03\/25", "h_m_s": "1:5:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:50" }, "geometry": { "type": "Point", "coordinates": [ -79.946945, 36.038785 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge time it's time Victoria has got to be a #Scorpio", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243529, "coord_y": 30.252245, "created_at": "2013\/03\/25", "h_m_s": "1:5:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:54" }, "geometry": { "type": "Point", "coordinates": [ -94.243529, 30.252245 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge ??", "user": "MAKAYLAxKRiS", "location": "Charleston, West Virginia", "coord_x": -81.550877, "coord_y": 38.297043, "created_at": "2013\/03\/25", "h_m_s": "1:6:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:6:10" }, "geometry": { "type": "Point", "coordinates": [ -81.550877, 38.297043 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes finally! The red sharpie (in this case red magic marker) is back! #revenge", "user": "lindsfresh", "location": "Washington D.C.", "coord_x": -81.036223, "coord_y": 33.983368, "created_at": "2013\/03\/25", "h_m_s": "1:7:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:43" }, "geometry": { "type": "Point", "coordinates": [ -81.036223, 33.983368 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I ?? #Revenge!", "user": "jacquelynmarko", "location": "", "coord_x": -83.396864, "coord_y": 33.911945, "created_at": "2013\/03\/25", "h_m_s": "1:7:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:46" }, "geometry": { "type": "Point", "coordinates": [ -83.396864, 33.911945 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why is Nolan throwing away everything for Padma? She's already kind of screwed him over already. #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668155, "coord_y": 40.487288, "created_at": "2013\/03\/25", "h_m_s": "1:8:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:8:21" }, "geometry": { "type": "Point", "coordinates": [ -84.668155, 40.487288 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Does Eli not know? Never cross Emily Thorne #Revenge", "user": "prayagfaldu", "location": "860\/401", "coord_x": -71.527918, "coord_y": 41.480977, "created_at": "2013\/03\/25", "h_m_s": "1:8:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:8:22" }, "geometry": { "type": "Point", "coordinates": [ -71.527918, 41.480977 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahhhh! @Revenge time!!", "user": "IamKinman", "location": "Philly", "coord_x": -75.161373, "coord_y": 39.957387, "created_at": "2013\/03\/25", "h_m_s": "1:8:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:16" }, "geometry": { "type": "Point", "coordinates": [ -75.161373, 39.957387 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jnmcabee: Why is Nolan throwing away everything for Padma? She's already kind of screwed him over before. #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668155, "coord_y": 40.487289, "created_at": "2013\/03\/25", "h_m_s": "1:8:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:19" }, "geometry": { "type": "Point", "coordinates": [ -84.668155, 40.487289 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchin #revenge with my grams &amp; doin her nails keeping her #nailgameproper OFCOURSE,have u seen her granddaughters nails #duh lol (:", "user": "itsKDbabY", "location": "Michigan", "coord_x": -83.978135, "coord_y": 43.438555, "created_at": "2013\/03\/25", "h_m_s": "1:9:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:22" }, "geometry": { "type": "Point", "coordinates": [ -83.978135, 43.438555 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm nervous.  #Revenge #GETSOME", "user": "cat_thegr8", "location": "Athens, GA", "coord_x": -83.368762, "coord_y": 33.959919, "created_at": "2013\/03\/25", "h_m_s": "1:9:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:22" }, "geometry": { "type": "Point", "coordinates": [ -83.368762, 33.959919 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily had such a bad childhood the poor girl #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827408, "coord_y": 42.673266, "created_at": "2013\/03\/25", "h_m_s": "1:9:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:33" }, "geometry": { "type": "Point", "coordinates": [ -73.827408, 42.673266 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily Thorne is such a badass. #Revenge", "user": "Hails90", "location": "Sevierville, Tennessee", "coord_x": -83.887001, "coord_y": 36.020764, "created_at": "2013\/03\/25", "h_m_s": "1:9:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:52" }, "geometry": { "type": "Point", "coordinates": [ -83.887001, 36.020764 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If you're not watching #Revenge right now you should probably just go crawl in a whole to cry because your life sucks..", "user": "AshleyBaby3021", "location": "Pleasant Hill, MO", "coord_x": -94.162125, "coord_y": 38.790410, "created_at": "2013\/03\/25", "h_m_s": "1:10:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:10:3" }, "geometry": { "type": "Point", "coordinates": [ -94.162125, 38.790410 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge!!!", "user": "MariaDiazColon", "location": "En RD Cerquita de Dios", "coord_x": -70.677220, "coord_y": 19.451860, "created_at": "2013\/03\/25", "h_m_s": "1:11:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:11:26" }, "geometry": { "type": "Point", "coordinates": [ -70.677220, 19.451860 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fine but we do it my way ?? #Revenge @EmilyThorneOrg  @Gabriel_Mann", "user": "kirachase24", "location": "New York", "coord_x": -81.773044, "coord_y": 24.562308, "created_at": "2013\/03\/25", "h_m_s": "1:12:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:12:12" }, "geometry": { "type": "Point", "coordinates": [ -81.773044, 24.562308 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily Thorne is awesome I am still in love #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243569, "coord_y": 30.252280, "created_at": "2013\/03\/25", "h_m_s": "1:13:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:13:10" }, "geometry": { "type": "Point", "coordinates": [ -94.243569, 30.252280 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge ????????? pee my pants excited", "user": "kaylabtownsend", "location": "atlanta", "coord_x": -84.580012, "coord_y": 34.054301, "created_at": "2013\/03\/25", "h_m_s": "1:14:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:14:17" }, "geometry": { "type": "Point", "coordinates": [ -84.580012, 34.054301 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wtf, Nolan is wide open over this bitch who I still don't trust...and poof, he's not gay anymore #Revenge ", "user": "Nixx_YoungVenus", "location": "90sKindaWorld, MI", "coord_x": -83.382320, "coord_y": 42.716209, "created_at": "2013\/03\/25", "h_m_s": "1:14:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:14:36" }, "geometry": { "type": "Point", "coordinates": [ -83.382320, 42.716209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jack is still heart broken so sad #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243530, "coord_y": 30.252244, "created_at": "2013\/03\/25", "h_m_s": "1:14:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:14:50" }, "geometry": { "type": "Point", "coordinates": [ -94.243530, 30.252244 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Aww ifeel so bad for jack #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827439, "coord_y": 42.673240, "created_at": "2013\/03\/25", "h_m_s": "1:15:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:15:44" }, "geometry": { "type": "Point", "coordinates": [ -73.827439, 42.673240 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@smashleybell you're just wonderful! Beautiful and flawlessly styled. What's your secret? #AskRevenge #Revenge", "user": "RudyRoOdles", "location": "NY", "coord_x": -73.883282, "coord_y": 40.749826, "created_at": "2013\/03\/25", "h_m_s": "1:16:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:16:9" }, "geometry": { "type": "Point", "coordinates": [ -73.883282, 40.749826 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can we just fast forward to when Jack and Ems are making babies? #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668155, "coord_y": 40.487289, "created_at": "2013\/03\/25", "h_m_s": "1:16:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:16:49" }, "geometry": { "type": "Point", "coordinates": [ -84.668155, 40.487289 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Unfollowing #Revenge for tonight because I don't wanna know what I'm missing &gt;:( ahhhhhhhhhhh", "user": "ants_inyurpantz", "location": "MI\/OH", "coord_x": -83.615682, "coord_y": 41.422515, "created_at": "2013\/03\/25", "h_m_s": "1:17:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:12" }, "geometry": { "type": "Point", "coordinates": [ -83.615682, 41.422515 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@Revenge: Siblings tend to be a liability in the #Revenge game!\" Yes they do", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243527, "coord_y": 30.252245, "created_at": "2013\/03\/25", "h_m_s": "1:17:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:25" }, "geometry": { "type": "Point", "coordinates": [ -94.243527, 30.252245 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Not impressed these past few episodes #Revenge", "user": "kimanidarling", "location": "Jamaica ~", "coord_x": -77.536403, "coord_y": 18.023914, "created_at": "2013\/03\/25", "h_m_s": "1:17:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:49" }, "geometry": { "type": "Point", "coordinates": [ -77.536403, 18.023914 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nolan is a sap #revenge ", "user": "Nixx_YoungVenus", "location": "90sKindaWorld, MI", "coord_x": -83.382320, "coord_y": 42.716209, "created_at": "2013\/03\/25", "h_m_s": "1:18:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:18:28" }, "geometry": { "type": "Point", "coordinates": [ -83.382320, 42.716209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge how come the brother recognized her but the foster mom doesn't?", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153955, "coord_y": 45.129830, "created_at": "2013\/03\/25", "h_m_s": "1:19:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:19:3" }, "geometry": { "type": "Point", "coordinates": [ -93.153955, 45.129830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ugh idk if I should trust Eli or not on Emily's part -_- #revenge", "user": "linseyface", "location": "ÜT: 42.250682,-71.000563", "coord_x": -71.030949, "coord_y": 42.069229, "created_at": "2013\/03\/25", "h_m_s": "1:20:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:20:52" }, "geometry": { "type": "Point", "coordinates": [ -71.030949, 42.069229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That double crossing bitch Eli!!! #revenge", "user": "PiaDeen", "location": "Trinidad & Tobago", "coord_x": -60.792549, "coord_y": 11.170236, "created_at": "2013\/03\/25", "h_m_s": "1:21:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:21:44" }, "geometry": { "type": "Point", "coordinates": [ -60.792549, 11.170236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@writergirlinnyc I must of missed it too cause I have no idea why Declaine is being shady #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243530, "coord_y": 30.252244, "created_at": "2013\/03\/25", "h_m_s": "1:23:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:23:18" }, "geometry": { "type": "Point", "coordinates": [ -94.243530, 30.252244 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I will never be able to watch the walking dead because its on a the same time as @Revenge #obsessed", "user": "AmeDunn_Dawgg", "location": "", "coord_x": -79.894180, "coord_y": 40.068672, "created_at": "2013\/03\/25", "h_m_s": "1:23:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:23:58" }, "geometry": { "type": "Point", "coordinates": [ -79.894180, 40.068672 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "jodi_hamm", "location": "", "coord_x": -77.106585, "coord_y": 38.878830, "created_at": "2013\/03\/25", "h_m_s": "1:24:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:24:3" }, "geometry": { "type": "Point", "coordinates": [ -77.106585, 38.878830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge everyone was \"always very special\" to this lady!", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153976, "coord_y": 45.129885, "created_at": "2013\/03\/25", "h_m_s": "1:25:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:25:33" }, "geometry": { "type": "Point", "coordinates": [ -93.153976, 45.129885 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge now Victoria is \"very special\" to the foster mom!", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153977, "coord_y": 45.129893, "created_at": "2013\/03\/25", "h_m_s": "1:26:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:26:38" }, "geometry": { "type": "Point", "coordinates": [ -93.153977, 45.129893 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "PauRaquel131", "location": "", "coord_x": -66.779648, "coord_y": 18.459805, "created_at": "2013\/03\/25", "h_m_s": "1:26:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:26:56" }, "geometry": { "type": "Point", "coordinates": [ -66.779648, 18.459805 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It kind of makes me sick to see Ashley with Conrad #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243529, "coord_y": 30.252245, "created_at": "2013\/03\/25", "h_m_s": "1:27:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:27:28" }, "geometry": { "type": "Point", "coordinates": [ -94.243529, 30.252245 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@smashleybell you are stunning! Love your character on #revenge", "user": "mynameis_emily_", "location": "", "coord_x": -87.887982, "coord_y": 43.079881, "created_at": "2013\/03\/25", "h_m_s": "1:27:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:27:29" }, "geometry": { "type": "Point", "coordinates": [ -87.887982, 43.079881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "cutiepie1987", "location": "canada", "coord_x": -83.033032, "coord_y": 42.307569, "created_at": "2013\/03\/25", "h_m_s": "1:27:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:27:50" }, "geometry": { "type": "Point", "coordinates": [ -83.033032, 42.307569 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily and Daniel RT if you think they should get back together #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243529, "coord_y": 30.252245, "created_at": "2013\/03\/25", "h_m_s": "1:28:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:34" }, "geometry": { "type": "Point", "coordinates": [ -94.243529, 30.252245 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It's all falling apart last min on #Revenge !!!", "user": "RhiLouiseAdey", "location": "Whitworth", "coord_x": -2.178646, "coord_y": 53.659585, "created_at": "2013\/03\/25", "h_m_s": "1:28:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:36" }, "geometry": { "type": "Point", "coordinates": [ -2.178646, 53.659585 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I'm sorry to bother you Lee Harvey\" ?????? god Nolan cracks me up. @Gabriel_Mann #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668119, "coord_y": 40.487281, "created_at": "2013\/03\/25", "h_m_s": "1:29:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:42" }, "geometry": { "type": "Point", "coordinates": [ -84.668119, 40.487281 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This is intense ahh #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827360, "coord_y": 42.673279, "created_at": "2013\/03\/25", "h_m_s": "1:29:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:51" }, "geometry": { "type": "Point", "coordinates": [ -73.827360, 42.673279 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nolan mek dem kidnap padma!!! #revenge", "user": "PiaDeen", "location": "Trinidad & Tobago", "coord_x": -60.792465, "coord_y": 11.170047, "created_at": "2013\/03\/25", "h_m_s": "1:31:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:31:25" }, "geometry": { "type": "Point", "coordinates": [ -60.792465, 11.170047 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@meghan_hanrahan great line for the night!!  #Revenge", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153954, "coord_y": 45.129828, "created_at": "2013\/03\/25", "h_m_s": "1:32:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:32:38" }, "geometry": { "type": "Point", "coordinates": [ -93.153954, 45.129828 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge is so intense. Best show on TV! @smashleybell", "user": "mynameis_emily_", "location": "", "coord_x": -87.887967, "coord_y": 43.079944, "created_at": "2013\/03\/25", "h_m_s": "1:33:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:33:1" }, "geometry": { "type": "Point", "coordinates": [ -87.887967, 43.079944 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@kara177 the verdict is still out on that one!  #Revenge", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153994, "coord_y": 45.129881, "created_at": "2013\/03\/25", "h_m_s": "1:33:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:33:10" }, "geometry": { "type": "Point", "coordinates": [ -93.153994, 45.129881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Such a headache. But I can't stop watching @Revenge!", "user": "kaylameloy", "location": "chicagoland.", "coord_x": -87.343901, "coord_y": 41.439235, "created_at": "2013\/03\/25", "h_m_s": "1:33:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:33:58" }, "geometry": { "type": "Point", "coordinates": [ -87.343901, 41.439235 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg he's alive !!!!! #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827263, "coord_y": 42.673288, "created_at": "2013\/03\/25", "h_m_s": "1:34:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:34:44" }, "geometry": { "type": "Point", "coordinates": [ -73.827263, 42.673288 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge #TheClientList #WalkingDead perfect lineup", "user": "heyimjeanettee", "location": "Underneath a palm tree", "coord_x": -73.724640, "coord_y": 40.754596, "created_at": "2013\/03\/25", "h_m_s": "1:34:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:34:46" }, "geometry": { "type": "Point", "coordinates": [ -73.724640, 40.754596 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Revenge &lt;3", "user": "PauRaquel131", "location": "", "coord_x": -66.783204, "coord_y": 18.479029, "created_at": "2013\/03\/25", "h_m_s": "1:35:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:35:29" }, "geometry": { "type": "Point", "coordinates": [ -66.783204, 18.479029 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gabriel_mann @barrysloane you can't afford to blink in this episode - you'll miss too much!! #Revenge", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153991, "coord_y": 45.129888, "created_at": "2013\/03\/25", "h_m_s": "1:35:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:35:38" }, "geometry": { "type": "Point", "coordinates": [ -93.153991, 45.129888 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge has me hooked tonight", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243571, "coord_y": 30.252280, "created_at": "2013\/03\/25", "h_m_s": "1:36:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:36:39" }, "geometry": { "type": "Point", "coordinates": [ -94.243571, 30.252280 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damnet Nolan why did you block the shot!!!!  #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.750378, "coord_y": 30.366144, "created_at": "2013\/03\/25", "h_m_s": "1:37:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:37:19" }, "geometry": { "type": "Point", "coordinates": [ -87.750378, 30.366144 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Charlotte is going to cheat on Declan with Eli. Book it. #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668140, "coord_y": 40.487203, "created_at": "2013\/03\/25", "h_m_s": "1:38:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:38:46" }, "geometry": { "type": "Point", "coordinates": [ -84.668140, 40.487203 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge", "user": "britma12", "location": "", "coord_x": -75.039395, "coord_y": 40.106878, "created_at": "2013\/03\/25", "h_m_s": "1:38:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:38:48" }, "geometry": { "type": "Point", "coordinates": [ -75.039395, 40.106878 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge he was pathological but he was \"very special\" to her!", "user": "fereiramom", "location": "Living in the Right Turn Lane", "coord_x": -93.153954, "coord_y": 45.129830, "created_at": "2013\/03\/25", "h_m_s": "1:38:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:39:17" }, "geometry": { "type": "Point", "coordinates": [ -93.153954, 45.129830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Crazy witch #Revenge", "user": "n0captainwill", "location": "Southampton, NY", "coord_x": -72.405015, "coord_y": 40.893189, "created_at": "2013\/03\/25", "h_m_s": "1:39:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:39:30" }, "geometry": { "type": "Point", "coordinates": [ -72.405015, 40.893189 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Getemmmmm Ems:-)  #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.743401, "coord_y": 30.334754, "created_at": "2013\/03\/25", "h_m_s": "1:39:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:39:36" }, "geometry": { "type": "Point", "coordinates": [ -87.743401, 30.334754 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I think he knows pretty sure he just realized Emily is Amanda #Revenge", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.243527, "coord_y": 30.252245, "created_at": "2013\/03\/25", "h_m_s": "1:40:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:40:38" }, "geometry": { "type": "Point", "coordinates": [ -94.243527, 30.252245 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omgomg I can't believe he did that why would he let her take the blame ahh #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827292, "coord_y": 42.673232, "created_at": "2013\/03\/25", "h_m_s": "1:40:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:40:44" }, "geometry": { "type": "Point", "coordinates": [ -73.827291, 42.673232 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh shit, was that the suprise? @Revenge", "user": "AmorAleu", "location": "Saint Joseph, MO", "coord_x": -94.778762, "coord_y": 39.750650, "created_at": "2013\/03\/25", "h_m_s": "1:40:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:40:48" }, "geometry": { "type": "Point", "coordinates": [ -94.778762, 39.750650 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@adiorme: Don't think Emily was expecting that #Revenge\" she definitely wasn't", "user": "jponfire28", "location": "Beaumont, TX", "coord_x": -94.218110, "coord_y": 30.263018, "created_at": "2013\/03\/25", "h_m_s": "1:41:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:41:11" }, "geometry": { "type": "Point", "coordinates": [ -94.218110, 30.263018 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love #Revenge makes my sunday night!!", "user": "Sangita_Sinanan", "location": "San Fernando", "coord_x": -61.459930, "coord_y": 10.266400, "created_at": "2013\/03\/25", "h_m_s": "1:43:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:43:28" }, "geometry": { "type": "Point", "coordinates": [ -61.459930, 10.266400 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I look forward to Sundays just because of #Revenge", "user": "xanichkax", "location": "Orlando, Florida", "coord_x": -84.332830, "coord_y": 30.455105, "created_at": "2013\/03\/25", "h_m_s": "1:43:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:43:56" }, "geometry": { "type": "Point", "coordinates": [ -84.332830, 30.455105 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What's in the box? #Revenge", "user": "GracieRosmami", "location": "Toronto, Canada", "coord_x": -79.446070, "coord_y": 43.652800, "created_at": "2013\/03\/25", "h_m_s": "1:44:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:2" }, "geometry": { "type": "Point", "coordinates": [ -79.446070, 43.652800 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hands down the best show ever. #revenge", "user": "britma12", "location": "", "coord_x": -75.039368, "coord_y": 40.106832, "created_at": "2013\/03\/25", "h_m_s": "1:44:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:2" }, "geometry": { "type": "Point", "coordinates": [ -75.039368, 40.106832 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nolan and Aiden FTW #Revenge ", "user": "Nixx_YoungVenus", "location": "90sKindaWorld, MI", "coord_x": -83.382320, "coord_y": 42.716209, "created_at": "2013\/03\/25", "h_m_s": "1:45:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:46:12" }, "geometry": { "type": "Point", "coordinates": [ -83.382320, 42.716209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You'll see? Uh oh what's he gonna screw up now? Bad Eli! #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.749980, "coord_y": 30.355723, "created_at": "2013\/03\/25", "h_m_s": "1:46:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:46:13" }, "geometry": { "type": "Point", "coordinates": [ -87.749980, 30.355723 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily set the fire but it first went out then he reset it to put the.blame on her man that's crazy  #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.749980, "coord_y": 30.355723, "created_at": "2013\/03\/25", "h_m_s": "1:47:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:47:45" }, "geometry": { "type": "Point", "coordinates": [ -87.749980, 30.355723 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg I thought that was patma's head! #revenge I'm relieved it wasn't.", "user": "DzIzHypnotiz", "location": "40.795233,-74.00274", "coord_x": -74.002947, "coord_y": 40.795137, "created_at": "2013\/03\/25", "h_m_s": "1:47:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:47:49" }, "geometry": { "type": "Point", "coordinates": [ -74.002947, 40.795137 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.749980, "coord_y": 30.355723, "created_at": "2013\/03\/25", "h_m_s": "1:48:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:48:40" }, "geometry": { "type": "Point", "coordinates": [ -87.749980, 30.355723 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Eli what are you doing?  Click! Here we go. #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.749980, "coord_y": 30.355723, "created_at": "2013\/03\/25", "h_m_s": "1:50:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:51:0" }, "geometry": { "type": "Point", "coordinates": [ -87.749980, 30.355723 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#kudos to the writers of @Revenge", "user": "FakeRori", "location": "", "coord_x": -75.606093, "coord_y": 39.959092, "created_at": "2013\/03\/25", "h_m_s": "1:51:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:51:26" }, "geometry": { "type": "Point", "coordinates": [ -75.606093, 39.959092 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "He gon' kill that bitch! #revenge.", "user": "WillChevalJr", "location": "New York, NY", "coord_x": -74.151163, "coord_y": 41.020262, "created_at": "2013\/03\/25", "h_m_s": "1:51:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:51:49" }, "geometry": { "type": "Point", "coordinates": [ -74.151163, 41.020262 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge is getting so intense!! Emily Thorne is my idol. ??", "user": "BrittnyHennessy", "location": "springfield,mo", "coord_x": -93.299794, "coord_y": 37.158881, "created_at": "2013\/03\/25", "h_m_s": "1:51:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:51:52" }, "geometry": { "type": "Point", "coordinates": [ -93.299794, 37.158881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BarrySloane #REVENGE #REVENGE #REVENGE #REVENGE #REVENGE @Gabriel_Mann gonna watch it on the flight to HK! http:\/\/t.co\/uE5iXs0Zzn", "user": "thenewblack30", "location": "England", "coord_x": 101.712716, "coord_y": 2.748883, "created_at": "2013\/03\/25", "h_m_s": "1:53:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:53:49" }, "geometry": { "type": "Point", "coordinates": [ 101.712716, 2.748883 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nolan you should have let him shoot! @Gabriel_Mann #Revenge", "user": "kirachase24", "location": "New York", "coord_x": -81.771590, "coord_y": 24.560641, "created_at": "2013\/03\/25", "h_m_s": "1:53:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:53:50" }, "geometry": { "type": "Point", "coordinates": [ -81.771590, 24.560641 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This is what happens when you execute a plan without Emily! @TheNolanRoss #Revenge", "user": "kirachase24", "location": "New York", "coord_x": -81.771923, "coord_y": 24.560637, "created_at": "2013\/03\/25", "h_m_s": "1:55:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:55:43" }, "geometry": { "type": "Point", "coordinates": [ -81.771923, 24.560637 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bet it's Mason Treadwell. #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668072, "coord_y": 40.487273, "created_at": "2013\/03\/25", "h_m_s": "1:55:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:55:57" }, "geometry": { "type": "Point", "coordinates": [ -84.668072, 40.487273 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Trying like hell to avoid @jnmcabee tweets beside I'm stuck at the library and missing #Revenge I'm so tempted to sneak a peak tho ??", "user": "abbs_marie", "location": "Imagine Nation", "coord_x": -84.178767, "coord_y": 39.740236, "created_at": "2013\/03\/25", "h_m_s": "1:56:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:57:3" }, "geometry": { "type": "Point", "coordinates": [ -84.178767, 39.740236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jack's in over his head! #revenge", "user": "bsgoriginal", "location": "bonsecour alabama", "coord_x": -87.749980, "coord_y": 30.355723, "created_at": "2013\/03\/25", "h_m_s": "1:57:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:57:39" }, "geometry": { "type": "Point", "coordinates": [ -87.749980, 30.355723 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The @Revenge wardrobe has always fascinated me. I love Emily's pants suit!!", "user": "PiaDeen", "location": "Trinidad & Tobago", "coord_x": -60.792645, "coord_y": 11.170174, "created_at": "2013\/03\/25", "h_m_s": "1:57:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:58:20" }, "geometry": { "type": "Point", "coordinates": [ -60.792645, 11.170174 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "LIKE WAT??!! #revenge ", "user": "Nixx_YoungVenus", "location": "90sKindaWorld, MI", "coord_x": -83.382320, "coord_y": 42.716209, "created_at": "2013\/03\/25", "h_m_s": "1:58:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:58:40" }, "geometry": { "type": "Point", "coordinates": [ -83.382320, 42.716209 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Uhh I don't like her #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827313, "coord_y": 42.672966, "created_at": "2013\/03\/25", "h_m_s": "1:58:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:7" }, "geometry": { "type": "Point", "coordinates": [ -73.827313, 42.672966 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wow!!! Victoria!!!! You are the devil himself!!! @Revenge #revenge", "user": "PiaDeen", "location": "Trinidad & Tobago", "coord_x": -60.791350, "coord_y": 11.170075, "created_at": "2013\/03\/25", "h_m_s": "1:59:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:8" }, "geometry": { "type": "Point", "coordinates": [ -60.791350, 11.170075 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That bitch!!! #Revenge", "user": "IamKinman", "location": "Philly", "coord_x": -75.161373, "coord_y": 39.957387, "created_at": "2013\/03\/25", "h_m_s": "1:59:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:9" }, "geometry": { "type": "Point", "coordinates": [ -75.161373, 39.957387 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ohhh shit. #Revenge", "user": "jnmcabee", "location": "Elida, Ohio", "coord_x": -84.668155, "coord_y": 40.487289, "created_at": "2013\/03\/25", "h_m_s": "1:59:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:59:18" }, "geometry": { "type": "Point", "coordinates": [ -84.668155, 40.487289 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Victoria has another son?!?!? #what #revenge", "user": "barbara_dillon", "location": "", "coord_x": -73.827315, "coord_y": 42.672990, "created_at": "2013\/03\/25", "h_m_s": "2:1:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:1:1" }, "geometry": { "type": "Point", "coordinates": [ -73.827315, 42.672990 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Answers. Want answers not more of the question  please. @BuzzWorthyRadio: #WhoIsTheFalcon #Revenge\"", "user": "lildillydumplin", "location": "orlando", "coord_x": -80.805168, "coord_y": 28.485710, "created_at": "2013\/03\/25", "h_m_s": "2:1:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:1:4" }, "geometry": { "type": "Point", "coordinates": [ -80.805168, 28.485710 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Daryl will for sure be the one to kill The Governor next week. Sucks he had to kill his own brother. #WalkingDead #KillTheGovernor #Revenge", "user": "ktmlr3", "location": "Athens, GA", "coord_x": -83.377442, "coord_y": 33.909762, "created_at": "2013\/03\/25", "h_m_s": "2:2:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:2:37" }, "geometry": { "type": "Point", "coordinates": [ -83.377442, 33.909762 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Swear @Revenge always leaves me wanting more!", "user": "AmeDunn_Dawgg", "location": "", "coord_x": -79.894422, "coord_y": 40.068520, "created_at": "2013\/03\/25", "h_m_s": "2:3:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:3:7" }, "geometry": { "type": "Point", "coordinates": [ -79.894422, 40.068520 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sunday shows use to be so good. #Once's stories are bizarre now, #Revenge is all over the place, and #WalkingDead is dragging everything out", "user": "SimplyScott1", "location": "", "coord_x": -95.946088, "coord_y": 36.086742, "created_at": "2013\/03\/25", "h_m_s": "2:6:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:6:20" }, "geometry": { "type": "Point", "coordinates": [ -95.946088, 36.086742 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Do you realize how screwed the governor is now that Daryl lost his brother. #revenge #rampage #thewalkingdead", "user": "1Mr_White3", "location": "wvu", "coord_x": -101.322254, "coord_y": 48.422456, "created_at": "2013\/03\/25", "h_m_s": "2:17:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:17:26" }, "geometry": { "type": "Point", "coordinates": [ -101.322254, 48.422456 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "l1ghteyez", "location": "", "coord_x": -80.296602, "coord_y": 26.161153, "created_at": "2013\/03\/25", "h_m_s": "2:19:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:19:54" }, "geometry": { "type": "Point", "coordinates": [ -80.296602, 26.161153 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge .. best show ever! =)", "user": "blueyedsweety28", "location": "WI", "coord_x": -89.686601, "coord_y": 45.165365, "created_at": "2013\/03\/25", "h_m_s": "2:23:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:18" }, "geometry": { "type": "Point", "coordinates": [ -89.686601, 45.165365 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love the men of @Revenge! ?? http:\/\/t.co\/qi2CJfqjJM", "user": "JentryCraig", "location": "", "coord_x": -93.726491, "coord_y": 38.747768, "created_at": "2013\/03\/25", "h_m_s": "2:26:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:26:15" }, "geometry": { "type": "Point", "coordinates": [ -93.726491, 38.747768 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love the men of @Revenge!??@BarrySloane @Gabriel_Mann http:\/\/t.co\/RkiiA1EpgL", "user": "JentryCraig", "location": "", "coord_x": -93.726702, "coord_y": 38.747668, "created_at": "2013\/03\/25", "h_m_s": "2:27:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:27:38" }, "geometry": { "type": "Point", "coordinates": [ -93.726702, 38.747668 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Victoria Grayson got around!!! How many kids you at now #revenge", "user": "cfharpole", "location": "", "coord_x": -87.158572, "coord_y": 30.362494, "created_at": "2013\/03\/25", "h_m_s": "2:30:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:30:20" }, "geometry": { "type": "Point", "coordinates": [ -87.158572, 30.362494 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@Gabriel_Mann: #NoMoreDistractions it's time to make #Revenge a trend. In 3..2..1 #GETSOME\"", "user": "maferlicona", "location": "Monterrey, N.L.", "coord_x": -100.293576, "coord_y": 25.661446, "created_at": "2013\/03\/25", "h_m_s": "2:41:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:41:36" }, "geometry": { "type": "Point", "coordinates": [ -100.293576, 25.661446 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching @Revenge - _ -", "user": "twilightweirdo", "location": "Georgia", "coord_x": -83.988976, "coord_y": 33.316116, "created_at": "2013\/03\/25", "h_m_s": "2:41:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:41:42" }, "geometry": { "type": "Point", "coordinates": [ -83.988976, 33.316116 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge", "user": "devinfay", "location": "", "coord_x": -94.975990, "coord_y": 35.945064, "created_at": "2013\/03\/25", "h_m_s": "2:42:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:42:11" }, "geometry": { "type": "Point", "coordinates": [ -94.975990, 35.945064 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Uh oh someone getting a little thirsty you say? @brastraps #Revenge #GotEm #UMad? http:\/\/t.co\/yCjk9FPuKf", "user": "TheMikeyD24", "location": "PA", "coord_x": -75.387768, "coord_y": 41.172417, "created_at": "2013\/03\/25", "h_m_s": "3:21:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:21:45" }, "geometry": { "type": "Point", "coordinates": [ -75.387768, 41.172417 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahhhh #Revenge", "user": "Sandcastle92", "location": "St. Louis", "coord_x": -90.321545, "coord_y": 38.499330, "created_at": "2013\/03\/25", "h_m_s": "3:21:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:21:53" }, "geometry": { "type": "Point", "coordinates": [ -90.321545, 38.499330 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "To whoever teepeed us..you better watch out.. #revenge ??", "user": "SarahMenuez", "location": "", "coord_x": -81.818280, "coord_y": 40.591297, "created_at": "2013\/03\/25", "h_m_s": "3:24:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:24:8" }, "geometry": { "type": "Point", "coordinates": [ -81.818280, 40.591297 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ahhhh, Revenge was amazing tonight!?? Can't wait till next week! #happy #nervous #Revenge #favorite show", "user": "lilyygirl45", "location": "", "coord_x": -106.608797, "coord_y": 35.155991, "created_at": "2013\/03\/25", "h_m_s": "3:26:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:26:44" }, "geometry": { "type": "Point", "coordinates": [ -106.608797, 35.155991 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Late night drink and dessert with @archiebacca and @cnsdrwldflwrs post #revenge night. (@ Van Gogh's Ear Cafe) http:\/\/t.co\/WjXrMssUfU", "user": "jazhappy", "location": "07083", "coord_x": -74.269218, "coord_y": 40.696673, "created_at": "2013\/03\/25", "h_m_s": "3:28:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:28:14" }, "geometry": { "type": "Point", "coordinates": [ -74.269218, 40.696673 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge gets better and better.  lovin' it!!", "user": "cazan50", "location": "Ottawa", "coord_x": -75.494441, "coord_y": 45.463186, "created_at": "2013\/03\/25", "h_m_s": "3:37:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:37:58" }, "geometry": { "type": "Point", "coordinates": [ -75.494441, 45.463186 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dirty dirty boy! #revenge", "user": "NAENAE313", "location": "Michigan, Detroit", "coord_x": -110.813168, "coord_y": 32.249468, "created_at": "2013\/03\/25", "h_m_s": "3:39:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:39:47" }, "geometry": { "type": "Point", "coordinates": [ -110.813168, 32.249468 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge nicely done always wanting more", "user": "Hahnidelux", "location": "michigan", "coord_x": -83.166045, "coord_y": 42.499384, "created_at": "2013\/03\/25", "h_m_s": "3:40:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:40:19" }, "geometry": { "type": "Point", "coordinates": [ -83.166045, 42.499384 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Sunday's! #revenge #onceuponatime and #armywives ??", "user": "p0rcelain_d0lly", "location": "", "coord_x": -75.860552, "coord_y": 40.073055, "created_at": "2013\/03\/25", "h_m_s": "3:40:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:40:49" }, "geometry": { "type": "Point", "coordinates": [ -75.860552, 40.073055 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheNolanRoss @gabriel_mann So excited for the Masquerade!! #Revenge just gets better every week!", "user": "michaeldejager", "location": "Denver, Colorado (for now)", "coord_x": -104.995599, "coord_y": 39.750389, "created_at": "2013\/03\/25", "h_m_s": "3:45:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:46:2" }, "geometry": { "type": "Point", "coordinates": [ -104.995599, 39.750389 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#REVENGE - My all time favorite show ever!! #Revenge #Revenge", "user": "pepper316", "location": "AZ", "coord_x": -112.231319, "coord_y": 33.590438, "created_at": "2013\/03\/25", "h_m_s": "3:54:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:54:55" }, "geometry": { "type": "Point", "coordinates": [ -112.231319, 33.590438 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JennaPassi0n I love myself some sweet #revenge. This week it's a date", "user": "megkahane", "location": "", "coord_x": -118.477890, "coord_y": 34.146367, "created_at": "2013\/03\/25", "h_m_s": "3:55:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:2" }, "geometry": { "type": "Point", "coordinates": [ -118.477890, 34.146367 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Eli is a mo fo #revenge", "user": "NAENAE313", "location": "Michigan, Detroit", "coord_x": -110.813168, "coord_y": 32.249468, "created_at": "2013\/03\/25", "h_m_s": "3:56:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:21" }, "geometry": { "type": "Point", "coordinates": [ -110.813168, 32.249468 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Victoria has another son! #revenge", "user": "NAENAE313", "location": "Michigan, Detroit", "coord_x": -110.813168, "coord_y": 32.249468, "created_at": "2013\/03\/25", "h_m_s": "4:1:3", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:1:4" }, "geometry": { "type": "Point", "coordinates": [ -110.813168, 32.249468 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BarrySloane you are so perfect!!!!!  I love you on #Revenge", "user": "MrLafayette87", "location": "Detroit", "coord_x": -83.181358, "coord_y": 42.188299, "created_at": "2013\/03\/25", "h_m_s": "4:10:5", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:10:6" }, "geometry": { "type": "Point", "coordinates": [ -83.181358, 42.188299 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nolan's adorable! #revenge", "user": "jazzzylopezz", "location": "Escalon CA", "coord_x": -120.974692, "coord_y": 37.854821, "created_at": "2013\/03\/25", "h_m_s": "4:14:39", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:14:40" }, "geometry": { "type": "Point", "coordinates": [ -120.974692, 37.854821 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge luv this show", "user": "jaxlujan", "location": "", "coord_x": -119.191181, "coord_y": 34.163852, "created_at": "2013\/03\/25", "h_m_s": "4:46:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:46:59" }, "geometry": { "type": "Point", "coordinates": [ -119.191181, 34.163852 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "JesselAmes", "location": "Cabo Mexico", "coord_x": -109.944780, "coord_y": 22.890115, "created_at": "2013\/03\/25", "h_m_s": "4:58:43", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:58:44" }, "geometry": { "type": "Point", "coordinates": [ -109.944780, 22.890115 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@shibbydork too far away!! And yes, at least we have #Nashville and #Revenge to satisfy us. Lol", "user": "modelmelodyejoy", "location": "Valencia, CA", "coord_x": -118.561962, "coord_y": 34.432876, "created_at": "2013\/03\/25", "h_m_s": "4:59:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:59:23" }, "geometry": { "type": "Point", "coordinates": [ -118.561962, 34.432876 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Agora pro sono chegar #Revenge", "user": "priiiiiiiu", "location": "Jardins da Babilônia***", "coord_x": -54.112716, "coord_y": -31.330123, "created_at": "2013\/03\/25", "h_m_s": "5:7:3", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:7:42" }, "geometry": { "type": "Point", "coordinates": [ -54.112716, -31.330123 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "E sei com quem acho Fernando do #BBB13 parecida... Emily Thorne de #Revenge, lembra mto!", "user": "priiiiiiiu", "location": "Jardins da Babilônia***", "coord_x": -54.112716, "coord_y": -31.330123, "created_at": "2013\/03\/25", "h_m_s": "5:7:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:7:50" }, "geometry": { "type": "Point", "coordinates": [ -54.112716, -31.330123 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Victoria Grayson, sempre chique e linda! #Revenge http:\/\/t.co\/1Q2LGIp6II", "user": "priiiiiiiu", "location": "Jardins da Babilônia***", "coord_x": -54.112716, "coord_y": -31.330123, "created_at": "2013\/03\/25", "h_m_s": "5:9:23", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:9:24" }, "geometry": { "type": "Point", "coordinates": [ -54.112716, -31.330123 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Emily Throne, um pouco, constrangida... #Revenge http:\/\/t.co\/YiFkc4Az2K", "user": "priiiiiiiu", "location": "Jardins da Babilônia***", "coord_x": -54.112537, "coord_y": -31.330079, "created_at": "2013\/03\/25", "h_m_s": "5:11:35", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:11:36" }, "geometry": { "type": "Point", "coordinates": [ -54.112537, -31.330079 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Is sweet but karma is a bitch #Revenge", "user": "Michaels_world1", "location": "", "coord_x": -118.372912, "coord_y": 34.089818, "created_at": "2013\/03\/25", "h_m_s": "5:40:43", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:40:44" }, "geometry": { "type": "Point", "coordinates": [ -118.372912, 34.089818 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#revenge @KTBaranKT http:\/\/t.co\/fH4bYplSus", "user": "AndreeaAlexuts", "location": "Narnia", "coord_x": 26.062545, "coord_y": 44.418700, "created_at": "2013\/03\/25", "h_m_s": "5:54:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:54:50" }, "geometry": { "type": "Point", "coordinates": [ 26.062545, 44.418700 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge can't wait for episode 17 the falcony returns sweet", "user": "Alcoholic_Veins", "location": "In a bar near you", "coord_x": 28.340720, "coord_y": -12.435720, "created_at": "2013\/03\/25", "h_m_s": "6:47:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:47:49" }, "geometry": { "type": "Point", "coordinates": [ 28.340720, -12.435720 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fucking an x's younger cousin #Revenge", "user": "TLH_USA", "location": "South Dakota, USA", "coord_x": -98.102025, "coord_y": 45.155069, "created_at": "2013\/03\/25", "h_m_s": "6:51:20", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:51:26" }, "geometry": { "type": "Point", "coordinates": [ -98.102025, 45.155069 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge :)", "user": "_MandaXoXo", "location": "Albuquerque, NM", "coord_x": -106.625641, "coord_y": 35.099002, "created_at": "2013\/03\/25", "h_m_s": "6:53:34", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:53:35" }, "geometry": { "type": "Point", "coordinates": [ -106.625641, 35.099002 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge is basic's…if you on a high status you need not waste your time on lessers", "user": "KingJonathan33", "location": "Eagle River,Alaska", "coord_x": -149.496227, "coord_y": 61.301028, "created_at": "2013\/03\/25", "h_m_s": "7:4:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:4:43" }, "geometry": { "type": "Point", "coordinates": [ -149.496227, 61.301028 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge Top blokes: def @BarrySloane &amp; @Gabriel_Mann - hey, what did you expect? ;-)", "user": "GlamKath", "location": "Belgium", "coord_x": 5.678317, "coord_y": 50.941126, "created_at": "2013\/03\/25", "h_m_s": "7:17:56", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:17:57" }, "geometry": { "type": "Point", "coordinates": [ 5.678317, 50.941126 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge tastes like carbs....... Soooo good!", "user": "RecklessMessxo", "location": "Huntington Beach, California", "coord_x": -117.847596, "coord_y": 33.781444, "created_at": "2013\/03\/25", "h_m_s": "7:22:18", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:22:19" }, "geometry": { "type": "Point", "coordinates": [ -117.847596, 33.781444 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge it is fucking sweet", "user": "sam_mufc8", "location": "scarbados", "coord_x": -0.448986, "coord_y": 54.311694, "created_at": "2013\/03\/25", "h_m_s": "7:23:9", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:23:10" }, "geometry": { "type": "Point", "coordinates": [ -0.448986, 54.311694 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dont really believe in   #Revenge", "user": "DaddieLoc", "location": "MUSiC iS LIFE ;DD", "coord_x": -118.140507, "coord_y": 34.676913, "created_at": "2013\/03\/25", "h_m_s": "7:31:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:31:11" }, "geometry": { "type": "Point", "coordinates": [ -118.140506, 34.676913 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Por fin terminé de ver #Revenge ahora si a dormir!", "user": "maferlicona", "location": "Monterrey, N.L.", "coord_x": -100.293528, "coord_y": 25.661409, "created_at": "2013\/03\/25", "h_m_s": "7:32:25", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:32:26" }, "geometry": { "type": "Point", "coordinates": [ -100.293528, 25.661409 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "For all u fake ass bitches &amp; bitchass niggas, I'm so comin 4 u in a couple ov dayz. #YouKnowUrselves #Revenge", "user": "cube_chedaz", "location": "Lagos, Nigeria", "coord_x": 3.331220, "coord_y": 6.476930, "created_at": "2013\/03\/25", "h_m_s": "7:42:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:42:45" }, "geometry": { "type": "Point", "coordinates": [ 3.331220, 6.476930 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't worry about #Revenge     #karma will get your ass", "user": "CraziiB1tch", "location": "C~Bus", "coord_x": -83.053333, "coord_y": 39.939893, "created_at": "2013\/03\/25", "h_m_s": "7:46:33", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:46:34" }, "geometry": { "type": "Point", "coordinates": [ -83.053333, 39.939894 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "2 Choppers 200 Shots. #Revenge", "user": "Crosby_42Livin", "location": "Omaha, Nebraska", "coord_x": -95.937920, "coord_y": 41.282532, "created_at": "2013\/03\/25", "h_m_s": "7:50:38", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:50:39" }, "geometry": { "type": "Point", "coordinates": [ -95.937920, 41.282532 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Christ said \"if ur enemy slap u, turn d oda cheek\" while Moses said \"An eye for an eye\". Well, ama xtian bt blv in judiasm. #Revenge", "user": "cube_chedaz", "location": "Lagos, Nigeria", "coord_x": 3.333730, "coord_y": 6.478380, "created_at": "2013\/03\/25", "h_m_s": "7:50:57", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:50:58" }, "geometry": { "type": "Point", "coordinates": [ 3.333730, 6.478380 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge that's what I never go for", "user": "faisaljalo", "location": "Nigeria", "coord_x": 11.366160, "coord_y": 8.895550, "created_at": "2013\/03\/25", "h_m_s": "7:51:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:51:23" }, "geometry": { "type": "Point", "coordinates": [ 11.366160, 8.895550 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge", "user": "HawaN8", "location": "Konoha", "coord_x": -0.180465, "coord_y": 51.461195, "created_at": "2013\/03\/25", "h_m_s": "7:51:50", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:51:52" }, "geometry": { "type": "Point", "coordinates": [ -0.180465, 51.461195 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Revenge when people keep you waiting knowing you got shit to do #immagetyouBACK", "user": "Kadzworld", "location": "", "coord_x": -0.293923, "coord_y": 51.487440, "created_at": "2013\/03\/25", "h_m_s": "8:9:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:9:18" }, "geometry": { "type": "Point", "coordinates": [ -0.293923, 51.487440 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I told you, I don't stand for anyone messing me around. #Revenge", "user": "elise_charlotte", "location": "Worcester, UK", "coord_x": -2.168348, "coord_y": 52.147902, "created_at": "2013\/03\/25", "h_m_s": "8:34:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:34:44" }, "geometry": { "type": "Point", "coordinates": [ -2.168348, 52.147902 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@rmcmunn7 Hahaha it's okay though, I found the person who did that to me! #revenge #bestservedcold", "user": "GerardRooney", "location": "Glasgow\/ from Ayr", "coord_x": -4.246909, "coord_y": 55.859630, "created_at": "2013\/03\/25", "h_m_s": "8:48:3", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:48:4" }, "geometry": { "type": "Point", "coordinates": [ -4.246909, 55.859630 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@rmcmunn7 Hahaha it's okay though, I found the person who did that to me!! #revenge #taughtalesson http:\/\/t.co\/k9KyLjBzmp", "user": "GerardRooney", "location": "Glasgow\/ from Ayr", "coord_x": -4.246552, "coord_y": 55.859716, "created_at": "2013\/03\/25", "h_m_s": "8:51:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:51:43" }, "geometry": { "type": "Point", "coordinates": [ -4.246552, 55.859716 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wow that revenge was ace! &lt;3 #Revenge", "user": "vocster", "location": "", "coord_x": -1.820346, "coord_y": 53.786287, "created_at": "2013\/03\/25", "h_m_s": "9:8:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:8:50" }, "geometry": { "type": "Point", "coordinates": [ -1.820346, 53.786287 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I found something that will surely make you GRRR!#revenge#sosoontoreveal#lol#pretentious#showtime", "user": "RobiChua06", "location": "Manila, Philippines", "coord_x": 120.978704, "coord_y": 14.478138, "created_at": "2013\/03\/25", "h_m_s": "9:47:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:47:16" }, "geometry": { "type": "Point", "coordinates": [ 120.978704, 14.478138 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I found something that will surely make you GRRR!#revenge#sosoontoreveal#lol#pretentious#showtime", "user": "RobiChua06", "location": "Manila, Philippines", "coord_x": 120.978704, "coord_y": 14.478138, "created_at": "2013\/03\/25", "h_m_s": "9:47:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:47:19" }, "geometry": { "type": "Point", "coordinates": [ 120.978704, 14.478138 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I Love #Revenge !!!", "user": "JensKitchenAUS", "location": "Sydney", "coord_x": 151.213935, "coord_y": -33.904251, "created_at": "2013\/03\/25", "h_m_s": "10:41:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:41:41" }, "geometry": { "type": "Point", "coordinates": [ 151.213935, -33.904251 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #revenge while #eating #chocolate #cake and #vanilla #IceCream :)", "user": "findurvoice02", "location": "abducted by aliens", "coord_x": 124.613817, "coord_y": 8.509443, "created_at": "2013\/03\/25", "h_m_s": "10:48:32", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:48:33" }, "geometry": { "type": "Point", "coordinates": [ 124.613817, 8.509443 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@teejnepomuceno What season\/episode are you in? #Revenge #GetGlue", "user": "NioManzano", "location": "iPhone: 14.554399,121.024200", "coord_x": 121.027913, "coord_y": 14.568058, "created_at": "2013\/03\/25", "h_m_s": "11:24:28", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:24:29" }, "geometry": { "type": "Point", "coordinates": [ 121.027913, 14.568058 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Siobhan921 watch #revenge! Although the bombshell is not that great!!", "user": "Sianharrison91", "location": "", "coord_x": -1.119348, "coord_y": 52.905992, "created_at": "2013\/03\/25", "h_m_s": "12:3:29", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:3:30" }, "geometry": { "type": "Point", "coordinates": [ -1.119348, 52.905992 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Homebound. Sunday series marathon. #thewalkingdead #revenge #onceuponatime #amazingrace (@ Bug-os Residence) http:\/\/t.co\/ayw4yV2Q2J", "user": "headturnerdj", "location": "ÜT: 8.4627124,124.6144554 CDO", "coord_x": 124.773102, "coord_y": 8.510063, "created_at": "2013\/03\/25", "h_m_s": "12:11:58", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:11:59" }, "geometry": { "type": "Point", "coordinates": [ 124.773102, 8.510063 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn, #WhoIsFalcon #Revenge", "user": "irises_q", "location": "planet earth", "coord_x": 123.915622, "coord_y": 10.350875, "created_at": "2013\/03\/25", "h_m_s": "12:15:19", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:15:20" }, "geometry": { "type": "Point", "coordinates": [ 123.915622, 10.350875 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "She looks so angelic ?? starting #revenge with kristeto ?????????? Its so addicting nga @carlamarvin00 and… http:\/\/t.co\/cABUzBo086", "user": "jaijaicortes", "location": "ÜT: 14.552236,121.020432", "coord_x": 121.027776, "coord_y": 14.433194, "created_at": "2013\/03\/25", "h_m_s": "12:19:21", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:19:22" }, "geometry": { "type": "Point", "coordinates": [ 121.027776, 14.433194 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@RevengeRiveraa lol not", "user": "MariaDarlinggg", "location": "", "coord_x": -71.159975, "coord_y": 42.711426, "created_at": "2013\/03\/25", "h_m_s": "12:23:30", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:23:31" }, "geometry": { "type": "Point", "coordinates": [ -71.159975, 42.711426 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@earthangel4u2c agreed! Let's make an example out of him. #revenge", "user": "hippiechick1983", "location": "Salisbury, New York", "coord_x": -74.811920, "coord_y": 43.174478, "created_at": "2013\/03\/25", "h_m_s": "13:2:51", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:2:53" }, "geometry": { "type": "Point", "coordinates": [ -74.811920, 43.174478 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Missed #Revenge last night due to power outage. Glad my friend taped it. #grateful #friendswholoveRevenge", "user": "LuvMyDestiny", "location": "In Your Thoughts", "coord_x": -86.889740, "coord_y": 33.424730, "created_at": "2013\/03\/25", "h_m_s": "13:34:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:34:18" }, "geometry": { "type": "Point", "coordinates": [ -86.889740, 33.424730 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I am nothing right now, but wait until me become something #revenge !!! http:\/\/t.co\/bXKBxpswVp", "user": "FatoTelaumbanua", "location": "ÜT: -6.1432051,106.8180827", "coord_x": 106.828230, "coord_y": -6.216980, "created_at": "2013\/03\/25", "h_m_s": "13:48:58", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:48:59" }, "geometry": { "type": "Point", "coordinates": [ 106.828230, -6.216980 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "?? ? ????? ???????? :(( ?????? ?? ????????, ?????????? ??? ??? ????????? ??????? #revenge c @Kate_Sazonova_   ???? http:\/\/t.co\/BuJtdvRqio", "user": "klimova_Juli", "location": "??????????????", "coord_x": 35.031913, "coord_y": 48.393644, "created_at": "2013\/03\/25", "h_m_s": "13:52:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:52:41" }, "geometry": { "type": "Point", "coordinates": [ 35.031913, 48.393644 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I need to succeed &amp; rise above them..so that one day when they look up &amp; ask for help i can reach out &amp; then push them even lower. #revenge", "user": "grg_xavi", "location": "", "coord_x": 55.440101, "coord_y": 25.415737, "created_at": "2013\/03\/25", "h_m_s": "14:9:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "10:9:56" }, "geometry": { "type": "Point", "coordinates": [ 55.440101, 25.415737 ] } }
+
+]
+}

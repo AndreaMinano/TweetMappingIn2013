@@ -1,0 +1,235 @@
+var shameless = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Can't wait for #shameless tonight. What I look forward to every Sunday ??", "user": "kellys_says", "location": "jersey ?", "coord_x": -74.137109, "coord_y": 40.793826, "created_at": "2013\/03\/24", "h_m_s": "17:49:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:49:4" }, "geometry": { "type": "Point", "coordinates": [ -74.137109, 40.793826 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I answered a total of 6 questions on that last chemistry test... And I don't even care.?? #shameless", "user": "ArielleStovall", "location": "Wyandotte, America", "coord_x": -94.636050, "coord_y": 36.878194, "created_at": "2013\/03\/24", "h_m_s": "18:17:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:17:51" }, "geometry": { "type": "Point", "coordinates": [ -94.636050, 36.878194 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@emmyrossum still waiting to find out when #shameless starts back in the uk?", "user": "aarontorbet", "location": "Irvine.", "coord_x": -4.637578, "coord_y": 55.628074, "created_at": "2013\/03\/24", "h_m_s": "18:23:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:23:28" }, "geometry": { "type": "Point", "coordinates": [ -4.637578, 55.628074 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Not even ashamed of the money I've spent at Target this week ??#shopping addiction #shamelessgirlproblems", "user": "hi_its_Steph", "location": "Boston", "coord_x": -71.097671, "coord_y": 42.493049, "created_at": "2013\/03\/24", "h_m_s": "18:38:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:38:53" }, "geometry": { "type": "Point", "coordinates": [ -71.097671, 42.493049 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@shanolahampton @crystalgoldon too far away!!! Love #ShamelessSunday #shameless", "user": "AAndears", "location": "Indianapolis", "coord_x": -86.240499, "coord_y": 39.760138, "created_at": "2013\/03\/24", "h_m_s": "18:44:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:44:21" }, "geometry": { "type": "Point", "coordinates": [ -86.240499, 39.760138 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@KimboThrice311 nothin in life is above being honest #shamelessplug #stoneyboloney", "user": "AColenzo311", "location": "between illusion and reality", "coord_x": -75.312183, "coord_y": 43.108556, "created_at": "2013\/03\/24", "h_m_s": "19:14:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:14:1" }, "geometry": { "type": "Point", "coordinates": [ -75.312183, 43.108556 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wish I has showtime so I could watch @SHO_Shameless @emmyrossum live ??", "user": "_nikkicampbell_", "location": "Rochester", "coord_x": -77.573609, "coord_y": 43.102619, "created_at": "2013\/03\/24", "h_m_s": "19:29:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:29:22" }, "geometry": { "type": "Point", "coordinates": [ -77.573609, 43.102619 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "travissap elitwilliams  #brunch pics #shameless @ The Mercer Kitchen http:\/\/t.co\/to8A9H7FTH", "user": "alexamoraif", "location": "New York City", "coord_x": -73.998662, "coord_y": 40.724744, "created_at": "2013\/03\/24", "h_m_s": "19:32:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:32:47" }, "geometry": { "type": "Point", "coordinates": [ -73.998662, 40.724744 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CameronMonaghan I get to see the Gallaghers \\o\/ I freakin absolutely love #Shameless", "user": "xandyhoo", "location": "NOWHEREUWANNABE", "coord_x": -111.228249, "coord_y": 36.142495, "created_at": "2013\/03\/24", "h_m_s": "19:33:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:33:38" }, "geometry": { "type": "Point", "coordinates": [ -111.228249, 36.142495 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Almost time for @SHO_Shameless. Lip finds out about Mandy. Oooooh gonna be so good!", "user": "loriwebb82", "location": "", "coord_x": -111.935052, "coord_y": 40.619486, "created_at": "2013\/03\/24", "h_m_s": "19:34:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:34:39" }, "geometry": { "type": "Point", "coordinates": [ -111.935052, 40.619486 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless go goo isiga dogru aaahahahaha", "user": "m__yener", "location": "TURKIYE", "coord_x": 28.846417, "coord_y": 40.223554, "created_at": "2013\/03\/24", "h_m_s": "20:6:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:6:58" }, "geometry": { "type": "Point", "coordinates": [ 28.846417, 40.223554 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@EmmaRoseKenney Whoo hoo! New #Shameless on tonite ?", "user": "stephiegonzalez", "location": "I'm in Miami bitch", "coord_x": -80.247601, "coord_y": 25.793967, "created_at": "2013\/03\/24", "h_m_s": "21:30:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:30:16" }, "geometry": { "type": "Point", "coordinates": [ -80.247601, 25.793967 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@shanolahampton I need to catch up on the other seasons of #Shameless where the fuck have I been? Its my new obsession ?", "user": "stephiegonzalez", "location": "I'm in Miami bitch", "coord_x": -80.248028, "coord_y": 25.793751, "created_at": "2013\/03\/24", "h_m_s": "21:33:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:33:22" }, "geometry": { "type": "Point", "coordinates": [ -80.248028, 25.793751 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@noel_fisher @SHO_Shameless can't wait 4 the show 2nite! Much ?", "user": "Nicolesnip", "location": "Greenwood, In", "coord_x": -86.194538, "coord_y": 39.607522, "created_at": "2013\/03\/24", "h_m_s": "22:19:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:19:54" }, "geometry": { "type": "Point", "coordinates": [ -86.194538, 39.607522 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Remember when you broke the tv remote last week for no reason?\" \"It wouldn't fucking work that's a good reason\" #shameless", "user": "CjStucy", "location": "", "coord_x": -74.990698, "coord_y": 40.753895, "created_at": "2013\/03\/24", "h_m_s": "22:24:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:26:41" }, "geometry": { "type": "Point", "coordinates": [ -74.990698, 40.753895 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Masters work done...new IpA made...Showering, then watching @SHO_Shameless, then off to Old Chicago Southgate for @BellsBrewery Oberon Party", "user": "bassplayer41", "location": "Michigan", "coord_x": -83.277006, "coord_y": 42.089913, "created_at": "2013\/03\/25", "h_m_s": "0:33:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:33:25" }, "geometry": { "type": "Point", "coordinates": [ -83.277006, 42.089913 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless ??", "user": "maurathexplora_", "location": "", "coord_x": -87.641065, "coord_y": 41.814580, "created_at": "2013\/03\/25", "h_m_s": "0:38:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:38:23" }, "geometry": { "type": "Point", "coordinates": [ -87.641065, 41.814580 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Almost time for #Shameless ??", "user": "b2th3rittney", "location": "", "coord_x": -79.638969, "coord_y": 40.323143, "created_at": "2013\/03\/25", "h_m_s": "0:45:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:35" }, "geometry": { "type": "Point", "coordinates": [ -79.638969, 40.323143 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Getting ready for this episode of #Shameless , just a few more minutes!!", "user": "TheMiggz", "location": "Land of Ooo", "coord_x": -73.856813, "coord_y": 40.755761, "created_at": "2013\/03\/25", "h_m_s": "0:45:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:53" }, "geometry": { "type": "Point", "coordinates": [ -73.856813, 40.755761 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless", "user": "TheSoggyBuns", "location": "Hiding Under Your Bed", "coord_x": -81.534078, "coord_y": 30.337084, "created_at": "2013\/03\/25", "h_m_s": "1:0:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:0:13" }, "geometry": { "type": "Point", "coordinates": [ -81.534078, 30.337084 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Time to watch the crazy gallagher family get into some shenanigans #shameless", "user": "lyss776", "location": "", "coord_x": -90.585024, "coord_y": 38.667644, "created_at": "2013\/03\/25", "h_m_s": "1:1:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:1:27" }, "geometry": { "type": "Point", "coordinates": [ -90.585024, 38.667644 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless", "user": "brownbottle2011", "location": "Mt. Pleasant", "coord_x": -84.917127, "coord_y": 43.669586, "created_at": "2013\/03\/25", "h_m_s": "1:1:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:1:54" }, "geometry": { "type": "Point", "coordinates": [ -84.917127, 43.669586 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Alrighty here we go @SHO_Shameless @shanolahampton @EmmaRoseKenney @emmyrossum!!! #selfiesundaynite", "user": "kspad", "location": "Jersey Girl", "coord_x": -74.095676, "coord_y": 40.840577, "created_at": "2013\/03\/25", "h_m_s": "1:2:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:2:42" }, "geometry": { "type": "Point", "coordinates": [ -74.095676, 40.840577 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#shameless", "user": "AshleyMuno", "location": "", "coord_x": -88.022060, "coord_y": 42.348049, "created_at": "2013\/03\/25", "h_m_s": "1:2:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:2:46" }, "geometry": { "type": "Point", "coordinates": [ -88.022060, 42.348049 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless", "user": "Bobby_Noon", "location": "Gillette, Wyoming", "coord_x": -105.512312, "coord_y": 44.241405, "created_at": "2013\/03\/25", "h_m_s": "1:3:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:3:19" }, "geometry": { "type": "Point", "coordinates": [ -105.512312, 44.241405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't wait to go home and watch #Shameless ????????", "user": "Astriddawl", "location": "?", "coord_x": -75.657315, "coord_y": 39.644244, "created_at": "2013\/03\/25", "h_m_s": "1:3:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:4:11" }, "geometry": { "type": "Point", "coordinates": [ -75.657315, 39.644244 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@emmyrossum #shameless", "user": "HandyCrapeater", "location": "Midwest", "coord_x": -93.080600, "coord_y": 45.051229, "created_at": "2013\/03\/25", "h_m_s": "1:4:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:4:14" }, "geometry": { "type": "Point", "coordinates": [ -93.080600, 45.051229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SHO_Shameless med school is 3y and you can't default on student loans. #checkyoursources", "user": "MikeCowher", "location": "Chagrin Falls, OH", "coord_x": -81.312571, "coord_y": 41.438000, "created_at": "2013\/03\/25", "h_m_s": "1:5:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:12" }, "geometry": { "type": "Point", "coordinates": [ -81.312571, 41.438000 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love Sunday nights..... It's hard to feel bad about your life after #shameless #sundayfunday @… http:\/\/t.co\/GDFjRFnlBr", "user": "MeganPfiffner", "location": "New York", "coord_x": -73.985333, "coord_y": 40.682667, "created_at": "2013\/03\/25", "h_m_s": "1:5:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:26" }, "geometry": { "type": "Point", "coordinates": [ -73.985333, 40.682667 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love the new season of #Shameless @meg_phipps", "user": "mich_gberg", "location": "Union College", "coord_x": -71.142042, "coord_y": 42.110610, "created_at": "2013\/03\/25", "h_m_s": "1:5:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:36" }, "geometry": { "type": "Point", "coordinates": [ -71.142042, 42.110610 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@emmyrossum Head in the shed LMFAO #Shameless", "user": "stephiegonzalez", "location": "I'm in Miami bitch", "coord_x": -80.247885, "coord_y": 25.793955, "created_at": "2013\/03\/25", "h_m_s": "1:9:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:9:25" }, "geometry": { "type": "Point", "coordinates": [ -80.247885, 25.793955 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@emmyrossum The Office meets #Shameless ??", "user": "cbpietras", "location": "Chicopee MA", "coord_x": -72.609849, "coord_y": 42.145506, "created_at": "2013\/03\/25", "h_m_s": "1:11:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:11:31" }, "geometry": { "type": "Point", "coordinates": [ -72.609849, 42.145506 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless Sundays :)", "user": "_fearliss", "location": "New York", "coord_x": -73.789862, "coord_y": 41.366042, "created_at": "2013\/03\/25", "h_m_s": "1:12:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:12:21" }, "geometry": { "type": "Point", "coordinates": [ -73.789862, 41.366042 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Really funny I have the same clothes Mandy is wearing hahah @SHO_Shameless", "user": "Brittany_Marie_", "location": "always ? in philadelphia", "coord_x": -75.107968, "coord_y": 39.986177, "created_at": "2013\/03\/25", "h_m_s": "1:13:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:13:2" }, "geometry": { "type": "Point", "coordinates": [ -75.107968, 39.986177 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless love this show", "user": "dverseservices", "location": "39.289399,-76.543434", "coord_x": -76.543398, "coord_y": 39.289434, "created_at": "2013\/03\/25", "h_m_s": "1:14:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:14:53" }, "geometry": { "type": "Point", "coordinates": [ -76.543398, 39.289434 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SHO_Network Jody is.not joking..love it #shameless", "user": "sodataminded", "location": "Baltimore, Maryland", "coord_x": -76.539146, "coord_y": 39.407086, "created_at": "2013\/03\/25", "h_m_s": "1:17:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:16" }, "geometry": { "type": "Point", "coordinates": [ -76.539145, 39.407086 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't get why Lip doesn't choose Mandy or Karen already...both are absolute whores #Shameless", "user": "smexilexi99", "location": "Chicago, IL", "coord_x": -111.834228, "coord_y": 33.740102, "created_at": "2013\/03\/25", "h_m_s": "1:18:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:18:27" }, "geometry": { "type": "Point", "coordinates": [ -111.834228, 33.740102 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "the actress who plays Debbie is a VERY GOOD AT HER JOB:-) #Shameless", "user": "taminc7", "location": "new bern north carolina", "coord_x": -77.026392, "coord_y": 35.123472, "created_at": "2013\/03\/25", "h_m_s": "1:19:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:19:9" }, "geometry": { "type": "Point", "coordinates": [ -77.026391, 35.123472 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Seeing Lip sad makes me very very sad ???? @SHO_Shameless", "user": "smashiecrashie", "location": "", "coord_x": -74.558502, "coord_y": 40.787103, "created_at": "2013\/03\/25", "h_m_s": "1:19:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:19:37" }, "geometry": { "type": "Point", "coordinates": [ -74.558502, 40.787103 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the new Shameless and having a glass of wine! Fave night of the week! #Shameless", "user": "Mander2711", "location": "", "coord_x": -81.838665, "coord_y": 38.427401, "created_at": "2013\/03\/25", "h_m_s": "1:21:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:21:26" }, "geometry": { "type": "Point", "coordinates": [ -81.838665, 38.427401 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You are simply stunning. @emmyrossum. Cant wait to see @SHO_Shameless", "user": "Mikesmental", "location": "London", "coord_x": -0.069436, "coord_y": 51.599999, "created_at": "2013\/03\/25", "h_m_s": "1:22:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:22:41" }, "geometry": { "type": "Point", "coordinates": [ -0.069436, 51.599999 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I have to get home soon or I'm going to miss #Shameless ! @SHO_Shameless", "user": "baby_liaa", "location": "HellHathNoFuryOnAWomanScorned", "coord_x": -80.694269, "coord_y": 41.110600, "created_at": "2013\/03\/25", "h_m_s": "1:26:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:26:8" }, "geometry": { "type": "Point", "coordinates": [ -80.694269, 41.110600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#MostAwkwardSexMoment Award goes to @ShamelessFrankG in #Shameless", "user": "cbpietras", "location": "Chicopee MA", "coord_x": -72.609853, "coord_y": 42.145507, "created_at": "2013\/03\/25", "h_m_s": "1:34:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:34:1" }, "geometry": { "type": "Point", "coordinates": [ -72.609853, 42.145507 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And to think that there is probably companies that do that.... #Shameless", "user": "Brittany_Marie_", "location": "always ? in philadelphia", "coord_x": -75.108025, "coord_y": 39.986032, "created_at": "2013\/03\/25", "h_m_s": "1:37:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:37:28" }, "geometry": { "type": "Point", "coordinates": [ -75.108025, 39.986032 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh no mandy is fucked now lmao #Shameless", "user": "maurathexplora_", "location": "", "coord_x": -87.641303, "coord_y": 41.814684, "created_at": "2013\/03\/25", "h_m_s": "1:40:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:40:22" }, "geometry": { "type": "Point", "coordinates": [ -87.641303, 41.814684 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Awwww #Shameless", "user": "ReelTalker", "location": "Brooklyn, New York City", "coord_x": -74.036354, "coord_y": 40.620040, "created_at": "2013\/03\/25", "h_m_s": "1:40:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:41:0" }, "geometry": { "type": "Point", "coordinates": [ -74.036354, 40.620040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yay V's mom is pregnant!!! #Shameless", "user": "maurathexplora_", "location": "", "coord_x": -87.641286, "coord_y": 41.814673, "created_at": "2013\/03\/25", "h_m_s": "1:44:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:44:34" }, "geometry": { "type": "Point", "coordinates": [ -87.641286, 41.814673 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't think I will ever find the same love I have for Fiona in #Shameless. #lovelove", "user": "mpb1505", "location": "", "coord_x": -74.454077, "coord_y": 40.672865, "created_at": "2013\/03\/25", "h_m_s": "1:46:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:46:54" }, "geometry": { "type": "Point", "coordinates": [ -74.454077, 40.672865 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wait a minute, jodi. Seriously? #Shameless", "user": "ReelTalker", "location": "Brooklyn, New York City", "coord_x": -74.036354, "coord_y": 40.620040, "created_at": "2013\/03\/25", "h_m_s": "1:50:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:50:28" }, "geometry": { "type": "Point", "coordinates": [ -74.036354, 40.620040 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If only THAT was the way to cure comas... HAHAH #shameless", "user": "AshleyGr0ss", "location": "40.1783° N, 74.0222° W", "coord_x": -74.294152, "coord_y": 40.303951, "created_at": "2013\/03\/25", "h_m_s": "1:51:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:51:2" }, "geometry": { "type": "Point", "coordinates": [ -74.294152, 40.303951 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@_Destyni_: ?????? this show is too much RT @1ShadeofBlack: @_me_ Well if that don't wake u up, nothing will. #Shameless\" Past too much!", "user": "1ShadeofBlack", "location": "Brooklyn, N.Y.", "coord_x": -74.035080, "coord_y": 40.623070, "created_at": "2013\/03\/25", "h_m_s": "1:53:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:53:46" }, "geometry": { "type": "Point", "coordinates": [ -74.035080, 40.623070 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Justingchatwin you have fabulous legs #Shameless", "user": "LisafromNY", "location": "Rockland County, New York", "coord_x": -73.981075, "coord_y": 41.012222, "created_at": "2013\/03\/25", "h_m_s": "1:57:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:57:41" }, "geometry": { "type": "Point", "coordinates": [ -73.981075, 41.012222 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@EmmaRoseKenney  Mip #shameless", "user": "sharonhenders11", "location": "Maine", "coord_x": -68.772097, "coord_y": 44.811106, "created_at": "2013\/03\/25", "h_m_s": "2:9:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:9:22" }, "geometry": { "type": "Point", "coordinates": [ -68.772097, 44.811106 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Anyone else displeased that Karen woke up? I mean, I get it but ugh. #shameless", "user": "anglwearinjeans", "location": "Boston, MA", "coord_x": -71.153743, "coord_y": 42.339922, "created_at": "2013\/03\/25", "h_m_s": "2:11:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:11:23" }, "geometry": { "type": "Point", "coordinates": [ -71.153743, 42.339922 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Walgreens just got a mention on #Shameless", "user": "Strat_JCL4", "location": "The Keys", "coord_x": -81.762776, "coord_y": 24.567738, "created_at": "2013\/03\/25", "h_m_s": "2:15:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:15:1" }, "geometry": { "type": "Point", "coordinates": [ -81.762776, 24.567738 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless #SHO #SundayNightTv #Boom #TvAddict #Lip #Ian #Karen", "user": "Aubyn_Hastings", "location": "ÜT: 43.638473,-79.394571", "coord_x": -80.971649, "coord_y": 43.361405, "created_at": "2013\/03\/25", "h_m_s": "2:16:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:16:31" }, "geometry": { "type": "Point", "coordinates": [ -80.971649, 43.361405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@ItsAsmituation: Holy Shiiiitttt i hate that i have to wait a week a for the next #Shameless”", "user": "erica_connolly", "location": "", "coord_x": -74.134298, "coord_y": 40.807029, "created_at": "2013\/03\/25", "h_m_s": "2:18:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:18:33" }, "geometry": { "type": "Point", "coordinates": [ -74.134298, 40.807029 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#shameless", "user": "Jonny_Lee_", "location": "", "coord_x": -94.238220, "coord_y": 45.620144, "created_at": "2013\/03\/25", "h_m_s": "2:39:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:39:46" }, "geometry": { "type": "Point", "coordinates": [ -94.238220, 45.620144 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So much love for #Shameless", "user": "AbigailLJones", "location": "Where it's all happening", "coord_x": -87.046634, "coord_y": 33.748694, "created_at": "2013\/03\/25", "h_m_s": "2:39:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:39:57" }, "geometry": { "type": "Point", "coordinates": [ -87.046634, 33.748694 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm so happy for Vi and Kev! I just hope Vi's mom doesn't mess it up for them in a #Shameless way. @shanolahampton @reelstevehowey", "user": "crystalanne80", "location": "clarksville, tn", "coord_x": -87.426676, "coord_y": 36.568101, "created_at": "2013\/03\/25", "h_m_s": "2:44:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:44:25" }, "geometry": { "type": "Point", "coordinates": [ -87.426676, 36.568101 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And I missed #shameless. :(", "user": "XcuseMySins", "location": "South Jersey", "coord_x": -74.771506, "coord_y": 40.008510, "created_at": "2013\/03\/25", "h_m_s": "2:53:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:53:14" }, "geometry": { "type": "Point", "coordinates": [ -74.771506, 40.008510 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fiona always knows what to do. #Shameless.", "user": "AbigailLJones", "location": "Where it's all happening", "coord_x": -87.067447, "coord_y": 33.755221, "created_at": "2013\/03\/25", "h_m_s": "2:57:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:57:56" }, "geometry": { "type": "Point", "coordinates": [ -87.067447, 33.755221 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What'd you hit ? \" a girl at school \" #shameless #stupidkaren #teammindy", "user": "kell_bell32", "location": "", "coord_x": -71.217970, "coord_y": 42.570579, "created_at": "2013\/03\/25", "h_m_s": "3:2:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:2:46" }, "geometry": { "type": "Point", "coordinates": [ -71.217970, 42.570579 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sorry but doubt Fiona is spending $16 on a lipgloss from #smashbox #shameless!! I pay way too much attention to detail;)", "user": "JodiRisden", "location": "Madison, WI", "coord_x": -89.494408, "coord_y": 43.062068, "created_at": "2013\/03\/25", "h_m_s": "3:7:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:7:53" }, "geometry": { "type": "Point", "coordinates": [ -89.494408, 43.062068 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"You gotta get the word out. I found the cure to comas!!!\" #shameless #thebomb", "user": "sammi_ports", "location": "", "coord_x": -74.187171, "coord_y": 40.546280, "created_at": "2013\/03\/25", "h_m_s": "3:12:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:13:11" }, "geometry": { "type": "Point", "coordinates": [ -74.187171, 40.546280 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wow #shameless never stops surprising me", "user": "dhall42", "location": "where ever life takes me", "coord_x": -84.226927, "coord_y": 39.614121, "created_at": "2013\/03\/25", "h_m_s": "3:24:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:24:14" }, "geometry": { "type": "Point", "coordinates": [ -84.226927, 39.614121 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@ShamelessProbs: I'm dramatic and I don't care!” @scottmccann1993 this is you #shameless", "user": "shaaymyers", "location": "ontario", "coord_x": -82.396488, "coord_y": 42.961284, "created_at": "2013\/03\/25", "h_m_s": "3:25:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:25:32" }, "geometry": { "type": "Point", "coordinates": [ -82.396488, 42.961284 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Damn I missed #shameless", "user": "YoungFlexington", "location": "WestSide, Detroit", "coord_x": -83.047129, "coord_y": 42.508703, "created_at": "2013\/03\/25", "h_m_s": "3:28:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:29:2" }, "geometry": { "type": "Point", "coordinates": [ -83.047129, 42.508703 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Frank was gay.. #shameless love it..", "user": "DamiArroyo", "location": "Puerto Rico", "coord_x": -66.169350, "coord_y": 18.396064, "created_at": "2013\/03\/25", "h_m_s": "3:30:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:30:30" }, "geometry": { "type": "Point", "coordinates": [ -66.169350, 18.396064 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Should I apologize or should I leave? Ima leave.\" #shameless #life #truth", "user": "morgasbord", "location": "Tallahassee, Florida", "coord_x": -82.752077, "coord_y": 28.083394, "created_at": "2013\/03\/25", "h_m_s": "3:32:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:32:53" }, "geometry": { "type": "Point", "coordinates": [ -82.752077, 28.083394 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SHO_Shameless  i would LOVE Franks hair!!!", "user": "gzengler", "location": "CHICAGOLAND", "coord_x": -88.259377, "coord_y": 41.727473, "created_at": "2013\/03\/25", "h_m_s": "3:35:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:35:2" }, "geometry": { "type": "Point", "coordinates": [ -88.259377, 41.727473 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Swore I'd never compromise, oh but you convinced me otherwise. #Shameless", "user": "CrazeyAlex", "location": "Tuscaloosa, Alabama", "coord_x": -87.563619, "coord_y": 33.157213, "created_at": "2013\/03\/25", "h_m_s": "3:36:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:36:54" }, "geometry": { "type": "Point", "coordinates": [ -87.563619, 33.157213 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kev is gonna be a daddy. #shameless", "user": "iamluissousa", "location": "", "coord_x": -74.279419, "coord_y": 40.692881, "created_at": "2013\/03\/25", "h_m_s": "3:41:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:41:18" }, "geometry": { "type": "Point", "coordinates": [ -74.279419, 40.692881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"It gets stronger every year like a hickory tree\" -Frank #shameless", "user": "tru_warrior024", "location": "Flagstaff, AZ", "coord_x": -110.841979, "coord_y": 35.525957, "created_at": "2013\/03\/25", "h_m_s": "3:43:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:44:0" }, "geometry": { "type": "Point", "coordinates": [ -110.841979, 35.525957 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Well I knew that was going to happen. Karen you little whore. #shameless", "user": "iamluissousa", "location": "", "coord_x": -74.279503, "coord_y": 40.692695, "created_at": "2013\/03\/25", "h_m_s": "3:51:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:11" }, "geometry": { "type": "Point", "coordinates": [ -74.279503, 40.692695 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just found out Lip and Mandy actually date in real life and I'm ?????? #Shameless", "user": "melissarita", "location": "North Jersey\/Monmouth", "coord_x": -74.288612, "coord_y": 40.891429, "created_at": "2013\/03\/25", "h_m_s": "3:51:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:29" }, "geometry": { "type": "Point", "coordinates": [ -74.288612, 40.891429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#shameless then the sack", "user": "Btarz66", "location": "Marlton NJ", "coord_x": -74.901220, "coord_y": 39.875966, "created_at": "2013\/03\/25", "h_m_s": "3:52:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:52:5" }, "geometry": { "type": "Point", "coordinates": [ -74.901220, 39.875966 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm obsessed with house hunters #shameless", "user": "carefreelivinn", "location": "Maryland", "coord_x": -76.555977, "coord_y": 38.688403, "created_at": "2013\/03\/25", "h_m_s": "3:54:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:54:37" }, "geometry": { "type": "Point", "coordinates": [ -76.555977, 38.688403 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm beginning to become addicted to #shameless", "user": "BreeBreeHeather", "location": "Laredo, Texas", "coord_x": -99.430829, "coord_y": 27.491597, "created_at": "2013\/03\/25", "h_m_s": "3:55:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:7" }, "geometry": { "type": "Point", "coordinates": [ -99.430829, 27.491597 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I went down on her ! I went down like I was drinking a cup of ambrosia. You gotta get the word out, I found the cure to comas! Ha#shameless", "user": "DSullivanders", "location": "Amherst", "coord_x": -72.530778, "coord_y": 42.404500, "created_at": "2013\/03\/25", "h_m_s": "3:56:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:14" }, "geometry": { "type": "Point", "coordinates": [ -72.530778, 42.404500 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "White just like ya favorite meat #shameless @alyssaingrassia", "user": "stefroddriguez", "location": "20\/DoingMe™", "coord_x": -73.371492, "coord_y": 40.684269, "created_at": "2013\/03\/25", "h_m_s": "4:0:4", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:0:5" }, "geometry": { "type": "Point", "coordinates": [ -73.371492, 40.684269 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@california_be: #Shameless tonight!” :(", "user": "ElTiraMocos", "location": "LongBeach", "coord_x": -118.140602, "coord_y": 33.852500, "created_at": "2013\/03\/25", "h_m_s": "4:5:46", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:6:15" }, "geometry": { "type": "Point", "coordinates": [ -118.140602, 33.852500 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "More #Shameless now pleaseeee", "user": "mr_jayflo", "location": "Savannah, GA", "coord_x": -73.631641, "coord_y": 40.681008, "created_at": "2013\/03\/25", "h_m_s": "4:13:14", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:13:15" }, "geometry": { "type": "Point", "coordinates": [ -73.631641, 40.681008 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Can I buy you a drink?\"\r\"Make it two.\"\r#shameless", "user": "AmandaBillotti", "location": "nj", "coord_x": -74.407093, "coord_y": 40.149174, "created_at": "2013\/03\/25", "h_m_s": "4:20:33", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:20:58" }, "geometry": { "type": "Point", "coordinates": [ -74.407093, 40.149174 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Shameless Kev and his gf finally gone have a baby !!(:", "user": "ebonievans27", "location": "Chicago", "coord_x": -88.084539, "coord_y": 42.357778, "created_at": "2013\/03\/25", "h_m_s": "4:24:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:24:17" }, "geometry": { "type": "Point", "coordinates": [ -88.084539, 42.357778 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "love @CameronMonaghan on #shameless. be my boyfriend, please.", "user": "brycappa", "location": "Boston", "coord_x": -71.076276, "coord_y": 42.338917, "created_at": "2013\/03\/25", "h_m_s": "4:24:56", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:24:57" }, "geometry": { "type": "Point", "coordinates": [ -71.076276, 42.338917 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@jonnai89 adventures are the best #Shameless", "user": "AjitGhuman", "location": "", "coord_x": -119.078107, "coord_y": 35.302219, "created_at": "2013\/03\/25", "h_m_s": "4:36:26", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:36:27" }, "geometry": { "type": "Point", "coordinates": [ -119.078107, 35.302219 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hopping in the shower then watching one of my favorite shows....  #shameless #raw #mylife #addiction… http:\/\/t.co\/yF9NU394To", "user": "DGamble666", "location": "west philadelphia", "coord_x": -75.262552, "coord_y": 39.922094, "created_at": "2013\/03\/25", "h_m_s": "4:44:54", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:45:11" }, "geometry": { "type": "Point", "coordinates": [ -75.262552, 39.922094 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wish I had some ice cream to go with #SHAMELESS.", "user": "Michael_W_Green", "location": "Rocklin, Ca", "coord_x": -121.207252, "coord_y": 38.787343, "created_at": "2013\/03\/25", "h_m_s": "4:56:6", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:56:7" }, "geometry": { "type": "Point", "coordinates": [ -121.207252, 38.787343 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Do you want another drink?\" \"...Does Dolly Parton sleep on her back?\" #uk #shameless #hahahaha", "user": "CoreyLGarcia", "location": "Santa Fe, NM", "coord_x": -105.958134, "coord_y": 35.652994, "created_at": "2013\/03\/25", "h_m_s": "5:2:39", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:3:0" }, "geometry": { "type": "Point", "coordinates": [ -105.958134, 35.652994 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Jaw dropped #Shameless", "user": "Chelsless", "location": "Everett, WA", "coord_x": -122.403714, "coord_y": 48.100685, "created_at": "2013\/03\/25", "h_m_s": "5:6:41", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:6:42" }, "geometry": { "type": "Point", "coordinates": [ -122.403714, 48.100685 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MrDQJ you know I live and die by @SHO_Shameless and man I feel like it's getting dire", "user": "frankenlincoln", "location": "Philadelphia, PA", "coord_x": -75.173897, "coord_y": 39.967105, "created_at": "2013\/03\/25", "h_m_s": "5:8:32", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:8:33" }, "geometry": { "type": "Point", "coordinates": [ -75.173897, 39.967105 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm impartial because Karen is a man water  but she did not deserve that #shameless #showtime #lipandkaren", "user": "jo_gro", "location": "thousand oaks, california", "coord_x": -118.877895, "coord_y": 34.214822, "created_at": "2013\/03\/25", "h_m_s": "5:27:18", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:27:19" }, "geometry": { "type": "Point", "coordinates": [ -118.877895, 34.214822 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#shameless", "user": "asiajamesss", "location": "", "coord_x": -118.560703, "coord_y": 34.464497, "created_at": "2013\/03\/25", "h_m_s": "5:40:35", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:40:43" }, "geometry": { "type": "Point", "coordinates": [ -118.560703, 34.464497 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"How many slaves do you think George Washington had sex with.\" Dyin already. #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712981, "coord_y": 37.273327, "created_at": "2013\/03\/25", "h_m_s": "6:17:7", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:17:8" }, "geometry": { "type": "Point", "coordinates": [ -76.712981, 37.273327 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Still can't believe she hit her!! #shameless", "user": "D_visBritt", "location": "", "coord_x": -80.612123, "coord_y": 41.946861, "created_at": "2013\/03\/25", "h_m_s": "6:17:53", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:17:54" }, "geometry": { "type": "Point", "coordinates": [ -80.612123, 41.946861 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Debs is so great. She gets more awesome every season. #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712932, "coord_y": 37.273321, "created_at": "2013\/03\/25", "h_m_s": "6:27:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:27:46" }, "geometry": { "type": "Point", "coordinates": [ -76.712932, 37.273321 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tearing up at Lip just LOOKING at Karen. Dnsndhjsjsh. #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.713016, "coord_y": 37.273298, "created_at": "2013\/03\/25", "h_m_s": "6:34:18", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:34:19" }, "geometry": { "type": "Point", "coordinates": [ -76.713016, 37.273298 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I need more Ian and Lip scenes like these. Gallagher boys wuaagghhh ;____; #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712923, "coord_y": 37.273329, "created_at": "2013\/03\/25", "h_m_s": "6:40:32", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:40:40" }, "geometry": { "type": "Point", "coordinates": [ -76.712923, 37.273329 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Fiona's boss is so cute sosososo cute ?? #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712991, "coord_y": 37.273288, "created_at": "2013\/03\/25", "h_m_s": "6:46:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:46:43" }, "geometry": { "type": "Point", "coordinates": [ -76.712991, 37.273288 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Absolutely love #Shameless !!! #Showtime TV with guts.", "user": "LiberalCindy", "location": "Fresno", "coord_x": -119.774813, "coord_y": 36.851860, "created_at": "2013\/03\/25", "h_m_s": "6:50:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:50:32" }, "geometry": { "type": "Point", "coordinates": [ -119.774813, 36.851860 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love @emmyrossum on #Shameless! She is so lovely :)", "user": "LiberalCindy", "location": "Fresno", "coord_x": -119.774876, "coord_y": 36.852184, "created_at": "2013\/03\/25", "h_m_s": "6:54:23", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:54:24" }, "geometry": { "type": "Point", "coordinates": [ -119.774876, 36.852184 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "dbskskshhdshd I HAVE A BIG DUMB GRIN I CAN'T SHAKE AND I TEARED UP BC KEV AND V!!!!! #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.713015, "coord_y": 37.273301, "created_at": "2013\/03\/25", "h_m_s": "6:58:1", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:58:2" }, "geometry": { "type": "Point", "coordinates": [ -76.713015, 37.273301 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Don't be the guy who lies. Don't be that guy.\" Ha. Haaaaa. Ha #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712944, "coord_y": 37.273321, "created_at": "2013\/03\/25", "h_m_s": "7:2:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:2:43" }, "geometry": { "type": "Point", "coordinates": [ -76.712944, 37.273321 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I found the cure to comas!!\" JODY O M F G #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712988, "coord_y": 37.273038, "created_at": "2013\/03\/25", "h_m_s": "7:7:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:7:17" }, "geometry": { "type": "Point", "coordinates": [ -76.712988, 37.273038 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There pregnant!!!! #shameless", "user": "D_visBritt", "location": "", "coord_x": -80.612142, "coord_y": 41.946855, "created_at": "2013\/03\/25", "h_m_s": "7:8:24", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:8:25" }, "geometry": { "type": "Point", "coordinates": [ -80.612142, 41.946855 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Mike &gt; Jimmy also he's way cuter #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.713022, "coord_y": 37.273282, "created_at": "2013\/03\/25", "h_m_s": "7:13:20", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:13:21" }, "geometry": { "type": "Point", "coordinates": [ -76.713022, 37.273282 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wish they would stop giving 15 minutes of screen time to frank!??? Give it to Debs and Ian please #shameless", "user": "grrraciecat", "location": "virginia 703\/540", "coord_x": -76.712924, "coord_y": 37.273328, "created_at": "2013\/03\/25", "h_m_s": "7:14:41", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:14:42" }, "geometry": { "type": "Point", "coordinates": [ -76.712924, 37.273328 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"It's like a hickory tree... gets stronger every year.\" #Shameless FTW", "user": "ColdMasterFIVE", "location": "The city by the bay", "coord_x": -122.431648, "coord_y": 37.664917, "created_at": "2013\/03\/25", "h_m_s": "8:16:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:16:49" }, "geometry": { "type": "Point", "coordinates": [ -122.431648, 37.664917 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Since I'm awake I will watch my recorded #Shameless... love it!!!", "user": "cRy915", "location": "All Over Tha Place :)", "coord_x": -87.244404, "coord_y": 35.480152, "created_at": "2013\/03\/25", "h_m_s": "8:19:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:19:49" }, "geometry": { "type": "Point", "coordinates": [ -87.244404, 35.480152 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SHO_Shameless wuz 0ne hunnit...as usual", "user": "SONoFdaSOUTH", "location": "#VillePlattnum #MONEYANA", "coord_x": -92.282530, "coord_y": 30.684244, "created_at": "2013\/03\/25", "h_m_s": "9:34:0", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:34:1" }, "geometry": { "type": "Point", "coordinates": [ -92.282530, 30.684244 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love the show #shameless @elvisduran", "user": "msjohnson86", "location": "riverside, ri", "coord_x": -71.404500, "coord_y": 41.861850, "created_at": "2013\/03\/25", "h_m_s": "12:24:2", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:24:3" }, "geometry": { "type": "Point", "coordinates": [ -71.404500, 41.861850 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That awkward moment when your husband has sex with your mom bc you can't get pregnant #shameless", "user": "PeesOnTrees", "location": "My bed.", "coord_x": -84.386156, "coord_y": 33.768275, "created_at": "2013\/03\/25", "h_m_s": "12:39:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:39:48" }, "geometry": { "type": "Point", "coordinates": [ -84.386156, 33.768275 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@segagenesis_x3  chilling on da bed! #bestbuy #chilling #shameless #bff #ifartyou @ Carolyne's Crib http:\/\/t.co\/JqKLw7yhff", "user": "ihappi", "location": "new york!", "coord_x": -73.812498, "coord_y": 40.696173, "created_at": "2013\/03\/25", "h_m_s": "13:17:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:17:54" }, "geometry": { "type": "Point", "coordinates": [ -73.812498, 40.696173 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@EmmaRoseKenney  Mip!!! No doubts about that! #shameless", "user": "MissMartinjia", "location": "", "coord_x": 17.258298, "coord_y": 62.389001, "created_at": "2013\/03\/25", "h_m_s": "13:27:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:27:17" }, "geometry": { "type": "Point", "coordinates": [ 17.258298, 62.389001 ] } }
+
+]
+}

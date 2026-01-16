@@ -1,0 +1,39 @@
+var thegoodwife = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Though there's no STUDIO 60 reunion between Amanda Peet &amp; Matthew Perry, tonight's THE GOOD WIFE is excellent. Great stuff for Diane, too.", "user": "ShaneSSaunders", "location": "New York via LA", "coord_x": -73.891991, "coord_y": 40.746179, "created_at": "2013\/03\/24", "h_m_s": "18:27:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:27:42" }, "geometry": { "type": "Point", "coordinates": [ -73.891991, 40.746179 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NW The good wife", "user": "MinajCongolaise", "location": "Dakar Sénégal", "coord_x": -17.459350, "coord_y": 14.720280, "created_at": "2013\/03\/24", "h_m_s": "18:34:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:34:55" }, "geometry": { "type": "Point", "coordinates": [ -17.459350, 14.720280 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Una tarde muy The Good Wife.", "user": "evacalleja", "location": "madrid", "coord_x": -3.693550, "coord_y": 40.511020, "created_at": "2013\/03\/24", "h_m_s": "19:0:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:0:44" }, "geometry": { "type": "Point", "coordinates": [ -3.693550, 40.511020 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "vedo the good wife, vediamo se mi appassiono(?)", "user": "horansrose", "location": "01.16.2013 liam followed me.", "coord_x": 16.701445, "coord_y": 41.062385, "created_at": "2013\/03\/24", "h_m_s": "21:3:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:3:46" }, "geometry": { "type": "Point", "coordinates": [ 16.701445, 41.062385 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just want to go to sleep but the Good Wife is backed up thanks to the basketball games. #thanksbasketball #not", "user": "jyoung2013", "location": "", "coord_x": -83.459028, "coord_y": 41.413991, "created_at": "2013\/03\/25", "h_m_s": "0:26:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:26:52" }, "geometry": { "type": "Point", "coordinates": [ -83.459028, 41.413991 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Comcast sucks for some reason CBS and ABC are having issues and I can't record the Good Wife or revenge", "user": "depmode40", "location": "Washington D.C.", "coord_x": -77.107173, "coord_y": 38.875793, "created_at": "2013\/03\/25", "h_m_s": "1:29:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:45" }, "geometry": { "type": "Point", "coordinates": [ -77.107173, 38.875793 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Holling Vincoeur and Walter Bishop on The Good Wife!  Thank you, awesome casting directors of #goodwife.", "user": "HobokenMartha", "location": "Hoboken, United States", "coord_x": -74.034096, "coord_y": 40.738922, "created_at": "2013\/03\/25", "h_m_s": "2:6:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:6:10" }, "geometry": { "type": "Point", "coordinates": [ -74.034096, 40.738922 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Kincades Nice appearance on @TheGoodWife_CBS tonight!", "user": "bktakeschicago", "location": "Chicago", "coord_x": -87.619022, "coord_y": 41.888675, "created_at": "2013\/03\/25", "h_m_s": "2:8:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:8:58" }, "geometry": { "type": "Point", "coordinates": [ -87.619022, 41.888675 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheGoodWife_CBS gets better every week! #GoodWifeGoodTV", "user": "hayeskristyl", "location": "Memphis, Tennessee, USA", "coord_x": -89.815676, "coord_y": 35.162285, "created_at": "2013\/03\/25", "h_m_s": "2:56:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:56:41" }, "geometry": { "type": "Point", "coordinates": [ -89.815676, 35.162285 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Was pretty psyched to see Dr. Walter Bishop making an appearance on The Good Wife tonight. @CBS #Fringe", "user": "dnuto", "location": "", "coord_x": -104.992237, "coord_y": 39.754933, "created_at": "2013\/03\/25", "h_m_s": "3:48:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:48:39" }, "geometry": { "type": "Point", "coordinates": [ -104.992237, 39.754933 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@noregoncoast @onceupontimeabc can't wait till I get the money &amp; buy the seasons. The Good Wife is in season 4 &amp;I just got season1.!!", "user": "Zoyacat", "location": "Natick,Massachusetts", "coord_x": -71.401432, "coord_y": 42.291938, "created_at": "2013\/03\/25", "h_m_s": "3:48:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:48:41" }, "geometry": { "type": "Point", "coordinates": [ -71.401432, 42.291938 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So, watching The Good Wife for the first time... Isn't that Martha May Whovier? And the Floop's Fooglies guy from Spy Kids? #thisisawesome", "user": "mnhalvorson", "location": "San Luis Obispo, CA", "coord_x": -159.471525, "coord_y": 22.221106, "created_at": "2013\/03\/25", "h_m_s": "6:16:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:16:32" }, "geometry": { "type": "Point", "coordinates": [ -159.471525, 22.221106 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "OMG! John Noble (Walter Bishop) on The Good Wife! #fringe", "user": "peterjwu", "location": "New York", "coord_x": -75.171991, "coord_y": 39.950444, "created_at": "2013\/03\/25", "h_m_s": "6:16:51", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:16:52" }, "geometry": { "type": "Point", "coordinates": [ -75.171991, 39.950444 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Wow the Good Wife!!!!", "user": "alexlepianka", "location": "Vancouver", "coord_x": -122.615904, "coord_y": 49.230408, "created_at": "2013\/03\/25", "h_m_s": "6:40:27", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:40:40" }, "geometry": { "type": "Point", "coordinates": [ -122.615904, 49.230408 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Faut que je me fasse le nouvel épi de The Walking Dead et The Good wife !", "user": "Julitchie", "location": "at the pursuit of hapiness", "coord_x": 4.765656, "coord_y": 44.047896, "created_at": "2013\/03\/25", "h_m_s": "12:2:33", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:2:34" }, "geometry": { "type": "Point", "coordinates": [ 4.765656, 44.047896 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ah Walter Bishop dans the good wife. &lt;3", "user": "iwalid", "location": "Au pays des Nems, China.", "coord_x": 121.553390, "coord_y": 29.855918, "created_at": "2013\/03\/25", "h_m_s": "13:27:3", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:27:4" }, "geometry": { "type": "Point", "coordinates": [ 121.553390, 29.855918 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Walter in The Good Wife! &lt;3", "user": "jenryv2", "location": "Makati City, Philippines", "coord_x": 121.011131, "coord_y": 14.559284, "created_at": "2013\/03\/25", "h_m_s": "13:33:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:33:45" }, "geometry": { "type": "Point", "coordinates": [ 121.011131, 14.559284 ] } }
+
+]
+}

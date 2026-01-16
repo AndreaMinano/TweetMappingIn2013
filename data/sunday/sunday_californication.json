@@ -1,0 +1,101 @@
+var californication = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "#Californication", "user": "Amandine_Montel", "location": "", "coord_x": 2.671416, "coord_y": 43.233427, "created_at": "2013\/03\/24", "h_m_s": "17:30:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:30:32" }, "geometry": { "type": "Point", "coordinates": [ 2.671416, 43.233427 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@llindseee: Out of stock of RHCP 'Californication' #LP, but it's easy to order; $29.99. Let me know if you want it. Thx! Mark at DD", "user": "DrDiscHamilton", "location": "Hamilton, Ontario, CANADA", "coord_x": -79.867110, "coord_y": 43.259207, "created_at": "2013\/03\/24", "h_m_s": "17:36:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:37:0" }, "geometry": { "type": "Point", "coordinates": [ -79.867110, 43.259207 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CamEsclar en plus tu t'es encore trompée! c'est californication putain", "user": "11Laris", "location": "Tuchan", "coord_x": 2.718932, "coord_y": 42.890308, "created_at": "2013\/03\/24", "h_m_s": "18:17:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:17:6" }, "geometry": { "type": "Point", "coordinates": [ 2.718932, 42.890308 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "En mode visionnage #Californication #Saison6", "user": "JorgioBorgia", "location": "#97142 #Guadeloupe #WestIndies", "coord_x": -61.526856, "coord_y": 16.255651, "created_at": "2013\/03\/24", "h_m_s": "18:55:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:55:9" }, "geometry": { "type": "Point", "coordinates": [ -61.526856, 16.255651 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "CALIFORNICATION!", "user": "maiderirusta", "location": "", "coord_x": -2.939020, "coord_y": 43.410484, "created_at": "2013\/03\/24", "h_m_s": "19:1:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:1:7" }, "geometry": { "type": "Point", "coordinates": [ -2.939020, 43.410484 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Californication with @garon89 and @Xanatosz90 (@ Kitti-Lak) http:\/\/t.co\/aJzsRRLQh3", "user": "omenfrezia", "location": "", "coord_x": 19.047914, "coord_y": 47.504755, "created_at": "2013\/03\/24", "h_m_s": "19:21:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:21:35" }, "geometry": { "type": "Point", "coordinates": [ 19.047914, 47.504755 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching up on californication, @timminchin's character is incredible.", "user": "gushunter", "location": "ÜT: 51.074382,-1.29784", "coord_x": -1.867706, "coord_y": 51.080747, "created_at": "2013\/03\/24", "h_m_s": "19:22:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:22:8" }, "geometry": { "type": "Point", "coordinates": [ -1.867706, 51.080747 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication . If you're currently anywhere else but the Bay Area, I feel sorry for you", "user": "meganwirth", "location": "San Jose, Ca", "coord_x": -121.931922, "coord_y": 37.316479, "created_at": "2013\/03\/24", "h_m_s": "20:27:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:27:35" }, "geometry": { "type": "Point", "coordinates": [ -121.931922, 37.316479 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dream of californication", "user": "ThatsCassForYa", "location": "Diiiiirty Jersey.", "coord_x": -74.003444, "coord_y": 40.304959, "created_at": "2013\/03\/24", "h_m_s": "20:41:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:41:31" }, "geometry": { "type": "Point", "coordinates": [ -74.003444, 40.304959 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Straks lekker weer californication", "user": "The_marnick", "location": "", "coord_x": 4.618202, "coord_y": 51.970832, "created_at": "2013\/03\/24", "h_m_s": "20:46:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:47:0" }, "geometry": { "type": "Point", "coordinates": [ 4.618202, 51.970832 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "californication,", "user": "wyattd2_R4W", "location": "", "coord_x": -84.609956, "coord_y": 35.431493, "created_at": "2013\/03\/24", "h_m_s": "21:5:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:5:18" }, "geometry": { "type": "Point", "coordinates": [ -84.609956, 35.431493 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Na!\"@khaycii: Always still Californication, always! \"@Kittyudu: Lagfornication or Abujafornication,sides of d same coin.\"\"", "user": "Kittyudu", "location": "Utopia", "coord_x": 3.446110, "coord_y": 6.436420, "created_at": "2013\/03\/24", "h_m_s": "21:22:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:22:58" }, "geometry": { "type": "Point", "coordinates": [ 3.446110, 6.436420 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication &gt;&gt;&gt;&gt;&gt; (cc@CookMlvn)", "user": "JulienLlvre", "location": "", "coord_x": -1.632461, "coord_y": 49.642141, "created_at": "2013\/03\/24", "h_m_s": "21:30:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:30:43" }, "geometry": { "type": "Point", "coordinates": [ -1.632461, 49.642141 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication &gt;&gt;&gt;&gt;&gt;&gt; @CookMlvn", "user": "JulienLlvre", "location": "", "coord_x": -1.632535, "coord_y": 49.642181, "created_at": "2013\/03\/24", "h_m_s": "21:31:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:31:32" }, "geometry": { "type": "Point", "coordinates": [ -1.632535, 49.642181 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication 5x01", "user": "AlanMorenoB", "location": "Gotham City.", "coord_x": -3.609020, "coord_y": 40.447470, "created_at": "2013\/03\/24", "h_m_s": "21:41:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:41:36" }, "geometry": { "type": "Point", "coordinates": [ -3.609020, 40.447470 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gewoon kippenvel van #californication", "user": "The_marnick", "location": "", "coord_x": 4.617747, "coord_y": 51.970925, "created_at": "2013\/03\/24", "h_m_s": "21:42:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:42:22" }, "geometry": { "type": "Point", "coordinates": [ 4.617747, 51.970925 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication &lt;3 @ 27°C http:\/\/t.co\/m2vwocS0os", "user": "Tah_Cristina1", "location": "Acampamento Meio-Sangue", "coord_x": -34.970583, "coord_y": -8.079033, "created_at": "2013\/03\/25", "h_m_s": "0:5:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:5:58" }, "geometry": { "type": "Point", "coordinates": [ -34.970583, -8.079033 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Verdrietig einde van Californication, bah :-(", "user": "Swefan", "location": "", "coord_x": 5.233201, "coord_y": 51.951483, "created_at": "2013\/03\/25", "h_m_s": "0:23:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:23:15" }, "geometry": { "type": "Point", "coordinates": [ 5.233201, 51.951483 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@lddio Perchè la produzione di #Californication ha scelto una figlia tanto dissimile da quei gran fighi di Hank e Karen Moody?!", "user": "SusyVenta", "location": "", "coord_x": 9.367919, "coord_y": 45.651056, "created_at": "2013\/03\/25", "h_m_s": "0:27:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:27:39" }, "geometry": { "type": "Point", "coordinates": [ 9.367919, 45.651056 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#2brokegirls e #californication mi fanno venire la passione per i telefilm che non ho.", "user": "halavisie", "location": "San Severo-Bo-world's citizen", "coord_x": 11.288411, "coord_y": 44.512971, "created_at": "2013\/03\/25", "h_m_s": "0:38:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:38:54" }, "geometry": { "type": "Point", "coordinates": [ 11.288411, 44.512971 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And if you want these kind of dreams it's californication", "user": "pfvrxu", "location": "Rio Grande do Sul", "coord_x": -51.056931, "coord_y": -30.072391, "created_at": "2013\/03\/25", "h_m_s": "0:43:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:43:26" }, "geometry": { "type": "Point", "coordinates": [ -51.056931, -30.072391 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes time for shameless and Californication. #bestshows ????", "user": "bassnake", "location": "440 Ohio", "coord_x": -82.219687, "coord_y": 41.173330, "created_at": "2013\/03\/25", "h_m_s": "0:59:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:59:15" }, "geometry": { "type": "Point", "coordinates": [ -82.219687, 41.173330 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hank Moody is my hero. #californication", "user": "xraymission", "location": "Centerville, MA, Cape Cod USA", "coord_x": -70.359489, "coord_y": 41.665120, "created_at": "2013\/03\/25", "h_m_s": "1:42:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:42:33" }, "geometry": { "type": "Point", "coordinates": [ -70.359489, 41.665120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sunday Night line-up doesn't include $ES_F stalking.  It does include Californication, Celebrity Apprentice &amp; Walking Dead.", "user": "JustinPulitzer", "location": "New York City", "coord_x": -73.962438, "coord_y": 40.772818, "created_at": "2013\/03\/25", "h_m_s": "2:2:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:2:48" }, "geometry": { "type": "Point", "coordinates": [ -73.962438, 40.772818 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The girl in Taken is plays a polar opposite type of chick in Californication", "user": "_Scal_", "location": "", "coord_x": -74.211874, "coord_y": 40.523968, "created_at": "2013\/03\/25", "h_m_s": "2:44:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:44:41" }, "geometry": { "type": "Point", "coordinates": [ -74.211874, 40.523968 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@LBarraco my sunday lineup consists of \"shameless\" \"house of lies\" and \"californication\". Starz number one fan!", "user": "M_craw_daddy", "location": "Walnut Creek, CA", "coord_x": -122.053885, "coord_y": 37.899962, "created_at": "2013\/03\/25", "h_m_s": "2:49:8", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:49:9" }, "geometry": { "type": "Point", "coordinates": [ -122.053885, 37.899962 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Walking dead,shameless and Californication make my Sundays! Next week Game of Thrones is back!!!", "user": "jacuk21", "location": "", "coord_x": -84.562427, "coord_y": 38.022507, "created_at": "2013\/03\/25", "h_m_s": "2:58:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:58:38" }, "geometry": { "type": "Point", "coordinates": [ -84.562427, 38.022507 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Spending the remainder of my evening with Hank Moody #californication", "user": "jkenny_", "location": "East Lansing", "coord_x": -84.493768, "coord_y": 42.737636, "created_at": "2013\/03\/25", "h_m_s": "2:58:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:58:38" }, "geometry": { "type": "Point", "coordinates": [ -84.493768, 42.737636 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dream of Californication (8) @ Entre o céu e o inferno http:\/\/t.co\/1JadE2LqkA", "user": "ItsThaisFreitas", "location": "entre o céu e o inferno", "coord_x": -41.311641, "coord_y": -21.744745, "created_at": "2013\/03\/25", "h_m_s": "3:9:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:9:55" }, "geometry": { "type": "Point", "coordinates": [ -41.311641, -21.744745 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@_Anthony_k dexter ou  californication! Ambos são muito legais", "user": "ReNaTo__YuDi", "location": "Las Vegas", "coord_x": 136.097818, "coord_y": 35.132958, "created_at": "2013\/03\/25", "h_m_s": "4:1:0", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:1:1" }, "geometry": { "type": "Point", "coordinates": [ 136.097818, 35.132958 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching too much Californication warps my otherwise impeccable moral sensibilities", "user": "ScottAlfonso81", "location": "", "coord_x": 115.822905, "coord_y": -31.934334, "created_at": "2013\/03\/25", "h_m_s": "4:4:29", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:4:30" }, "geometry": { "type": "Point", "coordinates": [ 115.822905, -31.934334 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Era um garoto lá da escola, no caminho, escutando bem alto californication", "user": "tainarairikawa", "location": "Aracaju", "coord_x": -37.073362, "coord_y": -10.974732, "created_at": "2013\/03\/25", "h_m_s": "4:10:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:10:32" }, "geometry": { "type": "Point", "coordinates": [ -37.073362, -10.974732 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "???? ?? ?????, ???? ?????? ?????? ??????? ?? ? Californication ? ???? ????? ????. ?? ??? ?????? ??????? ???? ??. ??? ??? ?? ?????-?????)", "user": "SanyaKolesnikov", "location": "Vol", "coord_x": 30.281796, "coord_y": 60.209742, "created_at": "2013\/03\/25", "h_m_s": "4:33:1", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:33:2" }, "geometry": { "type": "Point", "coordinates": [ 30.281796, 60.209742 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@MaggieGrace you made season 6 of californication!????", "user": "georgie_boy_24", "location": "GoodOleTexas!!", "coord_x": -97.130438, "coord_y": 33.197429, "created_at": "2013\/03\/25", "h_m_s": "5:12:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:12:16" }, "geometry": { "type": "Point", "coordinates": [ -97.130438, 33.197429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cereal, Japanese candy and Californication to start my spring break.", "user": "bItatani", "location": "", "coord_x": -121.838011, "coord_y": 37.371443, "created_at": "2013\/03\/25", "h_m_s": "5:52:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:52:49" }, "geometry": { "type": "Point", "coordinates": [ -121.838011, 37.371443 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "? ???? ?????? ???????? ????,????? ?? ????????? ????????,? ?? ????? #californication", "user": "milyulya", "location": "????", "coord_x": 73.307441, "coord_y": 55.048439, "created_at": "2013\/03\/25", "h_m_s": "6:21:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:21:17" }, "geometry": { "type": "Point", "coordinates": [ 73.307441, 55.048439 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dream of Californication", "user": "StevenDontCare_", "location": "Chino", "coord_x": -117.680929, "coord_y": 33.951380, "created_at": "2013\/03\/25", "h_m_s": "7:28:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:28:23" }, "geometry": { "type": "Point", "coordinates": [ -117.680929, 33.951380 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It comes #BIG \/ 3 liters #Jack #Daniels #whiskey #californication #followme @ Auchan http:\/\/t.co\/sN1MIqnY4P", "user": "JustZheka", "location": "Minsk, Belarus", "coord_x": 21.022210, "coord_y": 52.095881, "created_at": "2013\/03\/25", "h_m_s": "7:34:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:34:9" }, "geometry": { "type": "Point", "coordinates": [ 21.022210, 52.095881 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Californication", "user": "saadh_27", "location": "", "coord_x": 35.478421, "coord_y": 33.898806, "created_at": "2013\/03\/25", "h_m_s": "7:55:27", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:55:28" }, "geometry": { "type": "Point", "coordinates": [ 35.478421, 33.898806 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Le mec de #Californication va finir par attraper le Sida a force. Je vous previens deja.", "user": "elvire_gabriel", "location": "Guadeloupe", "coord_x": 2.393732, "coord_y": 48.867537, "created_at": "2013\/03\/25", "h_m_s": "9:27:35", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:27:36" }, "geometry": { "type": "Point", "coordinates": [ 2.393732, 48.867537 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"She takes the warm and fuzzy out of cunt.\" Is this Tue brilliance I've been missing on #Californication?", "user": "melissaIvory", "location": "Tacoma, WA, USA", "coord_x": -122.414889, "coord_y": 47.198871, "created_at": "2013\/03\/25", "h_m_s": "9:49:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:49:53" }, "geometry": { "type": "Point", "coordinates": [ -122.414889, 47.198871 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NowPlayingTrack Red Hot Chili Peppers - Californication", "user": "iPauloED", "location": "Nova Prata", "coord_x": -51.615557, "coord_y": -28.764049, "created_at": "2013\/03\/25", "h_m_s": "10:18:1", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:18:2" }, "geometry": { "type": "Point", "coordinates": [ -51.615557, -28.764049 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication.", "user": "NagoreVallejo17", "location": "BILBO °Euskal Herria° |Europe|", "coord_x": -2.929239, "coord_y": 43.246362, "created_at": "2013\/03\/25", "h_m_s": "10:39:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:39:50" }, "geometry": { "type": "Point", "coordinates": [ -2.929239, 43.246362 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My soundtrack: ?  \"Californication (in the Style of Red Hot Chilli Peppers)\" by Sunfly Karaoke http:\/\/t.co\/4YnVsl3Iy3", "user": "titorpahlevy", "location": "bandung | pekanbaru", "coord_x": 101.446896, "coord_y": 0.464639, "created_at": "2013\/03\/25", "h_m_s": "10:54:28", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:54:29" }, "geometry": { "type": "Point", "coordinates": [ 101.446896, 0.464639 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@IrOnMan_0821 por donde vas en Californication?", "user": "WilsonJrDiaz24", "location": "En el Mapa .l.", "coord_x": -69.968436, "coord_y": 18.451680, "created_at": "2013\/03\/25", "h_m_s": "11:14:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:14:48" }, "geometry": { "type": "Point", "coordinates": [ -69.968436, 18.451680 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Californication kijken. :)", "user": "ikbenandrew", "location": "Anouk is een liefje.", "coord_x": 4.336464, "coord_y": 51.844669, "created_at": "2013\/03\/25", "h_m_s": "13:5:37", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:5:38" }, "geometry": { "type": "Point", "coordinates": [ 4.336464, 51.844669 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dream of Californication", "user": "TheRealFender", "location": "Denver, CO", "coord_x": -104.992119, "coord_y": 39.740382, "created_at": "2013\/03\/25", "h_m_s": "13:53:14", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:53:15" }, "geometry": { "type": "Point", "coordinates": [ -104.992119, 39.740382 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Te he hecho venir con un dedo, así que imagina lo que puedo hacer con el resto ;)\" #Californication JAJAJA", "user": "aBayo18", "location": "Benicarló & Castellón", "coord_x": -0.038399, "coord_y": 39.978063, "created_at": "2013\/03\/25", "h_m_s": "14:7:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "10:7:11" }, "geometry": { "type": "Point", "coordinates": [ -0.038399, 39.978063 ] } }
+
+]
+}

@@ -1,0 +1,85 @@
+var kourtkim = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Watching kourtney and kim &lt;3", "user": "leticiaa_elena", "location": "", "coord_x": -83.523884, "coord_y": 41.619734, "created_at": "2013\/03\/24", "h_m_s": "19:27:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:27:7" }, "geometry": { "type": "Point", "coordinates": [ -83.523884, 41.619734 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami! Europa time :) #Croatia @KimKardashian @KourtneyKardash", "user": "ImFGalla", "location": "Zagreb,Croatia", "coord_x": 16.068519, "coord_y": 45.830779, "created_at": "2013\/03\/24", "h_m_s": "19:49:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:49:22" }, "geometry": { "type": "Point", "coordinates": [ 16.068519, 45.830779 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "On my fav sofa watching KOURTNEY AND KIM TAKE MIAMI (@ Kasarani  Estate) http:\/\/t.co\/J2YEm12K8a", "user": "tottie_totts", "location": "Mystique-dise", "coord_x": 36.905729, "coord_y": -1.220095, "created_at": "2013\/03\/24", "h_m_s": "20:12:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:12:21" }, "geometry": { "type": "Point", "coordinates": [ 36.905729, -1.220095 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Kourtney and kim take Miami", "user": "Zaviebabe", "location": "#money making mission", "coord_x": -84.371376, "coord_y": 33.475535, "created_at": "2013\/03\/24", "h_m_s": "20:20:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:20:39" }, "geometry": { "type": "Point", "coordinates": [ -84.371376, 33.475535 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So I started out doing homework... but somehow I'm now watching Kourtney and Kim Take Miami.... #SuckkyAttentionSpan #Distractions", "user": "princessanam97", "location": "", "coord_x": -96.909676, "coord_y": 32.977719, "created_at": "2013\/03\/24", "h_m_s": "20:41:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:41:45" }, "geometry": { "type": "Point", "coordinates": [ -96.909676, 32.977719 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching kourtney and Kim take miami is making me soo excited about going there!", "user": "Uhhleasee", "location": "in wonderland", "coord_x": -76.441004, "coord_y": 37.211594, "created_at": "2013\/03\/24", "h_m_s": "21:12:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:12:18" }, "geometry": { "type": "Point", "coordinates": [ -76.441004, 37.211594 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching kourtney and kim take Miami is one of the highlights of my parents house #cable #kimk", "user": "AbsLove07", "location": "Portland, ME", "coord_x": -70.374255, "coord_y": 44.104560, "created_at": "2013\/03\/24", "h_m_s": "21:17:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:17:3" }, "geometry": { "type": "Point", "coordinates": [ -70.374255, 44.104560 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mother would rather watch kourtney and kim than the Bible on the history channel. Wtf is wrong with that picture?!", "user": "go_sarah_go", "location": "", "coord_x": -74.293710, "coord_y": 41.363515, "created_at": "2013\/03\/24", "h_m_s": "21:27:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:27:57" }, "geometry": { "type": "Point", "coordinates": [ -74.293710, 41.363515 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Finally watching the lucky one for the first time, then kourtney and Kim take Miami ??", "user": "KoriBullock", "location": "", "coord_x": -83.355774, "coord_y": 42.298189, "created_at": "2013\/03\/24", "h_m_s": "22:20:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:20:58" }, "geometry": { "type": "Point", "coordinates": [ -83.355774, 42.298189 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Kourtney and Kim take Miami to finish off Spring Break ?", "user": "Sami_Schmitt", "location": "cf", "coord_x": -92.457116, "coord_y": 42.502174, "created_at": "2013\/03\/25", "h_m_s": "0:2:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:2:47" }, "geometry": { "type": "Point", "coordinates": [ -92.457116, 42.502174 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol is it snowing? I have been in bed all day watching Kourtney and Kim Take Miami.", "user": "codytraviss", "location": "new jersey", "coord_x": -74.484950, "coord_y": 40.588175, "created_at": "2013\/03\/25", "h_m_s": "0:27:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:27:20" }, "geometry": { "type": "Point", "coordinates": [ -74.484950, 40.588175 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim Take Miami is back April 14th yaaaaay so excited", "user": "katemcaleer", "location": "Co.Louth, Ireland.", "coord_x": -6.398819, "coord_y": 53.993577, "created_at": "2013\/03\/25", "h_m_s": "0:34:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:34:38" }, "geometry": { "type": "Point", "coordinates": [ -6.398819, 53.993577 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Church or Kourtney and Kim take Miami #decisions", "user": "mlindes", "location": "Atchy Snatchy", "coord_x": -95.114842, "coord_y": 39.571468, "created_at": "2013\/03\/25", "h_m_s": "0:44:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:44:14" }, "geometry": { "type": "Point", "coordinates": [ -95.114842, 39.571468 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@rmfrisch Kourtney and Kim take Miami and the walking dead!", "user": "meganktara", "location": "Bellefontaine, Ohio", "coord_x": -83.182561, "coord_y": 41.118379, "created_at": "2013\/03\/25", "h_m_s": "0:44:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:44:44" }, "geometry": { "type": "Point", "coordinates": [ -83.182561, 41.118379 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "KANT WAIT FOR KOURTNEY AND KIM TAKE MIAMI #KKTM @KourtneyKardash @KimKardashian", "user": "rachelmonzo", "location": "Hammonton, NJ", "coord_x": -74.783425, "coord_y": 39.655433, "created_at": "2013\/03\/25", "h_m_s": "0:49:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:37" }, "geometry": { "type": "Point", "coordinates": [ -74.783425, 39.655433 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Nobody forget to watch kourtney and Kim take Miami tonight! I was there for the filming of this episode!", "user": "Maria_Sapp", "location": "Sebastian, Florida", "coord_x": -81.988359, "coord_y": 33.515878, "created_at": "2013\/03\/25", "h_m_s": "0:49:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:49" }, "geometry": { "type": "Point", "coordinates": [ -81.988359, 33.515878 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New Kourtney and Kim Take Miami!! Soon &lt;3 &lt;3 &lt;3 &lt;3 @KimKardashian", "user": "htuttxoxo", "location": "", "coord_x": -82.464765, "coord_y": 28.535987, "created_at": "2013\/03\/25", "h_m_s": "0:51:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:51:49" }, "geometry": { "type": "Point", "coordinates": [ -82.464765, 28.535987 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So many shows on at 9! new Kourtney and Kim, new Mob Wives, new Walking Dead ?? can't keep track anymore @MobWives @WalkingDead_AMC", "user": "codytraviss", "location": "new jersey", "coord_x": -74.487131, "coord_y": 40.582187, "created_at": "2013\/03\/25", "h_m_s": "0:53:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:53:11" }, "geometry": { "type": "Point", "coordinates": [ -74.487131, 40.582187 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can't wait to watch kourtney and Kim tonight!! #love #kardashians", "user": "courtneykarnes", "location": "", "coord_x": -81.128338, "coord_y": 37.369314, "created_at": "2013\/03\/25", "h_m_s": "0:55:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:55:15" }, "geometry": { "type": "Point", "coordinates": [ -81.128338, 37.369314 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami! Woo, love my Kardashians &lt;3", "user": "korifaye77", "location": "918", "coord_x": -95.909634, "coord_y": 36.132977, "created_at": "2013\/03\/25", "h_m_s": "0:56:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:56:12" }, "geometry": { "type": "Point", "coordinates": [ -95.909634, 36.132977 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Well switching to kourtney and Kim take Miami now", "user": "Babee_C", "location": "Florida", "coord_x": -82.242645, "coord_y": 27.925853, "created_at": "2013\/03\/25", "h_m_s": "1:6:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:6:54" }, "geometry": { "type": "Point", "coordinates": [ -82.242645, 27.925853 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My brother Riley's guilty pleasure show it a Kourtney and Kim take Miami On ????", "user": "PatSpitler", "location": "", "coord_x": -84.408003, "coord_y": 42.309789, "created_at": "2013\/03\/25", "h_m_s": "1:11:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:11:3" }, "geometry": { "type": "Point", "coordinates": [ -84.408003, 42.309789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami ??", "user": "laciesuprano", "location": "Pittsburgh, PA", "coord_x": -79.816026, "coord_y": 40.501463, "created_at": "2013\/03\/25", "h_m_s": "1:15:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:15:44" }, "geometry": { "type": "Point", "coordinates": [ -79.816026, 40.501463 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I got Kourtney and Kim Take Miami recording. After I watch B ball I'm gonna see what those two are up to.", "user": "BigEdNC", "location": "Warsaw,N.C.", "coord_x": -77.898562, "coord_y": 35.190334, "created_at": "2013\/03\/25", "h_m_s": "1:17:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:55" }, "geometry": { "type": "Point", "coordinates": [ -77.898562, 35.190334 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Guys, Vienna from the Bachelor (Jake's Season) is on Kourtney and Kim Take Miami!!", "user": "TaylorrMartinnn", "location": "Maple Grove MN", "coord_x": -93.433623, "coord_y": 45.122392, "created_at": "2013\/03\/25", "h_m_s": "1:34:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:34:27" }, "geometry": { "type": "Point", "coordinates": [ -93.433623, 45.122392 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I watch too many shows: Nashville, modern family, revenge, teen mom, scandal, bates motel, kourtney and Kim take Miami......Jesus", "user": "mynameis_emily_", "location": "", "coord_x": -87.888055, "coord_y": 43.080027, "created_at": "2013\/03\/25", "h_m_s": "1:36:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:36:28" }, "geometry": { "type": "Point", "coordinates": [ -87.888055, 43.080027 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "God I can't even watch Kourtney and Kim take Miami! They are annoying and dramatic as fuck ??", "user": "dyldarnold03", "location": "Evergreen", "coord_x": -120.320309, "coord_y": 47.401425, "created_at": "2013\/03\/25", "h_m_s": "1:57:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:57:21" }, "geometry": { "type": "Point", "coordinates": [ -120.320309, 47.401425 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@bmbranch oh why have I gotten sucked in to watching Kourtney and Kim take Miami?? #addicted #hairenvy", "user": "knation77", "location": "", "coord_x": -84.187429, "coord_y": 35.893309, "created_at": "2013\/03\/25", "h_m_s": "3:4:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:4:31" }, "geometry": { "type": "Point", "coordinates": [ -84.187429, 35.893309 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Scott on kourtney and Kim take Miami is being really insulting to us country folks!!!", "user": "marissa_sams", "location": "", "coord_x": -83.641425, "coord_y": 41.361114, "created_at": "2013\/03\/25", "h_m_s": "3:16:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:16:53" }, "geometry": { "type": "Point", "coordinates": [ -83.641425, 41.361114 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Kourtney and Kim , I love Scott he's always trying new things", "user": "mermaidsss_", "location": "LA", "coord_x": -118.556928, "coord_y": 34.426654, "created_at": "2013\/03\/25", "h_m_s": "3:27:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:27:20" }, "geometry": { "type": "Point", "coordinates": [ -118.556928, 34.426654 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love tonight's episode of Kourtney and Kim Take Miami.", "user": "Jenna_Burton", "location": "Knoxville, TN", "coord_x": -84.091566, "coord_y": 35.903341, "created_at": "2013\/03\/25", "h_m_s": "3:37:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:37:32" }, "geometry": { "type": "Point", "coordinates": [ -84.091566, 35.903341 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami @KourtneyKardash @KimKardashian #spraytanning", "user": "chelsearebber", "location": "", "coord_x": -101.979993, "coord_y": 32.731360, "created_at": "2013\/03\/25", "h_m_s": "3:38:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:38:54" }, "geometry": { "type": "Point", "coordinates": [ -101.979993, 32.731360 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My Typical Sunday Nightt||Chillin Painting My Nails And Watching Kourtney And Kim Take Miami.??????", "user": "Jennayybabee_cx", "location": "??????????????", "coord_x": -118.077718, "coord_y": 33.877633, "created_at": "2013\/03\/25", "h_m_s": "4:2:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:2:49" }, "geometry": { "type": "Point", "coordinates": [ -118.077718, 33.877633 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim tonight ??", "user": "paigienick", "location": "California\/Texas ?", "coord_x": -106.591012, "coord_y": 31.848447, "created_at": "2013\/03\/25", "h_m_s": "4:5:46", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:6:15" }, "geometry": { "type": "Point", "coordinates": [ -106.591012, 31.848447 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I am so against killing animals for fun.. Kourtney and Kim take Miami is not in my good books right now", "user": "sarevincent", "location": "", "coord_x": -79.653023, "coord_y": 43.513917, "created_at": "2013\/03\/25", "h_m_s": "4:22:50", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:22:51" }, "geometry": { "type": "Point", "coordinates": [ -79.653023, 43.513917 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ew Vienna from bachelor is on Kourtney and Kim take Miami. I never wanted to see her ugly ass face again.", "user": "amandaplease7", "location": "", "coord_x": -121.256353, "coord_y": 38.804560, "created_at": "2013\/03\/25", "h_m_s": "4:45:51", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:45:52" }, "geometry": { "type": "Point", "coordinates": [ -121.256353, 38.804560 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami. Don't talk to me for the next hour ?", "user": "itsalexcolonna", "location": "", "coord_x": -117.819664, "coord_y": 33.718846, "created_at": "2013\/03\/25", "h_m_s": "6:11:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:12:17" }, "geometry": { "type": "Point", "coordinates": [ -117.819663, 33.718846 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching kourtney and kim take miami", "user": "_SheLoveCasz", "location": "BAKERSFIELD california.", "coord_x": -119.226807, "coord_y": 34.263813, "created_at": "2013\/03\/25", "h_m_s": "6:49:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:49:49" }, "geometry": { "type": "Point", "coordinates": [ -119.226806, 34.263813 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ontbijten, kourtney and Kim take Miami kijken en richting toptraining en naar se fysio", "user": "xanneroeg", "location": "", "coord_x": 5.041649, "coord_y": 52.511375, "created_at": "2013\/03\/25", "h_m_s": "8:41:59", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:42:0" }, "geometry": { "type": "Point", "coordinates": [ 5.041649, 52.511375 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Kourtney and Kim take Miami starts in the UK sooooon", "user": "aimee_jo_hodg", "location": "", "coord_x": -0.949539, "coord_y": 53.634849, "created_at": "2013\/03\/25", "h_m_s": "12:20:30", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:20:32" }, "geometry": { "type": "Point", "coordinates": [ -0.949539, 53.634849 ] } }
+
+]
+}

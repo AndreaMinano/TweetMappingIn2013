@@ -1,0 +1,633 @@
+var familyguy = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "\"it's not easy being cheesy\" I &lt;3 family guy lmao", "user": "BlazianHippie", "location": "Strong Beach", "coord_x": -118.120740, "coord_y": 33.784596, "created_at": "2013\/03\/24", "h_m_s": "17:32:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:32:9" }, "geometry": { "type": "Point", "coordinates": [ -118.120740, 33.784596 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ReaIMilaKunis You know what sucks? No matter what you say, I picture Meg Griffin saying it. Family Guy has successfully skewed my reality.", "user": "allencommabeau", "location": "Palm Coast", "coord_x": -81.248208, "coord_y": 29.593789, "created_at": "2013\/03\/24", "h_m_s": "18:18:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:18:4" }, "geometry": { "type": "Point", "coordinates": [ -81.248208, 29.593789 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@johankucukaslan: Jag vet en minister som tittat alldeles för mycket på Family Guy. http:\/\/t.co\/pLlrasOJBr” hmm!!", "user": "jiko_jiwar", "location": "", "coord_x": 16.587460, "coord_y": 59.915372, "created_at": "2013\/03\/24", "h_m_s": "18:43:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:43:34" }, "geometry": { "type": "Point", "coordinates": [ 16.587460, 59.915372 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't know if i want to watch Family Guy or Ghost Adventures. Why is my life so hard? #thirdworldproblems", "user": "MissStinaLou", "location": "Liverpool", "coord_x": -2.983601, "coord_y": 53.422229, "created_at": "2013\/03\/24", "h_m_s": "18:52:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:52:22" }, "geometry": { "type": "Point", "coordinates": [ -2.983601, 53.422229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Should work on thesis but decided i would rather watch family guy and make goat cheese deviled eggs! #EffIt", "user": "operagy92", "location": "Knoxville, TN", "coord_x": -84.163652, "coord_y": 35.956202, "created_at": "2013\/03\/24", "h_m_s": "19:5:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:5:21" }, "geometry": { "type": "Point", "coordinates": [ -84.163652, 35.956202 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "when u realize Meg Griffin from Family Guy is actually Mila Kunis. wow", "user": "carlcee213", "location": "LA , Cali", "coord_x": -118.265581, "coord_y": 34.058557, "created_at": "2013\/03\/24", "h_m_s": "19:24:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:24:10" }, "geometry": { "type": "Point", "coordinates": [ -118.265581, 34.058557 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching some Family Guy. I love this show! ??", "user": "Stacy_Lauren18", "location": "New Jersey\/Pennsylvania", "coord_x": -74.212331, "coord_y": 40.710222, "created_at": "2013\/03\/24", "h_m_s": "19:27:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:27:57" }, "geometry": { "type": "Point", "coordinates": [ -74.212331, 40.710222 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't even know why I like Family Guy so much. #soold", "user": "KarissaDamery", "location": "Fredericton, New Brunswick", "coord_x": -66.561944, "coord_y": 45.857201, "created_at": "2013\/03\/24", "h_m_s": "19:28:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "15:28:22" }, "geometry": { "type": "Point", "coordinates": [ -66.561944, 45.857201 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@Xtaneer: YESS!!! BIG TIME RUSH ZOMETEEN!!! KK LAUWE SERIEE!!!!!\"gay er is family guy.", "user": "hamzzaa38", "location": "078 oud krispijn", "coord_x": 4.660418, "coord_y": 51.803767, "created_at": "2013\/03\/24", "h_m_s": "20:0:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:0:15" }, "geometry": { "type": "Point", "coordinates": [ 4.660419, 51.803767 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "All I've done today is watch family guy and cry at everything I can't afford on wanelo", "user": "rrolstinxo", "location": "Ontario", "coord_x": -79.452927, "coord_y": 44.223216, "created_at": "2013\/03\/24", "h_m_s": "20:9:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:9:15" }, "geometry": { "type": "Point", "coordinates": [ -79.452927, 44.223216 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The funniest family guy episodes are Stewie and Brian episodes.", "user": "austindawildcat", "location": "Astral Planes", "coord_x": -96.453859, "coord_y": 33.995241, "created_at": "2013\/03\/24", "h_m_s": "20:13:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:13:3" }, "geometry": { "type": "Point", "coordinates": [ -96.453859, 33.995241 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@OhreallyKim was watching project x and family guy", "user": "Sum41_Will", "location": "Manchester\/Holywell", "coord_x": -3.227789, "coord_y": 53.272941, "created_at": "2013\/03\/24", "h_m_s": "20:19:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:19:47" }, "geometry": { "type": "Point", "coordinates": [ -3.227789, 53.272941 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@DijkstraNL: Giggity giggity goooooo\" Family Guy hahaha", "user": "_hemoglobine_", "location": "Veldhoven", "coord_x": 5.392088, "coord_y": 51.412930, "created_at": "2013\/03\/24", "h_m_s": "20:24:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:24:58" }, "geometry": { "type": "Point", "coordinates": [ 5.392088, 51.412930 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@heyimvikki I don't understand family guy memes.", "user": "IncredibleBacon", "location": "", "coord_x": -2.658774, "coord_y": 56.805979, "created_at": "2013\/03\/24", "h_m_s": "20:26:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:26:7" }, "geometry": { "type": "Point", "coordinates": [ -2.658774, 56.805979 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw family guy", "user": "rabih_takkoush", "location": "Beirut, Lebanon", "coord_x": 35.497980, "coord_y": 33.884890, "created_at": "2013\/03\/24", "h_m_s": "20:34:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:35:0" }, "geometry": { "type": "Point", "coordinates": [ 35.497980, 33.884890 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TV6 levererar världens bästa program. Family Guy.", "user": "maartinkarlsson", "location": "Skärhamn\/Alingsås, Sweden", "coord_x": 11.548065, "coord_y": 57.995726, "created_at": "2013\/03\/24", "h_m_s": "20:37:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:37:52" }, "geometry": { "type": "Point", "coordinates": [ 11.548065, 57.995726 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@CerysOwen12: Haribo and family guy with this guy http:\/\/t.co\/bnNuXlTKkA” ??xx", "user": "DannyEllis_7", "location": "Hale", "coord_x": -2.329274, "coord_y": 53.378622, "created_at": "2013\/03\/24", "h_m_s": "20:41:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:41:39" }, "geometry": { "type": "Point", "coordinates": [ -2.329274, 53.378622 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Who hurt you, who hurt you ??\" -family guy", "user": "rrolstinxo", "location": "Ontario", "coord_x": -79.452875, "coord_y": 44.223090, "created_at": "2013\/03\/24", "h_m_s": "20:48:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:48:19" }, "geometry": { "type": "Point", "coordinates": [ -79.452875, 44.223090 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DyingToRace @jmverlin ..I seriously never pieced that together. I simply thought of the Convenient Store guy from Family Guy. Thank you.", "user": "kylegauss", "location": "Philadelphia, Pennsylvania", "coord_x": -75.159172, "coord_y": 39.978904, "created_at": "2013\/03\/24", "h_m_s": "20:53:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "16:53:19" }, "geometry": { "type": "Point", "coordinates": [ -75.159172, 39.978904 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Stevooo24 Family Guy??", "user": "rachel_powell85", "location": "Oxfordshire", "coord_x": -1.227393, "coord_y": 51.601940, "created_at": "2013\/03\/24", "h_m_s": "21:6:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:6:12" }, "geometry": { "type": "Point", "coordinates": [ -1.227393, 51.601940 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@tobilobaeso100: family guy\" shobaloba", "user": "Stiffmeister_a", "location": "ABJ", "coord_x": 0.162000, "coord_y": 51.567290, "created_at": "2013\/03\/24", "h_m_s": "21:8:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:8:28" }, "geometry": { "type": "Point", "coordinates": [ 0.162000, 51.567290 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So they've replaced Family Guy with Tom Cruise. As awesome as the film is, I can't stand the bellend.", "user": "BlockHeadStick", "location": "Hastings, East Sussex", "coord_x": 0.606864, "coord_y": 50.873550, "created_at": "2013\/03\/24", "h_m_s": "21:23:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:23:41" }, "geometry": { "type": "Point", "coordinates": [ 0.606864, 50.873550 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "No matter how bad of a mood I am in family guy always makes me laugh. #stillpissedthough", "user": "_Seibert_", "location": "", "coord_x": -81.291116, "coord_y": 40.789446, "created_at": "2013\/03\/24", "h_m_s": "21:41:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:41:13" }, "geometry": { "type": "Point", "coordinates": [ -81.291116, 40.789446 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Check out my badass new Family Guy pyjama bottoms! http:\/\/t.co\/6kVCLBKM98", "user": "WaleedPirzada", "location": "Glasgow, Scotland", "coord_x": -4.293592, "coord_y": 55.846548, "created_at": "2013\/03\/24", "h_m_s": "21:41:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:41:40" }, "geometry": { "type": "Point", "coordinates": [ -4.293592, 55.846548 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@hurd_robert haha me too..it's like the family guy where Stevie makes Bryan be mean", "user": "MrD_Bolla", "location": "Bloomington, IN", "coord_x": -86.527586, "coord_y": 39.176433, "created_at": "2013\/03\/24", "h_m_s": "21:46:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:46:23" }, "geometry": { "type": "Point", "coordinates": [ -86.527586, 39.176433 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Need a new 20 minute show to watch, like two and a half men\/family guy kinda thing. Help me out here", "user": "Joe_Blackett", "location": "Leiden, Holland", "coord_x": 4.329075, "coord_y": 52.075019, "created_at": "2013\/03\/24", "h_m_s": "21:49:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:49:5" }, "geometry": { "type": "Point", "coordinates": [ 4.329075, 52.075019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy series 8 and relaxing in bed. Might have to borrow more of em off u @Chris_Evans93 #familyguy #bants", "user": "c_stewart1994", "location": "Leeds", "coord_x": -1.586592, "coord_y": 53.811866, "created_at": "2013\/03\/24", "h_m_s": "21:56:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:56:3" }, "geometry": { "type": "Point", "coordinates": [ -1.586592, 53.811866 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@SenaByta: Chris is the most irrelevant character on Family Guy.\" IFKR!", "user": "RussianBratDoll", "location": "Sarcophagus. With headphones", "coord_x": -1.571213, "coord_y": 6.681152, "created_at": "2013\/03\/24", "h_m_s": "22:0:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:0:31" }, "geometry": { "type": "Point", "coordinates": [ -1.571213, 6.681152 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CeriMorgan haha yeah! Family guy has so many references to it. 'Its your kids Marty! She marries a black guy!'", "user": "ISlayTitans", "location": "cardiff", "coord_x": -3.158834, "coord_y": 51.465979, "created_at": "2013\/03\/24", "h_m_s": "22:2:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:2:22" }, "geometry": { "type": "Point", "coordinates": [ -3.158834, 51.465979 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "whys family guy start at half 11, ffs", "user": "Leatherbarrow15", "location": "", "coord_x": -2.834695, "coord_y": 53.706560, "created_at": "2013\/03\/24", "h_m_s": "22:4:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:4:40" }, "geometry": { "type": "Point", "coordinates": [ -2.834695, 53.706560 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Everyone who likes family guy, type in YouTube 'camel laughing like Peter griffin' it's brilliant", "user": "LukeFenn5", "location": "colchester, essex", "coord_x": 0.995494, "coord_y": 51.881828, "created_at": "2013\/03\/24", "h_m_s": "22:6:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:6:22" }, "geometry": { "type": "Point", "coordinates": [ 0.995494, 51.881828 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I miss the days when I could watch family guy at 10 on a Sunday #sortitout", "user": "ShaunTaylor_", "location": "hampshire", "coord_x": -1.054842, "coord_y": 51.295676, "created_at": "2013\/03\/24", "h_m_s": "22:18:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:19:0" }, "geometry": { "type": "Point", "coordinates": [ -1.054842, 51.295676 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JackSmith3_ loll yes! OMG Im still cracking up!! Love family guy", "user": "EmmaBewers", "location": "", "coord_x": 0.670943, "coord_y": 51.570438, "created_at": "2013\/03\/24", "h_m_s": "22:20:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:20:20" }, "geometry": { "type": "Point", "coordinates": [ 0.670943, 51.570438 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;&gt;&gt;", "user": "The_Goose_609", "location": "im in my own little world", "coord_x": -74.801922, "coord_y": 39.000225, "created_at": "2013\/03\/24", "h_m_s": "22:23:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:26:0" }, "geometry": { "type": "Point", "coordinates": [ -74.801922, 39.000225 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hope tonight's family guy is a good one, could do with a pick me up", "user": "jday2495", "location": "", "coord_x": -0.506157, "coord_y": 51.873760, "created_at": "2013\/03\/24", "h_m_s": "22:31:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:34:32" }, "geometry": { "type": "Point", "coordinates": [ -0.506157, 51.873760 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy and onesie! #onesieturk #freshlyshowered #azteconesie #famguy @ Essex http:\/\/t.co\/YgKdgOskKo", "user": "Umdog1994", "location": "Essex\/London", "coord_x": 0.026735, "coord_y": 51.680841, "created_at": "2013\/03\/24", "h_m_s": "22:33:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:36:48" }, "geometry": { "type": "Point", "coordinates": [ 0.026735, 51.680841 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@CowgirlUp899 haha I was trying to sound like the creeper off family guy", "user": "RedFordGirl93", "location": "", "coord_x": -79.939415, "coord_y": 39.652625, "created_at": "2013\/03\/24", "h_m_s": "22:35:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:39:8" }, "geometry": { "type": "Point", "coordinates": [ -79.939415, 39.652625 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy - Megs Bachelorette party, Peter Striptease. http:\/\/t.co\/Zi4yEJtqCM via @youtube @RBedacht", "user": "NateKeener", "location": "", "coord_x": -83.600728, "coord_y": 41.707815, "created_at": "2013\/03\/24", "h_m_s": "23:44:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:44:42" }, "geometry": { "type": "Point", "coordinates": [ -83.600728, 41.707815 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bak 2 family guy Cus Emily rose is too much", "user": "princesscharlz_", "location": "", "coord_x": -1.992529, "coord_y": 52.617757, "created_at": "2013\/03\/24", "h_m_s": "23:44:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:45:0" }, "geometry": { "type": "Point", "coordinates": [ -1.992529, 52.617757 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is stupid", "user": "RazHuneidi", "location": "", "coord_x": -77.650649, "coord_y": 42.267781, "created_at": "2013\/03\/24", "h_m_s": "23:49:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:49:14" }, "geometry": { "type": "Point", "coordinates": [ -77.650649, 42.267781 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dno what I prefer more, family guy or American dad #toughy", "user": "itsRM", "location": "", "coord_x": -4.128294, "coord_y": 55.855320, "created_at": "2013\/03\/24", "h_m_s": "23:51:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:51:27" }, "geometry": { "type": "Point", "coordinates": [ -4.128294, 55.855320 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bit of family guy before bed #LiveIt", "user": "GasRec02", "location": "Colchester, Essex", "coord_x": 0.936290, "coord_y": 51.884047, "created_at": "2013\/03\/24", "h_m_s": "23:51:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:51:43" }, "geometry": { "type": "Point", "coordinates": [ 0.936290, 51.884047 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@claireeadelaide and I are literally the only two girls in this world that are THIIIIS obsessed with family guy ..", "user": "kelshellyer", "location": "", "coord_x": -80.526149, "coord_y": 43.479741, "created_at": "2013\/03\/24", "h_m_s": "23:51:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:51:44" }, "geometry": { "type": "Point", "coordinates": [ -80.526149, 43.479741 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@LydiaStrutt everyone loves family guy", "user": "TSweetman", "location": "Redditch, UK", "coord_x": -1.954778, "coord_y": 52.275348, "created_at": "2013\/03\/24", "h_m_s": "23:53:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:53:51" }, "geometry": { "type": "Point", "coordinates": [ -1.954777, 52.275348 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Must stay awake for family guy", "user": "StuartMichael_", "location": "Reading, UK", "coord_x": -0.976426, "coord_y": 51.449535, "created_at": "2013\/03\/24", "h_m_s": "23:54:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:54:21" }, "geometry": { "type": "Point", "coordinates": [ -0.976426, 51.449535 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bed, Pizza Hut and family guy @ads_1205 ???? #hangovercure", "user": "DaynaAshx", "location": "Coventry", "coord_x": -1.573790, "coord_y": 52.422590, "created_at": "2013\/03\/24", "h_m_s": "23:55:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:55:18" }, "geometry": { "type": "Point", "coordinates": [ -1.573790, 52.422590 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Taken is such a good movie. I hate that I can't take it that seriously anymore cause of family guy though ??????", "user": "that_asssss", "location": "Cincinnati, OH", "coord_x": -84.589047, "coord_y": 39.253778, "created_at": "2013\/03\/24", "h_m_s": "23:55:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:56:27" }, "geometry": { "type": "Point", "coordinates": [ -84.589047, 39.253778 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "When did the Cleveland Show become funnier than Family Guy?", "user": "SeanFrancisW", "location": "Canal Fulton, OH", "coord_x": -81.591307, "coord_y": 40.886229, "created_at": "2013\/03\/24", "h_m_s": "23:56:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:56:28" }, "geometry": { "type": "Point", "coordinates": [ -81.591307, 40.886229 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Thought I would be brave and put on the exorcism of Emily rose lasted 30 seconds back to family guy then #scaredycat", "user": "princessloz123", "location": "essex", "coord_x": 0.927361, "coord_y": 51.876857, "created_at": "2013\/03\/24", "h_m_s": "23:57:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:57:1" }, "geometry": { "type": "Point", "coordinates": [ 0.927361, 51.876857 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy makes me laugh", "user": "WillWright89", "location": "Southampton", "coord_x": -0.300657, "coord_y": 51.321708, "created_at": "2013\/03\/24", "h_m_s": "23:58:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:58:35" }, "geometry": { "type": "Point", "coordinates": [ -0.300657, 51.321708 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is just genius! Enjoy it so much after not seeing it for so long!", "user": "Stevieeeex", "location": "Spalding", "coord_x": -0.167438, "coord_y": 52.791946, "created_at": "2013\/03\/24", "h_m_s": "23:58:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:58:47" }, "geometry": { "type": "Point", "coordinates": [ -0.167438, 52.791946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy in bed ??", "user": "Jordaynex", "location": "Birmingham & Worcester", "coord_x": -2.072623, "coord_y": 52.527952, "created_at": "2013\/03\/24", "h_m_s": "23:59:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:59:50" }, "geometry": { "type": "Point", "coordinates": [ -2.072623, 52.527952 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy knows ??", "user": "Rhysjohnn", "location": "South Wales", "coord_x": -3.823422, "coord_y": 51.637434, "created_at": "2013\/03\/25", "h_m_s": "0:0:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:0:11" }, "geometry": { "type": "Point", "coordinates": [ -3.823422, 51.637434 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I fucking love family guy ahaaaa", "user": "Jessicacrehan", "location": "Doncaster", "coord_x": -1.162687, "coord_y": 53.544892, "created_at": "2013\/03\/25", "h_m_s": "0:0:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:0:57" }, "geometry": { "type": "Point", "coordinates": [ -1.162687, 53.544892 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "yes family guy and coco pops", "user": "conorgreene2011", "location": "", "coord_x": -8.480645, "coord_y": 51.884190, "created_at": "2013\/03\/25", "h_m_s": "0:2:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:2:8" }, "geometry": { "type": "Point", "coordinates": [ -8.480645, 51.884190 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is amazing", "user": "robbiebwfc", "location": "Bolton", "coord_x": -2.423900, "coord_y": 53.544830, "created_at": "2013\/03\/25", "h_m_s": "0:3:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:3:3" }, "geometry": { "type": "Point", "coordinates": [ -2.423900, 53.544830 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy then bed, missing my boy so much, I wish he didn't go home well night peace out x", "user": "Charliie_1", "location": "", "coord_x": 0.515270, "coord_y": 51.577250, "created_at": "2013\/03\/25", "h_m_s": "0:4:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:4:30" }, "geometry": { "type": "Point", "coordinates": [ 0.515270, 51.577250 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ha ha ha family guy is to much", "user": "FrankieRyan_", "location": "Is Perfect", "coord_x": 0.584082, "coord_y": 51.533104, "created_at": "2013\/03\/25", "h_m_s": "0:4:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:4:56" }, "geometry": { "type": "Point", "coordinates": [ 0.584082, 51.533104 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@HelloImCeleste_: That cartoon \"Bob's Burgers\" is boring. I rather watch Family Guy or The Simpsons . Lol\" RMFT", "user": "PapiChulooJavi", "location": "- Sincerely, Javier (;", "coord_x": -106.497441, "coord_y": 35.075047, "created_at": "2013\/03\/25", "h_m_s": "0:5:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:5:8" }, "geometry": { "type": "Point", "coordinates": [ -106.497441, 35.075047 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy is great haha!", "user": "JeranKade", "location": "", "coord_x": -2.822549, "coord_y": 51.579124, "created_at": "2013\/03\/25", "h_m_s": "0:7:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:7:30" }, "geometry": { "type": "Point", "coordinates": [ -2.822549, 51.579124 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Started watching the Family Guy boxset. Is it wrong that I find it even more funnier uncensored? #familyguy @SethMacFarlane", "user": "mattieus", "location": "Middlesbrough", "coord_x": -1.186889, "coord_y": 54.569238, "created_at": "2013\/03\/25", "h_m_s": "0:9:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:9:7" }, "geometry": { "type": "Point", "coordinates": [ -1.186889, 54.569238 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Seen this Family Guy 5839737396367643 times. Bore off.", "user": "dcfcgabs", "location": "Derby ?", "coord_x": -1.457197, "coord_y": 52.926438, "created_at": "2013\/03\/25", "h_m_s": "0:9:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:9:28" }, "geometry": { "type": "Point", "coordinates": [ -1.457197, 52.926438 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Big cuppa tea, family guy and bed!", "user": "alixlou", "location": "hull,uk", "coord_x": -0.385804, "coord_y": 53.751652, "created_at": "2013\/03\/25", "h_m_s": "0:9:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:9:29" }, "geometry": { "type": "Point", "coordinates": [ -0.385804, 53.751652 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Omg pissin myself at Family Guy when peter is on crystal meth! Cryin mun! :L", "user": "JeranKade", "location": "", "coord_x": -2.818222, "coord_y": 51.581236, "created_at": "2013\/03\/25", "h_m_s": "0:12:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:12:40" }, "geometry": { "type": "Point", "coordinates": [ -2.818222, 51.581236 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That's got to be one of the best family guy scenes ever", "user": "Jameslohiaa", "location": "Bristol", "coord_x": -2.609328, "coord_y": 51.507116, "created_at": "2013\/03\/25", "h_m_s": "0:13:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:13:57" }, "geometry": { "type": "Point", "coordinates": [ -2.609328, 51.507116 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Modern Warfare 2 on family guy, I've never felt so connected", "user": "b4ttell", "location": "waterford, ireland", "coord_x": -1.718017, "coord_y": 53.089122, "created_at": "2013\/03\/25", "h_m_s": "0:14:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:14:6" }, "geometry": { "type": "Point", "coordinates": [ -1.718017, 53.089122 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bugün günlerden family guy!!!! :)", "user": "yosifov_", "location": "Sofya", "coord_x": 23.342968, "coord_y": 42.642632, "created_at": "2013\/03\/25", "h_m_s": "0:14:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:15:0" }, "geometry": { "type": "Point", "coordinates": [ 23.342968, 42.642632 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad &gt; Family Guy.... Said noone ever", "user": "TommyJB_", "location": "Sidcup, London", "coord_x": 0.097183, "coord_y": 51.440980, "created_at": "2013\/03\/25", "h_m_s": "0:17:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:17:43" }, "geometry": { "type": "Point", "coordinates": [ 0.097183, 51.440980 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy episode where Peter tells his kids he doesn't love them is too funny", "user": "RossBradley13", "location": "Gateshead, United Kingdom", "coord_x": -1.644923, "coord_y": 54.955884, "created_at": "2013\/03\/25", "h_m_s": "0:21:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:21:50" }, "geometry": { "type": "Point", "coordinates": [ -1.644923, 54.955884 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy never fails to put a smile on my face", "user": "LewisButlerMoya", "location": "Edinburgh, Scotland", "coord_x": -2.828953, "coord_y": 56.035673, "created_at": "2013\/03\/25", "h_m_s": "0:22:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:22:46" }, "geometry": { "type": "Point", "coordinates": [ -2.828953, 56.035673 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Really wanted to watch some family guy and then remembered the fox hd channel @DavidLundy91 ??", "user": "TiffanyYarde", "location": "London", "coord_x": -0.427539, "coord_y": 51.526390, "created_at": "2013\/03\/25", "h_m_s": "0:28:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:28:11" }, "geometry": { "type": "Point", "coordinates": [ -0.427539, 51.526390 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the stand by me family guy episode @stephh_chap", "user": "sphelan79", "location": "Jefferson, Ma", "coord_x": -71.859614, "coord_y": 42.397554, "created_at": "2013\/03\/25", "h_m_s": "0:29:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:29:30" }, "geometry": { "type": "Point", "coordinates": [ -71.859614, 42.397554 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Think I watch family guy every night even though I've prob seen most of them #loveit #addicted", "user": "jordan_oneill22", "location": "", "coord_x": -4.722686, "coord_y": 55.941110, "created_at": "2013\/03\/25", "h_m_s": "0:32:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:32:42" }, "geometry": { "type": "Point", "coordinates": [ -4.722686, 55.941110 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy then bed ?", "user": "chriswadee", "location": "South West Essex!", "coord_x": 0.542083, "coord_y": 51.604622, "created_at": "2013\/03\/25", "h_m_s": "0:35:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:35:36" }, "geometry": { "type": "Point", "coordinates": [ 0.542083, 51.604622 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I want to watch family guy tonight", "user": "MexicanSaul_", "location": "I wish it wasn't fresno", "coord_x": -119.772087, "coord_y": 36.725924, "created_at": "2013\/03\/25", "h_m_s": "0:37:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:37:39" }, "geometry": { "type": "Point", "coordinates": [ -119.772087, 36.725924 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lyns has gone home so cuddles in bed with my princess watching family guy?", "user": "sammy_bubblegum", "location": "the tardis.", "coord_x": -2.931590, "coord_y": 53.445943, "created_at": "2013\/03\/25", "h_m_s": "0:40:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:40:4" }, "geometry": { "type": "Point", "coordinates": [ -2.931590, 53.445943 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is so disappointing in comparison to Family Guy :(", "user": "ChrisSmith1992", "location": "Heathrow, West London, England", "coord_x": -0.437784, "coord_y": 51.498496, "created_at": "2013\/03\/25", "h_m_s": "0:41:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:41:14" }, "geometry": { "type": "Point", "coordinates": [ -0.437784, 51.498496 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love a bit of family guy", "user": "shaunslater91", "location": "whitstable", "coord_x": 0.998035, "coord_y": 51.344486, "created_at": "2013\/03\/25", "h_m_s": "0:43:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:43:10" }, "geometry": { "type": "Point", "coordinates": [ 0.998035, 51.344486 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching up on family guy :)", "user": "Grimmybear11", "location": "Blue Heaven", "coord_x": -118.284147, "coord_y": 33.883522, "created_at": "2013\/03\/25", "h_m_s": "0:43:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:43:22" }, "geometry": { "type": "Point", "coordinates": [ -118.284147, 33.883522 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dinner b4 family guy @ HOME http:\/\/t.co\/7Sfi1gfBz3", "user": "JUGGYMAN", "location": "IN YO MUTHA FUXIN FACE BIATCH", "coord_x": -76.647047, "coord_y": 39.276411, "created_at": "2013\/03\/25", "h_m_s": "0:45:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:24" }, "geometry": { "type": "Point", "coordinates": [ -76.647047, 39.276411 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "waitin on family guy to come on", "user": "muzik_is_lyfe20", "location": "ill b were im at", "coord_x": -83.121317, "coord_y": 42.358637, "created_at": "2013\/03\/25", "h_m_s": "0:49:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:18" }, "geometry": { "type": "Point", "coordinates": [ -83.121317, 42.358637 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I prefer American dad than family guy", "user": "BrezZer1", "location": "Midsomer Norton", "coord_x": -2.471442, "coord_y": 51.248711, "created_at": "2013\/03\/25", "h_m_s": "0:49:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:46" }, "geometry": { "type": "Point", "coordinates": [ -2.471442, 51.248711 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Gonna have to wait till 11 to catch the walking dead. Too many good games plus new family guy. #priorities", "user": "TallBoy1273524", "location": "Dirty Myrtle, SC", "coord_x": -79.133357, "coord_y": 33.900434, "created_at": "2013\/03\/25", "h_m_s": "0:52:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:52:53" }, "geometry": { "type": "Point", "coordinates": [ -79.133357, 33.900434 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New family guy at 10 #Pumped", "user": "9Hamilton", "location": "", "coord_x": -63.704306, "coord_y": 44.797283, "created_at": "2013\/03\/25", "h_m_s": "0:54:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:54:12" }, "geometry": { "type": "Point", "coordinates": [ -63.704306, 44.797283 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only reason I like Sundays are because of family guy...don't judge me.", "user": "maestri89", "location": "", "coord_x": -77.182762, "coord_y": 38.918804, "created_at": "2013\/03\/25", "h_m_s": "0:54:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:54:34" }, "geometry": { "type": "Point", "coordinates": [ -77.182762, 38.918804 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@thecartier family guy is poo. It's always. Repeat on every night! Who the hell wants to watch the same episode e dry night of the week? X", "user": "BrezZer1", "location": "Midsomer Norton", "coord_x": -2.471440, "coord_y": 51.248710, "created_at": "2013\/03\/25", "h_m_s": "0:55:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:55:41" }, "geometry": { "type": "Point", "coordinates": [ -2.471440, 51.248710 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy is on bye soccer", "user": "xttpack420", "location": "???The ???? then ? ?? ????", "coord_x": -82.329263, "coord_y": 31.203111, "created_at": "2013\/03\/25", "h_m_s": "0:59:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:59:50" }, "geometry": { "type": "Point", "coordinates": [ -82.329263, 31.203111 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &gt;&gt;&gt;&gt;", "user": "fisherkatie2112", "location": "Walker Michigan", "coord_x": -85.772772, "coord_y": 43.014854, "created_at": "2013\/03\/25", "h_m_s": "1:0:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:0:17" }, "geometry": { "type": "Point", "coordinates": [ -85.772772, 43.014854 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy! It's been too long", "user": "brendagnzalez", "location": "Hammond, Indiana", "coord_x": -98.619901, "coord_y": 29.390487, "created_at": "2013\/03\/25", "h_m_s": "1:0:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:0:42" }, "geometry": { "type": "Point", "coordinates": [ -98.619901, 29.390487 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy :D", "user": "RH1026", "location": "South Boston, Mass", "coord_x": -71.059831, "coord_y": 42.338089, "created_at": "2013\/03\/25", "h_m_s": "1:0:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:0:46" }, "geometry": { "type": "Point", "coordinates": [ -71.059831, 42.338089 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy makes me so happy", "user": "Deex0x011", "location": "Baystate", "coord_x": -71.337171, "coord_y": 42.648699, "created_at": "2013\/03\/25", "h_m_s": "1:1:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:1:10" }, "geometry": { "type": "Point", "coordinates": [ -71.337171, 42.648699 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Trisha takanawa mama so sadd&gt;&gt; lmao love family guy", "user": "GROVES2012", "location": "Union, MI", "coord_x": -95.281218, "coord_y": 29.981959, "created_at": "2013\/03\/25", "h_m_s": "1:2:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:2:59" }, "geometry": { "type": "Point", "coordinates": [ -95.281218, 29.981959 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sour and Family Guy", "user": "DOLOROE", "location": "Pittsburgh,PA...", "coord_x": -79.867644, "coord_y": 40.454528, "created_at": "2013\/03\/25", "h_m_s": "1:2:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:3:0" }, "geometry": { "type": "Point", "coordinates": [ -79.867644, 40.454528 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I remember when Family Guy didn't come on untill after 12", "user": "IrockDafitted", "location": "Norcross,Ga", "coord_x": -84.176176, "coord_y": 33.935133, "created_at": "2013\/03\/25", "h_m_s": "1:3:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:3:43" }, "geometry": { "type": "Point", "coordinates": [ -84.176176, 33.935133 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "High as hell . Watching family guy . Gettin high for you j cole", "user": "bobeize_2ez", "location": "ORANGEBURG,NEWBERRY,GREENVILLE", "coord_x": -80.856716, "coord_y": 33.476687, "created_at": "2013\/03\/25", "h_m_s": "1:4:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:4:22" }, "geometry": { "type": "Point", "coordinates": [ -80.856716, 33.476687 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy!", "user": "Swag_Check1", "location": "Deerfield Beach", "coord_x": -80.111328, "coord_y": 26.299660, "created_at": "2013\/03\/25", "h_m_s": "1:5:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:5:30" }, "geometry": { "type": "Point", "coordinates": [ -80.111328, 26.299660 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This new family guy tho&gt;&gt;&gt;", "user": "rjbabyboom30", "location": "", "coord_x": -96.689770, "coord_y": 32.972587, "created_at": "2013\/03\/25", "h_m_s": "1:5:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:6:0" }, "geometry": { "type": "Point", "coordinates": [ -96.689770, 32.972587 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My grandma put on Family Guy. This is glorious.", "user": "AlecTallman", "location": "", "coord_x": -76.985822, "coord_y": 40.266722, "created_at": "2013\/03\/25", "h_m_s": "1:7:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:15" }, "geometry": { "type": "Point", "coordinates": [ -76.985822, 40.266722 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@morgansophiaa in bed &amp; watchin family guy?? shits too funny", "user": "OGZachariah", "location": "Outter Fucking Space", "coord_x": -84.258588, "coord_y": 34.108050, "created_at": "2013\/03\/25", "h_m_s": "1:7:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:51" }, "geometry": { "type": "Point", "coordinates": [ -84.258588, 34.108050 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@no_worriezz ugh really Groening is on Family Guy?? Fuck well at least there's only 1 more season then we can just remember the good times", "user": "shaggyrifik", "location": "", "coord_x": -78.591527, "coord_y": 43.910792, "created_at": "2013\/03\/25", "h_m_s": "1:10:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:10:18" }, "geometry": { "type": "Point", "coordinates": [ -78.591527, 43.910792 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy right now&gt; ????????", "user": "myddkatt", "location": "south woods", "coord_x": -80.700151, "coord_y": 35.134027, "created_at": "2013\/03\/25", "h_m_s": "1:10:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:10:57" }, "geometry": { "type": "Point", "coordinates": [ -80.700151, 35.134027 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bed, family guy, march madness, texting my wonderful girlfriend...goodnight ??", "user": "SilvaAidan25", "location": "In The Game", "coord_x": -71.245144, "coord_y": 41.746720, "created_at": "2013\/03\/25", "h_m_s": "1:13:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:13:26" }, "geometry": { "type": "Point", "coordinates": [ -71.245144, 41.746720 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Haha family guy at the gym lol funny doe", "user": "Curly_Isa", "location": "Arlington, Va", "coord_x": -77.267069, "coord_y": 38.640482, "created_at": "2013\/03\/25", "h_m_s": "1:13:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:13:36" }, "geometry": { "type": "Point", "coordinates": [ -77.267069, 38.640482 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy &gt;&gt;&gt;&gt;", "user": "HeadBussa_CVSB", "location": "Cherryvale", "coord_x": -80.454352, "coord_y": 33.955276, "created_at": "2013\/03\/25", "h_m_s": "1:14:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:14:10" }, "geometry": { "type": "Point", "coordinates": [ -80.454352, 33.955276 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This new Family Guy is going on though. ??", "user": "Cloudy69in", "location": "", "coord_x": -82.082093, "coord_y": 31.996070, "created_at": "2013\/03\/25", "h_m_s": "1:15:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:15:22" }, "geometry": { "type": "Point", "coordinates": [ -82.082093, 31.996070 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hella Bored Watching Family Guy .", "user": "Trust_Nothin", "location": "", "coord_x": -90.271899, "coord_y": 38.585470, "created_at": "2013\/03\/25", "h_m_s": "1:16:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:16:56" }, "geometry": { "type": "Point", "coordinates": [ -90.271899, 38.585470 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "NW : family guy .. ??", "user": "LetME_AdoreU", "location": "with abel, ?", "coord_x": -83.501381, "coord_y": 33.938081, "created_at": "2013\/03\/25", "h_m_s": "1:17:0", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:1" }, "geometry": { "type": "Point", "coordinates": [ -83.501381, 33.938081 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Dude is watching family guy stuck in traffic. How I envy him.... @ Holland Tunnel http:\/\/t.co\/opRTgxr58g", "user": "IamYOHAM", "location": "NJ | NY | EU | AU", "coord_x": -74.021158, "coord_y": 40.727373, "created_at": "2013\/03\/25", "h_m_s": "1:17:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:17:30" }, "geometry": { "type": "Point", "coordinates": [ -74.021158, 40.727373 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This episode of family guy sounds a lot like the Kwame Kilpatrick nonsense.", "user": "4StarZ_Ken", "location": "Michigan, Michigan", "coord_x": -83.274117, "coord_y": 42.680134, "created_at": "2013\/03\/25", "h_m_s": "1:18:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:18:47" }, "geometry": { "type": "Point", "coordinates": [ -83.274117, 42.680134 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TroyWilliamGray lmfao family guy", "user": "timmyselfridge", "location": "", "coord_x": -75.163928, "coord_y": 39.796932, "created_at": "2013\/03\/25", "h_m_s": "1:19:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:19:22" }, "geometry": { "type": "Point", "coordinates": [ -75.163928, 39.796932 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy on", "user": "DareanSample", "location": "#GYM#3's", "coord_x": -99.773072, "coord_y": 32.475379, "created_at": "2013\/03\/25", "h_m_s": "1:19:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:19:48" }, "geometry": { "type": "Point", "coordinates": [ -99.773072, 32.475379 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy &gt;&lt; The Walking Dead.", "user": "KingAhmaad", "location": "Chefin.", "coord_x": -77.200362, "coord_y": 39.160525, "created_at": "2013\/03\/25", "h_m_s": "1:21:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:21:2" }, "geometry": { "type": "Point", "coordinates": [ -77.200362, 39.160525 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Chilling watching Family Guy. Bored.", "user": "ninajanee", "location": "Louisiana", "coord_x": -90.120497, "coord_y": 29.972510, "created_at": "2013\/03\/25", "h_m_s": "1:21:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:21:4" }, "geometry": { "type": "Point", "coordinates": [ -90.120497, 29.972510 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Food for thought as I watch Family Guy and then Bible series gn saints #djm #itiswell #hosanna… http:\/\/t.co\/QH2GQrIY3c", "user": "cparham_", "location": "Right Here", "coord_x": -76.612388, "coord_y": 39.302975, "created_at": "2013\/03\/25", "h_m_s": "1:25:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:25:31" }, "geometry": { "type": "Point", "coordinates": [ -76.612388, 39.302975 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "chips w spinach dip &amp; family guy? perfect", "user": "libbygillette", "location": "sioux falls sd", "coord_x": -96.693076, "coord_y": 43.549430, "created_at": "2013\/03\/25", "h_m_s": "1:25:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:25:53" }, "geometry": { "type": "Point", "coordinates": [ -96.693076, 43.549430 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "12 angry men family guy episode #Classic", "user": "ben_goingHAM", "location": "Long Island, bitch", "coord_x": -78.858145, "coord_y": 38.424748, "created_at": "2013\/03\/25", "h_m_s": "1:26:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:26:57" }, "geometry": { "type": "Point", "coordinates": [ -78.858145, 38.424748 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes! LMAO @RashellRoc: Family Guy ! Lmfaoooo, yo I hate Curtains", "user": "ChinaDoll_LIBRA", "location": "In TX actin UBER Cali", "coord_x": -96.762201, "coord_y": 32.882030, "created_at": "2013\/03\/25", "h_m_s": "1:28:7", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:28:8" }, "geometry": { "type": "Point", "coordinates": [ -96.762201, 32.882030 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Casually flipping between the tournament, family guy, and to catch a predator. #sundaytelevision", "user": "yesCER", "location": "Atlantic City, NJ", "coord_x": -74.623679, "coord_y": 39.424500, "created_at": "2013\/03\/25", "h_m_s": "1:31:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:32:1" }, "geometry": { "type": "Point", "coordinates": [ -74.623679, 39.424500 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Like on family guy", "user": "SydneyRoyah", "location": "?mnipr?s?n†", "coord_x": -76.559762, "coord_y": 39.172029, "created_at": "2013\/03\/25", "h_m_s": "1:32:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:32:14" }, "geometry": { "type": "Point", "coordinates": [ -76.559762, 39.172029 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy ne ozlenmis yahu :)", "user": "M3lezSeverus", "location": "Krakow", "coord_x": 23.156430, "coord_y": 53.119035, "created_at": "2013\/03\/25", "h_m_s": "1:32:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:32:49" }, "geometry": { "type": "Point", "coordinates": [ 23.156431, 53.119035 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;&gt;&gt;", "user": "Madrigal_420", "location": "Keller TX", "coord_x": -97.273121, "coord_y": 32.957286, "created_at": "2013\/03\/25", "h_m_s": "1:37:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:37:22" }, "geometry": { "type": "Point", "coordinates": [ -97.273121, 32.957286 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I watch family guy every night.", "user": "Peso_Life", "location": "", "coord_x": -84.169341, "coord_y": 33.757135, "created_at": "2013\/03\/25", "h_m_s": "1:44:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:3" }, "geometry": { "type": "Point", "coordinates": [ -84.169341, 33.757135 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Taco Bell, family guy, then bed :) (@ Emily &amp; Jessica's Place) http:\/\/t.co\/bqLjbVc7qW", "user": "Emilprez", "location": "Boise, Id", "coord_x": -116.231705, "coord_y": 43.631047, "created_at": "2013\/03\/25", "h_m_s": "1:45:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:17" }, "geometry": { "type": "Point", "coordinates": [ -116.231705, 43.631047 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "2nd annoying video takes the Family Guy cake https:\/\/t.co\/OlfOr4rhOI", "user": "impickled", "location": "Burlington", "coord_x": -79.825202, "coord_y": 43.319551, "created_at": "2013\/03\/25", "h_m_s": "1:56:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:57:4" }, "geometry": { "type": "Point", "coordinates": [ -79.825202, 43.319551 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy and American dad is over", "user": "xttpack420", "location": "???The ???? then ? ?? ????", "coord_x": -82.359643, "coord_y": 31.210487, "created_at": "2013\/03\/25", "h_m_s": "2:0:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:0:22" }, "geometry": { "type": "Point", "coordinates": [ -82.359643, 31.210487 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SerenityUniq yeah ill have him in toddler fights and watching family guy while taking steroids. He'll have all the hoes. :)", "user": "MiekoDeen", "location": "Champaign, Illinois", "coord_x": -88.203575, "coord_y": 40.084969, "created_at": "2013\/03\/25", "h_m_s": "2:14:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:14:22" }, "geometry": { "type": "Point", "coordinates": [ -88.203575, 40.084969 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy is the worst show ever.", "user": "Shane_Minn", "location": "Minneapolis", "coord_x": -105.134438, "coord_y": 40.142090, "created_at": "2013\/03\/25", "h_m_s": "2:15:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:15:49" }, "geometry": { "type": "Point", "coordinates": [ -105.134438, 40.142090 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy&gt;&gt;&gt;&gt;&gt;&gt;&gt; #ILoveThisShow", "user": "AdeliMitchell", "location": "Aurora, CO", "coord_x": -104.692157, "coord_y": 40.411337, "created_at": "2013\/03\/25", "h_m_s": "2:16:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:16:47" }, "geometry": { "type": "Point", "coordinates": [ -104.692157, 40.411337 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Cleveland brown show kind of reminds you of family guy but a black family version. Lol.", "user": "2coldtaylorgang", "location": "Alabama", "coord_x": -86.880134, "coord_y": 34.654829, "created_at": "2013\/03\/25", "h_m_s": "2:17:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:17:13" }, "geometry": { "type": "Point", "coordinates": [ -86.880134, 34.654829 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I LOVE Family Guy , neverrr gets old:)", "user": "morgansmitley", "location": "", "coord_x": -84.978709, "coord_y": 40.391886, "created_at": "2013\/03\/25", "h_m_s": "2:23:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:18" }, "geometry": { "type": "Point", "coordinates": [ -84.978709, 40.391886 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just relaxing about to watch the new episodes of Family Guy and American Dad. Then some reruns.", "user": "j_parsons1", "location": "Twin Lakes, Ruckersville, Va.", "coord_x": -78.440106, "coord_y": 38.244811, "created_at": "2013\/03\/25", "h_m_s": "2:23:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:18" }, "geometry": { "type": "Point", "coordinates": [ -78.440106, 38.244811 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "30 second joke about how much blinds can suck. Fuck you family guy.", "user": "Shane_Minn", "location": "Minneapolis", "coord_x": -105.134385, "coord_y": 40.141973, "created_at": "2013\/03\/25", "h_m_s": "2:24:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:24:49" }, "geometry": { "type": "Point", "coordinates": [ -105.134385, 40.141973 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Tosh and Family Guy are two shows I can watch by myself and still die laughing ??", "user": "carlym_parks", "location": "Florida ?", "coord_x": -82.633625, "coord_y": 27.464473, "created_at": "2013\/03\/25", "h_m_s": "2:26:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:26:2" }, "geometry": { "type": "Point", "coordinates": [ -82.633625, 27.464473 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I feel half retarded..family guy till I die", "user": "bridgettelange", "location": "", "coord_x": -82.828988, "coord_y": 27.966412, "created_at": "2013\/03\/25", "h_m_s": "2:34:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:34:31" }, "geometry": { "type": "Point", "coordinates": [ -82.828988, 27.966412 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "American Dad is wayyyy funnier than Family Guy", "user": "JZL___", "location": "Area code 240", "coord_x": -76.839854, "coord_y": 42.179763, "created_at": "2013\/03\/25", "h_m_s": "2:37:51", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:37:52" }, "geometry": { "type": "Point", "coordinates": [ -76.839854, 42.179763 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &gt;&gt;", "user": "theycallmeyoana", "location": "", "coord_x": -77.088084, "coord_y": 38.774095, "created_at": "2013\/03\/25", "h_m_s": "2:38:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:38:55" }, "geometry": { "type": "Point", "coordinates": [ -77.088084, 38.774095 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I'm very mysterious when I'm inside you\" lolol Family Guy", "user": "skanky_pickle", "location": "", "coord_x": -81.585813, "coord_y": 28.411546, "created_at": "2013\/03\/25", "h_m_s": "2:43:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:43:5" }, "geometry": { "type": "Point", "coordinates": [ -81.585813, 28.411546 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Every night @ 11 I watch Family Guy on Adult Swim. Such a good show", "user": "Bryan_DeJesus_", "location": "NJ", "coord_x": -74.987894, "coord_y": 39.457388, "created_at": "2013\/03\/25", "h_m_s": "2:43:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:43:19" }, "geometry": { "type": "Point", "coordinates": [ -74.987894, 39.457388 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is so stupid", "user": "JohnnieRTaLott", "location": "WV  OH", "coord_x": -81.582796, "coord_y": 39.280928, "created_at": "2013\/03\/25", "h_m_s": "2:50:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:50:11" }, "geometry": { "type": "Point", "coordinates": [ -81.582796, 39.280928 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol family guy . #dieing ????", "user": "Danielle_Henry9", "location": "", "coord_x": -84.423204, "coord_y": 41.588016, "created_at": "2013\/03\/25", "h_m_s": "2:52:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:52:47" }, "geometry": { "type": "Point", "coordinates": [ -84.423204, 41.588016 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Just in time for family guy!!! Now we outtie", "user": "MOMENTinTIME_2", "location": "Parkville MD", "coord_x": -76.543280, "coord_y": 39.386983, "created_at": "2013\/03\/25", "h_m_s": "2:56:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:56:27" }, "geometry": { "type": "Point", "coordinates": [ -76.543280, 39.386983 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &gt;&gt;&gt;&gt; #gottoloveit", "user": "Chelsey_MarieL", "location": "", "coord_x": -83.658124, "coord_y": 41.137087, "created_at": "2013\/03\/25", "h_m_s": "2:56:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:56:30" }, "geometry": { "type": "Point", "coordinates": [ -83.658124, 41.137087 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Netflix suggestions for you: ETERNAL PAIN &amp; SUFFERING, THE FUTILITY OF LIFE, Family Guy, A VIAL OF EBOLA VIRUS, How I Met Your Mother, DEATH", "user": "robodex", "location": "Toronto", "coord_x": -79.443678, "coord_y": 43.709042, "created_at": "2013\/03\/25", "h_m_s": "3:0:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:0:55" }, "geometry": { "type": "Point", "coordinates": [ -79.443678, 43.709042 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You're missing family guy @peaceloveandmeg don't worry ill record it for you", "user": "dave_breeze", "location": "youngstown, ohio", "coord_x": -80.589205, "coord_y": 41.157151, "created_at": "2013\/03\/25", "h_m_s": "3:0:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:0:56" }, "geometry": { "type": "Point", "coordinates": [ -80.589205, 41.157151 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love watching family guy.", "user": "CrystalBarron1", "location": "", "coord_x": -93.573507, "coord_y": 41.593428, "created_at": "2013\/03\/25", "h_m_s": "3:1:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:1:59" }, "geometry": { "type": "Point", "coordinates": [ -93.573507, 41.593428 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy", "user": "GoldyMak_", "location": "", "coord_x": -95.398916, "coord_y": 29.714925, "created_at": "2013\/03\/25", "h_m_s": "3:2:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:2:8" }, "geometry": { "type": "Point", "coordinates": [ -95.398916, 29.714925 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;&gt;&gt;&gt;", "user": "23HisAirness", "location": "", "coord_x": -84.127719, "coord_y": 41.395873, "created_at": "2013\/03\/25", "h_m_s": "3:2:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:2:15" }, "geometry": { "type": "Point", "coordinates": [ -84.127719, 41.395873 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy lmfao &gt;", "user": "_TheTruth_15", "location": "", "coord_x": -80.632775, "coord_y": 35.022916, "created_at": "2013\/03\/25", "h_m_s": "3:4:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:4:43" }, "geometry": { "type": "Point", "coordinates": [ -80.632775, 35.022916 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy!", "user": "Tyler_Da_Exotic", "location": "Plano, Texas", "coord_x": -96.746301, "coord_y": 33.072133, "created_at": "2013\/03\/25", "h_m_s": "3:4:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:4:45" }, "geometry": { "type": "Point", "coordinates": [ -96.746301, 33.072133 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy ??", "user": "_DaQuanSanders", "location": "", "coord_x": -72.928930, "coord_y": 41.337401, "created_at": "2013\/03\/25", "h_m_s": "3:6:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:6:17" }, "geometry": { "type": "Point", "coordinates": [ -72.928930, 41.337401 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy ????????", "user": "JesuOvi", "location": "Trujillo Alto PR.", "coord_x": -66.030740, "coord_y": 18.365336, "created_at": "2013\/03\/25", "h_m_s": "3:6:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:6:19" }, "geometry": { "type": "Point", "coordinates": [ -66.030740, 18.365336 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watch'n family guy with Halley and Shauna", "user": "parish274", "location": "fuck a location", "coord_x": -86.491058, "coord_y": 31.301705, "created_at": "2013\/03\/25", "h_m_s": "3:6:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:6:41" }, "geometry": { "type": "Point", "coordinates": [ -86.491058, 31.301705 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy never gets old.", "user": "sonjiabrundage", "location": "Waukegan, Illinois", "coord_x": -87.858882, "coord_y": 42.417119, "created_at": "2013\/03\/25", "h_m_s": "3:6:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:6:54" }, "geometry": { "type": "Point", "coordinates": [ -87.858882, 42.417119 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy , in a min ima be in twitter jail", "user": "______AUTUMNNNN", "location": "w\/Neveah and Terrance", "coord_x": -83.144637, "coord_y": 42.426085, "created_at": "2013\/03\/25", "h_m_s": "3:7:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:7:44" }, "geometry": { "type": "Point", "coordinates": [ -83.144637, 42.426085 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Nw Family Guy", "user": "Tye_Clip", "location": "Mars", "coord_x": -78.367240, "coord_y": 26.610968, "created_at": "2013\/03\/25", "h_m_s": "3:7:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:7:51" }, "geometry": { "type": "Point", "coordinates": [ -78.367240, 26.610968 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy never disappoints", "user": "Lainelandry", "location": "in my own world", "coord_x": -90.740262, "coord_y": 29.614332, "created_at": "2013\/03\/25", "h_m_s": "3:8:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:8:33" }, "geometry": { "type": "Point", "coordinates": [ -90.740262, 29.614332 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Nw Family guy", "user": "SpiceIydUp", "location": "Nassau,Bahamas (242)", "coord_x": -77.335310, "coord_y": 25.027050, "created_at": "2013\/03\/25", "h_m_s": "3:9:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:9:36" }, "geometry": { "type": "Point", "coordinates": [ -77.335310, 25.027050 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy stupid man I swear #Lmfao", "user": "_BooMin_", "location": "China Town", "coord_x": -83.501176, "coord_y": 31.445749, "created_at": "2013\/03\/25", "h_m_s": "3:12:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:12:3" }, "geometry": { "type": "Point", "coordinates": [ -83.501176, 31.445749 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy is Beast.", "user": "MarkStaintonUK", "location": "Ohio\/ Mid West USA", "coord_x": -83.660055, "coord_y": 41.537119, "created_at": "2013\/03\/25", "h_m_s": "3:12:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:13:9" }, "geometry": { "type": "Point", "coordinates": [ -83.660055, 41.537119 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy:)", "user": "IsabelMartine96", "location": "In Rockport,IN", "coord_x": -87.052204, "coord_y": 37.870256, "created_at": "2013\/03\/25", "h_m_s": "3:13:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:13:12" }, "geometry": { "type": "Point", "coordinates": [ -87.052204, 37.870256 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@_ashlypg_: \"@Tyler_Da_Exotic: Family Guy!\" LOVE FAMILY GUY!” Who doesn't?!", "user": "Tyler_Da_Exotic", "location": "Plano, Texas", "coord_x": -96.746237, "coord_y": 33.073469, "created_at": "2013\/03\/25", "h_m_s": "3:13:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:13:35" }, "geometry": { "type": "Point", "coordinates": [ -96.746237, 33.073469 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Family Guy ? Peter Funny AF", "user": "AintCHU_Kiaaa", "location": "MissingMyFMB#2Savage ??", "coord_x": -87.657820, "coord_y": 41.733211, "created_at": "2013\/03\/25", "h_m_s": "3:15:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:15:28" }, "geometry": { "type": "Point", "coordinates": [ -87.657820, 41.733211 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cleveland show makes me hate family guy.", "user": "Wollf_Bangggg", "location": "akron ohio", "coord_x": -81.503945, "coord_y": 41.104295, "created_at": "2013\/03\/25", "h_m_s": "3:16:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:16:25" }, "geometry": { "type": "Point", "coordinates": [ -81.503945, 41.104295 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@DatDudeMattQ hahaha I'm watching some good ol family guy hahaha", "user": "Matt_Welin24", "location": "", "coord_x": -122.376065, "coord_y": 45.647987, "created_at": "2013\/03\/25", "h_m_s": "3:16:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:16:39" }, "geometry": { "type": "Point", "coordinates": [ -122.376065, 45.647987 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guys doing a 12 Angry Men episode. Wtf we just finished it in class!!", "user": "MindOfManuel", "location": "Portland, Oregon", "coord_x": -122.540962, "coord_y": 45.482057, "created_at": "2013\/03\/25", "h_m_s": "3:17:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:17:57" }, "geometry": { "type": "Point", "coordinates": [ -122.540962, 45.482057 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Family Guy they hella stupid", "user": "Phatt_Babiiefce", "location": "", "coord_x": -90.331399, "coord_y": 38.763110, "created_at": "2013\/03\/25", "h_m_s": "3:18:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:18:53" }, "geometry": { "type": "Point", "coordinates": [ -90.331399, 38.763110 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just enjoy family guy lmao", "user": "karablank", "location": "", "coord_x": -82.967730, "coord_y": 43.459473, "created_at": "2013\/03\/25", "h_m_s": "3:19:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:19:20" }, "geometry": { "type": "Point", "coordinates": [ -82.967730, 43.459473 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This Family Guy Episode..", "user": "iWantThatCookie", "location": "", "coord_x": -87.412634, "coord_y": 36.597011, "created_at": "2013\/03\/25", "h_m_s": "3:19:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:19:54" }, "geometry": { "type": "Point", "coordinates": [ -87.412634, 36.597011 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Anybody else realize the characters on Family Guy only have four fingers?...", "user": "super_dustin_", "location": "Charlotte", "coord_x": -80.785265, "coord_y": 35.328998, "created_at": "2013\/03\/25", "h_m_s": "3:20:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:20:43" }, "geometry": { "type": "Point", "coordinates": [ -80.785265, 35.328998 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy and bed (:", "user": "evecalamita", "location": "North Branford, CT", "coord_x": -72.748412, "coord_y": 41.411369, "created_at": "2013\/03\/25", "h_m_s": "3:21:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:21:45" }, "geometry": { "type": "Point", "coordinates": [ -72.748412, 41.411369 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy", "user": "Mr_iWorkHard", "location": "brightwood", "coord_x": -85.977366, "coord_y": 39.831655, "created_at": "2013\/03\/25", "h_m_s": "3:23:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:23:25" }, "geometry": { "type": "Point", "coordinates": [ -85.977366, 39.831655 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love family guy.", "user": "shayla_x3", "location": "", "coord_x": -81.954003, "coord_y": 38.206333, "created_at": "2013\/03\/25", "h_m_s": "3:23:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:23:26" }, "geometry": { "type": "Point", "coordinates": [ -81.954003, 38.206333 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lmfaoooooo Family Guy x-(", "user": "AintCHU_Kiaaa", "location": "MissingMyFMB#2Savage ??", "coord_x": -87.657819, "coord_y": 41.733211, "created_at": "2013\/03\/25", "h_m_s": "3:23:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:23:38" }, "geometry": { "type": "Point", "coordinates": [ -87.657819, 41.733211 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy cracks me up! Omg.", "user": "_morgasm_", "location": "", "coord_x": -83.985335, "coord_y": 34.032234, "created_at": "2013\/03\/25", "h_m_s": "3:23:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:23:39" }, "geometry": { "type": "Point", "coordinates": [ -83.985335, 34.032234 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Mayor West is the funniest character on Family Guy.", "user": "YaBuddyHuddie", "location": "Chesapeake, West Virginia", "coord_x": -81.528068, "coord_y": 38.217493, "created_at": "2013\/03\/25", "h_m_s": "3:23:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:23:58" }, "geometry": { "type": "Point", "coordinates": [ -81.528068, 38.217493 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love that me and @scifi_Rodgers52 are always watching family guy at the same time.", "user": "Marmarremix56", "location": "Marcellus Angel", "coord_x": -90.579316, "coord_y": 41.494999, "created_at": "2013\/03\/25", "h_m_s": "3:26:23", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:26:43" }, "geometry": { "type": "Point", "coordinates": [ -90.579316, 41.494999 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why am i up because im hungry and not tired qatching family guy bouta tlk to a cute ass girl... :p", "user": "StayFeenin", "location": "Fredrick\/Gaithersburg MD", "coord_x": -77.552460, "coord_y": 39.343838, "created_at": "2013\/03\/25", "h_m_s": "3:28:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:28:6" }, "geometry": { "type": "Point", "coordinates": [ -77.552460, 39.343838 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "And he only gets on when I tweet about family guy.", "user": "Marmarremix56", "location": "Marcellus Angel", "coord_x": -90.579104, "coord_y": 41.494898, "created_at": "2013\/03\/25", "h_m_s": "3:28:48", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:29:1" }, "geometry": { "type": "Point", "coordinates": [ -90.579104, 41.494898 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#NowWatching Family Guy :D", "user": "Forever_Chels_x", "location": "", "coord_x": -73.758891, "coord_y": 41.024226, "created_at": "2013\/03\/25", "h_m_s": "3:31:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:31:6" }, "geometry": { "type": "Point", "coordinates": [ -73.758891, 41.024226 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy.", "user": "dawnfriedenthal", "location": "New York", "coord_x": -73.355329, "coord_y": 40.679513, "created_at": "2013\/03\/25", "h_m_s": "3:31:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:31:45" }, "geometry": { "type": "Point", "coordinates": [ -73.355329, 40.679513 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy then sleep", "user": "Randy_OVO", "location": "", "coord_x": -71.514632, "coord_y": 41.995002, "created_at": "2013\/03\/25", "h_m_s": "3:31:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:31:46" }, "geometry": { "type": "Point", "coordinates": [ -71.514632, 41.995002 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy", "user": "shawty_Mara", "location": "", "coord_x": -91.193403, "coord_y": 32.410101, "created_at": "2013\/03\/25", "h_m_s": "3:32:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:32:25" }, "geometry": { "type": "Point", "coordinates": [ -91.193403, 32.410101 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchin Family guy", "user": "TheRise8", "location": "Livin For tomorrow", "coord_x": -81.407724, "coord_y": 40.797487, "created_at": "2013\/03\/25", "h_m_s": "3:33:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:33:3" }, "geometry": { "type": "Point", "coordinates": [ -81.407724, 40.797487 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "family guy is funny as hell !", "user": "adryanajohnea", "location": "", "coord_x": -71.475490, "coord_y": 41.831613, "created_at": "2013\/03\/25", "h_m_s": "3:34:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:34:47" }, "geometry": { "type": "Point", "coordinates": [ -71.475490, 41.831613 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy tripping", "user": "AngelGotFans", "location": "find me with Jayyyy ?", "coord_x": -91.897969, "coord_y": 32.777888, "created_at": "2013\/03\/25", "h_m_s": "3:35:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:35:7" }, "geometry": { "type": "Point", "coordinates": [ -91.897969, 32.777888 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;&gt;&gt;&gt;", "user": "Launi_mommie", "location": "", "coord_x": -81.031488, "coord_y": 33.239421, "created_at": "2013\/03\/25", "h_m_s": "3:35:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:35:14" }, "geometry": { "type": "Point", "coordinates": [ -81.031488, 33.239421 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy right now '!!&gt;&gt;&gt;&gt;&gt;", "user": "StackDaddy_x3", "location": "SOUTHSIDE':)", "coord_x": -82.177072, "coord_y": 41.458695, "created_at": "2013\/03\/25", "h_m_s": "3:35:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:35:30" }, "geometry": { "type": "Point", "coordinates": [ -82.177072, 41.458695 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy is so fucking stupid", "user": "ChinkLifestyle", "location": "ON: THE ROAD LESS TRAVELED..", "coord_x": -76.149890, "coord_y": 36.826654, "created_at": "2013\/03\/25", "h_m_s": "3:35:38", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:35:39" }, "geometry": { "type": "Point", "coordinates": [ -76.149890, 36.826654 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy just forced it lol", "user": "Super_Dick_Trey", "location": "Cuming on a face near you ;)", "coord_x": -87.939417, "coord_y": 42.960314, "created_at": "2013\/03\/25", "h_m_s": "3:36:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:36:5" }, "geometry": { "type": "Point", "coordinates": [ -87.939417, 42.960314 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love the barbershop quartet on Family Guy especially when they sing in the one where Peter is gonna get a visectomy", "user": "OLE_NUMBER_7", "location": "Staunton, VA", "coord_x": -79.037236, "coord_y": 38.123101, "created_at": "2013\/03\/25", "h_m_s": "3:36:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:36:18" }, "geometry": { "type": "Point", "coordinates": [ -79.037236, 38.123101 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Family Guy.", "user": "Jordan_Tucker24", "location": "No Feelings Avenue\/Motor City", "coord_x": -83.364795, "coord_y": 42.333841, "created_at": "2013\/03\/25", "h_m_s": "3:36:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:36:54" }, "geometry": { "type": "Point", "coordinates": [ -83.364795, 42.333841 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Thanks to whoever invented the \"Prev\" button on my remote control. Family guy and Creighton Vs. Duke #Nice", "user": "Siete_Uno", "location": "Boston, MA", "coord_x": -71.031380, "coord_y": 42.375650, "created_at": "2013\/03\/25", "h_m_s": "3:37:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:37:7" }, "geometry": { "type": "Point", "coordinates": [ -71.031380, 42.375650 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#nw family guy", "user": "MelSwavey", "location": "EA$T SIDE", "coord_x": -77.515999, "coord_y": 35.875151, "created_at": "2013\/03\/25", "h_m_s": "3:37:14", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:37:15" }, "geometry": { "type": "Point", "coordinates": [ -77.515999, 35.875151 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is such ass", "user": "CashinOutChris", "location": "Rochester ,MI", "coord_x": -83.216313, "coord_y": 42.677056, "created_at": "2013\/03\/25", "h_m_s": "3:37:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:37:45" }, "geometry": { "type": "Point", "coordinates": [ -83.216313, 42.677056 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lmfaooooo family guy", "user": "ThatManMingo", "location": "", "coord_x": -76.702613, "coord_y": 39.136261, "created_at": "2013\/03\/25", "h_m_s": "3:41:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:41:56" }, "geometry": { "type": "Point", "coordinates": [ -76.702613, 39.136261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &gt;&gt;&gt;&gt;&gt;", "user": "EvelynT55", "location": "", "coord_x": -88.115805, "coord_y": 42.380614, "created_at": "2013\/03\/25", "h_m_s": "3:42:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:42:22" }, "geometry": { "type": "Point", "coordinates": [ -88.115805, 42.380614 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy has me rollin'", "user": "ilovehaisimone", "location": "CHT.", "coord_x": -101.870963, "coord_y": 33.586120, "created_at": "2013\/03\/25", "h_m_s": "3:42:26", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:42:27" }, "geometry": { "type": "Point", "coordinates": [ -101.870963, 33.586120 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy Is Too Funny ????????", "user": "_DaQuanSanders", "location": "", "coord_x": -72.928901, "coord_y": 41.337361, "created_at": "2013\/03\/25", "h_m_s": "3:42:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:42:35" }, "geometry": { "type": "Point", "coordinates": [ -72.928901, 41.337361 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Its the Family Guy episode where Peter does the Milkshake dance ?????? @Justin_Suth", "user": "OLE_NUMBER_7", "location": "Staunton, VA", "coord_x": -79.037260, "coord_y": 38.123082, "created_at": "2013\/03\/25", "h_m_s": "3:42:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:42:38" }, "geometry": { "type": "Point", "coordinates": [ -79.037260, 38.123082 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy ??", "user": "dcthereal32", "location": "Philly to North Carolina", "coord_x": -75.133282, "coord_y": 39.856966, "created_at": "2013\/03\/25", "h_m_s": "3:44:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:44:18" }, "geometry": { "type": "Point", "coordinates": [ -75.133282, 39.856966 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Pain_4Glory whomp I was talking bout family guy", "user": "StackDaddy_x3", "location": "SOUTHSIDE':)", "coord_x": -82.177040, "coord_y": 41.458946, "created_at": "2013\/03\/25", "h_m_s": "3:44:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:44:43" }, "geometry": { "type": "Point", "coordinates": [ -82.177040, 41.458946 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Overanalyzing Family Guy...smh!", "user": "kayWHY20", "location": "In God's Hands ?", "coord_x": -89.362391, "coord_y": 31.341085, "created_at": "2013\/03\/25", "h_m_s": "3:45:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:45:7" }, "geometry": { "type": "Point", "coordinates": [ -89.362391, 31.341086 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy has me rollin", "user": "callie_asher", "location": "Rockcastle", "coord_x": -84.346675, "coord_y": 37.359204, "created_at": "2013\/03\/25", "h_m_s": "3:45:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:45:14" }, "geometry": { "type": "Point", "coordinates": [ -84.346675, 37.359204 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy ????", "user": "jessrmtz_", "location": "LTX", "coord_x": -99.481894, "coord_y": 27.548924, "created_at": "2013\/03\/25", "h_m_s": "3:45:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:45:32" }, "geometry": { "type": "Point", "coordinates": [ -99.481894, 27.548924 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;&gt;&gt;&gt;&gt;", "user": "LabelMeBaddAxx", "location": "", "coord_x": -80.023484, "coord_y": 36.929840, "created_at": "2013\/03\/25", "h_m_s": "3:46:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:46:48" }, "geometry": { "type": "Point", "coordinates": [ -80.023484, 36.929840 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "*Family Guy cuts to commercial*\nRoommate: Wait, Family Guy ends at 11:45?!?!\n#facepalm", "user": "UKJayL", "location": "Lexington, KY", "coord_x": -84.505447, "coord_y": 37.989387, "created_at": "2013\/03\/25", "h_m_s": "3:47:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:47:56" }, "geometry": { "type": "Point", "coordinates": [ -84.505447, 37.989387 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "RT\"@YoFukYourTweets: Family Guy be havin me WEAK!!!!!!!\"", "user": "Its_Suly", "location": "", "coord_x": -72.101737, "coord_y": 41.362563, "created_at": "2013\/03\/25", "h_m_s": "3:47:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:47:58" }, "geometry": { "type": "Point", "coordinates": [ -72.101737, 41.362563 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watchin family Guy", "user": "bigmarq33", "location": "", "coord_x": -76.073780, "coord_y": 43.065029, "created_at": "2013\/03\/25", "h_m_s": "3:50:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:50:44" }, "geometry": { "type": "Point", "coordinates": [ -76.073780, 43.065029 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy cracks me uppp", "user": "RayJDonovan", "location": "", "coord_x": -97.846214, "coord_y": 28.807282, "created_at": "2013\/03\/25", "h_m_s": "3:50:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:50:44" }, "geometry": { "type": "Point", "coordinates": [ -97.846214, 28.807282 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@J_Wy21: Family guy is too funny!” !!!", "user": "27_mjtaylor", "location": "wylie, tx", "coord_x": -96.502048, "coord_y": 33.020282, "created_at": "2013\/03\/25", "h_m_s": "3:51:27", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:28" }, "geometry": { "type": "Point", "coordinates": [ -96.502048, 33.020282 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Haha family Guy ??", "user": "MixedBlasian", "location": "", "coord_x": -84.576182, "coord_y": 39.284592, "created_at": "2013\/03\/25", "h_m_s": "3:51:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:30" }, "geometry": { "type": "Point", "coordinates": [ -84.576182, 39.284592 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@BigBoyBisho: Family Guy&amp;gt;&amp;gt;&amp;gt;” I'm dying rn ??", "user": "Brian_Lindeman", "location": "", "coord_x": -83.023702, "coord_y": 42.484662, "created_at": "2013\/03\/25", "h_m_s": "3:51:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:32" }, "geometry": { "type": "Point", "coordinates": [ -83.023702, 42.484662 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So freaking tired. Bed after Family Guy I think", "user": "cnewton1988", "location": "Oregon", "coord_x": -122.584611, "coord_y": 45.353503, "created_at": "2013\/03\/25", "h_m_s": "3:52:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:52:13" }, "geometry": { "type": "Point", "coordinates": [ -122.584611, 45.353503 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lmfaoooooo at family guy for real", "user": "kdav3xox", "location": "Flushing, MI", "coord_x": -85.905773, "coord_y": 42.956078, "created_at": "2013\/03\/25", "h_m_s": "3:52:33", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:52:34" }, "geometry": { "type": "Point", "coordinates": [ -85.905773, 42.956078 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy hilarious I neee the season dvd lol", "user": "Super_Dick_Trey", "location": "Cuming on a face near you ;)", "coord_x": -87.939462, "coord_y": 42.960283, "created_at": "2013\/03\/25", "h_m_s": "3:53:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:53:17" }, "geometry": { "type": "Point", "coordinates": [ -87.939462, 42.960283 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Spanish maid from Family Guy always cracks me up ??", "user": "nicolewalsh111", "location": "Vancouver, WA", "coord_x": -122.625487, "coord_y": 45.710671, "created_at": "2013\/03\/25", "h_m_s": "3:54:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:54:48" }, "geometry": { "type": "Point", "coordinates": [ -122.625487, 45.710671 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm gonna take it that @TheDJHammer is watching Family Guy? Hahaha", "user": "JaysenWade87", "location": "Greensburg, kentucky", "coord_x": -85.538940, "coord_y": 37.322910, "created_at": "2013\/03\/25", "h_m_s": "3:55:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:32" }, "geometry": { "type": "Point", "coordinates": [ -85.538940, 37.322910 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@BennieDewaal family guy just talked about having sex with the back of the knee lol", "user": "BurtStewart23", "location": "Dakota Dunes, SD", "coord_x": -96.495132, "coord_y": 42.499140, "created_at": "2013\/03\/25", "h_m_s": "3:55:58", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:59" }, "geometry": { "type": "Point", "coordinates": [ -96.495132, 42.499140 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy", "user": "Ray_NO_J", "location": "SWARK", "coord_x": -94.115245, "coord_y": 33.662180, "created_at": "2013\/03\/25", "h_m_s": "3:56:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:6" }, "geometry": { "type": "Point", "coordinates": [ -94.115245, 33.662180 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Captain crunch and family guy. Mmmm", "user": "huffytrain", "location": "615", "coord_x": -86.733182, "coord_y": 36.249545, "created_at": "2013\/03\/25", "h_m_s": "3:56:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:19" }, "geometry": { "type": "Point", "coordinates": [ -86.733182, 36.249545 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy&gt;", "user": "lexycee2", "location": "", "coord_x": -118.037581, "coord_y": 33.758397, "created_at": "2013\/03\/25", "h_m_s": "3:56:43", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:56:44" }, "geometry": { "type": "Point", "coordinates": [ -118.037581, 33.758397 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is so damn funny", "user": "GMAN760", "location": "Madison", "coord_x": -87.317676, "coord_y": 30.591894, "created_at": "2013\/03\/25", "h_m_s": "3:57:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:57:11" }, "geometry": { "type": "Point", "coordinates": [ -87.317676, 30.591894 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "-Family Guy Be Having Meh Waab .", "user": "Mrs_Palin_D0e", "location": "Columbia,  NC", "coord_x": -76.250914, "coord_y": 35.922100, "created_at": "2013\/03\/25", "h_m_s": "3:57:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:57:22" }, "geometry": { "type": "Point", "coordinates": [ -76.250914, 35.922100 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@AdmiralWhackbar he doesn't though, he's a family guy man, he'll be back next year, tough to leave his dad", "user": "cor_nel", "location": "", "coord_x": -95.982256, "coord_y": 41.241905, "created_at": "2013\/03\/25", "h_m_s": "3:58:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:58:33" }, "geometry": { "type": "Point", "coordinates": [ -95.982256, 41.241905 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New family guy !", "user": "Hashmine420", "location": "In the sky", "coord_x": -118.340009, "coord_y": 34.092904, "created_at": "2013\/03\/25", "h_m_s": "3:58:42", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:58:44" }, "geometry": { "type": "Point", "coordinates": [ -118.340009, 34.092904 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &lt;&lt;&lt;&lt;&lt;&lt;", "user": "FckYallHoes__", "location": "Chillin In #NoFucksLand", "coord_x": -80.503666, "coord_y": 33.991973, "created_at": "2013\/03\/25", "h_m_s": "3:59:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:59:41" }, "geometry": { "type": "Point", "coordinates": [ -80.503666, 33.991973 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Good night twitter goin to watchin Family Guy", "user": "bigmarq33", "location": "", "coord_x": -76.073964, "coord_y": 43.064974, "created_at": "2013\/03\/25", "h_m_s": "4:0:45", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:0:46" }, "geometry": { "type": "Point", "coordinates": [ -76.073963, 43.064974 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy &gt; ...", "user": "djcrown541", "location": "Eugene, Oregon, USA", "coord_x": -123.129426, "coord_y": 44.027852, "created_at": "2013\/03\/25", "h_m_s": "4:4:12", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:4:13" }, "geometry": { "type": "Point", "coordinates": [ -123.129426, 44.027852 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@PippWatson i did too its okay lol it comes back on after family guy", "user": "AsToldByAlge", "location": "-Where You Wanna Be :)", "coord_x": -76.585801, "coord_y": 39.340811, "created_at": "2013\/03\/25", "h_m_s": "4:13:6", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:13:7" }, "geometry": { "type": "Point", "coordinates": [ -76.585801, 39.340811 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy and ice cream ?", "user": "gtello002", "location": "", "coord_x": -118.289919, "coord_y": 33.730608, "created_at": "2013\/03\/25", "h_m_s": "4:13:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:13:53" }, "geometry": { "type": "Point", "coordinates": [ -118.289919, 33.730608 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JoCoDinero I got it off family guy", "user": "JustDwedd_4life", "location": "L.A.X", "coord_x": -84.370977, "coord_y": 33.585598, "created_at": "2013\/03\/25", "h_m_s": "4:20:13", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:20:14" }, "geometry": { "type": "Point", "coordinates": [ -84.370977, 33.585598 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy was awesome tonight", "user": "RizNasty2point0", "location": "Edmonton", "coord_x": -113.392686, "coord_y": 53.476660, "created_at": "2013\/03\/25", "h_m_s": "4:32:7", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:32:8" }, "geometry": { "type": "Point", "coordinates": [ -113.392686, 53.476660 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy funny af tonight", "user": "GEEVarsity", "location": "Chicago\/Camas\/Redding", "coord_x": -122.397802, "coord_y": 45.589914, "created_at": "2013\/03\/25", "h_m_s": "4:36:26", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:36:27" }, "geometry": { "type": "Point", "coordinates": [ -122.397802, 45.589914 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I wanna watch Family Guy so bad, i need to laugh.", "user": "vanessafusco1", "location": "Hagerstown,Maryland", "coord_x": -77.704374, "coord_y": 39.640429, "created_at": "2013\/03\/25", "h_m_s": "4:49:35", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:49:36" }, "geometry": { "type": "Point", "coordinates": [ -77.704374, 39.640429 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I swear Family Guy is one of the funniest shows on television. Props to the producers\/editors\/writers", "user": "RicardoJay42", "location": "Btown, TX", "coord_x": -97.532580, "coord_y": 25.938190, "created_at": "2013\/03\/25", "h_m_s": "4:51:28", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:51:29" }, "geometry": { "type": "Point", "coordinates": [ -97.532580, 25.938190 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "There really is no show better than family guy hahahahaha", "user": "Johnydeep_", "location": "IG: ohboy_jonathan13", "coord_x": -110.844724, "coord_y": 32.182726, "created_at": "2013\/03\/25", "h_m_s": "5:2:20", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:2:58" }, "geometry": { "type": "Point", "coordinates": [ -110.844724, 32.182726 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "You naked buncha bitches! Damn family guy is gold too", "user": "MrBrandonDavid", "location": "#UofSC", "coord_x": -80.985005, "coord_y": 33.988199, "created_at": "2013\/03\/25", "h_m_s": "5:2:23", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:2:59" }, "geometry": { "type": "Point", "coordinates": [ -80.985005, 33.988199 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy", "user": "GMandat", "location": "", "coord_x": -80.195345, "coord_y": 25.967996, "created_at": "2013\/03\/25", "h_m_s": "5:12:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:12:45" }, "geometry": { "type": "Point", "coordinates": [ -80.195345, 25.967996 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@cddesalvo like I said before your going to turn into Carl from family guy", "user": "SalinasWrstlr13", "location": "Leoti, KS", "coord_x": -99.344395, "coord_y": 38.870218, "created_at": "2013\/03\/25", "h_m_s": "5:29:50", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:29:51" }, "geometry": { "type": "Point", "coordinates": [ -99.344395, 38.870218 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I really hate how the creators of family guy and the Cleveland show decided to draw them up.. Their huge eyes are gross.", "user": "holladaize", "location": "yellow city", "coord_x": -101.820237, "coord_y": 35.199547, "created_at": "2013\/03\/25", "h_m_s": "5:31:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:31:56" }, "geometry": { "type": "Point", "coordinates": [ -101.820237, 35.199547 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Always watching family guy lol", "user": "_XxReeseOo_", "location": "I wish I knew ..", "coord_x": -78.827824, "coord_y": 42.893364, "created_at": "2013\/03\/25", "h_m_s": "5:38:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:38:17" }, "geometry": { "type": "Point", "coordinates": [ -78.827824, 42.893364 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy", "user": "ActLikeUMaShadw", "location": "", "coord_x": -75.413357, "coord_y": 39.839606, "created_at": "2013\/03\/25", "h_m_s": "5:41:34", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:41:35" }, "geometry": { "type": "Point", "coordinates": [ -75.413357, 39.839606 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy be cracking me up", "user": "latiahjankailll", "location": "Erie, PA", "coord_x": -80.068730, "coord_y": 42.110680, "created_at": "2013\/03\/25", "h_m_s": "5:41:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:41:53" }, "geometry": { "type": "Point", "coordinates": [ -80.068730, 42.110680 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is bland and boring #shitnobodysays", "user": "gregpark1983", "location": "", "coord_x": -57.960734, "coord_y": 48.950644, "created_at": "2013\/03\/25", "h_m_s": "5:45:45", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:45:46" }, "geometry": { "type": "Point", "coordinates": [ -57.960734, 48.950644 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching family guy until I fall too sleep . ????", "user": "prttygirl_kenn", "location": "", "coord_x": -90.765772, "coord_y": 33.599233, "created_at": "2013\/03\/25", "h_m_s": "5:51:12", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:51:13" }, "geometry": { "type": "Point", "coordinates": [ -90.765772, 33.599233 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I was watching the Cleveland show? I thought it was family guy", "user": "EapTussy", "location": "Beefed Up Bitches", "coord_x": -118.207573, "coord_y": 33.912499, "created_at": "2013\/03\/25", "h_m_s": "5:56:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:56:45" }, "geometry": { "type": "Point", "coordinates": [ -118.207573, 33.912499 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy &gt;&gt;&gt;&gt;", "user": "Unbreakable_012", "location": "yo daddy house", "coord_x": -92.328001, "coord_y": 42.529030, "created_at": "2013\/03\/25", "h_m_s": "6:0:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:0:56" }, "geometry": { "type": "Point", "coordinates": [ -92.328001, 42.529030 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#teamstewie family guy...", "user": "swaggsounique12", "location": "", "coord_x": -85.479863, "coord_y": 43.680588, "created_at": "2013\/03\/25", "h_m_s": "6:0:56", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:0:57" }, "geometry": { "type": "Point", "coordinates": [ -85.479863, 43.680588 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "But thank god family guy is on", "user": "WatermeloanDrea", "location": "San Diego *", "coord_x": -117.011430, "coord_y": 32.766205, "created_at": "2013\/03\/25", "h_m_s": "6:1:2", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:1:3" }, "geometry": { "type": "Point", "coordinates": [ -117.011430, 32.766205 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching family guy !", "user": "_PrettyAss_Bre", "location": "Screven", "coord_x": -81.766540, "coord_y": 32.452400, "created_at": "2013\/03\/25", "h_m_s": "6:1:9", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:1:10" }, "geometry": { "type": "Point", "coordinates": [ -81.766540, 32.452400 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@euqinomnom do you have cox? Lol cause mine is showing family guy ????", "user": "janinemarave", "location": "San Diego", "coord_x": -117.077112, "coord_y": 32.672812, "created_at": "2013\/03\/25", "h_m_s": "6:1:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:1:23" }, "geometry": { "type": "Point", "coordinates": [ -117.077112, 32.672812 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "FAMILY GUY&gt;", "user": "Bailey_Hauck", "location": "", "coord_x": -96.564598, "coord_y": 32.885147, "created_at": "2013\/03\/25", "h_m_s": "6:1:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:1:45" }, "geometry": { "type": "Point", "coordinates": [ -96.564598, 32.885147 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy!! Yess!!!!\n\n#FuckYes!!!", "user": "_tdavila", "location": "Angelo", "coord_x": -101.472259, "coord_y": 32.240908, "created_at": "2013\/03\/25", "h_m_s": "6:1:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:1:56" }, "geometry": { "type": "Point", "coordinates": [ -101.472259, 32.240908 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Which one is Better Family Guy, American Dad, The Cleveland Show", "user": "80s_ariesbaby", "location": "", "coord_x": -75.571052, "coord_y": 39.745835, "created_at": "2013\/03\/25", "h_m_s": "6:2:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:2:11" }, "geometry": { "type": "Point", "coordinates": [ -75.571052, 39.745835 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "watching Family Guy.. des dumb ass people. Lol", "user": "StayLowKey_", "location": "", "coord_x": -81.068112, "coord_y": 29.196224, "created_at": "2013\/03\/25", "h_m_s": "6:5:19", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:5:20" }, "geometry": { "type": "Point", "coordinates": [ -81.068112, 29.196224 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy...  lol they be tripping .", "user": "myheart_aidyn", "location": "", "coord_x": -94.801127, "coord_y": 30.989494, "created_at": "2013\/03\/25", "h_m_s": "6:6:20", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:6:21" }, "geometry": { "type": "Point", "coordinates": [ -94.801127, 30.989494 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy so funny", "user": "_wiseguy92", "location": "In a great state of mind", "coord_x": -86.244455, "coord_y": 33.153845, "created_at": "2013\/03\/25", "h_m_s": "6:7:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:7:9" }, "geometry": { "type": "Point", "coordinates": [ -86.244455, 33.153845 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy &gt;&gt;&gt;&gt;&gt;&gt;", "user": "OpticsTheMC", "location": "", "coord_x": -121.679787, "coord_y": 38.548836, "created_at": "2013\/03\/25", "h_m_s": "6:8:56", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:8:57" }, "geometry": { "type": "Point", "coordinates": [ -121.679787, 38.548836 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Now watching Family Guy. Natatakot ako sa Dont Be Afraid of the dark =)))", "user": "JayyeeSalonga23", "location": "Coney Island", "coord_x": 121.066740, "coord_y": 14.525145, "created_at": "2013\/03\/25", "h_m_s": "6:9:2", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:9:4" }, "geometry": { "type": "Point", "coordinates": [ 121.066740, 14.525145 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I be feeling free when I tek a shower and the window open lmfaooo as long as I don't have a neighbor like the old man on Family Guy", "user": "tickle_ha_twine", "location": "House ah Bacchanal", "coord_x": -80.200804, "coord_y": 26.099838, "created_at": "2013\/03\/25", "h_m_s": "6:9:24", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:9:25" }, "geometry": { "type": "Point", "coordinates": [ -80.200804, 26.099838 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy time.", "user": "jradioactivo985", "location": "Paradise City", "coord_x": -99.136743, "coord_y": 19.335246, "created_at": "2013\/03\/25", "h_m_s": "6:13:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:13:41" }, "geometry": { "type": "Point", "coordinates": [ -99.136743, 19.335246 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yes, family guy. &gt;", "user": "KayleyBasden", "location": "", "coord_x": -112.032623, "coord_y": 40.624936, "created_at": "2013\/03\/25", "h_m_s": "6:15:25", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:15:26" }, "geometry": { "type": "Point", "coordinates": [ -112.032623, 40.624936 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy then sleep .", "user": "DVelasco06", "location": "Santa Ana,California", "coord_x": -117.939765, "coord_y": 33.744514, "created_at": "2013\/03\/25", "h_m_s": "6:15:53", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:15:54" }, "geometry": { "type": "Point", "coordinates": [ -117.939765, 33.744514 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Late night family guy.", "user": "brittxweinreis", "location": "chicago is cold.", "coord_x": -88.139313, "coord_y": 41.787154, "created_at": "2013\/03\/25", "h_m_s": "6:16:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:16:16" }, "geometry": { "type": "Point", "coordinates": [ -88.139313, 41.787154 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love family guy kinda like American dad better tho", "user": "vinny312326", "location": "shirley NY", "coord_x": -78.813427, "coord_y": 42.975793, "created_at": "2013\/03\/25", "h_m_s": "6:18:17", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:18:30" }, "geometry": { "type": "Point", "coordinates": [ -78.813426, 42.975793 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy &gt;&gt;", "user": "DollfaceBreeeee", "location": "", "coord_x": -119.804210, "coord_y": 36.829404, "created_at": "2013\/03\/25", "h_m_s": "6:19:24", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:19:25" }, "geometry": { "type": "Point", "coordinates": [ -119.804210, 36.829404 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Adam west is one of my fav characters in family guy tho", "user": "vinny312326", "location": "shirley NY", "coord_x": -78.817533, "coord_y": 42.967599, "created_at": "2013\/03\/25", "h_m_s": "6:20:19", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:20:20" }, "geometry": { "type": "Point", "coordinates": [ -78.817533, 42.967599 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "family guy tho", "user": "BBLUNTBBlowin", "location": "the LAND of R.A.I.N.B.O.W.S.", "coord_x": -91.135183, "coord_y": 30.508948, "created_at": "2013\/03\/25", "h_m_s": "6:20:59", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:21:0" }, "geometry": { "type": "Point", "coordinates": [ -91.135183, 30.508948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy don't kno wat i would watch if #adult swim # ever leave of @ir.", "user": "DemyusMiller", "location": "", "coord_x": -91.192213, "coord_y": 32.405257, "created_at": "2013\/03\/25", "h_m_s": "6:24:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:24:50" }, "geometry": { "type": "Point", "coordinates": [ -91.192213, 32.405257 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Consuela from family guy hahaha???? http:\/\/t.co\/iATTrBPe81", "user": "500daysofciara", "location": "Kerman,California", "coord_x": -91.028694, "coord_y": 30.412917, "created_at": "2013\/03\/25", "h_m_s": "6:25:47", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:25:48" }, "geometry": { "type": "Point", "coordinates": [ -91.028694, 30.412917 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is on ERMAHGERD", "user": "ashleyykayyy", "location": "440", "coord_x": -81.383032, "coord_y": 41.649795, "created_at": "2013\/03\/25", "h_m_s": "6:26:18", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:26:19" }, "geometry": { "type": "Point", "coordinates": [ -81.383032, 41.649795 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "how can you watch family guy and not LOL?", "user": "cassidybruner", "location": "Indyyyyy", "coord_x": -86.096893, "coord_y": 39.730609, "created_at": "2013\/03\/25", "h_m_s": "6:30:22", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:30:23" }, "geometry": { "type": "Point", "coordinates": [ -86.096893, 39.730609 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Bouta watch da new family guy nd go to sleep", "user": "DaleBoyLou", "location": "Riverdale, Md", "coord_x": -76.909724, "coord_y": 38.961471, "created_at": "2013\/03\/25", "h_m_s": "6:33:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:33:9" }, "geometry": { "type": "Point", "coordinates": [ -76.909724, 38.961471 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Family Guy is making me think of him. :'(", "user": "alisiajenkins24", "location": "", "coord_x": -101.854045, "coord_y": 33.587623, "created_at": "2013\/03\/25", "h_m_s": "6:36:31", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:36:32" }, "geometry": { "type": "Point", "coordinates": [ -101.854045, 33.587623 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy UTI is CRAYY", "user": "James_Gaddis", "location": "Moody,AL", "coord_x": -85.760255, "coord_y": 30.152389, "created_at": "2013\/03\/25", "h_m_s": "6:37:36", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:37:37" }, "geometry": { "type": "Point", "coordinates": [ -85.760255, 30.152389 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy and Jimmy Johns.. #ImInLove", "user": "NicoleOlmscheid", "location": "Sartell, MN", "coord_x": -94.211600, "coord_y": 45.635895, "created_at": "2013\/03\/25", "h_m_s": "6:38:21", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:22" }, "geometry": { "type": "Point", "coordinates": [ -94.211600, 45.635895 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy be havin me weak", "user": "smashking14", "location": "", "coord_x": -110.950237, "coord_y": 32.223477, "created_at": "2013\/03\/25", "h_m_s": "6:38:28", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:29" }, "geometry": { "type": "Point", "coordinates": [ -110.950237, 32.223477 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "These 2 dikes got me cdfu on family guy", "user": "seemorecake89", "location": "anywhere theres a nordstrom", "coord_x": -75.636393, "coord_y": 39.629394, "created_at": "2013\/03\/25", "h_m_s": "6:38:35", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:36" }, "geometry": { "type": "Point", "coordinates": [ -75.636393, 39.629394 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@KevinPaul93: When I watch Family Guy I try not to hella laugh out loud, so I hold it in and my boogers come out haha” lmfao!", "user": "500daysofciara", "location": "Kerman,California", "coord_x": -91.028653, "coord_y": 30.412957, "created_at": "2013\/03\/25", "h_m_s": "6:38:38", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:39" }, "geometry": { "type": "Point", "coordinates": [ -91.028653, 30.412957 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#AskAustin Family Guy or The Simpsons? @austincarlile", "user": "friendofmysery", "location": "Somewehere In Time", "coord_x": -80.177530, "coord_y": 25.976680, "created_at": "2013\/03\/25", "h_m_s": "6:38:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:49" }, "geometry": { "type": "Point", "coordinates": [ -80.177530, 25.976680 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "'My partner and I want to have a baby, we need a jar of sperm and an applicator that looks like Jody Foster's knuckles.' Family Guy. I die.", "user": "TommyMorgan92", "location": "", "coord_x": -117.115570, "coord_y": 33.470457, "created_at": "2013\/03\/25", "h_m_s": "6:38:54", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:38:55" }, "geometry": { "type": "Point", "coordinates": [ -117.115570, 33.470457 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "family guy is myyyyy shitttttt ??", "user": "sky_flamora", "location": "", "coord_x": -78.475742, "coord_y": 38.083480, "created_at": "2013\/03\/25", "h_m_s": "6:39:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:39:41" }, "geometry": { "type": "Point", "coordinates": [ -78.475742, 38.083480 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy! Im stewie Rizzy chirs and Millie MEGG!!! The bitch ????????", "user": "BALLIN_OUT24", "location": "lockport!", "coord_x": -88.060882, "coord_y": 41.570019, "created_at": "2013\/03\/25", "h_m_s": "6:41:10", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:41:11" }, "geometry": { "type": "Point", "coordinates": [ -88.060882, 41.570019 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could watch family guy forever. #toofunny", "user": "Nuritprobss", "location": "Chicago", "coord_x": -87.731908, "coord_y": 42.049941, "created_at": "2013\/03\/25", "h_m_s": "6:41:45", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:41:46" }, "geometry": { "type": "Point", "coordinates": [ -87.731907, 42.049941 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol At Family Guy", "user": "_ImDhaBest", "location": "", "coord_x": -87.504623, "coord_y": 33.161598, "created_at": "2013\/03\/25", "h_m_s": "6:42:11", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:42:12" }, "geometry": { "type": "Point", "coordinates": [ -87.504623, 33.161598 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy man.. never gets old ??", "user": "DonSotelo", "location": "", "coord_x": -110.902394, "coord_y": 32.143443, "created_at": "2013\/03\/25", "h_m_s": "6:42:34", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:42:54" }, "geometry": { "type": "Point", "coordinates": [ -110.902394, 32.143443 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "family guy funny af", "user": "FoolieTimalGang", "location": "I Run The Oaks Fuk", "coord_x": -87.588658, "coord_y": 40.143899, "created_at": "2013\/03\/25", "h_m_s": "6:42:36", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:42:54" }, "geometry": { "type": "Point", "coordinates": [ -87.588658, 40.143899 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Only on family guy babies fly jets", "user": "DonTotox", "location": "", "coord_x": -79.402789, "coord_y": 34.173311, "created_at": "2013\/03\/25", "h_m_s": "6:43:52", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:43:53" }, "geometry": { "type": "Point", "coordinates": [ -79.402789, 34.173311 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy Finna Go Off .. Now Wad ???", "user": "_ImDhaBest", "location": "", "coord_x": -87.504623, "coord_y": 33.161598, "created_at": "2013\/03\/25", "h_m_s": "6:55:11", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:55:12" }, "geometry": { "type": "Point", "coordinates": [ -87.504623, 33.161598 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"I'm gonna miss eating cereal outta the dimples on your ass\" - family guy\n\n??......?????? lmfao", "user": "COE__", "location": "Just out side of LALA Land...", "coord_x": -118.537469, "coord_y": 34.237590, "created_at": "2013\/03\/25", "h_m_s": "6:56:58", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:56:59" }, "geometry": { "type": "Point", "coordinates": [ -118.537469, 34.237590 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@IRunNY716: Family Guy is dat show. Shit will have u in tears when u high tho.”", "user": "MrsE023", "location": "Six.One.Five", "coord_x": -86.361869, "coord_y": 35.854522, "created_at": "2013\/03\/25", "h_m_s": "6:59:42", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:59:43" }, "geometry": { "type": "Point", "coordinates": [ -86.361869, 35.854522 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My receivers out and I'm missing my nightly Family Guy. Not cool not cool", "user": "dankillinem", "location": "", "coord_x": -88.246305, "coord_y": 40.064023, "created_at": "2013\/03\/25", "h_m_s": "7:2:39", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:2:40" }, "geometry": { "type": "Point", "coordinates": [ -88.246305, 40.064023 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If \"pro\" is the opposite of \"con\" then what is the opposite of \"progress?\"\n\n-Family Guy (paraphrased)", "user": "falvey_patrick", "location": "Los Angeles", "coord_x": -118.061634, "coord_y": 34.125536, "created_at": "2013\/03\/25", "h_m_s": "7:10:48", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:10:49" }, "geometry": { "type": "Point", "coordinates": [ -118.061634, 34.125536 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I can't watch Sponge Bob or Family Guy, without thinking about you.", "user": "EddyM512", "location": "Austin, Tx.", "coord_x": -97.738026, "coord_y": 30.191477, "created_at": "2013\/03\/25", "h_m_s": "7:39:12", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:39:13" }, "geometry": { "type": "Point", "coordinates": [ -97.738026, 30.191477 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just want to go back to bed and watch family guy and eat toast and drink tea all day #please", "user": "izzfield_", "location": "", "coord_x": 1.435939, "coord_y": 51.355332, "created_at": "2013\/03\/25", "h_m_s": "7:39:41", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:39:42" }, "geometry": { "type": "Point", "coordinates": [ 1.435939, 51.355332 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "While I'm watchin family guy tryna fall asleep these guys are goin in on me lmfao ??????", "user": "KobeOnUHoes24", "location": "803?919?323", "coord_x": -78.447300, "coord_y": 35.636816, "created_at": "2013\/03\/25", "h_m_s": "7:40:51", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:40:52" }, "geometry": { "type": "Point", "coordinates": [ -78.447300, 35.636816 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching family guy on Netflix", "user": "Baby_Wiz300", "location": "", "coord_x": -78.612105, "coord_y": 36.395958, "created_at": "2013\/03\/25", "h_m_s": "7:58:5", "time_ets": "2013\/03\/25", "h_m_s_ets": "3:58:6" }, "geometry": { "type": "Point", "coordinates": [ -78.612105, 36.395958 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy desenho pra vida!?? Sou muito fã!?? #vicio @CanalFX @Fx_Brasil", "user": "vanmancini", "location": "", "coord_x": -60.036211, "coord_y": -3.094570, "created_at": "2013\/03\/25", "h_m_s": "8:2:50", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:2:51" }, "geometry": { "type": "Point", "coordinates": [ -60.036211, -3.094570 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Still up and bored watching family guy on my phone . !", "user": "sheestiny", "location": "San Bernardino", "coord_x": -117.319936, "coord_y": 34.175747, "created_at": "2013\/03\/25", "h_m_s": "8:35:40", "time_ets": "2013\/03\/25", "h_m_s_ets": "4:35:41" }, "geometry": { "type": "Point", "coordinates": [ -117.319936, 34.175747 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "At least family guy is on ????", "user": "t_reed17", "location": "Hillsboro.", "coord_x": -83.746764, "coord_y": 39.117079, "created_at": "2013\/03\/25", "h_m_s": "9:5:0", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:5:1" }, "geometry": { "type": "Point", "coordinates": [ -83.746764, 39.117079 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy is in some shit lmao ??", "user": "lovelymemorie", "location": "", "coord_x": -117.256136, "coord_y": 34.156602, "created_at": "2013\/03\/25", "h_m_s": "9:20:16", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:20:18" }, "geometry": { "type": "Point", "coordinates": [ -117.256136, 34.156602 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Someone please tell me they watched Family Guy last night? #PeterDropsPhoneInToilet", "user": "JayJayRoss", "location": "Trailer Park in Madison OH", "coord_x": -81.058183, "coord_y": 41.807932, "created_at": "2013\/03\/25", "h_m_s": "9:42:19", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:42:20" }, "geometry": { "type": "Point", "coordinates": [ -81.058183, 41.807932 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Okay family guy.. South Park.. Or the Cleveland show.. Any suggestion", "user": "StevieKidd55555", "location": "Needles CA", "coord_x": -114.613607, "coord_y": 34.828698, "created_at": "2013\/03\/25", "h_m_s": "9:55:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "5:55:45" }, "geometry": { "type": "Point", "coordinates": [ -114.613607, 34.828698 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@youjustmadson family guy it is.. Thank you beautiful;)????", "user": "StevieKidd55555", "location": "Needles CA", "coord_x": -114.613754, "coord_y": 34.828952, "created_at": "2013\/03\/25", "h_m_s": "10:1:59", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:2:0" }, "geometry": { "type": "Point", "coordinates": [ -114.613754, 34.828952 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching Family Guy (:", "user": "VictorShlondong", "location": "", "coord_x": -72.606987, "coord_y": 42.117486, "created_at": "2013\/03\/25", "h_m_s": "10:19:53", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:19:54" }, "geometry": { "type": "Point", "coordinates": [ -72.606987, 42.117486 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family Guy, Simson atau Futuranj?", "user": "Gipan_", "location": "Ujung Gang Batu, Gambir", "coord_x": 106.840018, "coord_y": -6.168186, "created_at": "2013\/03\/25", "h_m_s": "10:59:4", "time_ets": "2013\/03\/25", "h_m_s_ets": "6:59:5" }, "geometry": { "type": "Point", "coordinates": [ 106.840018, -6.168186 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@aaronrice20 okay chill bab! Family guy kept me up all night your fault!", "user": "__JESUSSAVES", "location": "England, worksop", "coord_x": -1.124938, "coord_y": 53.304312, "created_at": "2013\/03\/25", "h_m_s": "11:23:59", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:24:0" }, "geometry": { "type": "Point", "coordinates": [ -1.124938, 53.304312 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lol I love family guy", "user": "KaylaBug32", "location": "", "coord_x": -84.602598, "coord_y": 42.745578, "created_at": "2013\/03\/25", "h_m_s": "11:44:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:44:45" }, "geometry": { "type": "Point", "coordinates": [ -84.602598, 42.745578 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy pajamas ??", "user": "Darren_Alagoz", "location": "The Radley Place", "coord_x": -80.978132, "coord_y": 35.015766, "created_at": "2013\/03\/25", "h_m_s": "11:49:25", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:49:26" }, "geometry": { "type": "Point", "coordinates": [ -80.978132, 35.015766 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Out of Reach from \"12 and a Half Angry Men\" | FAMILY GUY | Animation on FOX http:\/\/t.co\/0KmrQgCQ8x", "user": "ToqOKhan", "location": "Rochdale", "coord_x": -2.176894, "coord_y": 53.613532, "created_at": "2013\/03\/25", "h_m_s": "12:23:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:23:17" }, "geometry": { "type": "Point", "coordinates": [ -2.176894, 53.613532 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lying in bed watching family guy.. What a beautiful monday!", "user": "emma_guy94", "location": "Corby", "coord_x": -0.716701, "coord_y": 52.469550, "created_at": "2013\/03\/25", "h_m_s": "12:31:11", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:31:12" }, "geometry": { "type": "Point", "coordinates": [ -0.716701, 52.469550 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy in the morning ??", "user": "johnnybeyk", "location": "Ole Miss", "coord_x": -89.538914, "coord_y": 34.367601, "created_at": "2013\/03\/25", "h_m_s": "12:35:49", "time_ets": "2013\/03\/25", "h_m_s_ets": "8:35:50" }, "geometry": { "type": "Point", "coordinates": [ -89.538914, 34.367601 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy season 11 episode 5", "user": "raheem_drizzle", "location": "Lagos,Nigeria", "coord_x": 3.396749, "coord_y": 6.512121, "created_at": "2013\/03\/25", "h_m_s": "13:33:27", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:33:28" }, "geometry": { "type": "Point", "coordinates": [ 3.396749, 6.512121 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Family guy :)", "user": "Gce117", "location": "Virginia", "coord_x": -77.457857, "coord_y": 38.781911, "created_at": "2013\/03\/25", "h_m_s": "14:3:29", "time_ets": "2013\/03\/25", "h_m_s_ets": "10:3:30" }, "geometry": { "type": "Point", "coordinates": [ -77.457857, 38.781911 ] } }
+
+]
+}

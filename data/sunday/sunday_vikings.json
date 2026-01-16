@@ -1,0 +1,161 @@
+var vikings = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Pretty badass show! #Vikings", "user": "ShawnWilson14", "location": "Duncan Falls OH", "coord_x": -81.919065, "coord_y": 39.886142, "created_at": "2013\/03\/24", "h_m_s": "17:52:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:52:17" }, "geometry": { "type": "Point", "coordinates": [ -81.919065, 39.886142 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@nigelpearson @liamthorpe89 Hull Kingston Rovers on TV at moment. Sadly the curves of the old speedway track have gone #vikings", "user": "JonSmallwood", "location": "", "coord_x": -1.978118, "coord_y": 50.795034, "created_at": "2013\/03\/24", "h_m_s": "18:18:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:18:29" }, "geometry": { "type": "Point", "coordinates": [ -1.978118, 50.795034 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "can we talk about how I just found my senior year shirt in my room at home #2010 #shirt #vikings #hf… http:\/\/t.co\/RsQreES858", "user": "ianthembd", "location": "i go to school in a cornfield", "coord_x": -87.692626, "coord_y": 41.563137, "created_at": "2013\/03\/24", "h_m_s": "21:22:25", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:22:26" }, "geometry": { "type": "Point", "coordinates": [ -87.692626, 41.563137 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rehabbing and watching #Vikings", "user": "delbenz", "location": "", "coord_x": -73.868229, "coord_y": 41.577279, "created_at": "2013\/03\/24", "h_m_s": "21:45:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "17:45:40" }, "geometry": { "type": "Point", "coordinates": [ -73.868229, 41.577279 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#vikings is my favorite part about sundays", "user": "notitlejustdan", "location": "Michigan", "coord_x": -84.827345, "coord_y": 44.949571, "created_at": "2013\/03\/25", "h_m_s": "0:49:34", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:49:35" }, "geometry": { "type": "Point", "coordinates": [ -84.827345, 44.949571 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@HistoryVikings: RT if you'll be watching #VIKINGS tonight at 10\/9c.” @anaria", "user": "airimus", "location": "Tulsa, OK", "coord_x": -95.976122, "coord_y": 36.020016, "created_at": "2013\/03\/25", "h_m_s": "1:7:54", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:7:55" }, "geometry": { "type": "Point", "coordinates": [ -95.976122, 36.020016 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@TheReal_Jlh  #thclientlist #vikings The Client list wins! Sorry #marchmadness", "user": "Hogsnorth", "location": "Minneapolis, Minnesota", "coord_x": -93.313174, "coord_y": 45.207538, "created_at": "2013\/03\/25", "h_m_s": "1:11:19", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:11:20" }, "geometry": { "type": "Point", "coordinates": [ -93.313174, 45.207538 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#TheBible &amp; #Vikings\n??????", "user": "misselonlee", "location": "", "coord_x": -101.876736, "coord_y": 33.578834, "created_at": "2013\/03\/25", "h_m_s": "1:21:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:21:3" }, "geometry": { "type": "Point", "coordinates": [ -101.876736, 33.578834 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Terminando #TheWalkingDead  continuare con el episodio de #VIKINGS...", "user": "Destro_88", "location": "Confederate States of America", "coord_x": -73.424546, "coord_y": 41.110342, "created_at": "2013\/03\/25", "h_m_s": "1:42:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:42:56" }, "geometry": { "type": "Point", "coordinates": [ -73.424546, 41.110342 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New Vikings right now is gonna be sweet!!! @HistoryVikings", "user": "BenPoe3", "location": "Prine Georgre", "coord_x": -77.134947, "coord_y": 37.239456, "created_at": "2013\/03\/25", "h_m_s": "2:1:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:1:13" }, "geometry": { "type": "Point", "coordinates": [ -77.134947, 37.239456 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Vikings on now @historychannel", "user": "Glennamstyle", "location": "", "coord_x": -117.616805, "coord_y": 34.026676, "created_at": "2013\/03\/25", "h_m_s": "2:2:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:2:18" }, "geometry": { "type": "Point", "coordinates": [ -117.616805, 34.026676 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Now watching #vikings in @History!", "user": "Destro_88", "location": "Confederate States of America", "coord_x": -73.424556, "coord_y": 41.110249, "created_at": "2013\/03\/25", "h_m_s": "2:2:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:2:58" }, "geometry": { "type": "Point", "coordinates": [ -73.424556, 41.110249 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "First #MenWhoBuiltAmerica, now #TheBible and #Vikings: @history has really stepped up it’s game (and cut into my sleep)", "user": "MattScherbarth", "location": "Mukwonago, WI", "coord_x": -88.392882, "coord_y": 42.888659, "created_at": "2013\/03\/25", "h_m_s": "2:6:12", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:6:13" }, "geometry": { "type": "Point", "coordinates": [ -88.392882, 42.888659 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lets see how good this show is #vikings", "user": "DorisKadenasi", "location": "", "coord_x": -74.081609, "coord_y": 40.880351, "created_at": "2013\/03\/25", "h_m_s": "2:7:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:7:19" }, "geometry": { "type": "Point", "coordinates": [ -74.081609, 40.880351 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings Ragnar looks kinda like a historic Jacks Teller from Sons of Anarchy. Sorry but it's true #Vikings", "user": "Matt_gypsyhero", "location": "", "coord_x": -86.558973, "coord_y": 41.945243, "created_at": "2013\/03\/25", "h_m_s": "2:13:49", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:13:50" }, "geometry": { "type": "Point", "coordinates": [ -86.558973, 41.945243 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings Ya see why i? Love her? lol I love My wife! I enjoy Mrs. Ragnar ... She has that LooK??", "user": "Philliesfan1967", "location": "South Jersey", "coord_x": -75.122317, "coord_y": 39.880990, "created_at": "2013\/03\/25", "h_m_s": "2:14:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:14:17" }, "geometry": { "type": "Point", "coordinates": [ -75.122317, 39.880990 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Vikings is finally on.?? @HistoryVikings", "user": "dearhannah_xox", "location": "Rock Hill, SC", "coord_x": -80.973565, "coord_y": 34.874680, "created_at": "2013\/03\/25", "h_m_s": "2:16:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:16:10" }, "geometry": { "type": "Point", "coordinates": [ -80.973565, 34.874680 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love this show @HistoryVikings", "user": "darlingdearxox", "location": "Wichita Kansas", "coord_x": -97.379763, "coord_y": 37.687447, "created_at": "2013\/03\/25", "h_m_s": "2:18:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:18:42" }, "geometry": { "type": "Point", "coordinates": [ -97.379763, 37.687447 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings that is absolutely genius! Raising the archers up was brilliant. #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588122, "coord_y": 36.443850, "created_at": "2013\/03\/25", "h_m_s": "2:21:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:21:40" }, "geometry": { "type": "Point", "coordinates": [ -82.588122, 36.443850 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#VIKINGS", "user": "CHUB_4_YOU", "location": "Chicago", "coord_x": -87.730585, "coord_y": 41.751653, "created_at": "2013\/03\/25", "h_m_s": "2:21:46", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:21:47" }, "geometry": { "type": "Point", "coordinates": [ -87.730585, 41.751653 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "History channel #Vikings definitely better than HBO Rome!!! Great production, the best thing is not PPV", "user": "capalmas", "location": "34.172312,-80.87654", "coord_x": -79.995040, "coord_y": 40.256667, "created_at": "2013\/03\/25", "h_m_s": "2:22:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:22:25" }, "geometry": { "type": "Point", "coordinates": [ -79.995040, 40.256667 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings Great costumes on this  episode, good job guys!", "user": "crushitson", "location": "Roseville, Minnesota", "coord_x": -93.157157, "coord_y": 45.029068, "created_at": "2013\/03\/25", "h_m_s": "2:23:24", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:23:25" }, "geometry": { "type": "Point", "coordinates": [ -93.157157, 45.029068 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings did I just hear a Wilhelm Scream in that battle scene?", "user": "gunderstorm", "location": "Chicago", "coord_x": -87.672387, "coord_y": 41.928963, "created_at": "2013\/03\/25", "h_m_s": "2:24:35", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:24:36" }, "geometry": { "type": "Point", "coordinates": [ -87.672387, 41.928963 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gblagden fighting can't get you everything. He's super smart. #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588161, "coord_y": 36.443797, "created_at": "2013\/03\/25", "h_m_s": "2:25:44", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:25:45" }, "geometry": { "type": "Point", "coordinates": [ -82.588161, 36.443797 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings  a great fight!", "user": "brooklynbuddah", "location": "Brooklyn, NY", "coord_x": -73.870248, "coord_y": 40.682003, "created_at": "2013\/03\/25", "h_m_s": "2:26:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:26:14" }, "geometry": { "type": "Point", "coordinates": [ -73.870247, 40.682003 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Vikings #bestshowever #amazing #historychannel", "user": "FallenSkum", "location": "", "coord_x": -88.552147, "coord_y": 44.025307, "created_at": "2013\/03\/25", "h_m_s": "2:28:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:28:17" }, "geometry": { "type": "Point", "coordinates": [ -88.552147, 44.025307 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gblagden fantastic job! You did absolutely amazing! #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588134, "coord_y": 36.443815, "created_at": "2013\/03\/25", "h_m_s": "2:28:21", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:28:22" }, "geometry": { "type": "Point", "coordinates": [ -82.588134, 36.443815 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#vikings ??", "user": "shorency_", "location": "440", "coord_x": -82.143795, "coord_y": 41.208317, "created_at": "2013\/03\/25", "h_m_s": "2:28:22", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:28:23" }, "geometry": { "type": "Point", "coordinates": [ -82.143795, 41.208317 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings Too many commercial breaks!!! Bring back the pillaging!! #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588135, "coord_y": 36.443831, "created_at": "2013\/03\/25", "h_m_s": "2:31:31", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:31:34" }, "geometry": { "type": "Point", "coordinates": [ -82.588135, 36.443831 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Oh snap Ragnar just told the earl he killed kunuit. Serious shit going down here now. #vikings #historychannel", "user": "PinsentAndrew", "location": "Canada", "coord_x": -53.103389, "coord_y": 48.670617, "created_at": "2013\/03\/25", "h_m_s": "2:34:11", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:34:13" }, "geometry": { "type": "Point", "coordinates": [ -53.103389, 48.670618 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I love this show! #VIKINGS", "user": "ccarb91", "location": "Grand Rapids, Mi", "coord_x": -85.751133, "coord_y": 42.976449, "created_at": "2013\/03\/25", "h_m_s": "2:34:39", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:34:42" }, "geometry": { "type": "Point", "coordinates": [ -85.751133, 42.976449 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings uhoh... He's in trouble now... #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588140, "coord_y": 36.443824, "created_at": "2013\/03\/25", "h_m_s": "2:35:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:36:9" }, "geometry": { "type": "Point", "coordinates": [ -82.588140, 36.443824 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "this guy is a douche bag. #vikings", "user": "shorency_", "location": "440", "coord_x": -82.143683, "coord_y": 41.208582, "created_at": "2013\/03\/25", "h_m_s": "2:36:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:36:38" }, "geometry": { "type": "Point", "coordinates": [ -82.143683, 41.208582 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lagertha is such a bad ass #VIKINGS", "user": "ccarb91", "location": "Grand Rapids, Mi", "coord_x": -85.751347, "coord_y": 42.976295, "created_at": "2013\/03\/25", "h_m_s": "2:37:2", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:37:3" }, "geometry": { "type": "Point", "coordinates": [ -85.751347, 42.976295 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings \"Would you do that earl?\" \"I might.\" JERK... @CliveStanden #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588140, "coord_y": 36.443819, "created_at": "2013\/03\/25", "h_m_s": "2:39:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:39:43" }, "geometry": { "type": "Point", "coordinates": [ -82.588140, 36.443819 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Don't do it, Rollo... #VIKINGS @HistoryVikings", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588128, "coord_y": 36.443812, "created_at": "2013\/03\/25", "h_m_s": "2:40:15", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:40:16" }, "geometry": { "type": "Point", "coordinates": [ -82.588128, 36.443812 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings He better not accept. I doubt he will... I'LL BE VERY DISAPPOINTED! #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.587875, "coord_y": 36.443892, "created_at": "2013\/03\/25", "h_m_s": "2:42:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:42:11" }, "geometry": { "type": "Point", "coordinates": [ -82.587875, 36.443892 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching #Vikings for the first time on the History Channel. Hmm", "user": "efeezyismeezy", "location": "AKron, Ohio", "coord_x": -81.752697, "coord_y": 41.034948, "created_at": "2013\/03\/25", "h_m_s": "2:42:47", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:42:49" }, "geometry": { "type": "Point", "coordinates": [ -81.752697, 41.034948 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings huge spoiler. #unfollow", "user": "KennedyMarty", "location": "Chicago, Illinois", "coord_x": -87.958697, "coord_y": 42.066327, "created_at": "2013\/03\/25", "h_m_s": "2:45:4", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:45:35" }, "geometry": { "type": "Point", "coordinates": [ -87.958697, 42.066327 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "that was his brother? ?? #vikings #saywhat", "user": "shorency_", "location": "440", "coord_x": -82.143722, "coord_y": 41.208398, "created_at": "2013\/03\/25", "h_m_s": "2:45:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:45:51" }, "geometry": { "type": "Point", "coordinates": [ -82.143722, 41.208398 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@gblagden Way more than innocent! Brave and loyal! #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588111, "coord_y": 36.443827, "created_at": "2013\/03\/25", "h_m_s": "2:46:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:46:19" }, "geometry": { "type": "Point", "coordinates": [ -82.588111, 36.443827 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"May Thor strike you down!\" @KatherynWinnick @HistoryVikings #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588116, "coord_y": 36.443851, "created_at": "2013\/03\/25", "h_m_s": "2:48:41", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:48:42" }, "geometry": { "type": "Point", "coordinates": [ -82.588116, 36.443851 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings not one bit!#VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588106, "coord_y": 36.443839, "created_at": "2013\/03\/25", "h_m_s": "2:50:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:50:56" }, "geometry": { "type": "Point", "coordinates": [ -82.588106, 36.443839 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings crazy things happening tonight!!!! Family over everything!!!! #Rollo #Ragnar", "user": "joemorganv", "location": "Heartland, USA", "coord_x": -80.812927, "coord_y": 35.033943, "created_at": "2013\/03\/25", "h_m_s": "2:51:40", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:51:41" }, "geometry": { "type": "Point", "coordinates": [ -80.812927, 35.033943 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings Ha ha! A woman killed your brother!", "user": "brooklynbuddah", "location": "Brooklyn, NY", "coord_x": -73.870248, "coord_y": 40.682003, "created_at": "2013\/03\/25", "h_m_s": "2:52:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:52:23" }, "geometry": { "type": "Point", "coordinates": [ -73.870247, 40.682003 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Best Mini Series of the Moment! #vikings @History", "user": "haendelm", "location": "Pembroke Pines FL", "coord_x": -80.326222, "coord_y": 26.012888, "created_at": "2013\/03\/25", "h_m_s": "2:53:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:53:4" }, "geometry": { "type": "Point", "coordinates": [ -80.326222, 26.012888 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I still don't trust Rollo. #sneaky Beware Ragnar!!  @HistoryVikings", "user": "princie_80", "location": "North FL #SmalltownUSA", "coord_x": -83.422363, "coord_y": 30.468653, "created_at": "2013\/03\/25", "h_m_s": "2:53:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:53:21" }, "geometry": { "type": "Point", "coordinates": [ -83.422363, 30.468653 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#vikings I'm proud of Roll....for now.", "user": "faedrie", "location": "Thornwell, La", "coord_x": -92.738885, "coord_y": 30.092376, "created_at": "2013\/03\/25", "h_m_s": "2:54:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:54:58" }, "geometry": { "type": "Point", "coordinates": [ -92.738885, 30.092376 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings love this show", "user": "jennifera799", "location": "", "coord_x": -81.258207, "coord_y": 36.895682, "created_at": "2013\/03\/25", "h_m_s": "2:57:13", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:57:14" }, "geometry": { "type": "Point", "coordinates": [ -81.258207, 36.895682 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Que cantidad de madrazos se dan en #vikings como que se inspiraron en spartacus", "user": "obieta", "location": "Naperville", "coord_x": -88.136717, "coord_y": 41.808203, "created_at": "2013\/03\/25", "h_m_s": "2:59:30", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:59:32" }, "geometry": { "type": "Point", "coordinates": [ -88.136717, 41.808203 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings @gblagden I don't want it to be over! Can't wait for next week!! #VIKINGS", "user": "WingsOfADove_", "location": "Knoxville, Tennessee", "coord_x": -82.588111, "coord_y": 36.443839, "created_at": "2013\/03\/25", "h_m_s": "3:1:32", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:1:33" }, "geometry": { "type": "Point", "coordinates": [ -82.588111, 36.443839 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Shit's about to go down on #Vikings", "user": "Stanimal32", "location": "Wichita, KS", "coord_x": -97.253822, "coord_y": 37.763451, "created_at": "2013\/03\/25", "h_m_s": "3:2:53", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:2:54" }, "geometry": { "type": "Point", "coordinates": [ -97.253822, 37.763451 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings  DO NOT KILL HIM OFF THIS SHOW!!!", "user": "faedrie", "location": "Thornwell, La", "coord_x": -92.684502, "coord_y": 30.087379, "created_at": "2013\/03\/25", "h_m_s": "3:4:18", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:4:19" }, "geometry": { "type": "Point", "coordinates": [ -92.684502, 30.087379 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Time for my show #Vikings", "user": "JudgeGjoni", "location": "", "coord_x": -75.912049, "coord_y": 40.357070, "created_at": "2013\/03\/25", "h_m_s": "3:5:3", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:5:5" }, "geometry": { "type": "Point", "coordinates": [ -75.912049, 40.357071 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings what is the song played during the church raid scene on tonight's episode?", "user": "CZiggyZag", "location": "Los Angeles?Siena?Burlington\t", "coord_x": -73.205392, "coord_y": 44.471625, "created_at": "2013\/03\/25", "h_m_s": "3:11:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:11:56" }, "geometry": { "type": "Point", "coordinates": [ -73.205392, 44.471625 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\" What does a man do? He fights \" - Ragnar #Vikings on History Channel", "user": "J_Shoaf", "location": "", "coord_x": -81.087792, "coord_y": 34.855564, "created_at": "2013\/03\/25", "h_m_s": "3:15:28", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:15:29" }, "geometry": { "type": "Point", "coordinates": [ -81.087792, 34.855564 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Waiting in vain. #Vikings #picoftheday #instadaily @ Vikings http:\/\/t.co\/cFYsJUyg5f", "user": "khristinetupas", "location": "", "coord_x": 120.979342, "coord_y": 14.540510, "created_at": "2013\/03\/25", "h_m_s": "3:32:29", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:32:31" }, "geometry": { "type": "Point", "coordinates": [ 120.979342, 14.540510 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Who's watching @bibleseries and @historyvikings ? Both great shows and the reason I get nothing accomplished on Sunday nights.", "user": "shamrocks74", "location": "Hudson Valley, NY", "coord_x": -74.024884, "coord_y": 41.473857, "created_at": "2013\/03\/25", "h_m_s": "3:38:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:38:6" }, "geometry": { "type": "Point", "coordinates": [ -74.024884, 41.473857 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@JohnZiegler23 #Vikings", "user": "KennedyMarty", "location": "Chicago, Illinois", "coord_x": -87.954383, "coord_y": 42.065061, "created_at": "2013\/03\/25", "h_m_s": "3:49:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:50:39" }, "geometry": { "type": "Point", "coordinates": [ -87.954383, 42.065061 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@HistoryVikings #Vikings G shit", "user": "Deli_samich", "location": "DENVER, CO", "coord_x": -104.979281, "coord_y": 39.722973, "created_at": "2013\/03\/25", "h_m_s": "3:50:56", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:50:57" }, "geometry": { "type": "Point", "coordinates": [ -104.979281, 39.722973 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Vikings", "user": "TheRealTubbis", "location": "JHU", "coord_x": -76.617339, "coord_y": 39.329027, "created_at": "2013\/03\/25", "h_m_s": "3:51:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:51:37" }, "geometry": { "type": "Point", "coordinates": [ -76.617339, 39.329027 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@SchuylerRilling watching #vikings at work. #heritage", "user": "ShaelieRae", "location": "Provo, UT", "coord_x": -96.369810, "coord_y": 42.458470, "created_at": "2013\/03\/25", "h_m_s": "3:55:37", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:38" }, "geometry": { "type": "Point", "coordinates": [ -96.369810, 42.458470 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watched Vikings today on History channel.  Very awesome! #Vikings", "user": "AErgeson", "location": "San Diego, CA", "coord_x": -117.136329, "coord_y": 32.740261, "created_at": "2013\/03\/25", "h_m_s": "3:55:52", "time_ets": "2013\/03\/24", "h_m_s_ets": "23:55:53" }, "geometry": { "type": "Point", "coordinates": [ -117.136329, 32.740261 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Flocki is crazy..... I love it!!! #Vikings @HistoryVikings", "user": "skinbyrd816", "location": "Astatula", "coord_x": -81.686839, "coord_y": 28.744762, "created_at": "2013\/03\/25", "h_m_s": "4:30:33", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:30:34" }, "geometry": { "type": "Point", "coordinates": [ -81.686839, 28.744762 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Being forced to watch #Vikings ...", "user": "abigailLt92", "location": "Arthur, Illinois", "coord_x": -88.462634, "coord_y": 39.614825, "created_at": "2013\/03\/25", "h_m_s": "4:46:37", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:46:38" }, "geometry": { "type": "Point", "coordinates": [ -88.462634, 39.614825 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love this show! #vikings", "user": "peterboulden", "location": "Atlanta", "coord_x": -84.376914, "coord_y": 33.880232, "created_at": "2013\/03\/25", "h_m_s": "4:50:58", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:50:59" }, "geometry": { "type": "Point", "coordinates": [ -84.376913, 33.880232 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the #Vikings #Packers game from week 17. So excited to watch this offense go to work in September.", "user": "bkraniger", "location": "", "coord_x": -111.641416, "coord_y": 35.190107, "created_at": "2013\/03\/25", "h_m_s": "4:53:46", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:53:47" }, "geometry": { "type": "Point", "coordinates": [ -111.641416, 35.190107 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The 1st episode was alright, but the recent 1's Damn #Vikings", "user": "tumelo_mo", "location": "RSA JHB", "coord_x": 28.393703, "coord_y": -26.328848, "created_at": "2013\/03\/25", "h_m_s": "4:57:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:57:45" }, "geometry": { "type": "Point", "coordinates": [ 28.393703, -26.328848 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "But I really don't have the heart to ask my dad to turn it off. #Vikings", "user": "abigailLt92", "location": "Arthur, Illinois", "coord_x": -88.462334, "coord_y": 39.614817, "created_at": "2013\/03\/25", "h_m_s": "5:5:15", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:5:16" }, "geometry": { "type": "Point", "coordinates": [ -88.462334, 39.614817 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Vikings is a #TT &amp; all I can think about is the DVC #VIKINGS! Hahaha", "user": "9Pauu", "location": "New York City, New York", "coord_x": -121.989982, "coord_y": 37.969788, "created_at": "2013\/03\/25", "h_m_s": "5:12:58", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:12:59" }, "geometry": { "type": "Point", "coordinates": [ -121.989982, 37.969788 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Curious if any of the @fvnorthwestern are watching #Vikings on #History.....", "user": "kiana0810", "location": "SoCal", "coord_x": -117.735269, "coord_y": 33.969014, "created_at": "2013\/03\/25", "h_m_s": "5:17:2", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:17:3" }, "geometry": { "type": "Point", "coordinates": [ -117.735269, 33.969014 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Rollo, don't do it!! #vikings", "user": "einnaonafets", "location": "Yorba Linda, CA", "coord_x": -117.785168, "coord_y": 33.866270, "created_at": "2013\/03\/25", "h_m_s": "5:54:44", "time_ets": "2013\/03\/25", "h_m_s_ets": "1:54:45" }, "geometry": { "type": "Point", "coordinates": [ -117.785168, 33.866270 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Vikings #PiggingOut #EatLikeAQueen HAHAHA :)) #FirstTime @ Vikings http:\/\/t.co\/o0WCGaIzGf", "user": "rhejelicious", "location": "Manila, Philippines", "coord_x": 121.032326, "coord_y": 14.656258, "created_at": "2013\/03\/25", "h_m_s": "6:15:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:16:5" }, "geometry": { "type": "Point", "coordinates": [ 121.032326, 14.656258 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Done with the draft of my article. So excited for this!\n#Vikings http:\/\/t.co\/rvVC7VWgCB", "user": "GorgeousBie", "location": "Olongapo City, Philippines", "coord_x": 120.281435, "coord_y": 14.836557, "created_at": "2013\/03\/25", "h_m_s": "6:16:8", "time_ets": "2013\/03\/25", "h_m_s_ets": "2:16:9" }, "geometry": { "type": "Point", "coordinates": [ 120.281435, 14.836557 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@njsusang @historyvikings thought the scenery looked familiar lol", "user": "NaomiMindy", "location": "Ottawa Canada", "coord_x": -75.519476, "coord_y": 45.468227, "created_at": "2013\/03\/25", "h_m_s": "11:14:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "7:14:56" }, "geometry": { "type": "Point", "coordinates": [ -75.519476, 45.468227 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@espn_nfcnblog w\/ $14Mcap space the #Vikings should bring in Urlacher, Woodson, bring back Winfield and draft some D and WR...thoughts?", "user": "TFair28", "location": "west central minnesota", "coord_x": -95.919014, "coord_y": 45.583896, "created_at": "2013\/03\/25", "h_m_s": "13:35:57", "time_ets": "2013\/03\/25", "h_m_s_ets": "9:35:58" }, "geometry": { "type": "Point", "coordinates": [ -95.919014, 45.583896 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Jchawes @gblagden #Vikings is my new favorite show (since Ghosthunters is on break...)", "user": "radicalgirl", "location": "The Emerald City", "coord_x": -122.199617, "coord_y": 47.461780, "created_at": "2013\/03\/25", "h_m_s": "14:1:12", "time_ets": "2013\/03\/25", "h_m_s_ets": "10:1:13" }, "geometry": { "type": "Point", "coordinates": [ -122.199616, 47.461780 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Haha he turned him on RT @HistoryVikings Did you think Rollo would turn on Ragnar last night? #VIKINGS http:\/\/t.co\/Pf8RZGCacc", "user": "onapedalstool", "location": "Phoenix", "coord_x": -112.286902, "coord_y": 33.542264, "created_at": "2013\/03\/25", "h_m_s": "14:10:55", "time_ets": "2013\/03\/25", "h_m_s_ets": "10:10:56" }, "geometry": { "type": "Point", "coordinates": [ -112.286902, 33.542264 ] } }
+
+]
+}

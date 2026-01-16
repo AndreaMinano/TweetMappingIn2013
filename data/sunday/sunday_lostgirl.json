@@ -1,0 +1,25 @@
+var lostgirl = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@Anna_Silk @showcasedotca @lostgirlseries Can't wait for tomorrow here in the US!", "user": "Shomed", "location": "", "coord_x": -73.883721, "coord_y": 41.533382, "created_at": "2013\/03\/24", "h_m_s": "17:41:6", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:41:7" }, "geometry": { "type": "Point", "coordinates": [ -73.883721, 41.533382 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@ana__goncalves I think well need something stronger, something in a jug with a label that reads, \"XXX\" @anna_silk @lostgirlseries", "user": "alexxthegreat", "location": "Los Angeles, CA", "coord_x": -118.581065, "coord_y": 34.221902, "created_at": "2013\/03\/24", "h_m_s": "17:54:59", "time_ets": "2013\/03\/24", "h_m_s_ets": "13:55:0" }, "geometry": { "type": "Point", "coordinates": [ -118.581065, 34.221902 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So excited for #LostGirl tonight! Looks awesome w\/ Linda! #PleaseDontKillTamsin @lostgirlseries @RachieSkarsten @emtothea @McKenzieLyn", "user": "KathleenBunting", "location": "Atlanta, GA", "coord_x": -84.472370, "coord_y": 33.983334, "created_at": "2013\/03\/24", "h_m_s": "18:41:10", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:41:11" }, "geometry": { "type": "Point", "coordinates": [ -84.472370, 33.983334 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Kathycush hey there Hot Nurse Wondersnatch! I am lamenting the loss of my wallet and waiting for lost girl angst cuz I don't feel bad enuf", "user": "alexxthegreat", "location": "Los Angeles, CA", "coord_x": -118.580694, "coord_y": 34.221923, "created_at": "2013\/03\/24", "h_m_s": "23:51:17", "time_ets": "2013\/03\/24", "h_m_s_ets": "19:51:18" }, "geometry": { "type": "Point", "coordinates": [ -118.580694, 34.221923 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@IsJustKelly you're on Lost Girl? That's so dope! D'you know what the episode is called? Soz I can try and acquire it in the Americas?", "user": "evanjstern", "location": "Los Angeles, CA\/Toronto, ON", "coord_x": -118.290458, "coord_y": 34.102800, "created_at": "2013\/03\/25", "h_m_s": "0:45:5", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:45:6" }, "geometry": { "type": "Point", "coordinates": [ -118.290458, 34.102800 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Anna_Silk Love you when you say I! ^_^ I like very lost girl that you're Lauren in this series ? Big LOVE  Bo &amp;lauren ,#LostGirl #Doccubus", "user": "alghrob", "location": "Dubai", "coord_x": 54.634530, "coord_y": 24.325050, "created_at": "2013\/03\/25", "h_m_s": "1:45:16", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:45:17" }, "geometry": { "type": "Point", "coordinates": [ 54.634530, 24.325050 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Didn't expect that ending @lostgirlseries @ZoiePalmer @Anna_Silk WOW!", "user": "janer83", "location": "Saint John", "coord_x": -65.970486, "coord_y": 45.394801, "created_at": "2013\/03\/25", "h_m_s": "1:54:20", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:54:21" }, "geometry": { "type": "Point", "coordinates": [ -65.970486, 45.394801 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "It's alright it's out there, go ahead and get lost girl", "user": "jroddddddddg", "location": "Woodbridge, VA", "coord_x": -76.299401, "coord_y": 36.885071, "created_at": "2013\/03\/25", "h_m_s": "2:51:50", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:51:51" }, "geometry": { "type": "Point", "coordinates": [ -76.299401, 36.885071 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@egeogh It's a crossover ship, Patch Town meets Lost Girl, welcome Doccubaby! @carolynrodham", "user": "alexxthegreat", "location": "Los Angeles, CA", "coord_x": -118.580859, "coord_y": 34.221997, "created_at": "2013\/03\/25", "h_m_s": "2:53:1", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:53:2" }, "geometry": { "type": "Point", "coordinates": [ -118.580859, 34.221997 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@I_Am_Nathena sorry.....I'm Emo Farming.  Blame the Lost Girl writers @emtothea #EmoFarmers", "user": "alexxthegreat", "location": "Los Angeles, CA", "coord_x": -118.589128, "coord_y": 34.219642, "created_at": "2013\/03\/25", "h_m_s": "4:40:57", "time_ets": "2013\/03\/25", "h_m_s_ets": "0:40:58" }, "geometry": { "type": "Point", "coordinates": [ -118.589128, 34.219642 ] } }
+
+]
+}

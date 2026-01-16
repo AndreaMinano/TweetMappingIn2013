@@ -1,0 +1,9 @@
+var kitchen = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@jock_reynolds @Cobbermate hey knobbermate why don't go watch my kitchen rules with ya mum if ya dont like it", "user": "Wayno_Reynolds", "location": "", "coord_x": 145.135558, "coord_y": -38.038530, "created_at": "2013\/03\/20", "h_m_s": "20:37:38", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:37:41", "count": 1, "category": "kitchen" }, "geometry": { "type": "Point", "coordinates": [ 145.135558, -38.038529 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If you like My Kitchen Rules you are Going to love the offer we have on our website blog where we are raising funds for Whitelion", "user": "CEOTasmania", "location": "", "coord_x": 147.332680, "coord_y": -42.887266, "created_at": "2013\/03\/21", "h_m_s": "6:20:1", "time_ets": "2013\/03\/21", "h_m_s_ets": "2:20:4", "count": 1, "category": "kitchen" }, "geometry": { "type": "Point", "coordinates": [ 147.332680, -42.887266 ] } }
+
+]
+}

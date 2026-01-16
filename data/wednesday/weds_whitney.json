@@ -1,0 +1,25 @@
+var whitney = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Clock strikes upon ur hour and the sun begins to fade. Still enough to figure out how to chase my blues away. #mymathemporiumblues #whitney", "user": "evanminer", "location": "New Jersey", "coord_x": -79.174069, "coord_y": 37.359406, "created_at": "2013\/03\/20", "h_m_s": "20:44:46", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:44:49", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -79.174069, 37.359406 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Clock strikes upon the hour and the sun begins to fade. Still enough to figure out how to chase my blues away. #mymathemporiumblues #whitney", "user": "evanminer", "location": "New Jersey", "coord_x": -79.174062, "coord_y": 37.359380, "created_at": "2013\/03\/20", "h_m_s": "20:45:17", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:45:20", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -79.174062, 37.359380 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Can actually get used to watching #whitney FML", "user": "BbKingK", "location": "edinburgh,scotland", "coord_x": -3.175527, "coord_y": 55.960329, "created_at": "2013\/03\/20", "h_m_s": "21:53:37", "time_ets": "2013\/03\/20", "h_m_s_ets": "17:53:40", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -3.175527, 55.960329 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Catching u with #whitney :) #season1 #episode16 #flashback @WhitneyCummings @chrisdelia", "user": "MsLaura_xo", "location": "Everywhere!", "coord_x": -0.808323, "coord_y": 52.424794, "created_at": "2013\/03\/20", "h_m_s": "22:6:28", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:6:31", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -0.808323, 52.424794 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "#Whitney is on!", "user": "HipnoticMark", "location": "Sewell, New Jersey", "coord_x": -75.066626, "coord_y": 39.732081, "created_at": "2013\/03\/21", "h_m_s": "0:2:0", "time_ets": "2013\/03\/20", "h_m_s_ets": "20:2:3", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -75.066626, 39.732081 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I don't understand why anytime a woman stands up for herself she has to be called crazy #Whitney #TVwisdom", "user": "FashSerendipity", "location": "Boston, MA", "coord_x": -71.080093, "coord_y": 42.349706, "created_at": "2013\/03\/21", "h_m_s": "0:57:58", "time_ets": "2013\/03\/20", "h_m_s_ets": "20:58:1", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -71.080093, 42.349706 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@NBCWhitney: Spiders? You mean murderers with fifty eyes? #Whitney\" haha love it!", "user": "jayme782", "location": "", "coord_x": -121.597075, "coord_y": 39.141360, "created_at": "2013\/03\/21", "h_m_s": "1:3:22", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:3:25", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -121.597075, 39.141360 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@NBCWhitney if i lived on the east coast i would have an answer. Grr so jealous of everyone who already watched #whitney", "user": "jayme782", "location": "", "coord_x": -121.597047, "coord_y": 39.141332, "created_at": "2013\/03\/21", "h_m_s": "1:4:39", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:4:42", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -121.597047, 39.141332 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Aaaahhh house is cleaned and now it's time to relax and watch some #Whitney! #lovethisshow ??", "user": "garbisongirl", "location": "IN", "coord_x": -86.621783, "coord_y": 41.292500, "created_at": "2013\/03\/21", "h_m_s": "2:49:23", "time_ets": "2013\/03\/20", "h_m_s_ets": "22:49:26", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -86.621783, 41.292500 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "If I cancel hanging out with you it's not b\/c I'm flakey, it's b\/c I don't wanna hangout with you #Whitney lol", "user": "KimLeyva", "location": "Orange County, CA", "coord_x": -117.747262, "coord_y": 33.654541, "created_at": "2013\/03\/21", "h_m_s": "6:7:16", "time_ets": "2013\/03\/21", "h_m_s_ets": "2:7:20", "count": 1, "category": "whitney" }, "geometry": { "type": "Point", "coordinates": [ -117.747262, 33.654541 ] } }
+
+]
+}

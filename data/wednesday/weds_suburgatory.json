@@ -1,0 +1,17 @@
+var suburgatory = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "@carlychaikin @SuburgatoryABC.  Can't wait!", "user": "ChiPei1", "location": "Seattle Washington", "coord_x": -122.633717, "coord_y": 47.462203, "created_at": "2013\/03\/20", "h_m_s": "23:2:13", "time_ets": "2013\/03\/20", "h_m_s_ets": "19:2:16", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ -122.633717, 47.462203 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@amymichelob The lighthouse is basically a bright, shining... penis. #Suburgatory", "user": "Hybblz_myBfflz", "location": "Chicago", "coord_x": -87.093102, "coord_y": 37.737042, "created_at": "2013\/03\/21", "h_m_s": "1:33:50", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:33:53", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ -87.093102, 37.737042 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I've done heard it all. Bump and grind preformed with a guitar solo! Smh #suburgatory", "user": "charlemlu", "location": "iPhone: 34.020683,-84.605324", "coord_x": -84.605155, "coord_y": 34.020412, "created_at": "2013\/03\/21", "h_m_s": "1:59:35", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:59:38", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ -84.605155, 34.020412 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@sharonstrands Watching #Suburgatory here. Lately I'm up after everyone. Maybe it's spring coming. I'm usually in bed early.", "user": "TamaraCamPhoto", "location": "Northampton, MA", "coord_x": -72.719084, "coord_y": 42.299489, "created_at": "2013\/03\/21", "h_m_s": "4:21:29", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:21:32", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ -72.719084, 42.299489 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Sorry I can't take your call right now,I'm doin me. Leave a message and ill return when I'm ready to do you! #suburgatory#lol", "user": "Vredgate", "location": "Storm Nasty, IA", "coord_x": -95.212999, "coord_y": 42.643628, "created_at": "2013\/03\/21", "h_m_s": "4:38:14", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:38:17", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ -95.212999, 42.643628 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@nisnisanf coba nonton : HIMYM,  Suburgatory, GIRLS ( very recommended !!! ), Modern Family, New Girl, Raising Hope, The Big Bang Theory.", "user": "rugunsiagian", "location": "Where Pippi Longstocking lives", "coord_x": 107.569227, "coord_y": -6.964249, "created_at": "2013\/03\/21", "h_m_s": "13:22:35", "time_ets": "2013\/03\/21", "h_m_s_ets": "9:22:36", "count": 1, "category": "suburgatory" }, "geometry": { "type": "Point", "coordinates": [ 107.569227, -6.964249 ] } }
+
+]
+}

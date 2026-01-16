@@ -1,0 +1,95 @@
+var law = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "Palestra do diretor de Law and Order ? @ Centro Universitário Belas Artes http:\/\/t.co\/b09WTZTVJf", "user": "beaatrizeiras", "location": "", "coord_x": -46.640245, "coord_y": -23.589424, "created_at": "2013\/03\/20", "h_m_s": "16:56:32", "time_ets": "2013\/03\/20", "h_m_s_ets": "12:56:36", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -46.640245, -23.589424 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "What @ChodieShea and I do all day...watch NCIS and Law and Order SVU...So productive!!", "user": "victoriaschein", "location": "born in cali", "coord_x": -71.437209, "coord_y": 42.368517, "created_at": "2013\/03\/20", "h_m_s": "17:43:1", "time_ets": "2013\/03\/20", "h_m_s_ets": "13:43:4", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -71.437209, 42.368517 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Yeeeee. Law and Order :'&gt;", "user": "_juliafoolia", "location": "satx", "coord_x": -98.307271, "coord_y": 29.538082, "created_at": "2013\/03\/20", "h_m_s": "17:55:22", "time_ets": "2013\/03\/20", "h_m_s_ets": "13:55:25", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -98.307271, 29.538082 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Palestra sensacional com  Ted Kotcheff, produtor executivo por 12 temporadas de Law and Order: SVU e o… http:\/\/t.co\/emXZT5L4wL", "user": "nathaliecampoy", "location": "", "coord_x": -46.640245, "coord_y": -23.589424, "created_at": "2013\/03\/20", "h_m_s": "18:13:7", "time_ets": "2013\/03\/20", "h_m_s_ets": "14:13:10", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -46.640245, -23.589424 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@Gemziie245 I won't lie, Gemma - I'm beginning to feel uneasy. Need some kind of law and order when it comes to stuff like this", "user": "leannesturrock", "location": "", "coord_x": -1.008937, "coord_y": 53.577581, "created_at": "2013\/03\/20", "h_m_s": "19:5:16", "time_ets": "2013\/03\/20", "h_m_s_ets": "15:5:19", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -1.008937, 53.577581 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@alawrence911 I have an elderly client I care for Monday-Friday.. He's really funny though. All I do us watch law and order with him &amp;cook", "user": "ShayATU7", "location": "Russellville, Arkansas", "coord_x": -92.908759, "coord_y": 35.251175, "created_at": "2013\/03\/20", "h_m_s": "19:36:6", "time_ets": "2013\/03\/20", "h_m_s_ets": "15:36:9", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -92.908759, 35.251175 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Aw thought it was Thursday and law and order svu was on ????", "user": "Shauunaa_", "location": "Louth, Ireland", "coord_x": -6.401561, "coord_y": 53.993330, "created_at": "2013\/03\/20", "h_m_s": "19:39:28", "time_ets": "2013\/03\/20", "h_m_s_ets": "15:39:31", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -6.401561, 53.993330 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Ja completei Friends, house, law and order, two and a half men e to acabando the Big Bang theory", "user": "luisamurce", "location": "Cidade Maravilhosa -", "coord_x": -43.304987, "coord_y": -22.903689, "created_at": "2013\/03\/20", "h_m_s": "20:3:45", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:3:48", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -43.304987, -22.903689 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I could watch law and order svu alllll day ???? #myfav", "user": "_abbeypuffer", "location": "yolo ?", "coord_x": -78.158067, "coord_y": 43.961093, "created_at": "2013\/03\/20", "h_m_s": "21:57:56", "time_ets": "2013\/03\/20", "h_m_s_ets": "17:58:0", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -78.158067, 43.961093 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This law and order special victims unit episode is so sad ??", "user": "fletcher_molly", "location": "Berkshire", "coord_x": -0.745259, "coord_y": 51.403984, "created_at": "2013\/03\/20", "h_m_s": "22:35:2", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:35:5", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -0.745259, 51.403984 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I forgot to go to my meeting because I was too busy watching Law and Order.", "user": "EstherGracee", "location": "Indiana", "coord_x": -85.410813, "coord_y": 40.196390, "created_at": "2013\/03\/20", "h_m_s": "22:49:34", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:49:37", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -85.410813, 40.196390 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order is so intense", "user": "AdamEmmerson", "location": "Newcastle,UK", "coord_x": -1.516544, "coord_y": 55.133140, "created_at": "2013\/03\/20", "h_m_s": "22:51:13", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:51:16", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -1.516544, 55.133140 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I LOVE law and order before bed with my roommie ??", "user": "stephchiles", "location": "", "coord_x": -71.831817, "coord_y": 42.297554, "created_at": "2013\/03\/21", "h_m_s": "0:54:38", "time_ets": "2013\/03\/20", "h_m_s_ets": "20:54:41", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -71.831817, 42.297554 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "New law and order SVU #LetsGo", "user": "wes_koch", "location": "Elkhart Indiana", "coord_x": -85.977038, "coord_y": 41.755775, "created_at": "2013\/03\/21", "h_m_s": "0:57:7", "time_ets": "2013\/03\/20", "h_m_s_ets": "20:57:11", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -85.977038, 41.755775 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order svu about to be good as fuck tonight the trial begins", "user": "AStudNameCherry", "location": "", "coord_x": -78.827999, "coord_y": 42.927986, "created_at": "2013\/03\/21", "h_m_s": "0:59:25", "time_ets": "2013\/03\/20", "h_m_s_ets": "20:59:28", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -78.827999, 42.927986 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My Wednesday nights kinda go like this: Law and Order: SVU, Psych, and The Americans ????", "user": "smeelee", "location": "", "coord_x": -87.939318, "coord_y": 43.039064, "created_at": "2013\/03\/21", "h_m_s": "1:1:13", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:1:16", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -87.939318, 43.039064 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "A law and order Svu episode had an officer named Cassidy who was shot #coincidence", "user": "thatdudecass", "location": "", "coord_x": -76.728311, "coord_y": 39.950776, "created_at": "2013\/03\/21", "h_m_s": "1:2:44", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:2:47", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -76.728311, 39.950776 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Olivia being a hoe on law and order", "user": "Lbland07", "location": "VA", "coord_x": -76.456378, "coord_y": 37.449117, "created_at": "2013\/03\/21", "h_m_s": "1:3:47", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:3:50", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -76.456378, 37.449117 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Thought law and order:SVU was going to be boring. Then Benson walks out of the bedroom. #gasp", "user": "ladylu5", "location": "ÜT: 34.909535,-82.424669", "coord_x": -84.285960, "coord_y": 33.866666, "created_at": "2013\/03\/21", "h_m_s": "1:4:4", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:4:7", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -84.285960, 33.866666 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Only good thing about Wednesdays are the new law and order SVU", "user": "kara__mills", "location": "Forest, VA", "coord_x": -76.179118, "coord_y": 36.814038, "created_at": "2013\/03\/21", "h_m_s": "1:4:37", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:4:40", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -76.179118, 36.814038 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and Order!!! #itsnew #weee", "user": "sunny___daze", "location": "Kutztown, PA | Cherry hill, NJ", "coord_x": -75.012213, "coord_y": 39.899722, "created_at": "2013\/03\/21", "h_m_s": "1:7:25", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:7:28", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -75.012213, 39.899722 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "My mom doesn't like me watching Jerry Springer but is cool with law and order. Like that's about rape mom?", "user": "Lbland07", "location": "VA", "coord_x": -76.456409, "coord_y": 37.449112, "created_at": "2013\/03\/21", "h_m_s": "1:7:48", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:7:51", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -76.456409, 37.449112 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"@sulenoodlesoup: new law and order svu AAAAAAAAAND chicago fire?! YASSSSSSSS\" what channel for svu", "user": "PutYoAss2Dormir", "location": "New Brunswick, NJ", "coord_x": -74.455110, "coord_y": 40.479300, "created_at": "2013\/03\/21", "h_m_s": "1:8:48", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:8:51", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -74.455110, 40.479300 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "\"Is ice cube still on law and order?\" -Lindsay shermanator", "user": "Ashleypull", "location": "Minneapolis, MN", "coord_x": -93.321940, "coord_y": 44.886294, "created_at": "2013\/03\/21", "h_m_s": "1:8:57", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:9:0", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -93.321940, 44.886294 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order svu and a glass of wine #prefect", "user": "KaraSevigne", "location": "", "coord_x": -72.515481, "coord_y": 42.073887, "created_at": "2013\/03\/21", "h_m_s": "1:10:42", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:10:45", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -72.515481, 42.073887 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the new episode of law and order svu so far it's awesome. #lawandordersvu", "user": "Myriam_09", "location": "San Antonio TX", "coord_x": -98.519790, "coord_y": 29.465954, "created_at": "2013\/03\/21", "h_m_s": "1:19:21", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:19:25", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -98.519790, 29.465954 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Watching the new episode of law and order svu so far it's awesome # svu", "user": "Myriam_09", "location": "San Antonio TX", "coord_x": -98.519790, "coord_y": 29.465954, "created_at": "2013\/03\/21", "h_m_s": "1:21:33", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:21:36", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -98.519790, 29.465954 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and Order SVU is like an OZ reunion tonight. Where's Cyril, Adabisi and Beecher?", "user": "CitywideMSVP", "location": "Mount Ephraim, NJ", "coord_x": -75.089165, "coord_y": 39.878428, "created_at": "2013\/03\/21", "h_m_s": "1:21:59", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:22:2", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -75.089165, 39.878428 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "vi muito law and order e decidi fazer direito", "user": "gicantelli", "location": "Pizza Planet", "coord_x": -46.902196, "coord_y": -23.185401, "created_at": "2013\/03\/21", "h_m_s": "1:22:47", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:22:50", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -46.902196, -23.185401 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order", "user": "liryspeedy", "location": "unknown", "coord_x": -72.568764, "coord_y": 42.194464, "created_at": "2013\/03\/21", "h_m_s": "1:23:34", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:23:37", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -72.568764, 42.194464 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order SVU time &lt;3 @nbcsvu #lawandordersvu", "user": "triciannx", "location": "NC, NY", "coord_x": -80.720577, "coord_y": 35.204125, "created_at": "2013\/03\/21", "h_m_s": "1:34:34", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:34:38", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -80.720577, 35.204125 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "This episode of law and order  svu is getting better and better  LOVE IT!! #SVU", "user": "Myriam_09", "location": "San Antonio TX", "coord_x": -98.519790, "coord_y": 29.465954, "created_at": "2013\/03\/21", "h_m_s": "1:42:40", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:42:43", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -98.519790, 29.465954 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Cassidy and benson! Law and order blows mine sometimes. Liv is better than that", "user": "Danni_Yelli", "location": "sixfeetunderthestars", "coord_x": -73.821731, "coord_y": 40.904611, "created_at": "2013\/03\/21", "h_m_s": "1:42:40", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:42:43", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -73.821731, 40.904611 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Why am I so addicted to Law and Order: SVU?!?", "user": "MegnLeeCox", "location": "", "coord_x": -83.159296, "coord_y": 40.013249, "created_at": "2013\/03\/21", "h_m_s": "1:51:17", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:51:20", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -83.159296, 40.013249 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and Order, new episode ??", "user": "_AlejandraBitch", "location": "", "coord_x": -88.865209, "coord_y": 42.280662, "created_at": "2013\/03\/21", "h_m_s": "1:52:8", "time_ets": "2013\/03\/20", "h_m_s_ets": "21:52:11", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -88.865209, 42.280662 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That is the best Law and Order yet tonight show.", "user": "seidel_b", "location": "", "coord_x": -80.731152, "coord_y": 28.280277, "created_at": "2013\/03\/21", "h_m_s": "2:16:58", "time_ets": "2013\/03\/20", "h_m_s_ets": "22:17:1", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -80.731152, 28.280277 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and Order until i fall asleep??", "user": "JoeyyBotzz", "location": "Staten Shithole, NY", "coord_x": -74.193085, "coord_y": 40.544109, "created_at": "2013\/03\/21", "h_m_s": "2:26:41", "time_ets": "2013\/03\/20", "h_m_s_ets": "22:26:44", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -74.193085, 40.544109 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and order was so good tonight", "user": "look_at_EMM", "location": "", "coord_x": -86.084829, "coord_y": 39.699566, "created_at": "2013\/03\/21", "h_m_s": "2:27:13", "time_ets": "2013\/03\/20", "h_m_s_ets": "22:27:17", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -86.084829, 39.699566 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just want to get paid to watch law and order", "user": "K__Breeeezy", "location": "Ft. Worth\/TheCLC", "coord_x": -97.362542, "coord_y": 32.710393, "created_at": "2013\/03\/21", "h_m_s": "4:21:13", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:21:16", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -97.362542, 32.710393 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Law and Order marathon on Netflix #springbreak #bored #getmeoutofiowa", "user": "jordan_eberhart", "location": "Cedar Falls, IA", "coord_x": -92.470522, "coord_y": 42.512099, "created_at": "2013\/03\/21", "h_m_s": "4:46:21", "time_ets": "2013\/03\/21", "h_m_s_ets": "0:46:24", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -92.470522, 42.512099 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Lauren Cohan is on Law and Order SVU next week :-)", "user": "C_M_Peffer", "location": "Sparks, NV", "coord_x": -119.670179, "coord_y": 39.612279, "created_at": "2013\/03\/21", "h_m_s": "5:3:20", "time_ets": "2013\/03\/21", "h_m_s_ets": "1:3:23", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -119.670179, 39.612279 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "About to go watch law and order!.", "user": "AdelineMaia", "location": "UnKnown", "coord_x": -92.374312, "coord_y": 34.649405, "created_at": "2013\/03\/21", "h_m_s": "5:37:16", "time_ets": "2013\/03\/21", "h_m_s_ets": "1:37:19", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -92.374312, 34.649405 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Up watching law and order svu", "user": "Meetyburt", "location": "", "coord_x": -75.231808, "coord_y": 39.944332, "created_at": "2013\/03\/21", "h_m_s": "9:46:25", "time_ets": "2013\/03\/21", "h_m_s_ets": "5:46:26", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -75.231808, 39.944332 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Eating breakfast!!!! And law and order??", "user": "Meetyburt", "location": "", "coord_x": -75.231853, "coord_y": 39.944302, "created_at": "2013\/03\/21", "h_m_s": "11:10:46", "time_ets": "2013\/03\/21", "h_m_s_ets": "7:10:46", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ -75.231853, 39.944302 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Time for TV! What's on tonight ?  'Law and Order' .. Another repeat!  Exciting evening ! (@ Mikes Place) http:\/\/t.co\/xTstLdMgnA", "user": "MikeCookinJapan", "location": "Gifu city, Japan", "coord_x": 136.946514, "coord_y": 35.411166, "created_at": "2013\/03\/21", "h_m_s": "11:38:15", "time_ets": "2013\/03\/21", "h_m_s_ets": "7:38:16", "count": 1, "category": "law" }, "geometry": { "type": "Point", "coordinates": [ 136.946514, 35.411166 ] } }
+
+]
+}

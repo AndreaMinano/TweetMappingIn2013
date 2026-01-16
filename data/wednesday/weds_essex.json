@@ -1,0 +1,49 @@
+var essex = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "#30ThingsAboutMe \n14) can't stand the show The only way is Essex", "user": "harriettjudex", "location": "England", "coord_x": -1.490450, "coord_y": 54.862695, "created_at": "2013\/03\/20", "h_m_s": "17:42:31", "time_ets": "2013\/03\/20", "h_m_s_ets": "13:42:34", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -1.490450, 54.862695 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "So excited for The Only Way Is Essex tonight", "user": "_megandale_", "location": "NEWCASTLE", "coord_x": -1.675244, "coord_y": 54.998879, "created_at": "2013\/03\/20", "h_m_s": "20:36:35", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:36:38", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -1.675244, 54.998879 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Love the only way is Essex but can't handle Gemma the whale baffle on about how much she wants to loose weight but never happens ??", "user": "LNorkett", "location": "", "coord_x": -3.755008, "coord_y": 51.771934, "created_at": "2013\/03\/20", "h_m_s": "20:56:56", "time_ets": "2013\/03\/20", "h_m_s_ets": "16:56:59", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -3.755008, 51.771934 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Made in Chelsea vs The only way is Essex", "user": "NdoroTinotenda", "location": "UNITED KINGDOM (England)", "coord_x": 0.891112, "coord_y": 51.915025, "created_at": "2013\/03\/20", "h_m_s": "21:21:10", "time_ets": "2013\/03\/20", "h_m_s_ets": "17:21:13", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ 0.891112, 51.915025 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I just love The Only Way Is Essex", "user": "EllCaffrey", "location": "Manchester Paradise", "coord_x": -2.477468, "coord_y": 53.701703, "created_at": "2013\/03\/20", "h_m_s": "22:1:47", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:1:50", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -2.477468, 53.701703 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only way Is Essex m8888", "user": "nig3l_masw3ra", "location": "", "coord_x": 0.694982, "coord_y": 51.543869, "created_at": "2013\/03\/20", "h_m_s": "22:5:31", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:5:34", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ 0.694982, 51.543869 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Only Way Is Essex", "user": "Frankiemay", "location": "london", "coord_x": -0.120712, "coord_y": 51.538751, "created_at": "2013\/03\/20", "h_m_s": "22:6:15", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:6:18", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -0.120712, 51.538751 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Abi from 'The only way is Essex' has some size of boobs. #TOWIE", "user": "NathanCorry12", "location": "Belfast shipping to Australia", "coord_x": -6.420097, "coord_y": 54.425264, "created_at": "2013\/03\/20", "h_m_s": "22:7:50", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:7:54", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -6.420097, 54.425264 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only way is Essex is sooo shite! Jasmine and her ugly mate make me cringe!", "user": "hayleycross31", "location": ".herts.london.", "coord_x": -0.072383, "coord_y": 51.721303, "created_at": "2013\/03\/20", "h_m_s": "22:8:38", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:8:41", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -0.072383, 51.721303 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "I'm not watching the only way is essex I am watching the news, what you saying", "user": "Gabsvw", "location": "Essex", "coord_x": 0.892689, "coord_y": 51.885939, "created_at": "2013\/03\/20", "h_m_s": "22:10:31", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:10:35", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ 0.892689, 51.885939 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The people from The only way is essex are really frustrating to look at and truly dumb.", "user": "iitsAniqa", "location": "??????? ?? ?????", "coord_x": -0.219600, "coord_y": 51.104645, "created_at": "2013\/03\/20", "h_m_s": "22:13:53", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:13:56", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -0.219600, 51.104646 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Only Way is Essex = Dog Shit #Mingers", "user": "Finndogg3", "location": "", "coord_x": -2.379142, "coord_y": 53.302458, "created_at": "2013\/03\/20", "h_m_s": "22:14:8", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:14:12", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -2.379142, 53.302458 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "That asian boy in the only way is essex is choking to pump joeys arse! #TOWIE", "user": "x_gemz", "location": "Glasgow", "coord_x": -4.253509, "coord_y": 55.811386, "created_at": "2013\/03\/20", "h_m_s": "22:19:4", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:19:7", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -4.253509, 55.811386 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Only Way Is Essex?", "user": "courtss_x", "location": "Northwich", "coord_x": -2.484580, "coord_y": 53.251790, "created_at": "2013\/03\/20", "h_m_s": "22:22:6", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:22:9", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -2.484580, 53.251790 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "“@purdyyy1690: people that watch the only way is essex need a reality check lek, its all premeditated fs” oh really", "user": "MissSophieSmyth", "location": "northern ireland", "coord_x": -6.253304, "coord_y": 54.862327, "created_at": "2013\/03\/20", "h_m_s": "22:23:2", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:23:6", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -6.253304, 54.862327 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only way is essex needs to catch Aids... #towie #badaids \n@vickibrown80 @carolbrown57", "user": "GeorgeScott96", "location": "Middlesbrough", "coord_x": -1.191987, "coord_y": 54.528565, "created_at": "2013\/03\/20", "h_m_s": "22:40:11", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:40:14", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -1.191987, 54.528565 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The Only Way Is Essex followed by Big Rich Texas. I officially love Wednesday nights!", "user": "eh______", "location": "Newcastle.", "coord_x": -1.594720, "coord_y": 55.100600, "created_at": "2013\/03\/20", "h_m_s": "22:51:48", "time_ets": "2013\/03\/20", "h_m_s_ets": "18:51:51", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -1.594720, 55.100600 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@PaulbernalUK @ermintrude2 getting a promoted tweet about The Only Way Is Essex was moment I thought this were going off", "user": "Acuity_Design", "location": "UK", "coord_x": -2.120213, "coord_y": 52.587805, "created_at": "2013\/03\/21", "h_m_s": "7:46:28", "time_ets": "2013\/03\/21", "h_m_s_ets": "3:46:29", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -2.120213, 52.587805 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "The only way is Essex has got on the train #rollersrnotacceptableinpublicplaces", "user": "KBezzant", "location": "Essex", "coord_x": 0.329061, "coord_y": 51.630173, "created_at": "2013\/03\/21", "h_m_s": "10:40:25", "time_ets": "2013\/03\/21", "h_m_s_ets": "6:40:25", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ 0.329061, 51.630173 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Hahaha oh shit it is the only way is essex cast bhahahhahaha", "user": "KBezzant", "location": "Essex", "coord_x": 0.300811, "coord_y": 51.613408, "created_at": "2013\/03\/21", "h_m_s": "10:42:2", "time_ets": "2013\/03\/21", "h_m_s_ets": "6:42:2", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ 0.300811, 51.613408 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Have billie and cara left the only way is Essex?", "user": "_megaaaanx", "location": "", "coord_x": -1.444629, "coord_y": 53.384079, "created_at": "2013\/03\/21", "h_m_s": "12:39:1", "time_ets": "2013\/03\/21", "h_m_s_ets": "8:39:1", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -1.444629, 53.384079 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@heatworld: Kirk Norcross quits The Only Way Is Essex http:\/\/t.co\/y7PVRfeFCS @NicolaFenech @charliexlucy @Clembelina", "user": "BHitchen", "location": "", "coord_x": -0.606844, "coord_y": 52.926751, "created_at": "2013\/03\/21", "h_m_s": "13:6:27", "time_ets": "2013\/03\/21", "h_m_s_ets": "9:6:27", "count": 1, "category": "essex" }, "geometry": { "type": "Point", "coordinates": [ -0.606844, 52.926751 ] } }
+
+]
+}

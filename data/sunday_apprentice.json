@@ -1,0 +1,15 @@
+var apprentice = {
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "tweet": "\"You did a great job, thanks\" Susie from the Apprentice 2013 #MadeIt", "user": "baftaface", "location": "Here&there&everywhere", "coord_x": -0.208087, "coord_y": 51.468964, "created_at": "2013\/03\/24", "h_m_s": "18:38:36", "time_ets": "2013\/03\/24", "h_m_s_ets": "14:38:37" }, "geometry": { "type": "Point", "coordinates": [ -0.208086, 51.468964 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "Party in the Woodlands in Houston ??????? with the cast of the apprentice! So classyyy", "user": "thedelladream", "location": "", "coord_x": -95.479678, "coord_y": 30.168911, "created_at": "2013\/03\/24", "h_m_s": "22:21:9", "time_ets": "2013\/03\/24", "h_m_s_ets": "18:21:10" }, "geometry": { "type": "Point", "coordinates": [ -95.479678, 30.168911 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@worth2andrew: Come on gang 45 min till  the Apprentice and @realDonaldTrump tweeting during the show!", "user": "worth2andrew", "location": "", "coord_x": -75.611213, "coord_y": 40.676605, "created_at": "2013\/03\/25", "h_m_s": "0:23:55", "time_ets": "2013\/03\/24", "h_m_s_ets": "20:23:56" }, "geometry": { "type": "Point", "coordinates": [ -75.611213, 40.676605 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@mcielwainr Thank you! Tonight I went 27\/30 in the J round. Haven't finished the episode yet. Watching The Apprentice.", "user": "vamosdavid", "location": "", "coord_x": -99.101830, "coord_y": 40.714299, "created_at": "2013\/03\/25", "h_m_s": "1:29:57", "time_ets": "2013\/03\/24", "h_m_s_ets": "21:29:58" }, "geometry": { "type": "Point", "coordinates": [ -99.101830, 40.714299 ] } }
+,
+{ "type": "Feature", "properties": { "tweet": "@THEGaryBusey Gary you are so so good on the Apprentice.   I adore you and hope you win!", "user": "kimlittlewood", "location": "McGregor, Tx", "coord_x": -81.244313, "coord_y": 28.687644, "created_at": "2013\/03\/25", "h_m_s": "2:27:45", "time_ets": "2013\/03\/24", "h_m_s_ets": "22:27:46" }, "geometry": { "type": "Point", "coordinates": [ -81.244313, 28.687644 ] } }
+
+]
+}
